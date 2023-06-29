@@ -23,10 +23,10 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "diffusion": 
-        filters: ["diffusion", "generative"]
+        filters: ["diffusion", "score matching"]
     "generation":
-        filters: ["video generation", "text"]
-    "enhancement":
+        filters: ["video generation", "image generation"]
+    "enhancement & editing":
         filters: ["Video enhancement","image enhancement",
                   "image restoration","image editing",
                   "video editing","image retouching"]
