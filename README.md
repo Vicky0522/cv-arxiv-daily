@@ -60,23 +60,6 @@
 
 <p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
 
-## enhancement
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244](http://arxiv.org/abs/2306.15244)|null|
-|**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
-|**2023-06-25**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
-|**2023-06-25**|**Diffusion Model Based Low-Light Image Enhancement for Space Satellite**|Yiman Zhu et.al.|[2306.14227](http://arxiv.org/abs/2306.14227)|null|
-|**2023-06-25**|**A Gated Cross-domain Collaborative Network for Underwater Object Detection**|Linhui Dai et.al.|[2306.14141](http://arxiv.org/abs/2306.14141)|null|
-|**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653](http://arxiv.org/abs/2306.13653)|**[link](https://github.com/leonmakise/prores)**|
-|**2023-06-23**|**Augmenting Sports Videos with VisCommentator**|Zhutian Chen et.al.|[2306.13491](http://arxiv.org/abs/2306.13491)|null|
-|**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
-|**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
-|**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
-
-<p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
-
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
