@@ -29,6 +29,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Stay on topic with Classifier-Free Guidance**|Guillaume Sanchez et.al.|[2306.17806](http://arxiv.org/abs/2306.17806)|null|
+|**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775](http://arxiv.org/abs/2306.17775)|null|
+|**2023-06-30**|**Counting Guidance for High Fidelity Text-to-Image Synthesis**|Wonjun Kang et.al.|[2306.17567](http://arxiv.org/abs/2306.17567)|null|
+|**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560](http://arxiv.org/abs/2306.17560)|null|
 |**2023-06-30**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934](http://arxiv.org/abs/2306.16934)|null|
 |**2023-06-29**|**CLIPAG: Towards Generator-Free Text-to-Image Generation**|Roy Ganz et.al.|[2306.16805](http://arxiv.org/abs/2306.16805)|null|
 |**2023-06-28**|**Dynamic Path-Controllable Deep Unfolding Network for Compressive Sensing**|Jiechong Song et.al.|[2306.16060](http://arxiv.org/abs/2306.16060)|**[link](https://github.com/songjiechong/dpc-dun)**|
@@ -46,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude**|Feng Liu et.al.|[2306.17206](http://arxiv.org/abs/2306.17206)|null|
 |**2023-06-28**|**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing**|Wenjing Huang et.al.|[2306.16894](http://arxiv.org/abs/2306.16894)|null|
 |**2023-06-29**|**Low-Light Enhancement in the Frequency Domain**|Hao Chen et.al.|[2306.16782](http://arxiv.org/abs/2306.16782)|null|
 |**2023-06-27**|**Cutting-Edge Techniques for Depth Map Super-Resolution**|Ryan Peterson et.al.|[2306.15244](http://arxiv.org/abs/2306.15244)|null|
