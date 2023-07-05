@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.04
+## Updated on 2023.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -33,7 +33,7 @@ layout: default
 |**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775](http://arxiv.org/abs/2306.17775)|null|
 |**2023-06-30**|**Counting Guidance for High Fidelity Text-to-Image Synthesis**|Wonjun Kang et.al.|[2306.17567](http://arxiv.org/abs/2306.17567)|null|
 |**2023-06-30**|**Class-Incremental Learning using Diffusion Model for Distillation and Replay**|Quentin Jodelet et.al.|[2306.17560](http://arxiv.org/abs/2306.17560)|null|
-|**2023-06-30**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934](http://arxiv.org/abs/2306.16934)|null|
+|**2023-06-30**|**DreamDiffusion: Generating High-Quality Images from Brain EEG Signals**|Yunpeng Bai et.al.|[2306.16934](http://arxiv.org/abs/2306.16934)|**[link](https://github.com/bbaaii/DreamDiffusion)**|
 |**2023-06-29**|**CLIPAG: Towards Generator-Free Text-to-Image Generation**|Roy Ganz et.al.|[2306.16805](http://arxiv.org/abs/2306.16805)|null|
 |**2023-06-28**|**Dynamic Path-Controllable Deep Unfolding Network for Compressive Sensing**|Jiechong Song et.al.|[2306.16060](http://arxiv.org/abs/2306.16060)|**[link](https://github.com/songjiechong/dpc-dun)**|
 |**2023-06-27**|**Semi-supervised Multimodal Representation Learning through a Global Workspace**|Benjamin Devillers et.al.|[2306.15711](http://arxiv.org/abs/2306.15711)|**[link](https://github.com/bdvllrs/bimgw)**|
