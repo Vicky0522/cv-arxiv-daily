@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Energy Discrepancies: A Score-Independent Loss for Energy-Based Models**|Tobias Schröder et.al.|[2307.06431](http://arxiv.org/abs/2307.06431)|null|
 |**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-07-02**|**MissDiff: Training Diffusion Models on Tabular Data with Missing Values**|Yidong Ouyang et.al.|[2307.00467](http://arxiv.org/abs/2307.00467)|null|
 |**2023-06-24**|**Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching**|H. J. Terry Suh et.al.|[2306.14079](http://arxiv.org/abs/2306.14079)|null|
@@ -38,6 +39,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|null|
+|**2023-07-13**|**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**|Moab Arar et.al.|[2307.06925](http://arxiv.org/abs/2307.06925)|null|
+|**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
+|**2023-07-12**|**T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**|Kaiyi Huang et.al.|[2307.06350](http://arxiv.org/abs/2307.06350)|null|
 |**2023-07-12**|**Facial Reenactment Through a Personalized Generator**|Ariel Elazary et.al.|[2307.06307](http://arxiv.org/abs/2307.06307)|null|
 |**2023-07-12**|**CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification**|Zhenrong Shen et.al.|[2307.06182](http://arxiv.org/abs/2307.06182)|**[link](https://github.com/zhenrongshen/cellgan)**|
 |**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977](http://arxiv.org/abs/2307.05977)|**[link](https://github.com/nannullna/safe-diffusion)**|
