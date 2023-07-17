@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454](http://arxiv.org/abs/2307.07454)|null|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|**[link](https://github.com/videocrafter/animate-a-story)**|
 |**2023-07-13**|**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**|Moab Arar et.al.|[2307.06925](http://arxiv.org/abs/2307.06925)|null|
