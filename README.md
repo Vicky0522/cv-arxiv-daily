@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-15**|**Variational Inference with Gaussian Score Matching**|Chirag Modi et.al.|[2307.07849](http://arxiv.org/abs/2307.07849)|**[link](https://github.com/modichirag/gsm-vi)**|
 |**2023-07-12**|**Energy Discrepancies: A Score-Independent Loss for Energy-Based Models**|Tobias Schröder et.al.|[2307.06431](http://arxiv.org/abs/2307.06431)|null|
 |**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-07-02**|**MissDiff: Training Diffusion Models on Tabular Data with Missing Values**|Yidong Ouyang et.al.|[2307.00467](http://arxiv.org/abs/2307.00467)|null|
@@ -39,6 +40,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
+|**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|**[link](https://github.com/vinairesearch/lfm)**|
+|**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691](http://arxiv.org/abs/2307.08691)|**[link](https://github.com/dao-ailab/flash-attention)**|
+|**2023-07-17**|**Image Captions are Natural Prompts for Text-to-Image Models**|Shiye Lei et.al.|[2307.08526](http://arxiv.org/abs/2307.08526)|null|
+|**2023-07-17**|**Soft Curriculum for Learning Conditional GANs with Noisy-Labeled and Uncurated Unlabeled Data**|Kai Katsumata et.al.|[2307.08319](http://arxiv.org/abs/2307.08319)|null|
+|**2023-07-17**|**Manifold-Guided Sampling in Diffusion Models for Unbiased Image Generation**|Xingzhe Su et.al.|[2307.08199](http://arxiv.org/abs/2307.08199)|null|
+|**2023-07-16**|**Planting a SEED of Vision in Large Language Model**|Yuying Ge et.al.|[2307.08041](http://arxiv.org/abs/2307.08041)|**[link](https://github.com/ailab-cvc/seed)**|
+|**2023-07-15**|**Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?**|Jialu Gao et.al.|[2307.07837](http://arxiv.org/abs/2307.07837)|null|
+|**2023-07-15**|**Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer**|Wing-Yin Yu et.al.|[2307.07754](http://arxiv.org/abs/2307.07754)|**[link](https://github.com/rocketappslab/bdmm)**|
+|**2023-07-14**|**GenAssist: Making Image Generation Accessible**|Mina Huh et.al.|[2307.07589](http://arxiv.org/abs/2307.07589)|null|
 |**2023-07-14**|**Generative adversarial networks for data-scarce spectral applications**|Juan José García-Esteban et.al.|[2307.07454](http://arxiv.org/abs/2307.07454)|null|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|**[link](https://github.com/videocrafter/animate-a-story)**|
@@ -104,6 +115,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**|Ahmet Canberk Baykal et.al.|[2307.08397](http://arxiv.org/abs/2307.08397)|null|
+|**2023-07-16**|**LUCYD: A Feature-Driven Richardson-Lucy Deconvolution Network**|Tomáš Chobola et.al.|[2307.07998](http://arxiv.org/abs/2307.07998)|**[link](https://github.com/ctom2/lucyd-deconvolution)**|
+|**2023-07-15**|**Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?**|Jialu Gao et.al.|[2307.07837](http://arxiv.org/abs/2307.07837)|null|
+|**2023-07-15**|**HQG-Net: Unpaired Medical Image Enhancement with High-Quality Guidance**|Chunming He et.al.|[2307.07829](http://arxiv.org/abs/2307.07829)|null|
+|**2023-07-15**|**ExposureDiffusion: Learning to Expose for Low-light Image Enhancement**|Yufei Wang et.al.|[2307.07710](http://arxiv.org/abs/2307.07710)|null|
+|**2023-07-15**|**DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**|Yuanshuo Cheng et.al.|[2307.07688](http://arxiv.org/abs/2307.07688)|null|
+|**2023-07-15**|**INVE: Interactive Neural Video Editing**|Jiahui Huang et.al.|[2307.07663](http://arxiv.org/abs/2307.07663)|null|
 |**2023-07-08**|**Face Image Quality Enhancement Study for Face Recognition**|Iqbal Nouyed et.al.|[2307.05534](http://arxiv.org/abs/2307.05534)|null|
 |**2023-07-11**|**Bio-Inspired Night Image Enhancement Based on Contrast Enhancement and Denoising**|Xinyi Bai et.al.|[2307.05447](http://arxiv.org/abs/2307.05447)|null|
 |**2023-07-10**|**FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing**|Pengyang Ling et.al.|[2307.04684](http://arxiv.org/abs/2307.04684)|**[link](https://github.com/lpengyang/freedrag)**|
