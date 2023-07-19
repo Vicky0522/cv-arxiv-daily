@@ -40,6 +40,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|null|
+|**2023-07-18**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416](http://arxiv.org/abs/2307.09416)|null|
+|**2023-07-18**|**Plug the Leaks: Advancing Audio-driven Talking Face Generation by Preventing Unintended Information Flow**|Dogucan Yaman et.al.|[2307.09368](http://arxiv.org/abs/2307.09368)|null|
+|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233](http://arxiv.org/abs/2307.09233)|null|
+|**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
+|**2023-07-18**|**Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**|Yang Zhao et.al.|[2307.08996](http://arxiv.org/abs/2307.08996)|null|
+|**2023-07-18**|**PromptCrafter: Crafting Text-to-Image Prompt through Mixed-Initiative Dialogue with LLM**|Seungho Baek et.al.|[2307.08985](http://arxiv.org/abs/2307.08985)|null|
+|**2023-07-17**|**Harnessing the Power of AI based Image Generation Model DALLE 2 in Agricultural Settings**|Ranjan Sapkota et.al.|[2307.08789](http://arxiv.org/abs/2307.08789)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
 |**2023-07-17**|**Flow Matching in Latent Space**|Quan Dao et.al.|[2307.08698](http://arxiv.org/abs/2307.08698)|**[link](https://github.com/vinairesearch/lfm)**|
 |**2023-07-17**|**FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**|Tri Dao et.al.|[2307.08691](http://arxiv.org/abs/2307.08691)|**[link](https://github.com/dao-ailab/flash-attention)**|
@@ -115,6 +123,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Division Gets Better: Learning Brightness-Aware and Detail-Sensitive Representations for Low-Light Image Enhancement**|Huake Wang et.al.|[2307.09104](http://arxiv.org/abs/2307.09104)|null|
+|**2023-07-18**|**Unleashing the Imagination of Text: A Novel Framework for Text-to-image Person Retrieval via Exploring the Power of Words**|Delong Liu et.al.|[2307.09059](http://arxiv.org/abs/2307.09059)|null|
+|**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008](http://arxiv.org/abs/2307.09008)|null|
+|**2023-07-18**|**Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**|Yang Zhao et.al.|[2307.08996](http://arxiv.org/abs/2307.08996)|null|
+|**2023-07-18**|**Revisiting Latent Space of GAN Inversion for Real Image Editing**|Kai Katsumata et.al.|[2307.08995](http://arxiv.org/abs/2307.08995)|null|
 |**2023-07-18**|**CLIP-Guided StyleGAN Inversion for Text-Driven Real Image Editing**|Ahmet Canberk Baykal et.al.|[2307.08397](http://arxiv.org/abs/2307.08397)|null|
 |**2023-07-16**|**LUCYD: A Feature-Driven Richardson-Lucy Deconvolution Network**|Tomáš Chobola et.al.|[2307.07998](http://arxiv.org/abs/2307.07998)|**[link](https://github.com/ctom2/lucyd-deconvolution)**|
 |**2023-07-15**|**Can Pre-Trained Text-to-Image Models Generate Visual Goals for Reinforcement Learning?**|Jialu Gao et.al.|[2307.07837](http://arxiv.org/abs/2307.07837)|null|
