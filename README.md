@@ -40,6 +40,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**|Fa-Ting Hong et.al.|[2307.09906](http://arxiv.org/abs/2307.09906)|null|
+|**2023-07-19**|**Compressive Image Scanning Microscope**|Ajay Gunalan et.al.|[2307.09841](http://arxiv.org/abs/2307.09841)|null|
+|**2023-07-19**|**A Siamese-based Verification System for Open-set Architecture Attribution of Synthetic Images**|Lydia Abady et.al.|[2307.09822](http://arxiv.org/abs/2307.09822)|null|
+|**2023-07-19**|**Hierarchical Semantic Perceptual Listener Head Video Generation: A High-performance Pipeline**|Zhigang Chang et.al.|[2307.09821](http://arxiv.org/abs/2307.09821)|null|
+|**2023-07-19**|**Text2Layer: Layered Image Generation using Latent Diffusion Model**|Xinyang Zhang et.al.|[2307.09781](http://arxiv.org/abs/2307.09781)|null|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481](http://arxiv.org/abs/2307.09481)|null|
 |**2023-07-19**|**Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation**|Federico Betti et.al.|[2307.09416](http://arxiv.org/abs/2307.09416)|null|
 |**2023-07-18**|**Plug the Leaks: Advancing Audio-driven Talking Face Generation by Preventing Unintended Information Flow**|Dogucan Yaman et.al.|[2307.09368](http://arxiv.org/abs/2307.09368)|null|
@@ -123,6 +128,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Text2Layer: Layered Image Generation using Latent Diffusion Model**|Xinyang Zhang et.al.|[2307.09781](http://arxiv.org/abs/2307.09781)|null|
+|**2023-07-19**|**NTIRE 2023 Quality Assessment of Video Enhancement Challenge**|Xiaohong Liu et.al.|[2307.09729](http://arxiv.org/abs/2307.09729)|null|
 |**2023-07-18**|**Division Gets Better: Learning Brightness-Aware and Detail-Sensitive Representations for Low-Light Image Enhancement**|Huake Wang et.al.|[2307.09104](http://arxiv.org/abs/2307.09104)|null|
 |**2023-07-18**|**Unleashing the Imagination of Text: A Novel Framework for Text-to-image Person Retrieval via Exploring the Power of Words**|Delong Liu et.al.|[2307.09059](http://arxiv.org/abs/2307.09059)|null|
 |**2023-07-18**|**Soft-IntroVAE for Continuous Latent space Image Super-Resolution**|Zhi-Song Liu et.al.|[2307.09008](http://arxiv.org/abs/2307.09008)|null|
