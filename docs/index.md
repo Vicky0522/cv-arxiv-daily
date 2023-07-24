@@ -64,7 +64,7 @@ layout: default
 |**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|**[link](https://github.com/videocrafter/animate-a-story)**|
 |**2023-07-13**|**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**|Moab Arar et.al.|[2307.06925](http://arxiv.org/abs/2307.06925)|null|
 |**2023-07-13**|**Improving Nonalcoholic Fatty Liver Disease Classification Performance With Latent Diffusion Models**|Romain Hardy et.al.|[2307.06507](http://arxiv.org/abs/2307.06507)|null|
-|**2023-07-12**|**T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**|Kaiyi Huang et.al.|[2307.06350](http://arxiv.org/abs/2307.06350)|null|
+|**2023-07-12**|**T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation**|Kaiyi Huang et.al.|[2307.06350](http://arxiv.org/abs/2307.06350)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2023-07-12**|**Facial Reenactment Through a Personalized Generator**|Ariel Elazary et.al.|[2307.06307](http://arxiv.org/abs/2307.06307)|null|
 |**2023-07-12**|**CellGAN: Conditional Cervical Cell Synthesis for Augmenting Cytopathological Image Classification**|Zhenrong Shen et.al.|[2307.06182](http://arxiv.org/abs/2307.06182)|**[link](https://github.com/zhenrongshen/cellgan)**|
 |**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977](http://arxiv.org/abs/2307.05977)|**[link](https://github.com/nannullna/safe-diffusion)**|
@@ -96,7 +96,7 @@ layout: default
 |**2023-07-04**|**Training Energy-Based Models with Diffusion Contrastive Divergences**|Weijian Luo et.al.|[2307.01668](http://arxiv.org/abs/2307.01668)|null|
 |**2023-07-04**|**AdAM: Few-Shot Image Generation via Adaptation-Aware Kernel Modulation**|Yunqing Zhao et.al.|[2307.01465](http://arxiv.org/abs/2307.01465)|null|
 |**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193](http://arxiv.org/abs/2307.01193)|null|
-|**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097](http://arxiv.org/abs/2307.01097)|null|
+|**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097](http://arxiv.org/abs/2307.01097)|**[link](https://github.com/Tangshitao/MVDiffusion)**|
 |**2023-07-03**|**DifFSS: Diffusion Model for Few-Shot Semantic Segmentation**|Weimin Tan et.al.|[2307.00773](http://arxiv.org/abs/2307.00773)|null|
 |**2023-07-02**|**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance**|Linoy Tsaban et.al.|[2307.00522](http://arxiv.org/abs/2307.00522)|null|
 |**2023-07-01**|**DreamIdentity: Improved Editability for Efficient Face-identity Preserved Image Generation**|Zhuowei Chen et.al.|[2307.00300](http://arxiv.org/abs/2307.00300)|null|
@@ -160,7 +160,7 @@ layout: default
 |**2023-06-27**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|**[link](https://github.com/Yujun-Shi/DragDiffusion)**|
 |**2023-07-01**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|**[link](https://github.com/chaoningzhang/mobilesam)**|
 |**2023-06-25**|**Diffusion Model Based Low-Light Image Enhancement for Space Satellite**|Yiman Zhu et.al.|[2306.14227](http://arxiv.org/abs/2306.14227)|null|
-|**2023-06-25**|**A Gated Cross-domain Collaborative Network for Underwater Object Detection**|Linhui Dai et.al.|[2306.14141](http://arxiv.org/abs/2306.14141)|null|
+|**2023-06-25**|**A Gated Cross-domain Collaborative Network for Underwater Object Detection**|Linhui Dai et.al.|[2306.14141](http://arxiv.org/abs/2306.14141)|**[link](https://github.com/ixiaohuihuihui/gcc-net)**|
 |**2023-06-23**|**ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration**|Jiaqi Ma et.al.|[2306.13653](http://arxiv.org/abs/2306.13653)|**[link](https://github.com/leonmakise/prores)**|
 |**2023-06-23**|**Augmenting Sports Videos with VisCommentator**|Zhutian Chen et.al.|[2306.13491](http://arxiv.org/abs/2306.13491)|null|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
