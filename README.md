@@ -41,6 +41,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530](http://arxiv.org/abs/2307.11530)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
+|**2023-07-21**|**Attention Consistency Refined Masked Frequency Forgery Representation for Generalizing Face Forgery Detection**|Decheng Liu et.al.|[2307.11438](http://arxiv.org/abs/2307.11438)|null|
+|**2023-07-21**|**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**|Jian Ma et.al.|[2307.11410](http://arxiv.org/abs/2307.11410)|**[link](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)**|
+|**2023-07-20**|**Diffusion Sampling with Momentum for Mitigating Divergence Artifacts**|Suttisak Wizadwongsa et.al.|[2307.11118](http://arxiv.org/abs/2307.11118)|**[link](https://github.com/sWizad/momentum-diffusion)**|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
 |**2023-07-20**|**Divide & Bind Your Attention for Improved Generative Semantic Nursing**|Yumeng Li et.al.|[2307.10864](http://arxiv.org/abs/2307.10864)|null|
 |**2023-07-20**|**Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**|Fa-Ting Hong et.al.|[2307.09906](http://arxiv.org/abs/2307.09906)|**[link](https://github.com/harlanhong/iccv2023-mcnet)**|
@@ -131,6 +135,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Physics-Aware Semi-Supervised Underwater Image Enhancement**|Hao Qi et.al.|[2307.11470](http://arxiv.org/abs/2307.11470)|null|
 |**2023-07-20**|**OBJECT 3DIT: Language-guided 3D-aware Image Editing**|Oscar Michel et.al.|[2307.11073](http://arxiv.org/abs/2307.11073)|null|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664](http://arxiv.org/abs/2307.10664)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-20**|**Physics-Driven Turbulence Image Restoration with Stochastic Refinement**|Ajay Jaiswal et.al.|[2307.10603](http://arxiv.org/abs/2307.10603)|null|
