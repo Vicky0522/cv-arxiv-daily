@@ -49,10 +49,10 @@
 |**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273](http://arxiv.org/abs/2307.14273)|null|
 |**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151](http://arxiv.org/abs/2307.14151)|**[link](https://github.com/david-friede/lddr)**|
 |**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
-|**2023-07-25**|**Composite Diffusion | whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|null|
+|**2023-07-25**|**Composite Diffusion|whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|
 |**2023-07-25**|**Fake It Without Making It: Conditioned Face Generation for Accurate 3D Face Shape Estimation**|Will Rowan et.al.|[2307.13639](http://arxiv.org/abs/2307.13639)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560](http://arxiv.org/abs/2307.13560)|null|
-|**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527](http://arxiv.org/abs/2307.13527)|null|
+|**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527](http://arxiv.org/abs/2307.13527)|**[link](https://github.com/ictlab-unict/not-with-my-name)**|
 |**2023-07-24**|**A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models**|Jindong Gu et.al.|[2307.12980](http://arxiv.org/abs/2307.12980)|**[link](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model)**|
 |**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560](http://arxiv.org/abs/2307.12560)|null|
 |**2023-07-22**|**Edge Guided GANs with Multi-Scale Contrastive Learning for Semantic Image Synthesis**|Hao Tang et.al.|[2307.12084](http://arxiv.org/abs/2307.12084)|**[link](https://github.com/ha0tang/ecgan)**|
@@ -124,7 +124,7 @@
 |**2023-07-04**|**AdAM: Few-Shot Image Generation via Adaptation-Aware Kernel Modulation**|Yunqing Zhao et.al.|[2307.01465](http://arxiv.org/abs/2307.01465)|null|
 |**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193](http://arxiv.org/abs/2307.01193)|null|
 |**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097](http://arxiv.org/abs/2307.01097)|**[link](https://github.com/Tangshitao/MVDiffusion)**|
-|**2023-07-03**|**DifFSS: Diffusion Model for Few-Shot Semantic Segmentation**|Weimin Tan et.al.|[2307.00773](http://arxiv.org/abs/2307.00773)|null|
+|**2023-07-03**|**DifFSS: Diffusion Model for Few-Shot Semantic Segmentation**|Weimin Tan et.al.|[2307.00773](http://arxiv.org/abs/2307.00773)|**[link](https://github.com/TrinitialChan/DifFSS)**|
 |**2023-07-02**|**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance**|Linoy Tsaban et.al.|[2307.00522](http://arxiv.org/abs/2307.00522)|null|
 |**2023-07-01**|**DreamIdentity: Improved Editability for Efficient Face-identity Preserved Image Generation**|Zhuowei Chen et.al.|[2307.00300](http://arxiv.org/abs/2307.00300)|null|
 |**2023-07-01**|**AIGCIQA2023: A Large-scale Image Quality Assessment Database for AI Generated Images: from the Perspectives of Quality, Authenticity and Correspondence**|Jiarui Wang et.al.|[2307.00211](http://arxiv.org/abs/2307.00211)|**[link](https://github.com/wangjiarui153/aigciqa2023)**|
