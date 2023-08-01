@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
 ## generation
 
@@ -46,7 +46,7 @@
 |**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443](http://arxiv.org/abs/2307.15443)|null|
 |**2023-07-28**|**Staging E-Commerce Products for Online Advertising using Retrieval Assisted Image Generation**|Yueh-Ning Ku et.al.|[2307.15326](http://arxiv.org/abs/2307.15326)|null|
 |**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748](http://arxiv.org/abs/2307.14748)|null|
-|**2023-07-27**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura1 et.al.|[2307.14710](http://arxiv.org/abs/2307.14710)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
+|**2023-07-31**|**Pre-training Vision Transformers with Very Limited Synthesized Images**|Ryo Nakamura et.al.|[2307.14710](http://arxiv.org/abs/2307.14710)|**[link](https://github.com/ryoo-nakamura/ofdb)**|
 |**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659](http://arxiv.org/abs/2307.14659)|**[link](https://github.com/taowangzj/lldiffusion)**|
 |**2023-07-27**|**EqGAN: Feature Equalization Fusion for Few-shot Image Generation**|Yingbo Zhou et.al.|[2307.14638](http://arxiv.org/abs/2307.14638)|null|
 |**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273](http://arxiv.org/abs/2307.14273)|null|
@@ -148,7 +148,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -213,7 +213,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
