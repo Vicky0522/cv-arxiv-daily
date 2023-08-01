@@ -35,6 +35,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Testing the Depth of ChatGPT's Comprehension via Cross-Modal Tasks Based on ASCII-Art: GPT3.5's Abilities in Regard to Recognizing and Generating ASCII-Art Are Not Totally Lacking**|David Bayani et.al.|[2307.16806](http://arxiv.org/abs/2307.16806)|null|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
+|**2023-07-31**|**Towards General Visual-Linguistic Face Forgery Detection**|Ke Sun et.al.|[2307.16545](http://arxiv.org/abs/2307.16545)|null|
+|**2023-07-31**|**BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models**|Jordan Vice et.al.|[2307.16489](http://arxiv.org/abs/2307.16489)|null|
+|**2023-07-31**|**HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution**|Minyi Zhao et.al.|[2307.16410](http://arxiv.org/abs/2307.16410)|null|
+|**2023-07-31**|**MobileVidFactory: Automatic Diffusion-Based Social Media Video Generation for Mobile Devices from Text**|Junchen Zhu et.al.|[2307.16371](http://arxiv.org/abs/2307.16371)|null|
+|**2023-07-30**|**Mask-guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma**|Karen Sanchez et.al.|[2307.16314](http://arxiv.org/abs/2307.16314)|null|
+|**2023-07-30**|**Stylized Projected GAN: A Novel Architecture for Fast and Realistic Image Generation**|Md Nurul Muttakin et.al.|[2307.16275](http://arxiv.org/abs/2307.16275)|null|
+|**2023-07-29**|**HandMIM: Pose-Aware Self-Supervised Learning for 3D Hand Mesh Estimation**|Zuyan Liu et.al.|[2307.16061](http://arxiv.org/abs/2307.16061)|null|
 |**2023-07-28**|**Shrink-Perturb Improves Architecture Mixing during Population Based Training for Neural Architecture Search**|Alexander Chebykin et.al.|[2307.15621](http://arxiv.org/abs/2307.15621)|**[link](https://github.com/awesomelemon/pbt-nas)**|
 |**2023-07-28**|**RAWIW: RAW Image Watermarking Robust to ISP Pipeline**|Kang Fu et.al.|[2307.15443](http://arxiv.org/abs/2307.15443)|null|
 |**2023-07-28**|**Staging E-Commerce Products for Online Advertising using Retrieval Assisted Image Generation**|Yueh-Ning Ku et.al.|[2307.15326](http://arxiv.org/abs/2307.15326)|null|
@@ -145,6 +154,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Benchmarking Anomaly Detection System on various Jetson Edge Devices**|Hoang Viet Pham et.al.|[2307.16834](http://arxiv.org/abs/2307.16834)|null|
+|**2023-07-31**|**From Generation to Suppression: Towards Effective Irregular Glow Removal for Nighttime Visibility Enhancement**|Wanyu Wu et.al.|[2307.16783](http://arxiv.org/abs/2307.16783)|null|
+|**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116](http://arxiv.org/abs/2307.16116)|null|
 |**2023-07-27**|**Fast Dust Sand Image Enhancement Based on Color Correction and New Membership Function**|Ali Hakem Alsaeedi et.al.|[2307.15230](http://arxiv.org/abs/2307.15230)|null|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061](http://arxiv.org/abs/2307.15061)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-07-27**|**Meta-Processing: A robust framework for multi-tasks seismic processing**|Shijun Cheng et.al.|[2307.14851](http://arxiv.org/abs/2307.14851)|null|
