@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Causal exposure-response curve estimation with surrogate confounders: a study of air pollution and children's health in Medicaid claims data**|Jenny J. Lee et.al.|[2308.00812](http://arxiv.org/abs/2308.00812)|null|
 |**2023-07-25**|**Implicitly Normalized Explicitly Regularized Density Estimation**|Mark Kozdoba et.al.|[2307.13763](http://arxiv.org/abs/2307.13763)|null|
 |**2023-07-20**|**Analysis of the rate of force development reveals high neuromuscular fatigability in elderly patients with chronic kidney disease**|Antoine Chatrenet et.al.|[2307.10691](http://arxiv.org/abs/2307.10691)|null|
 |**2023-07-15**|**Variational Inference with Gaussian Score Matching**|Chirag Modi et.al.|[2307.07849](http://arxiv.org/abs/2307.07849)|**[link](https://github.com/modichirag/gsm-vi)**|
@@ -42,6 +43,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Revisiting DETR Pre-training for Object Detection**|Yan Ma et.al.|[2308.01300](http://arxiv.org/abs/2308.01300)|null|
+|**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
+|**2023-08-01**|**The Bias Amplification Paradox in Text-to-Image Generation**|Preethi Seshadri et.al.|[2308.00755](http://arxiv.org/abs/2308.00755)|**[link](https://github.com/preethiseshadri518/bias-amplification-paradox)**|
 |**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675](http://arxiv.org/abs/2308.00675)|null|
 |**2023-08-01**|**Experiments on Generative AI-Powered Parametric Modeling and BIM for Architectural Design**|Jaechang Ko et.al.|[2308.00227](http://arxiv.org/abs/2308.00227)|null|
 |**2023-08-01**|**SkullGAN: Synthetic Skull CT Generation with Generative Adversarial Networks**|Kasra Naftchi-Ardebili et.al.|[2308.00206](http://arxiv.org/abs/2308.00206)|**[link](https://github.com/kbp-lab/skullgan)**|
@@ -166,6 +170,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond**|Zengxi Zhang et.al.|[2308.00931](http://arxiv.org/abs/2308.00931)|null|
+|**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906](http://arxiv.org/abs/2308.00906)|null|
+|**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
 |**2023-08-01**|**Context-Aware Talking-Head Video Editing**|Songlin Yang et.al.|[2308.00462](http://arxiv.org/abs/2308.00462)|null|
 |**2023-08-01**|**Space Debris: Are Deep Learning-based Image Enhancements part of the Solution?**|Michele Jamrozik et.al.|[2308.00408](http://arxiv.org/abs/2308.00408)|null|
 |**2023-07-28**|**Benchmarking Anomaly Detection System on various Jetson Edge Devices**|Hoang Viet Pham et.al.|[2307.16834](http://arxiv.org/abs/2307.16834)|null|
