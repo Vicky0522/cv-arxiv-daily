@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -161,7 +161,7 @@ layout: default
 |**2023-08-01**|**Space Debris: Are Deep Learning-based Image Enhancements part of the Solution?**|Michele Jamrozik et.al.|[2308.00408](http://arxiv.org/abs/2308.00408)|null|
 |**2023-07-28**|**Benchmarking Anomaly Detection System on various Jetson Edge Devices**|Hoang Viet Pham et.al.|[2307.16834](http://arxiv.org/abs/2307.16834)|null|
 |**2023-07-31**|**From Generation to Suppression: Towards Effective Irregular Glow Removal for Nighttime Visibility Enhancement**|Wanyu Wu et.al.|[2307.16783](http://arxiv.org/abs/2307.16783)|null|
-|**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116](http://arxiv.org/abs/2307.16116)|null|
+|**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116](http://arxiv.org/abs/2307.16116)|**[link](https://github.com/ucalgary-ilab/realitycanvas)**|
 |**2023-07-27**|**Fast Dust Sand Image Enhancement Based on Color Correction and New Membership Function**|Ali Hakem Alsaeedi et.al.|[2307.15230](http://arxiv.org/abs/2307.15230)|null|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061](http://arxiv.org/abs/2307.15061)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-07-27**|**Meta-Processing: A robust framework for multi-tasks seismic processing**|Shijun Cheng et.al.|[2307.14851](http://arxiv.org/abs/2307.14851)|null|
