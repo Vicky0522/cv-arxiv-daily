@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Estimating causal quantile exposure response functions via matching**|Luca Merlo et.al.|[2308.01628](http://arxiv.org/abs/2308.01628)|null|
 |**2023-08-01**|**Causal exposure-response curve estimation with surrogate confounders: a study of air pollution and children's health in Medicaid claims data**|Jenny J. Lee et.al.|[2308.00812](http://arxiv.org/abs/2308.00812)|null|
 |**2023-07-25**|**Implicitly Normalized Explicitly Regularized Density Estimation**|Mark Kozdoba et.al.|[2307.13763](http://arxiv.org/abs/2307.13763)|null|
 |**2023-07-20**|**Analysis of the rate of force development reveals high neuromuscular fatigability in elderly patients with chronic kidney disease**|Antoine Chatrenet et.al.|[2307.10691](http://arxiv.org/abs/2307.10691)|null|
@@ -43,6 +44,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Focus on Content not Noise: Improving Image Generation for Nuclei Segmentation by Suppressing Steganography in CycleGAN**|Jonas Utz et.al.|[2308.01769](http://arxiv.org/abs/2308.01769)|null|
+|**2023-08-03**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661](http://arxiv.org/abs/2308.01661)|null|
+|**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|null|
+|**2023-08-03**|**Circumventing Concept Erasure Methods For Text-to-Image Generative Models**|Minh Pham et.al.|[2308.01508](http://arxiv.org/abs/2308.01508)|**[link](https://github.com/nyu-dice-lab/circumventing-concept-erasure)**|
+|**2023-08-02**|**Reverse Stable Diffusion: What prompt was used to generate this image?**|Florinel-Alin Croitoru et.al.|[2308.01472](http://arxiv.org/abs/2308.01472)|null|
 |**2023-08-02**|**Revisiting DETR Pre-training for Object Detection**|Yan Ma et.al.|[2308.01300](http://arxiv.org/abs/2308.01300)|null|
 |**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
 |**2023-08-01**|**The Bias Amplification Paradox in Text-to-Image Generation**|Preethi Seshadri et.al.|[2308.00755](http://arxiv.org/abs/2308.00755)|**[link](https://github.com/preethiseshadri518/bias-amplification-paradox)**|
