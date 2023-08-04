@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -22,7 +22,7 @@ layout: default
 |**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|**[link](https://github.com/atong01/conditional-flow-matching)**|
 |**2023-07-02**|**MissDiff: Training Diffusion Models on Tabular Data with Missing Values**|Yidong Ouyang et.al.|[2307.00467](http://arxiv.org/abs/2307.00467)|null|
 |**2023-06-24**|**Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching**|H. J. Terry Suh et.al.|[2306.14079](http://arxiv.org/abs/2306.14079)|null|
-|**2023-06-20**|**Masked Diffusion Models are Fast Learners**|Jiachen Lei et.al.|[2306.11363](http://arxiv.org/abs/2306.11363)|**[link](https://github.com/jiachenlei/maskdm)**|
+|**2023-08-03**|**Masked Diffusion Models Are Fast and Privacy-Aware Learners**|Jiachen Lei et.al.|[2306.11363](http://arxiv.org/abs/2306.11363)|**[link](https://github.com/jiachenlei/maskdm)**|
 |**2023-06-20**|**Fit Like You Sample: Sample-Efficient Generalized Score Matching from Fast Mixing Markov Chains**|Yilong Qin et.al.|[2306.09332](http://arxiv.org/abs/2306.09332)|null|
 |**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305](http://arxiv.org/abs/2306.09305)|**[link](https://github.com/anima-lab/maskdit)**|
 |**2023-06-15**|**Training Diffusion Classifiers with Denoising Assistance**|Chandramouli Sastry et.al.|[2306.09192](http://arxiv.org/abs/2306.09192)|null|
