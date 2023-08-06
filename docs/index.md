@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.05
+## Updated on 2023.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-03**|**Estimating causal quantile exposure response functions via matching**|Luca Merlo et.al.|[2308.01628](http://arxiv.org/abs/2308.01628)|null|
-|**2023-08-01**|**Causal exposure-response curve estimation with surrogate confounders: a study of air pollution and children's health in Medicaid claims data**|Jenny J. Lee et.al.|[2308.00812](http://arxiv.org/abs/2308.00812)|null|
+|**2023-08-01**|**Causal exposure-response curve estimation with surrogate confounders: a study of air pollution and children's health in Medicaid claims data**|Jenny J. Lee et.al.|[2308.00812](http://arxiv.org/abs/2308.00812)|**[link](https://github.com/jennyjyounglee/medmatch)**|
 |**2023-07-25**|**Implicitly Normalized Explicitly Regularized Density Estimation**|Mark Kozdoba et.al.|[2307.13763](http://arxiv.org/abs/2307.13763)|null|
 |**2023-07-20**|**Analysis of the rate of force development reveals high neuromuscular fatigability in elderly patients with chronic kidney disease**|Antoine Chatrenet et.al.|[2307.10691](http://arxiv.org/abs/2307.10691)|null|
 |**2023-07-15**|**Variational Inference with Gaussian Score Matching**|Chirag Modi et.al.|[2307.07849](http://arxiv.org/abs/2307.07849)|**[link](https://github.com/modichirag/gsm-vi)**|
