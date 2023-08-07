@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Diffusion probabilistic models enhance variational autoencoder for crystal structure generative modeling**|Teerachote Pakornchote et.al.|[2308.02165](http://arxiv.org/abs/2308.02165)|null|
 |**2023-08-03**|**Estimating causal quantile exposure response functions via matching**|Luca Merlo et.al.|[2308.01628](http://arxiv.org/abs/2308.01628)|null|
 |**2023-08-01**|**Causal exposure-response curve estimation with surrogate confounders: a study of air pollution and children's health in Medicaid claims data**|Jenny J. Lee et.al.|[2308.00812](http://arxiv.org/abs/2308.00812)|**[link](https://github.com/jennyjyounglee/medmatch)**|
 |**2023-07-25**|**Implicitly Normalized Explicitly Regularized Density Estimation**|Mark Kozdoba et.al.|[2307.13763](http://arxiv.org/abs/2307.13763)|null|
@@ -37,6 +38,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|null|
+|**2023-08-04**|**SDDM: Score-Decomposed Diffusion Models on Manifolds for Unpaired Image-to-Image Translation**|Shikun Sun et.al.|[2308.02154](http://arxiv.org/abs/2308.02154)|null|
 |**2023-08-03**|**Focus on Content not Noise: Improving Image Generation for Nuclei Segmentation by Suppressing Steganography in CycleGAN**|Jonas Utz et.al.|[2308.01769](http://arxiv.org/abs/2308.01769)|null|
 |**2023-08-04**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661](http://arxiv.org/abs/2308.01661)|null|
 |**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
@@ -167,6 +170,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**CTP-Net: Character Texture Perception Network for Document Image Forgery Localization**|Xin Liao et.al.|[2308.02158](http://arxiv.org/abs/2308.02158)|null|
+|**2023-08-03**|**A Multidimensional Analysis of Social Biases in Vision Transformers**|Jannik Brinkmann et.al.|[2308.01948](http://arxiv.org/abs/2308.01948)|null|
 |**2023-08-02**|**WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond**|Zengxi Zhang et.al.|[2308.00931](http://arxiv.org/abs/2308.00931)|null|
 |**2023-08-02**|**ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation**|Yasheng Sun et.al.|[2308.00906](http://arxiv.org/abs/2308.00906)|null|
 |**2023-08-01**|**Decomposition Ascribed Synergistic Learning for Unified Image Restoration**|Jinghao Zhang et.al.|[2308.00759](http://arxiv.org/abs/2308.00759)|null|
