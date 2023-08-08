@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**A Causal Inference Approach to Eliminate the Impacts of Interfering Factors on Traffic Performance Evaluation**|Xiaobo Ma et.al.|[2308.03545](http://arxiv.org/abs/2308.03545)|null|
 |**2023-08-04**|**Diffusion probabilistic models enhance variational autoencoder for crystal structure generative modeling**|Teerachote Pakornchote et.al.|[2308.02165](http://arxiv.org/abs/2308.02165)|null|
 |**2023-08-03**|**Estimating causal quantile exposure response functions via matching**|Luca Merlo et.al.|[2308.01628](http://arxiv.org/abs/2308.01628)|null|
 |**2023-08-01**|**Causal exposure-response curve estimation with surrogate confounders: a study of air pollution and children's health in Medicaid claims data**|Jenny J. Lee et.al.|[2308.00812](http://arxiv.org/abs/2308.00812)|**[link](https://github.com/jennyjyounglee/medmatch)**|
@@ -38,7 +39,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|null|
+|**2023-08-05**|**DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation**|Afshin Bozorgpour et.al.|[2308.02959](http://arxiv.org/abs/2308.02959)|**[link](https://github.com/mindflow-institue/dermosegdiff)**|
+|**2023-08-05**|**Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation**|Zijie Wu et.al.|[2308.02874](http://arxiv.org/abs/2308.02874)|null|
+|**2023-08-03**|**ConceptLab: Creative Generation using Diffusion Prior Constraints**|Elad Richardson et.al.|[2308.02669](http://arxiv.org/abs/2308.02669)|null|
+|**2023-08-04**|**Towards Personalized Prompt-Model Retrieval for Generative Recommendation**|Yuanhe Guo et.al.|[2308.02205](http://arxiv.org/abs/2308.02205)|**[link](https://github.com/maps-research/gemrec)**|
 |**2023-08-04**|**SDDM: Score-Decomposed Diffusion Models on Manifolds for Unpaired Image-to-Image Translation**|Shikun Sun et.al.|[2308.02154](http://arxiv.org/abs/2308.02154)|null|
 |**2023-08-03**|**Focus on Content not Noise: Improving Image Generation for Nuclei Segmentation by Suppressing Steganography in CycleGAN**|Jonas Utz et.al.|[2308.01769](http://arxiv.org/abs/2308.01769)|null|
 |**2023-08-07**|**BEVControl: Accurately Controlling Street-view Elements with Multi-perspective Consistency via BEV Sketch Layout**|Kairui Yang et.al.|[2308.01661](http://arxiv.org/abs/2308.01661)|null|
@@ -170,6 +174,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-06**|**PNN: From proximal algorithms to robust unfolded image denoising networks and Plug-and-Play methods**|Hoang Trieu Vy Le et.al.|[2308.03139](http://arxiv.org/abs/2308.03139)|null|
+|**2023-08-06**|**NNVISR: Bring Neural Network Video Interpolation and Super Resolution into Video Processing Framework**|Yuan Tong et.al.|[2308.03121](http://arxiv.org/abs/2308.03121)|**[link](https://github.com/tongyuantongyu/vs-nnvisr)**|
+|**2023-08-06**|**FourLLIE: Boosting Low-Light Image Enhancement by Fourier Frequency Information**|Chenxi Wang et.al.|[2308.03033](http://arxiv.org/abs/2308.03033)|**[link](https://github.com/wangchx67/fourllie)**|
+|**2023-08-06**|**Brighten-and-Colorize: A Decoupled Network for Customized Low-Light Image Enhancement**|Chenxi Wang et.al.|[2308.03029](http://arxiv.org/abs/2308.03029)|null|
+|**2023-08-06**|**All-in-one Multi-degradation Image Restoration Network via Hierarchical Degradation Representation**|Cheng Zhang et.al.|[2308.03021](http://arxiv.org/abs/2308.03021)|null|
+|**2023-08-06**|**Recurrent Spike-based Image Restoration under General Illumination**|Lin Zhu et.al.|[2308.03018](http://arxiv.org/abs/2308.03018)|**[link](https://github.com/bit-vision/rsir)**|
+|**2023-08-05**|**Dual Degradation-Inspired Deep Unfolding Network for Low-Light Image Enhancement**|Huake Wang et.al.|[2308.02776](http://arxiv.org/abs/2308.02776)|null|
 |**2023-08-04**|**CTP-Net: Character Texture Perception Network for Document Image Forgery Localization**|Xin Liao et.al.|[2308.02158](http://arxiv.org/abs/2308.02158)|null|
 |**2023-08-03**|**A Multidimensional Analysis of Social Biases in Vision Transformers**|Jannik Brinkmann et.al.|[2308.01948](http://arxiv.org/abs/2308.01948)|null|
 |**2023-08-02**|**WaterFlow: Heuristic Normalizing Flow for Underwater Image Enhancement and Beyond**|Zengxi Zhang et.al.|[2308.00931](http://arxiv.org/abs/2308.00931)|null|
