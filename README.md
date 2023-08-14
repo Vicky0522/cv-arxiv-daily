@@ -47,6 +47,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
+|**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125](http://arxiv.org/abs/2308.06125)|null|
+|**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
 |**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384](http://arxiv.org/abs/2308.05384)|null|
 |**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184](http://arxiv.org/abs/2308.05184)|**[link](https://github.com/johnr0/promptpaint)**|
@@ -192,6 +195,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-10**|**Is there progress in activity progress prediction?**|Frans de Boer et.al.|[2308.05533](http://arxiv.org/abs/2308.05533)|**[link](https://github.com/frans-db/progress-prediction)**|
 |**2023-08-10**|**A Generalized Physical-knowledge-guided Dynamic Model for Underwater Image Enhancement**|Pan Mu et.al.|[2308.05447](http://arxiv.org/abs/2308.05447)|null|
 |**2023-08-10**|**TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization**|Soumyaroop Nandi et.al.|[2308.05264](http://arxiv.org/abs/2308.05264)|null|
