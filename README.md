@@ -47,6 +47,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Likelihood-Based Text-to-Image Evaluation with Patch-Level Perceptual and Semantic Credit Assignment**|Qi Chen et.al.|[2308.08525](http://arxiv.org/abs/2308.08525)|null|
+|**2023-08-16**|**Painter: Teaching Auto-regressive Language Models to Draw Sketches**|Reza Pourreza et.al.|[2308.08520](http://arxiv.org/abs/2308.08520)|null|
+|**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
+|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
+|**2023-08-16**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
+|**2023-08-16**|**Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**|Minho Park et.al.|[2308.08157](http://arxiv.org/abs/2308.08157)|null|
+|**2023-08-16**|**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**|Shengming Yin et.al.|[2308.08089](http://arxiv.org/abs/2308.08089)|null|
 |**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|null|
 |**2023-08-15**|**Story Visualization by Online Text Augmentation with Context Memory**|Daechul Ahn et.al.|[2308.07575](http://arxiv.org/abs/2308.07575)|null|
 |**2023-08-13**|**Free-ATM: Exploring Unsupervised Learning on Diffusion-Generated Images with Free Attention Masks**|David Junhao Zhang et.al.|[2308.06739](http://arxiv.org/abs/2308.06739)|null|
@@ -202,6 +209,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network**|Yinglong Wang et.al.|[2308.08220](http://arxiv.org/abs/2308.08220)|null|
+|**2023-08-16**|**Self-Reference Deep Adaptive Curve Estimation for Low-Light Image Enhancement**|Jianyu Wen et.al.|[2308.08197](http://arxiv.org/abs/2308.08197)|**[link](https://github.com/john-venti/self-dace)**|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652](http://arxiv.org/abs/2308.07652)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
