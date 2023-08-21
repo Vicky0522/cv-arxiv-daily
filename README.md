@@ -71,7 +71,7 @@
 |**2023-08-13**|**TextPainter: Multimodal Text Image Generation with Visual-harmony and Text-comprehension for Poster Design**|Yifan Gao et.al.|[2308.04733](http://arxiv.org/abs/2308.04733)|null|
 |**2023-08-09**|**GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization**|Hao Fang et.al.|[2308.04699](http://arxiv.org/abs/2308.04699)|**[link](https://github.com/ffhibnese/gifd)**|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
-|**2023-08-08**|**The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**|Timothy Merino et.al.|[2308.04052](http://arxiv.org/abs/2308.04052)|null|
+|**2023-08-08**|**The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings**|Timothy Merino et.al.|[2308.04052](http://arxiv.org/abs/2308.04052)|**[link](https://github.com/TimMerino1710/five-dollar-model)**|
 |**2023-08-05**|**DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation**|Afshin Bozorgpour et.al.|[2308.02959](http://arxiv.org/abs/2308.02959)|**[link](https://github.com/mindflow-institue/dermosegdiff)**|
 |**2023-08-05**|**Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation**|Zijie Wu et.al.|[2308.02874](http://arxiv.org/abs/2308.02874)|null|
 |**2023-08-03**|**ConceptLab: Creative Generation using Diffusion Prior Constraints**|Elad Richardson et.al.|[2308.02669](http://arxiv.org/abs/2308.02669)|null|
@@ -176,7 +176,7 @@
 |**2023-07-05**|**Prompting Diffusion Representations for Cross-Domain Semantic Segmentation**|Rui Gong et.al.|[2307.02138](http://arxiv.org/abs/2307.02138)|null|
 |**2023-07-04**|**SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis**|Dustin Podell et.al.|[2307.01952](http://arxiv.org/abs/2307.01952)|**[link](https://github.com/stability-ai/generative-models)**|
 |**2023-07-04**|**A Synthetic Electrocardiogram (ECG) Image Generation Toolbox to Facilitate Deep Learning-Based Scanned ECG Digitization**|Kshama Kodthalu Shivashankara et.al.|[2307.01946](http://arxiv.org/abs/2307.01946)|null|
-|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|null|
+|**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|**[link](https://github.com/leieric/text-sketch)**|
 |**2023-07-04**|**Generative Artificial Intelligence Consensus in a Trustless Network**|Edward Kim et.al.|[2307.01898](http://arxiv.org/abs/2307.01898)|null|
 |**2023-07-04**|**Training Energy-Based Models with Diffusion Contrastive Divergences**|Weijian Luo et.al.|[2307.01668](http://arxiv.org/abs/2307.01668)|null|
 |**2023-07-04**|**AdAM: Few-Shot Image Generation via Adaptation-Aware Kernel Modulation**|Yunqing Zhao et.al.|[2307.01465](http://arxiv.org/abs/2307.01465)|null|
