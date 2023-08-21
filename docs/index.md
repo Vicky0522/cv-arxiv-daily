@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -44,7 +44,7 @@ layout: default
 |**2023-08-16**|**Painter: Teaching Auto-regressive Language Models to Draw Sketches**|Reza Pourreza et.al.|[2308.08520](http://arxiv.org/abs/2308.08520)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
 |**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
-|**2023-08-16**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
+|**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
 |**2023-08-16**|**Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**|Minho Park et.al.|[2308.08157](http://arxiv.org/abs/2308.08157)|null|
 |**2023-08-16**|**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**|Shengming Yin et.al.|[2308.08089](http://arxiv.org/abs/2308.08089)|null|
 |**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|null|
