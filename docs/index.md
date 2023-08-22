@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Multi-GradSpeech: Towards Diffusion-based Multi-Speaker Text-to-speech Using Consistent Diffusion Models**|Heyang Xue et.al.|[2308.10428](http://arxiv.org/abs/2308.10428)|null|
+|**2023-08-19**|**Semi-Implicit Variational Inference via Score Matching**|Longlin Yu et.al.|[2308.10014](http://arxiv.org/abs/2308.10014)|null|
 |**2023-08-07**|**Equity in Focus : Investigating Gender Disparities in Glioblastoma via Propensity Score Matching**|Solomon Eshun et.al.|[2308.03827](http://arxiv.org/abs/2308.03827)|null|
 |**2023-08-07**|**A Causal Inference Approach to Eliminate the Impacts of Interfering Factors on Traffic Performance Evaluation**|Xiaobo Ma et.al.|[2308.03545](http://arxiv.org/abs/2308.03545)|null|
 |**2023-08-04**|**Diffusion probabilistic models enhance variational autoencoder for crystal structure generative modeling**|Teerachote Pakornchote et.al.|[2308.02165](http://arxiv.org/abs/2308.02165)|null|
@@ -40,6 +42,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Sampling From Autoencoders' Latent Space via Quantization And Probability Mass Function Concepts**|Aymene Mohammed Bouayed et.al.|[2308.10704](http://arxiv.org/abs/2308.10704)|null|
+|**2023-08-20**|**Turning Waste into Wealth: Leveraging Low-Quality Samples for Enhancing Continuous Conditional Generative Adversarial Networks**|Xin Ding et.al.|[2308.10273](http://arxiv.org/abs/2308.10273)|null|
+|**2023-08-20**|**StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data**|Yanda Li et.al.|[2308.10253](http://arxiv.org/abs/2308.10253)|**[link](https://github.com/icoz69/stablellava)**|
+|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156](http://arxiv.org/abs/2308.10156)|null|
+|**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103](http://arxiv.org/abs/2308.10103)|null|
+|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040](http://arxiv.org/abs/2308.10040)|null|
+|**2023-08-19**|**ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval**|Kaihang Pan et.al.|[2308.10025](http://arxiv.org/abs/2308.10025)|null|
+|**2023-08-19**|**DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization**|Xiaoyu Ye et.al.|[2308.09889](http://arxiv.org/abs/2308.09889)|null|
+|**2023-08-18**|**Microscopy Image Segmentation via Point and Shape Regularized Data Synthesis**|Shijie Li et.al.|[2308.09835](http://arxiv.org/abs/2308.09835)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705](http://arxiv.org/abs/2308.09705)|null|
 |**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306](http://arxiv.org/abs/2308.09306)|null|
@@ -205,6 +217,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648](http://arxiv.org/abs/2308.10648)|null|
+|**2023-08-21**|**Patternshop: Editing Point Patterns by Image Manipulation**|Xingchang Huang et.al.|[2308.10517](http://arxiv.org/abs/2308.10517)|null|
+|**2023-08-20**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
+|**2023-08-20**|**WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning**|Dongjian Huo et.al.|[2308.10195](http://arxiv.org/abs/2308.10195)|null|
+|**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103](http://arxiv.org/abs/2308.10103)|null|
+|**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894](http://arxiv.org/abs/2308.09894)|null|
 |**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713](http://arxiv.org/abs/2308.09713)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
 |**2023-08-18**|**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**|Wenhao Chai et.al.|[2308.09592](http://arxiv.org/abs/2308.09592)|**[link](https://github.com/rese1f/stablevideo)**|
