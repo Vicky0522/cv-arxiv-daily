@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -213,7 +213,7 @@ layout: default
 |**2023-08-17**|**Edit Temporal-Consistent Videos with Image Diffusion Model**|Yuanzhi Wang et.al.|[2308.09091](http://arxiv.org/abs/2308.09091)|null|
 |**2023-08-17**|**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration**|Liyan Wang et.al.|[2308.08730](http://arxiv.org/abs/2308.08730)|**[link](https://github.com/wlydlut/c2f-dft)**|
 |**2023-08-16**|**Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network**|Yinglong Wang et.al.|[2308.08220](http://arxiv.org/abs/2308.08220)|null|
-|**2023-08-16**|**Self-Reference Deep Adaptive Curve Estimation for Low-Light Image Enhancement**|Jianyu Wen et.al.|[2308.08197](http://arxiv.org/abs/2308.08197)|**[link](https://github.com/john-venti/self-dace)**|
+|**2023-08-21**|**Self-Reference Deep Adaptive Curve Estimation for Low-Light Image Enhancement**|Jianyu Wen et.al.|[2308.08197](http://arxiv.org/abs/2308.08197)|**[link](https://github.com/john-venti/self-dace)**|
 |**2023-08-15**|**Geometry of the Visual Cortex with Applications to Image Inpainting and Enhancement**|Francesco Ballerin et.al.|[2308.07652](http://arxiv.org/abs/2308.07652)|**[link](https://github.com/ballerin/v1diffusion)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
