@@ -71,7 +71,7 @@
 |**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156](http://arxiv.org/abs/2308.10156)|null|
 |**2023-08-19**|**ASPIRE: Language-Guided Augmentation for Robust Image Classification**|Sreyan Ghosh et.al.|[2308.10103](http://arxiv.org/abs/2308.10103)|null|
-|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040](http://arxiv.org/abs/2308.10040)|null|
+|**2023-08-19**|**ControlCom: Controllable Image Composition using Diffusion Model**|Bo Zhang et.al.|[2308.10040](http://arxiv.org/abs/2308.10040)|**[link](https://github.com/bcmi/controlcom-image-composition)**|
 |**2023-08-19**|**ControlRetriever: Harnessing the Power of Instructions for Controllable Retrieval**|Kaihang Pan et.al.|[2308.10025](http://arxiv.org/abs/2308.10025)|null|
 |**2023-08-19**|**DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization**|Xiaoyu Ye et.al.|[2308.09889](http://arxiv.org/abs/2308.09889)|null|
 |**2023-08-18**|**Microscopy Image Segmentation via Point and Shape Regularized Data Synthesis**|Shijie Li et.al.|[2308.09835](http://arxiv.org/abs/2308.09835)|null|
@@ -85,10 +85,10 @@
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
 |**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
 |**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
-|**2023-08-16**|**Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**|Minho Park et.al.|[2308.08157](http://arxiv.org/abs/2308.08157)|null|
+|**2023-08-16**|**Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis**|Minho Park et.al.|[2308.08157](http://arxiv.org/abs/2308.08157)|**[link](https://github.com/pmh9960/GCDP)**|
 |**2023-08-16**|**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**|Shengming Yin et.al.|[2308.08089](http://arxiv.org/abs/2308.08089)|null|
-|**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|null|
-|**2023-08-15**|**Story Visualization by Online Text Augmentation with Context Memory**|Daechul Ahn et.al.|[2308.07575](http://arxiv.org/abs/2308.07575)|null|
+|**2023-08-15**|**Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training**|Ximing Xing et.al.|[2308.07665](http://arxiv.org/abs/2308.07665)|**[link](https://github.com/ximinng/inversion-by-inversion)**|
+|**2023-08-15**|**Story Visualization by Online Text Augmentation with Context Memory**|Daechul Ahn et.al.|[2308.07575](http://arxiv.org/abs/2308.07575)|**[link](https://github.com/yonseivnl/cmota)**|
 |**2023-08-13**|**Free-ATM: Exploring Unsupervised Learning on Diffusion-Generated Images with Free Attention Masks**|David Junhao Zhang et.al.|[2308.06739](http://arxiv.org/abs/2308.06739)|null|
 |**2023-08-13**|**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models**|Hu Ye et.al.|[2308.06721](http://arxiv.org/abs/2308.06721)|null|
 |**2023-08-13**|**LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts**|Binbin Yang et.al.|[2308.06713](http://arxiv.org/abs/2308.06713)|null|
