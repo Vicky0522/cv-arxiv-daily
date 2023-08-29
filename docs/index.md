@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -238,7 +238,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
 |**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164](http://arxiv.org/abs/2308.13164)|null|
-|**2023-08-24**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902](http://arxiv.org/abs/2308.12902)|null|
+|**2023-08-26**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902](http://arxiv.org/abs/2308.12902)|null|
 |**2023-08-24**|**MOFA: A Model Simplification Roadmap for Image Restoration on Mobile Devices**|Xiangyu Chen et.al.|[2308.12494](http://arxiv.org/abs/2308.12494)|null|
 |**2023-08-23**|**Synergistic Multiscale Detail Refinement via Intrinsic Supervision for Underwater Image Enhancement**|Dehuan Zhang et.al.|[2308.11932](http://arxiv.org/abs/2308.11932)|null|
 |**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648](http://arxiv.org/abs/2308.10648)|null|
