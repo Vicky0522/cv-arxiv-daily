@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Machine Unlearning for Causal Inference**|Vikas Ramachandra et.al.|[2308.13559](http://arxiv.org/abs/2308.13559)|null|
 |**2023-08-22**|**Expressive probabilistic sampling in recurrent neural networks**|Shirui Chen et.al.|[2308.11809](http://arxiv.org/abs/2308.11809)|null|
 |**2023-08-22**|**Convergence guarantee for consistency models**|Junlong Lyu et.al.|[2308.11449](http://arxiv.org/abs/2308.11449)|null|
 |**2023-08-21**|**Multi-GradSpeech: Towards Diffusion-based Multi-Speaker Text-to-speech Using Consistent Diffusion Models**|Heyang Xue et.al.|[2308.10428](http://arxiv.org/abs/2308.10428)|null|
@@ -44,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**MagicAvatar: Multimodal Avatar Generation and Animation**|Jianfeng Zhang et.al.|[2308.14748](http://arxiv.org/abs/2308.14748)|null|
+|**2023-08-28**|**Causality-Based Feature Importance Quantifying Methods:PN-FI, PS-FI and PNS-FI**|Shuxian Du et.al.|[2308.14474](http://arxiv.org/abs/2308.14474)|null|
+|**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
+|**2023-08-28**|**FaceChain: A Playground for Identity-Preserving Portrait Generation**|Yang Liu et.al.|[2308.14256](http://arxiv.org/abs/2308.14256)|**[link](https://github.com/modelscope/facechain)**|
+|**2023-08-28**|**HoloFusion: Towards Photo-realistic 3D Generative Modeling**|Animesh Karnewar et.al.|[2308.14244](http://arxiv.org/abs/2308.14244)|null|
+|**2023-08-27**|**A Bayesian Non-parametric Approach to Generative Models: Integrating Variational Autoencoder and Generative Adversarial Networks using Wasserstein and Maximum Mean Discrepancy**|Forough Fazeli-Asl et.al.|[2308.14048](http://arxiv.org/abs/2308.14048)|null|
+|**2023-08-26**|**Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models**|Hao Fei et.al.|[2308.13812](http://arxiv.org/abs/2308.13812)|null|
+|**2023-08-26**|**ORES: Open-vocabulary Responsible Visual Synthesis**|Minheng Ni et.al.|[2308.13785](http://arxiv.org/abs/2308.13785)|**[link](https://github.com/kodenii/ores)**|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|null|
+|**2023-08-25**|**Is Deep Learning Network Necessary for Image Generation?**|Chenqiu Zhao et.al.|[2308.13612](http://arxiv.org/abs/2308.13612)|null|
 |**2023-08-25**|**WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI**|Hai Dang et.al.|[2308.13355](http://arxiv.org/abs/2308.13355)|null|
 |**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164](http://arxiv.org/abs/2308.13164)|null|
 |**2023-08-25**|**A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions**|Tianyi Zhang et.al.|[2308.13142](http://arxiv.org/abs/2308.13142)|null|
@@ -236,6 +247,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**|Jun Hao Liew et.al.|[2308.14749](http://arxiv.org/abs/2308.14749)|null|
+|**2023-08-28**|**1st Place Solution for the 5th LSVOS Challenge: Video Instance Segmentation**|Tao Zhang et.al.|[2308.14392](http://arxiv.org/abs/2308.14392)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
+|**2023-08-28**|**MetaWeather: Few-Shot Weather-Degraded Image Restoration via Degradation Pattern Matching**|Youngrae Kim et.al.|[2308.14334](http://arxiv.org/abs/2308.14334)|null|
+|**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061](http://arxiv.org/abs/2308.14061)|**[link](https://github.com/xyfjason/hcl)**|
+|**2023-08-26**|**Generalized Lightness Adaptation with Channel Selective Normalization**|Mingde Yao et.al.|[2308.13783](http://arxiv.org/abs/2308.13783)|**[link](https://github.com/mdyao/csnorm)**|
+|**2023-08-25**|**Residual Denoising Diffusion Models**|Jiawei Liu et.al.|[2308.13712](http://arxiv.org/abs/2308.13712)|null|
 |**2023-08-25**|**Self-supervised Scene Text Segmentation with Object-centric Layered Representations Augmented by Text Regions**|Yibo Wang et.al.|[2308.13178](http://arxiv.org/abs/2308.13178)|null|
 |**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164](http://arxiv.org/abs/2308.13164)|null|
 |**2023-08-26**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902](http://arxiv.org/abs/2308.12902)|null|
