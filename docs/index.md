@@ -46,7 +46,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|null|
+|**2023-08-30**|**Improving Few-shot Image Generation by Structural Discrimination and Textural Modulation**|Mengping Yang et.al.|[2308.16110](http://arxiv.org/abs/2308.16110)|**[link](https://github.com/kobeshegu/sdtm-gan-acmmm-2023)**|
+|**2023-08-30**|**Semantic Image Synthesis via Class-Adaptive Cross-Attention**|Tomaso Fontanini et.al.|[2308.16071](http://arxiv.org/abs/2308.16071)|null|
+|**2023-08-30**|**Intriguing Properties of Diffusion Models: A Large-Scale Dataset for Evaluating Natural Attack Capability in Text-to-Image Generative Models**|Takami Sato et.al.|[2308.15692](http://arxiv.org/abs/2308.15692)|null|
+|**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|**[link](https://github.com/limbo0000/mtm)**|
 |**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345](http://arxiv.org/abs/2308.15345)|null|
 |**2023-08-29**|**A Multimodal Visual Encoding Model Aided by Introducing Verbal Semantic Information**|Shuxiao Ma et.al.|[2308.15142](http://arxiv.org/abs/2308.15142)|null|
 |**2023-08-28**|**Automated Conversion of Music Videos into Lyric Videos**|Jiaju Ma et.al.|[2308.14922](http://arxiv.org/abs/2308.14922)|null|
@@ -254,8 +257,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**Feature Attention Network (FA-Net): A Deep-Learning Based Approach for Underwater Single Image Enhancement**|Muhammad Hamza et.al.|[2308.15868](http://arxiv.org/abs/2308.15868)|null|
+|**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854](http://arxiv.org/abs/2308.15854)|null|
+|**2023-08-30**|**Improving Underwater Visual Tracking With a Large Scale Dataset and Image Enhancement**|Basit Alawode et.al.|[2308.15816](http://arxiv.org/abs/2308.15816)|**[link](https://github.com/basitalawode/uwvot400)**|
 |**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345](http://arxiv.org/abs/2308.15345)|null|
-|**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|null|
+|**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|**[link](https://github.com/xpixelgroup/diffbir)**|
 |**2023-08-28**|**Copy-Paste Image Augmentation with Poisson Image Editing for Ultrasound Instance Segmentation Learning**|Wei-Hsiang Shen et.al.|[2308.14772](http://arxiv.org/abs/2308.14772)|null|
 |**2023-08-28**|**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**|Jun Hao Liew et.al.|[2308.14749](http://arxiv.org/abs/2308.14749)|null|
 |**2023-08-28**|**1st Place Solution for the 5th LSVOS Challenge: Video Instance Segmentation**|Tao Zhang et.al.|[2308.14392](http://arxiv.org/abs/2308.14392)|**[link](https://github.com/zhang-tao-whu/DVIS)**|
