@@ -46,6 +46,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
+|**2023-09-01**|**DiffuGen: Adaptable Approach for Generating Labeled Image Datasets using Stable Diffusion Models**|Michael Shenoda et.al.|[2309.00248](http://arxiv.org/abs/2309.00248)|**[link](https://github.com/mshenoda/diffugen)**|
+|**2023-09-01**|**Diffusion Model with Clustering-based Conditioning for Food Image Generation**|Yue Han et.al.|[2309.00199](http://arxiv.org/abs/2309.00199)|null|
 |**2023-08-31**|**StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation**|Yuhan Wang et.al.|[2308.16909](http://arxiv.org/abs/2308.16909)|**[link](https://github.com/johannwyh/styleinv)**|
 |**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847](http://arxiv.org/abs/2308.16847)|null|
 |**2023-08-31**|**Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images**|Cuican Yu et.al.|[2308.16758](http://arxiv.org/abs/2308.16758)|null|
@@ -262,6 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-08-31**|**Robust GAN inversion**|Egor Sevriugov et.al.|[2308.16510](http://arxiv.org/abs/2308.16510)|null|
 |**2023-08-30**|**Feature Attention Network (FA-Net): A Deep-Learning Based Approach for Underwater Single Image Enhancement**|Muhammad Hamza et.al.|[2308.15868](http://arxiv.org/abs/2308.15868)|null|
 |**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854](http://arxiv.org/abs/2308.15854)|null|
