@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199](http://arxiv.org/abs/2309.03199)|null|
 |**2023-08-29**|**MadSGM: Multivariate Anomaly Detection with Score-based Generative Models**|Haksoo Lim et.al.|[2308.15069](http://arxiv.org/abs/2308.15069)|null|
 |**2023-08-24**|**Machine Unlearning for Causal Inference**|Vikas Ramachandra et.al.|[2308.13559](http://arxiv.org/abs/2308.13559)|null|
 |**2023-08-22**|**Expressive probabilistic sampling in recurrent neural networks**|Shirui Chen et.al.|[2308.11809](http://arxiv.org/abs/2308.11809)|null|
@@ -53,6 +54,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198](http://arxiv.org/abs/2309.03198)|null|
+|**2023-09-06**|**Hierarchical-level rain image generative model based on GAN**|Zhenyuan Liu et.al.|[2309.02964](http://arxiv.org/abs/2309.02964)|null|
+|**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|null|
+|**2023-09-06**|**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter**|Jinglong Wang et.al.|[2309.02773](http://arxiv.org/abs/2309.02773)|null|
+|**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591](http://arxiv.org/abs/2309.02591)|null|
+|**2023-09-05**|**Diffusion on the Probability Simplex**|Griffin Floto et.al.|[2309.02530](http://arxiv.org/abs/2309.02530)|null|
 |**2023-09-05**|**Breaking Barriers to Creative Expression: Co-Designing and Implementing an Accessible Text-to-Image Interface**|Atieh Taheri et.al.|[2309.02402](http://arxiv.org/abs/2309.02402)|null|
 |**2023-09-05**|**Exchanging-based Multimodal Fusion with Transformer**|Renyu Zhu et.al.|[2309.02190](http://arxiv.org/abs/2309.02190)|null|
 |**2023-09-04**|**Uncertainty in AI: Evaluating Deep Neural Networks on Out-of-Distribution Images**|Jamiu Idowu et.al.|[2309.01850](http://arxiv.org/abs/2309.01850)|null|
@@ -284,6 +291,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
+|**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063](http://arxiv.org/abs/2309.03063)|null|
+|**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591](http://arxiv.org/abs/2309.02591)|null|
 |**2023-09-05**|**SAM-Deblur: Let Segment Anything Boost Image Deblurring**|Siwei Li et.al.|[2309.02270](http://arxiv.org/abs/2309.02270)|null|
 |**2023-09-05**|**Advanced Underwater Image Restoration in Complex Illumination Conditions**|Yifan Song et.al.|[2309.02217](http://arxiv.org/abs/2309.02217)|null|
 |**2023-09-05**|**Empowering Low-Light Image Enhancer through Customized Learnable Priors**|Naishan Zheng et.al.|[2309.01958](http://arxiv.org/abs/2309.01958)|null|
