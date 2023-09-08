@@ -47,6 +47,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|null|
+|**2023-09-07**|**T2IW: Joint Text to Image & Watermark Generation**|An-An Liu et.al.|[2309.03815](http://arxiv.org/abs/2309.03815)|null|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
+|**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549](http://arxiv.org/abs/2309.03549)|null|
+|**2023-09-07**|**Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation**|Zhuqiang Lu et.al.|[2309.03467](http://arxiv.org/abs/2309.03467)|null|
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198](http://arxiv.org/abs/2309.03198)|null|
 |**2023-09-06**|**Hierarchical-level rain image generative model based on GAN**|Zhenyuan Liu et.al.|[2309.02964](http://arxiv.org/abs/2309.02964)|null|
 |**2023-09-06**|**BigVSAN: Enhancing GAN-based Neural Vocoders with Slicing Adversarial Network**|Takashi Shibuya et.al.|[2309.02836](http://arxiv.org/abs/2309.02836)|null|
@@ -282,6 +287,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Feature Enhancer Segmentation Network (FES-Net) for Vessel Segmentation**|Tariq M. Khan et.al.|[2309.03535](http://arxiv.org/abs/2309.03535)|null|
+|**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|null|
 |**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
 |**2023-09-06**|**Prompt-based All-in-One Image Restoration using CNNs and Transformer**|Hu Gao et.al.|[2309.03063](http://arxiv.org/abs/2309.03063)|null|
 |**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591](http://arxiv.org/abs/2309.02591)|null|
