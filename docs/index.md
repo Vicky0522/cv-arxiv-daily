@@ -47,6 +47,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430](http://arxiv.org/abs/2309.04430)|null|
+|**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372](http://arxiv.org/abs/2309.04372)|null|
+|**2023-09-08**|**Sequential Semantic Generative Communication for Progressive Text-to-Image Generation**|Hyelin Nam et.al.|[2309.04287](http://arxiv.org/abs/2309.04287)|null|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
+|**2023-09-08**|**From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models**|Changming Xiao et.al.|[2309.04109](http://arxiv.org/abs/2309.04109)|null|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|null|
 |**2023-09-07**|**T2IW: Joint Text to Image & Watermark Generation**|An-An Liu et.al.|[2309.03815](http://arxiv.org/abs/2309.03815)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
@@ -287,6 +292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372](http://arxiv.org/abs/2309.04372)|null|
+|**2023-09-08**|**Toward Sufficient Spatial-Frequency Interaction for Gradient-aware Underwater Image Enhancement**|Chen Zhao et.al.|[2309.04089](http://arxiv.org/abs/2309.04089)|**[link](https://github.com/zhihefang/SFGNet)**|
 |**2023-09-07**|**Feature Enhancer Segmentation Network (FES-Net) for Vessel Segmentation**|Tariq M. Khan et.al.|[2309.03535](http://arxiv.org/abs/2309.03535)|null|
 |**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|null|
 |**2023-09-06**|**SLiMe: Segment Like Me**|Aliasghar Khani et.al.|[2309.03179](http://arxiv.org/abs/2309.03179)|null|
