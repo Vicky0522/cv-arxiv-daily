@@ -54,6 +54,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**ALWOD: Active Learning for Weakly-Supervised Object Detection**|Yuting Wang et.al.|[2309.07914](http://arxiv.org/abs/2309.07914)|null|
+|**2023-09-13**|**Unbiased Face Synthesis With Diffusion Models: Are We There Yet?**|Harrison Rosenberg et.al.|[2309.07277](http://arxiv.org/abs/2309.07277)|null|
 |**2023-09-13**|**MagiCapture: High-Resolution Multi-Concept Portrait Customization**|Junha Hyung et.al.|[2309.06895](http://arxiv.org/abs/2309.06895)|null|
 |**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380](http://arxiv.org/abs/2309.06380)|**[link](https://github.com/gnobitab/instaflow)**|
 |**2023-09-12**|**Elucidating the solution space of extended reverse-time SDE for diffusion models**|Qinpeng Cui et.al.|[2309.06169](http://arxiv.org/abs/2309.06169)|null|
@@ -313,6 +315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**A Multi-scale Generalized Shrinkage Threshold Network for Image Blind Deblurring in Remote Sensing**|Yujie Feng et.al.|[2309.07524](http://arxiv.org/abs/2309.07524)|null|
 |**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068](http://arxiv.org/abs/2309.07068)|null|
 |**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941](http://arxiv.org/abs/2309.06941)|null|
 |**2023-09-13**|**Improving Deep Learning-based Defect Detection on Window Frames with Image Processing Strategies**|Jorge Vasquez et.al.|[2309.06731](http://arxiv.org/abs/2309.06731)|null|
