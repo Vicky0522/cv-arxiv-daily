@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.15
+## Updated on 2023.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -307,7 +307,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-14**|**A Multi-scale Generalized Shrinkage Threshold Network for Image Blind Deblurring in Remote Sensing**|Yujie Feng et.al.|[2309.07524](http://arxiv.org/abs/2309.07524)|null|
-|**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068](http://arxiv.org/abs/2309.07068)|null|
+|**2023-09-13**|**FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection**|Tongkun Liu et.al.|[2309.07068](http://arxiv.org/abs/2309.07068)|**[link](https://github.com/liutongkun/fair)**|
 |**2023-09-13**|**DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision**|Xiangchen Yin et.al.|[2309.06941](http://arxiv.org/abs/2309.06941)|null|
 |**2023-09-13**|**Improving Deep Learning-based Defect Detection on Window Frames with Image Processing Strategies**|Jorge Vasquez et.al.|[2309.06731](http://arxiv.org/abs/2309.06731)|null|
 |**2023-09-12**|**Can we predict the Most Replayed data of video streaming platforms?**|Alessandro Duico et.al.|[2309.06102](http://arxiv.org/abs/2309.06102)|**[link](https://github.com/ombretta/most-replayed-data)**|
