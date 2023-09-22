@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -52,10 +52,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-20**|**Language-Oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation**|Hyelin Nam et.al.|[2309.11127](http://arxiv.org/abs/2309.11127)|null|
-|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
+|**2023-09-21**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
 |**2023-09-19**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438](http://arxiv.org/abs/2309.10438)|null|
 |**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348](http://arxiv.org/abs/2309.10348)|null|
-|**2023-09-18**|**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**|Chunyuan Li et.al.|[2309.10020](http://arxiv.org/abs/2309.10020)|null|
+|**2023-09-18**|**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**|Chunyuan Li et.al.|[2309.10020](http://arxiv.org/abs/2309.10020)|**[link](https://github.com/computer-vision-in-the-wild/cvinw_readings)**|
 |**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614](http://arxiv.org/abs/2309.09614)|null|
 |**2023-09-18**|**DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues**|Kun Pan et.al.|[2309.09526](http://arxiv.org/abs/2309.09526)|**[link](https://github.com/deepfakeil/dfil)**|
