@@ -50,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation**|Bo-Hsun Chen et.al.|[2309.12397](http://arxiv.org/abs/2309.12397)|null|
 |**2023-09-21**|**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**|Xiaozhou You et.al.|[2309.11923](http://arxiv.org/abs/2309.11923)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
 |**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
@@ -328,6 +329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**Multimodal Transformers for Wireless Communications: A Case Study in Beam Prediction**|Yu Tian et.al.|[2309.11811](http://arxiv.org/abs/2309.11811)|**[link](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)**|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715](http://arxiv.org/abs/2309.11715)|null|
