@@ -22,7 +22,7 @@
 |**2023-09-20**|**Score Mismatching for Generative Modeling**|Senmao Ye et.al.|[2309.11043](http://arxiv.org/abs/2309.11043)|**[link](https://github.com/senmaoy/Score-Mismatching)**|
 |**2023-09-18**|**Sex-based Disparities in Brain Aging: A Focus on Parkinson's Disease**|Iman Beheshti et.al.|[2309.10069](http://arxiv.org/abs/2309.10069)|null|
 |**2023-09-18**|**Single and Few-step Diffusion for Generative Speech Enhancement**|Bunlong Lay et.al.|[2309.09677](http://arxiv.org/abs/2309.09677)|null|
-|**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199](http://arxiv.org/abs/2309.03199)|null|
+|**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199](http://arxiv.org/abs/2309.03199)|**[link](https://github.com/shivammehta25/Matcha-TTS)**|
 |**2023-08-29**|**MadSGM: Multivariate Anomaly Detection with Score-based Generative Models**|Haksoo Lim et.al.|[2308.15069](http://arxiv.org/abs/2308.15069)|null|
 |**2023-08-24**|**Machine Unlearning for Causal Inference**|Vikas Ramachandra et.al.|[2308.13559](http://arxiv.org/abs/2308.13559)|null|
 |**2023-08-22**|**Expressive probabilistic sampling in recurrent neural networks**|Shirui Chen et.al.|[2308.11809](http://arxiv.org/abs/2308.11809)|null|
@@ -57,6 +57,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339](http://arxiv.org/abs/2309.14339)|null|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267](http://arxiv.org/abs/2309.14267)|null|
+|**2023-09-25**|**SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution**|Zhongjie Ba et.al.|[2309.14122](http://arxiv.org/abs/2309.14122)|null|
+|**2023-09-25**|**Diverse Semantic Image Editing with Style Codes**|Hakan Sivuk et.al.|[2309.13975](http://arxiv.org/abs/2309.13975)|**[link](https://github.com/hakansivuk/divsem)**|
+|**2023-09-23**|**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER**|Mingzhen Sun et.al.|[2309.13274](http://arxiv.org/abs/2309.13274)|**[link](https://github.com/iva-mzsun/glober)**|
+|**2023-09-23**|**Randomize to Generalize: Domain Randomization for Runway FOD Detection**|Javaria Farooq et.al.|[2309.13264](http://arxiv.org/abs/2309.13264)|null|
+|**2023-09-23**|**NeRF-Enhanced Outpainting for Faithful Field-of-View Extrapolation**|Rui Yu et.al.|[2309.13240](http://arxiv.org/abs/2309.13240)|null|
 |**2023-09-21**|**POLAR3D: Augmenting NASA's POLAR Dataset for Data-Driven Lunar Perception and Rover Simulation**|Bo-Hsun Chen et.al.|[2309.12397](http://arxiv.org/abs/2309.12397)|null|
 |**2023-09-21**|**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**|Xiaozhou You et.al.|[2309.11923](http://arxiv.org/abs/2309.11923)|null|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
@@ -338,6 +346,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267](http://arxiv.org/abs/2309.14267)|null|
+|**2023-09-25**|**Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time**|Cheng-Hung Chan et.al.|[2309.14022](http://arxiv.org/abs/2309.14022)|null|
+|**2023-09-25**|**Diverse Semantic Image Editing with Style Codes**|Hakan Sivuk et.al.|[2309.13975](http://arxiv.org/abs/2309.13975)|**[link](https://github.com/hakansivuk/divsem)**|
+|**2023-09-25**|**In-Domain GAN Inversion for Faithful Reconstruction and Editability**|Jiapeng Zhu et.al.|[2309.13956](http://arxiv.org/abs/2309.13956)|null|
+|**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857](http://arxiv.org/abs/2309.13857)|null|
 |**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**Multimodal Transformers for Wireless Communications: A Case Study in Beam Prediction**|Yu Tian et.al.|[2309.11811](http://arxiv.org/abs/2309.11811)|**[link](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)**|
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745](http://arxiv.org/abs/2309.11745)|null|
