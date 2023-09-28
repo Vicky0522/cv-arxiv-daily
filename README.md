@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -51,21 +51,21 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
+|**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
 |**2023-09-26**|**Seimei KOOLS-IFU mapping of the gas and dust distributions in Galactic PNe: Unveiling the origin and evolution of Galactic halo PN H4-1**|Masaaki Otsuka et.al.|[2309.15099](http://arxiv.org/abs/2309.15099)|null|
 |**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091](http://arxiv.org/abs/2309.15091)|null|
 |**2023-09-26**|**Navigating Text-To-Image Customization:From LyCORIS Fine-Tuning to Model Evaluation**|Shin-Ying Yeh et.al.|[2309.14859](http://arxiv.org/abs/2309.14859)|**[link](https://github.com/kohakublueleaf/lycoris)**|
 |**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756](http://arxiv.org/abs/2309.14756)|null|
-|**2023-09-26**|**Text-to-Image Generation for Abstract Concepts**|Jiayi Liao et.al.|[2309.14623](http://arxiv.org/abs/2309.14623)|null|
+|**2023-09-27**|**Text-to-Image Generation for Abstract Concepts**|Jiayi Liao et.al.|[2309.14623](http://arxiv.org/abs/2309.14623)|null|
 |**2023-09-25**|**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**|Hanzhuo Huang et.al.|[2309.14494](http://arxiv.org/abs/2309.14494)|**[link](https://github.com/soolab/free-bloom)**|
 |**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339](http://arxiv.org/abs/2309.14339)|null|
-|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-27**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
 |**2023-09-25**|**Identity-preserving Editing of Multiple Facial Attributes by Learning Global Edit Directions and Local Adjustments**|Najmeh Mohammadbagheri et.al.|[2309.14267](http://arxiv.org/abs/2309.14267)|null|
 |**2023-09-25**|**SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution**|Zhongjie Ba et.al.|[2309.14122](http://arxiv.org/abs/2309.14122)|null|
 |**2023-09-25**|**Diverse Semantic Image Editing with Style Codes**|Hakan Sivuk et.al.|[2309.13975](http://arxiv.org/abs/2309.13975)|**[link](https://github.com/hakansivuk/divsem)**|
@@ -347,7 +347,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -521,7 +521,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
