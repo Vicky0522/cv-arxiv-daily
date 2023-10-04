@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Sampling Multimodal Distributions with the Vanilla Score: Benefits of Data-Based Initialization**|Frederic Koehler et.al.|[2310.01762](http://arxiv.org/abs/2310.01762)|null|
+|**2023-09-29**|**EPiC-ly Fast Particle Cloud Generation with Flow-Matching and Diffusion**|Erik Buhmann et.al.|[2310.00049](http://arxiv.org/abs/2310.00049)|null|
 |**2023-09-28**|**Bayesian Cramér-Rao Bound Estimation with Score-Based Models**|Evan Scope Crafts et.al.|[2309.16076](http://arxiv.org/abs/2309.16076)|null|
 |**2023-09-20**|**Score Mismatching for Generative Modeling**|Senmao Ye et.al.|[2309.11043](http://arxiv.org/abs/2309.11043)|**[link](https://github.com/senmaoy/Score-Mismatching)**|
 |**2023-09-18**|**Sex-based Disparities in Brain Aging: A Focus on Parkinson's Disease**|Iman Beheshti et.al.|[2309.10069](http://arxiv.org/abs/2309.10069)|null|
@@ -58,6 +60,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239](http://arxiv.org/abs/2310.02239)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
+|**2023-10-03**|**Optimizing microlens arrays for incoherent HiLo microscopy**|Ziao Jiao et.al.|[2310.01939](http://arxiv.org/abs/2310.01939)|null|
+|**2023-10-03**|**Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation**|Jun Li et.al.|[2310.01819](http://arxiv.org/abs/2310.01819)|null|
+|**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|null|
+|**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
+|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
+|**2023-10-02**|**Trained Latent Space Navigation to Prevent Lack of Photorealism in Generated Images on Style-based Models**|Takumi Harada et.al.|[2310.00936](http://arxiv.org/abs/2310.00936)|null|
+|**2023-10-02**|**Understanding Transferable Representation Learning and Zero-shot Transfer in CLIP**|Zixiang Chen et.al.|[2310.00927](http://arxiv.org/abs/2310.00927)|null|
+|**2023-10-02**|**RT-GAN: Recurrent Temporal GAN for Adding Lightweight Temporal Consistency to Frame-Based Domain Translation Approaches**|Shawn Mathew et.al.|[2310.00868](http://arxiv.org/abs/2310.00868)|null|
+|**2023-10-01**|**Completing Visual Objects via Bridging Generation and Segmentation**|Xiang Li et.al.|[2310.00808](http://arxiv.org/abs/2310.00808)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
 |**2023-09-29**|**Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning**|Zihan Ding et.al.|[2309.16984](http://arxiv.org/abs/2309.16984)|null|
@@ -373,6 +385,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097](http://arxiv.org/abs/2310.02097)|**[link](https://github.com/ctom2/cider)**|
+|**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|null|
+|**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
+|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
+|**2023-10-02**|**Sequential Data Generation with Groupwise Diffusion Process**|Sangyun Lee et.al.|[2310.01400](http://arxiv.org/abs/2310.01400)|null|
+|**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391](http://arxiv.org/abs/2310.01391)|null|
+|**2023-10-02**|**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**|Hyeonho Jeong et.al.|[2310.01107](http://arxiv.org/abs/2310.01107)|null|
+|**2023-10-02**|**Controlling Vision-Language Models for Universal Image Restoration**|Ziwei Luo et.al.|[2310.01018](http://arxiv.org/abs/2310.01018)|**[link](https://github.com/algolzw/daclip-uir)**|
+|**2023-10-02**|**JPEG Information Regularized Deep Image Prior for Denoising**|Tsukasa Takagi et.al.|[2310.00894](http://arxiv.org/abs/2310.00894)|null|
+|**2023-10-01**|**Exchange means change: an unsupervised single-temporal change detection framework based on intra- and inter-image patch exchange**|Hongruixuan Chen et.al.|[2310.00689](http://arxiv.org/abs/2310.00689)|null|
 |**2023-09-29**|**Guiding Instruction-based Image Editing via Multimodal Large Language Models**|Tsu-Jui Fu et.al.|[2309.17102](http://arxiv.org/abs/2309.17102)|**[link](https://github.com/tsujuifu/pytorch_mgie)**|
 |**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948](http://arxiv.org/abs/2309.16948)|**[link](https://github.com/alexzhou907/DDBM)**|
 |**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608](http://arxiv.org/abs/2309.16608)|null|
