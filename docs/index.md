@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
 |**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|**[link](https://github.com/sail-sg/DiffMemorize)**|
 |**2023-10-03**|**Stochastic force inference via density estimation**|Victor Chardès et.al.|[2310.02366](http://arxiv.org/abs/2310.02366)|null|
 |**2023-10-01**|**Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion**|Dongjun Kim et.al.|[2310.02279](http://arxiv.org/abs/2310.02279)|null|
@@ -56,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference**|Simian Luo et.al.|[2310.04378](http://arxiv.org/abs/2310.04378)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
+|**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285](http://arxiv.org/abs/2310.04285)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency**|Tianhong Li et.al.|[2310.03734](http://arxiv.org/abs/2310.03734)|null|
 |**2023-10-06**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559](http://arxiv.org/abs/2310.03559)|null|
@@ -389,6 +392,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Towards A Robust Group-level Emotion Recognition via Uncertainty-Aware Learning**|Qing Zhu et.al.|[2310.04306](http://arxiv.org/abs/2310.04306)|null|
+|**2023-10-06**|**Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution**|Qingguo Liu et.al.|[2310.04180](http://arxiv.org/abs/2310.04180)|**[link](https://github.com/i2-multimedia-lab/dsat)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712](http://arxiv.org/abs/2310.02712)|null|
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641](http://arxiv.org/abs/2310.02641)|null|
 |**2023-10-03**|**EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods**|Samyadeep Basu et.al.|[2310.02426](http://arxiv.org/abs/2310.02426)|null|
