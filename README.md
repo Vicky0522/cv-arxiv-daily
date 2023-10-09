@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -57,7 +57,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20231008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## generation
 
@@ -65,7 +65,7 @@
 |---|---|---|---|---|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency**|Tianhong Li et.al.|[2310.03734](http://arxiv.org/abs/2310.03734)|null|
-|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559](http://arxiv.org/abs/2310.03559)|null|
+|**2023-10-06**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559](http://arxiv.org/abs/2310.03559)|null|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502](http://arxiv.org/abs/2310.03502)|**[link](https://github.com/ai-forever/movqgan)**|
 |**2023-10-04**|**Posterior Sampling Based on Gradient Flows of the MMD with Negative Distance Kernel**|Paul Hagemann et.al.|[2310.03054](http://arxiv.org/abs/2310.03054)|**[link](https://github.com/fabianaltekrueger/conditional_mmd_flows)**|
 |**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992](http://arxiv.org/abs/2310.02992)|**[link](https://github.com/microsoft/unilm/tree/master/kosmos-g)**|
@@ -392,7 +392,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20231008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -590,7 +590,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20231008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
