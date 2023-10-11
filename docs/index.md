@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -60,7 +60,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833](http://arxiv.org/abs/2310.05833)|null|
-|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|null|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|**[link](https://github.com/google-research/magvit)**|
 |**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
 |**2023-10-09**|**Adaptive Multi-head Contrastive Learning**|Lei Wang et.al.|[2310.05615](http://arxiv.org/abs/2310.05615)|null|
 |**2023-10-09**|**A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers**|Matteo Bastico et.al.|[2310.05572](http://arxiv.org/abs/2310.05572)|**[link](https://github.com/matteo-bastico/mi-seg)**|
