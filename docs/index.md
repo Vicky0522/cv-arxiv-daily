@@ -19,7 +19,7 @@ layout: default
 |**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
 |**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|**[link](https://github.com/sail-sg/DiffMemorize)**|
 |**2023-10-03**|**Stochastic force inference via density estimation**|Victor Chardès et.al.|[2310.02366](http://arxiv.org/abs/2310.02366)|null|
-|**2023-10-01**|**Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion**|Dongjun Kim et.al.|[2310.02279](http://arxiv.org/abs/2310.02279)|null|
+|**2023-10-01**|**Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion**|Dongjun Kim et.al.|[2310.02279](http://arxiv.org/abs/2310.02279)|**[link](https://github.com/sony/ctm)**|
 |**2023-10-03**|**Sampling Multimodal Distributions with the Vanilla Score: Benefits of Data-Based Initialization**|Frederic Koehler et.al.|[2310.01762](http://arxiv.org/abs/2310.01762)|null|
 |**2023-09-29**|**EPiC-ly Fast Particle Cloud Generation with Flow-Matching and Diffusion**|Erik Buhmann et.al.|[2310.00049](http://arxiv.org/abs/2310.00049)|null|
 |**2023-09-28**|**Bayesian Cramér-Rao Bound Estimation with Score-Based Models**|Evan Scope Crafts et.al.|[2309.16076](http://arxiv.org/abs/2309.16076)|null|
@@ -59,6 +59,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389](http://arxiv.org/abs/2310.06389)|null|
+|**2023-10-10**|**JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling**|Jingyang Zhang et.al.|[2310.06347](http://arxiv.org/abs/2310.06347)|null|
+|**2023-10-10**|**Improving Compositional Text-to-image Generation with Large Vision-Language Models**|Song Wen et.al.|[2310.06311](http://arxiv.org/abs/2310.06311)|null|
+|**2023-10-09**|**Latent Diffusion Model for DNA Sequence Generation**|Zehui Li et.al.|[2310.06150](http://arxiv.org/abs/2310.06150)|null|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833](http://arxiv.org/abs/2310.05833)|null|
 |**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|**[link](https://github.com/google-research/magvit)**|
 |**2023-10-09**|**Locality-Aware Generalizable Implicit Neural Representation}**|Doyup Lee et.al.|[2310.05624](http://arxiv.org/abs/2310.05624)|null|
@@ -404,6 +408,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
+|**2023-10-10**|**Improving Compositional Text-to-image Generation with Large Vision-Language Models**|Song Wen et.al.|[2310.06311](http://arxiv.org/abs/2310.06311)|null|
+|**2023-10-10**|**Three-Dimensional Medical Image Fusion with Deformable Cross-Attention**|Lin Liu et.al.|[2310.06291](http://arxiv.org/abs/2310.06291)|null|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922](http://arxiv.org/abs/2310.05922)|null|
 |**2023-10-09**|**Dipole-Spread Function Engineering for 6D Super-Resolution Microscopy**|Tingting Wu et.al.|[2310.05810](http://arxiv.org/abs/2310.05810)|null|
 |**2023-10-08**|**ITRE: Low-light Image Enhancement Based on Illumination Transmission Ratio Estimation**|Yu Wang et.al.|[2310.05158](http://arxiv.org/abs/2310.05158)|null|
