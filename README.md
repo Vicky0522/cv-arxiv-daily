@@ -72,7 +72,7 @@
 |**2023-10-12**|**Neural Diffusion Models**|Grigory Bartosh et.al.|[2310.08337](http://arxiv.org/abs/2310.08337)|null|
 |**2023-10-12**|**Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting**|Zijie Chen et.al.|[2310.08129](http://arxiv.org/abs/2310.08129)|null|
 |**2023-10-12**|**SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing**|Zijie Wu et.al.|[2310.08094](http://arxiv.org/abs/2310.08094)|null|
-|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|**[link](https://github.com/abdullah-tamu/CleftGAN)**|
+|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|null|
 |**2023-10-11**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805](http://arxiv.org/abs/2310.07805)|null|
 |**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771](http://arxiv.org/abs/2310.07771)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
