@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.15
+## Updated on 2023.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
 
 ## generation
 
@@ -73,7 +73,7 @@
 |**2023-10-12**|**Tailored Visions: Enhancing Text-to-Image Generation with Personalized Prompt Rewriting**|Zijie Chen et.al.|[2310.08129](http://arxiv.org/abs/2310.08129)|null|
 |**2023-10-12**|**SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing**|Zijie Wu et.al.|[2310.08094](http://arxiv.org/abs/2310.08094)|null|
 |**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969](http://arxiv.org/abs/2310.07969)|null|
-|**2023-10-11**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805](http://arxiv.org/abs/2310.07805)|null|
+|**2023-10-13**|**Generative Modeling with Phase Stochastic Bridges**|Tianrong Chen et.al.|[2310.07805](http://arxiv.org/abs/2310.07805)|null|
 |**2023-10-11**|**DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model**|Xiaofan Li et.al.|[2310.07771](http://arxiv.org/abs/2310.07771)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
@@ -430,7 +430,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -639,7 +639,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
