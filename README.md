@@ -67,6 +67,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
+|**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|null|
+|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|null|
+|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|null|
+|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|null|
+|**2023-10-16**|**Evading Detection Actively: Toward Anti-Forensics against Forgery Localization**|Long Zhuo et.al.|[2310.10036](http://arxiv.org/abs/2310.10036)|null|
+|**2023-10-15**|**Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data**|Jiahao Xia et.al.|[2310.09918](http://arxiv.org/abs/2310.09918)|null|
+|**2023-10-14**|**Unified High-binding Watermark for Unconditional Image Generation Models**|Ruinan Ma et.al.|[2310.09479](http://arxiv.org/abs/2310.09479)|null|
 |**2023-10-13**|**Making Multimodal Generation Easier: When Diffusion Models Meet LLMs**|Xiangyu Zhao et.al.|[2310.08949](http://arxiv.org/abs/2310.08949)|**[link](https://github.com/zxy556677/easygen)**|
 |**2023-10-13**|**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation**|Jiayu Xiao et.al.|[2310.08872](http://arxiv.org/abs/2310.08872)|null|
 |**2023-10-12**|**SSG2: A new modelling paradigm for semantic segmentation**|Foivos I. Diakogiannis et.al.|[2310.08671](http://arxiv.org/abs/2310.08671)|**[link](https://github.com/feevos/ssg2)**|
@@ -439,6 +447,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-16**|**Unifying Image Processing as Visual Prompting Question Answering**|Yihao Liu et.al.|[2310.10513](http://arxiv.org/abs/2310.10513)|null|
+|**2023-10-16**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123](http://arxiv.org/abs/2310.10123)|null|
+|**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
+|**2023-10-15**|**LOVECon: Text-driven Training-Free Long Video Editing with ControlNet**|Zhenyi Liao et.al.|[2310.09711](http://arxiv.org/abs/2310.09711)|null|
+|**2023-10-14**|**Dimma: Semi-supervised Low Light Image Enhancement with Adaptive Dimming**|Wojciech Kozłowski et.al.|[2310.09633](http://arxiv.org/abs/2310.09633)|null|
 |**2023-10-13**|**Image Cropping under Design Constraints**|Takumi Nishiyasu et.al.|[2310.08892](http://arxiv.org/abs/2310.08892)|null|
 |**2023-10-12**|**DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing**|Yueming Lyu et.al.|[2310.08785](http://arxiv.org/abs/2310.08785)|**[link](https://github.com/yueming6568/deltaedit)**|
 |**2023-10-12**|**Frequency-Aware Re-Parameterization for Over-Fitting Based Image Compression**|Yun Ye et.al.|[2310.08068](http://arxiv.org/abs/2310.08068)|null|
