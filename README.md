@@ -74,7 +74,7 @@
 |**2023-10-19**|**PrivacyGAN: robust generative image privacy**|Mariia Zameshina et.al.|[2310.12590](http://arxiv.org/abs/2310.12590)|null|
 |**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina et.al.|[2310.12583](http://arxiv.org/abs/2310.12583)|null|
 |**2023-10-19**|**Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping**|Zijie Pan et.al.|[2310.12474](http://arxiv.org/abs/2310.12474)|**[link](https://github.com/fudan-zvg/pgc-3d)**|
-|**2023-10-18**|**An Image is Worth Multiple Words: Learning Object Level Concepts using Multi-Concept Prompt Learning**|Chen Jin et.al.|[2310.12274](http://arxiv.org/abs/2310.12274)|null|
+|**2023-10-18**|**An Image is Worth Multiple Words: Learning Object Level Concepts using Multi-Concept Prompt Learning**|Chen Jin et.al.|[2310.12274](http://arxiv.org/abs/2310.12274)|**[link](https://github.com/lxasqjc/mcpl)**|
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
 |**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
 |**2023-10-17**|**GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**|Dhruba Ghosh et.al.|[2310.11513](http://arxiv.org/abs/2310.11513)|**[link](https://github.com/djghosh13/geneval)**|
