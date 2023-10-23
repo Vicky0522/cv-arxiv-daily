@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Assumption violations in causal discovery and the robustness of score matching**|Francesco Montagna et.al.|[2310.13387](http://arxiv.org/abs/2310.13387)|null|
 |**2023-10-19**|**Closed-Form Diffusion Models**|Christopher Scarvelis et.al.|[2310.12395](http://arxiv.org/abs/2310.12395)|null|
 |**2023-10-17**|**Sadness, Anger, or Anxiety: Twitter Users' Emotional Responses to Toxicity in Public Conversations**|Ana Aleksandric et.al.|[2310.11436](http://arxiv.org/abs/2310.11436)|null|
 |**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|null|
@@ -62,6 +63,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361](http://arxiv.org/abs/2310.13361)|null|
+|**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268](http://arxiv.org/abs/2310.13268)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
+|**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157](http://arxiv.org/abs/2310.13157)|null|
+|**2023-10-19**|**Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models**|Gabriele Corso et.al.|[2310.13102](http://arxiv.org/abs/2310.13102)|**[link](https://github.com/gcorso/particle-guidance)**|
 |**2023-10-19**|**Cousins Of The Vendi Score: A Family Of Similarity-Based Diversity Metrics For Science And Machine Learning**|Amey Pasarkar et.al.|[2310.12952](http://arxiv.org/abs/2310.12952)|**[link](https://github.com/vertaix/vendi-sampling)**|
 |**2023-10-19**|**STANLEY: Stochastic Gradient Anisotropic Langevin Dynamics for Learning Energy-Based Models**|Belhal Karimi et.al.|[2310.12667](http://arxiv.org/abs/2310.12667)|null|
 |**2023-10-19**|**PrivacyGAN: robust generative image privacy**|Mariia Zameshina et.al.|[2310.12590](http://arxiv.org/abs/2310.12590)|null|
