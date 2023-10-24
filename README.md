@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-22**|**Shortcuts for causal discovery of nonlinear models by score matching**|Francesco Montagna et.al.|[2310.14246](http://arxiv.org/abs/2310.14246)|null|
+|**2023-10-22**|**On propensity score matching with a diverging number of matches**|Yihui He et.al.|[2310.14142](http://arxiv.org/abs/2310.14142)|null|
 |**2023-10-20**|**Assumption violations in causal discovery and the robustness of score matching**|Francesco Montagna et.al.|[2310.13387](http://arxiv.org/abs/2310.13387)|null|
 |**2023-10-19**|**Closed-Form Diffusion Models**|Christopher Scarvelis et.al.|[2310.12395](http://arxiv.org/abs/2310.12395)|null|
 |**2023-10-17**|**Sadness, Anger, or Anxiety: Twitter Users' Emotional Responses to Toxicity in Public Conversations**|Ana Aleksandric et.al.|[2310.11436](http://arxiv.org/abs/2310.11436)|null|
@@ -70,6 +72,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design**|Kevin Lin et.al.|[2310.15144](http://arxiv.org/abs/2310.15144)|**[link](https://github.com/design-bench/design-bench.github.io)**|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
+|**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839](http://arxiv.org/abs/2310.14839)|**[link](https://github.com/qgzhan/esvae)**|
+|**2023-10-23**|**Large Language Models can Share Images, Too!**|Young-Jun Lee et.al.|[2310.14804](http://arxiv.org/abs/2310.14804)|**[link](https://github.com/passing2961/LLM-Share-Image)**|
+|**2023-10-22**|**A Pytorch Reproduction of Masked Generative Image Transformer**|Victor Besnier et.al.|[2310.14400](http://arxiv.org/abs/2310.14400)|**[link](https://github.com/valeoai/maskgit-pytorch)**|
+|**2023-10-21**|**Adversarial Image Generation by Spatial Transformation in Perceptual Colorspaces**|Ayberk Aydin et.al.|[2310.13950](http://arxiv.org/abs/2310.13950)|**[link](https://github.com/ayberkydn/stadv-torch)**|
+|**2023-10-20**|**Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models**|Shawn Shan et.al.|[2310.13828](http://arxiv.org/abs/2310.13828)|null|
+|**2023-10-20**|**Localizing and Editing Knowledge in Text-to-Image Generative Models**|Samyadeep Basu et.al.|[2310.13730](http://arxiv.org/abs/2310.13730)|null|
 |**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361](http://arxiv.org/abs/2310.13361)|null|
 |**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268](http://arxiv.org/abs/2310.13268)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
 |**2023-10-19**|**Conditional Generative Modeling for Images, 3D Animations, and Video**|Vikram Voleti et.al.|[2310.13157](http://arxiv.org/abs/2310.13157)|null|
