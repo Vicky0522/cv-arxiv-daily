@@ -14,8 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
+|**2023-10-25**|**SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process**|Zichong Li et.al.|[2310.16336](http://arxiv.org/abs/2310.16336)|**[link](https://github.com/zichongli5/smurf-thp)**|
+|**2023-10-25**|**Score Matching-based Pseudolikelihood Estimation of Neural Marked Spatio-Temporal Point Process with Uncertainty Quantification**|Zichong Li et.al.|[2310.16310](http://arxiv.org/abs/2310.16310)|null|
 |**2023-10-22**|**Shortcuts for causal discovery of nonlinear models by score matching**|Francesco Montagna et.al.|[2310.14246](http://arxiv.org/abs/2310.14246)|null|
-|**2023-10-22**|**On propensity score matching with a diverging number of matches**|Yihui He et.al.|[2310.14142](http://arxiv.org/abs/2310.14142)|null|
+|**2023-10-22**|**On propensity score matching with a diverging number of matches**|Yihui He et.al.|[2310.14142](http://arxiv.org/abs/2310.14142)|**[link](https://github.com/yihui-he2001/propensity-score-matching-with-diverging-m)**|
 |**2023-10-20**|**Assumption violations in causal discovery and the robustness of score matching**|Francesco Montagna et.al.|[2310.13387](http://arxiv.org/abs/2310.13387)|null|
 |**2023-10-19**|**Closed-Form Diffusion Models**|Christopher Scarvelis et.al.|[2310.12395](http://arxiv.org/abs/2310.12395)|null|
 |**2023-10-17**|**Sadness, Anger, or Anxiety: Twitter Users' Emotional Responses to Toxicity in Public Conversations**|Ana Aleksandric et.al.|[2310.11436](http://arxiv.org/abs/2310.11436)|null|
@@ -65,6 +68,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
+|**2023-10-25**|**Interferometric Neural Networks**|Arun Sehrawat et.al.|[2310.16742](http://arxiv.org/abs/2310.16742)|**[link](https://github.com/arunsehrawat/interferometric-neural-networks)**|
+|**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684](http://arxiv.org/abs/2310.16684)|null|
+|**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656](http://arxiv.org/abs/2310.16656)|null|
+|**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573](http://arxiv.org/abs/2310.16573)|null|
+|**2023-10-25**|**Learning Robust Deep Visual Representations from EEG Brain Recordings**|Prajwal Singh et.al.|[2310.16532](http://arxiv.org/abs/2310.16532)|**[link](https://github.com/prajwalsingh/eegstylegan-ada)**|
+|**2023-10-24**|**Learning Low-Rank Latent Spaces with Simple Deterministic Autoencoder: Theoretical and Empirical Insights**|Alokendu Mazumder et.al.|[2310.16194](http://arxiv.org/abs/2310.16194)|null|
+|**2023-10-24**|**Complex Image Generation SwinTransformer Network for Audio Denoising**|Youshan Zhang et.al.|[2310.16109](http://arxiv.org/abs/2310.16109)|**[link](https://github.com/YoushanZhang/CoxImgSwinTransformer)**|
+|**2023-10-24**|**RePoseDM: Recurrent Pose Alignment and Gradient Guidance for Pose Guided Image Synthesis**|Anant Khandelwal et.al.|[2310.16074](http://arxiv.org/abs/2310.16074)|null|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
 |**2023-10-23**|**Fast Forward Modelling of Galaxy Spatial and Statistical Distributions**|Pascale Berner et.al.|[2310.15223](http://arxiv.org/abs/2310.15223)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|**[link](https://github.com/arthur-qiu/longercrafter)**|
@@ -472,6 +484,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
 |**2023-10-24**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
