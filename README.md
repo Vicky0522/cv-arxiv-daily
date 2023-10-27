@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153](http://arxiv.org/abs/2310.17153)|null|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
 |**2023-10-25**|**SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process**|Zichong Li et.al.|[2310.16336](http://arxiv.org/abs/2310.16336)|**[link](https://github.com/zichongli5/smurf-thp)**|
 |**2023-10-25**|**Score Matching-based Pseudolikelihood Estimation of Neural Marked Spatio-Temporal Point Process with Uncertainty Quantification**|Zichong Li et.al.|[2310.16310](http://arxiv.org/abs/2310.16310)|null|
@@ -75,6 +76,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
+|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|
+|**2023-10-26**|**Exploring the Potential of Generative AI for the World Wide Web**|Nouar AlDahoul et.al.|[2310.17370](http://arxiv.org/abs/2310.17370)|null|
+|**2023-10-26**|**Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics**|Shuai Yang et.al.|[2310.17316](http://arxiv.org/abs/2310.17316)|null|
+|**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167](http://arxiv.org/abs/2310.17167)|null|
+|**2023-10-25**|**Wide Flat Minimum Watermarking for Robust Ownership Verification of GANs**|Jianwei Fei et.al.|[2310.16919](http://arxiv.org/abs/2310.16919)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-25**|**Interferometric Neural Networks**|Arun Sehrawat et.al.|[2310.16742](http://arxiv.org/abs/2310.16742)|**[link](https://github.com/arunsehrawat/interferometric-neural-networks)**|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684](http://arxiv.org/abs/2310.16684)|null|
@@ -493,9 +500,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
+|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047](http://arxiv.org/abs/2310.16047)|null|
-|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|null|
+|**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003](http://arxiv.org/abs/2310.16003)|**[link](https://github.com/showlab/loveu-tgve-2023)**|
 |**2023-10-26**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848](http://arxiv.org/abs/2310.12848)|null|
 |**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
