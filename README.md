@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153](http://arxiv.org/abs/2310.17153)|null|
+|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153](http://arxiv.org/abs/2310.17153)|**[link](https://github.com/longinyu/hsivi)**|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
 |**2023-10-25**|**SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process**|Zichong Li et.al.|[2310.16336](http://arxiv.org/abs/2310.16336)|**[link](https://github.com/zichongli5/smurf-thp)**|
 |**2023-10-25**|**Score Matching-based Pseudolikelihood Estimation of Neural Marked Spatio-Temporal Point Process with Uncertainty Quantification**|Zichong Li et.al.|[2310.16310](http://arxiv.org/abs/2310.16310)|null|
