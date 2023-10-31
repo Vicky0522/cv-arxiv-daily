@@ -70,8 +70,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-27**|**Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-Image Generation**|Jaemin Cho et.al.|[2310.18235](http://arxiv.org/abs/2310.18235)|null|
-|**2023-10-27**|**Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.|[2310.17911](http://arxiv.org/abs/2310.17911)|null|
+|**2023-10-29**|**FPGAN-Control: A Controllable Fingerprint Generator for Training with Synthetic Data**|Alon Shoshan et.al.|[2310.19024](http://arxiv.org/abs/2310.19024)|null|
+|**2023-10-30**|**Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation**|Jaemin Cho et.al.|[2310.18235](http://arxiv.org/abs/2310.18235)|null|
+|**2023-10-27**|**Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.|[2310.17911](http://arxiv.org/abs/2310.17911)|**[link](https://github.com/hyperspectral-skin/hyper-skin-2023)**|
 |**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835](http://arxiv.org/abs/2310.17835)|**[link](https://github.com/sandman002/One-Style-is-All-You-Need-to-Generate-a-Video)**|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
 |**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419](http://arxiv.org/abs/2310.17419)|null|
@@ -495,6 +496,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Learning to Follow Object-Centric Image Editing Instructions Faithfully**|Tuhin Chakrabarty et.al.|[2310.19145](http://arxiv.org/abs/2310.19145)|**[link](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)**|
+|**2023-10-28**|**PrObeD: Proactive Object Detection Wrapper**|Vishal Asnani et.al.|[2310.18788](http://arxiv.org/abs/2310.18788)|null|
 |**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
 |**2023-10-27**|**DocStormer: Revitalizing Multi-Degraded Colored Document Images to Pristine PDF**|Chaowei Liu et.al.|[2310.17910](http://arxiv.org/abs/2310.17910)|null|
 |**2023-10-27**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
