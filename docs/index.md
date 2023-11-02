@@ -71,6 +71,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**|Wei-Ge Chen et.al.|[2311.00571](http://arxiv.org/abs/2311.00571)|null|
+|**2023-11-01**|**fMRI-PTE: A Large-scale fMRI Pretrained Transformer Encoder for Multi-Subject Brain Activity Decoding**|Xuelin Qian et.al.|[2311.00342](http://arxiv.org/abs/2311.00342)|null|
+|**2023-11-01**|**Flooding Regularization for Stable Training of Generative Adversarial Networks**|Iu Yahiro et.al.|[2311.00318](http://arxiv.org/abs/2311.00318)|null|
+|**2023-10-31**|**Diversity and Diffusion: Observations on Synthetic Image Distributions with Stable Diffusion**|David Marwood et.al.|[2311.00056](http://arxiv.org/abs/2311.00056)|null|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
 |**2023-10-31**|**HWD: A Novel Evaluation Score for Styled Handwritten Text Generation**|Vittorio Pippi et.al.|[2310.20316](http://arxiv.org/abs/2310.20316)|**[link](https://github.com/aimagelab/hwd)**|
 |**2023-10-31**|**Machine learning refinement of in situ images acquired by low electron dose LC-TEM**|Hiroyasu Katsuno et.al.|[2310.20279](http://arxiv.org/abs/2310.20279)|null|
@@ -507,6 +511,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**fMRI-PTE: A Large-scale fMRI Pretrained Transformer Encoder for Multi-Subject Brain Activity Decoding**|Xuelin Qian et.al.|[2311.00342](http://arxiv.org/abs/2311.00342)|null|
+|**2023-11-01**|**RAUNE-Net: A Residual and Attention-Driven Underwater Image Enhancement Method**|Wangzhen Peng et.al.|[2311.00246](http://arxiv.org/abs/2311.00246)|**[link](https://github.com/fansuregrin/raune-net)**|
+|**2023-11-01**|**Consistent Video-to-Video Transfer Using Synthetic Dataset**|Jiaxin Cheng et.al.|[2311.00213](http://arxiv.org/abs/2311.00213)|null|
+|**2023-10-31**|**Image Restoration with Point Spread Function Regularization and Active Learning**|Peng Jia et.al.|[2311.00186](http://arxiv.org/abs/2311.00186)|null|
 |**2023-10-31**|**Navigating the Complex Landscape of Shock Filter Cahn-Hilliard Equation: From Regularized to Young Measure Solutions**|Darko Mitrovic et.al.|[2310.20383](http://arxiv.org/abs/2310.20383)|null|
 |**2023-10-31**|**Low-Dose CT Image Enhancement Using Deep Learning**|A. Demir et.al.|[2310.20265](http://arxiv.org/abs/2310.20265)|null|
 |**2023-10-31**|**UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer**|Xuhang Chen et.al.|[2310.20210](http://arxiv.org/abs/2310.20210)|null|
