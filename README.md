@@ -46,7 +46,7 @@
 |**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199](http://arxiv.org/abs/2309.03199)|**[link](https://github.com/shivammehta25/Matcha-TTS)**|
 |**2023-08-29**|**MadSGM: Multivariate Anomaly Detection with Score-based Generative Models**|Haksoo Lim et.al.|[2308.15069](http://arxiv.org/abs/2308.15069)|null|
 |**2023-08-24**|**Machine Unlearning for Causal Inference**|Vikas Ramachandra et.al.|[2308.13559](http://arxiv.org/abs/2308.13559)|null|
-|**2023-08-22**|**Expressive probabilistic sampling in recurrent neural networks**|Shirui Chen et.al.|[2308.11809](http://arxiv.org/abs/2308.11809)|null|
+|**2023-08-22**|**Expressive probabilistic sampling in recurrent neural networks**|Shirui Chen et.al.|[2308.11809](http://arxiv.org/abs/2308.11809)|**[link](https://github.com/chinsengi/score_rnn)**|
 |**2023-08-22**|**Convergence guarantee for consistency models**|Junlong Lyu et.al.|[2308.11449](http://arxiv.org/abs/2308.11449)|null|
 |**2023-08-31**|**Multi-GradSpeech: Towards Diffusion-based Multi-Speaker Text-to-speech Using Consistent Diffusion Models**|Heyang Xue et.al.|[2308.10428](http://arxiv.org/abs/2308.10428)|null|
 |**2023-08-19**|**Semi-Implicit Variational Inference via Score Matching**|Longlin Yu et.al.|[2308.10014](http://arxiv.org/abs/2308.10014)|**[link](https://github.com/longinyu/sivism)**|
@@ -148,7 +148,7 @@
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
 |**2023-10-16**|**LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts**|Hanan Gani et.al.|[2310.10640](http://arxiv.org/abs/2310.10640)|**[link](https://github.com/hananshafi/llmblueprint)**|
 |**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|**[link](https://github.com/hazel1994/vipe)**|
-|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|null|
+|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|**[link](https://github.com/jiayuyang/consistnet)**|
 |**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|**[link](https://github.com/frankfundel/sgcond)**|
 |**2023-10-16**|**Evading Detection Actively: Toward Anti-Forensics against Forgery Localization**|Long Zhuo et.al.|[2310.10036](http://arxiv.org/abs/2310.10036)|null|
 |**2023-10-15**|**Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data**|Jiahao Xia et.al.|[2310.09918](http://arxiv.org/abs/2310.09918)|null|
@@ -253,7 +253,7 @@
 |**2023-09-20**|**Language-Oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation**|Hyelin Nam et.al.|[2309.11127](http://arxiv.org/abs/2309.11127)|null|
 |**2023-09-21**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
 |**2023-09-23**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438](http://arxiv.org/abs/2309.10438)|**[link](https://github.com/lilijiangg/autodiffusion)**|
-|**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348](http://arxiv.org/abs/2309.10348)|null|
+|**2023-09-19**|**Language Guided Adversarial Purification**|Himanshu Singh et.al.|[2309.10348](http://arxiv.org/abs/2309.10348)|**[link](https://github.com/Visual-Conception-Group/LGAP)**|
 |**2023-09-18**|**Multimodal Foundation Models: From Specialists to General-Purpose Assistants**|Chunyuan Li et.al.|[2309.10020](http://arxiv.org/abs/2309.10020)|**[link](https://github.com/computer-vision-in-the-wild/cvinw_readings)**|
 |**2023-09-18**|**DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving**|Xiaofeng Wang et.al.|[2309.09777](http://arxiv.org/abs/2309.09777)|null|
 |**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614](http://arxiv.org/abs/2309.09614)|null|
@@ -379,7 +379,7 @@
 |**2023-08-11**|**White-box Membership Inference Attacks against Diffusion Models**|Yan Pang et.al.|[2308.06405](http://arxiv.org/abs/2308.06405)|null|
 |**2023-08-15**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
 |**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125](http://arxiv.org/abs/2308.06125)|null|
-|**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
+|**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|**[link](https://github.com/endo-yuki-t/mag)**|
 |**2023-08-10**|**SAR Target Image Generation Method Using Azimuth-Controllable Generative Adversarial Network**|Chenwei Wang et.al.|[2308.05489](http://arxiv.org/abs/2308.05489)|null|
 |**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384](http://arxiv.org/abs/2308.05384)|**[link](https://github.com/hongyangdu/gdmopt)**|
 |**2023-08-09**|**PromptPaint: Steering Text-to-Image Generation Through Paint Medium-like Interactions**|John Joon Young Chung et.al.|[2308.05184](http://arxiv.org/abs/2308.05184)|**[link](https://github.com/johnr0/promptpaint)**|
