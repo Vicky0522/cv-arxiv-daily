@@ -71,6 +71,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071](http://arxiv.org/abs/2311.04071)|null|
+|**2023-11-07**|**MeVGAN: GAN-based Plugin Model for Video Generation with Applications in Colonoscopy**|Łukasz Struski et.al.|[2311.03884](http://arxiv.org/abs/2311.03884)|null|
+|**2023-11-07**|**SCONE-GAN: Semantic Contrastive learning-based Generative Adversarial Network for an end-to-end image translation**|Iman Abbasnejad et.al.|[2311.03866](http://arxiv.org/abs/2311.03866)|null|
+|**2023-11-07**|**Reducing Spatial Fitting Error in Distillation of Denoising Diffusion Models**|Shengzhe Zhou et.al.|[2311.03830](http://arxiv.org/abs/2311.03830)|null|
+|**2023-11-07**|**CapST: An Enhanced and Lightweight Method for Deepfake Video Classification**|Wasim Ahmad et.al.|[2311.03782](http://arxiv.org/abs/2311.03782)|null|
+|**2023-11-07**|**LLM as an Art Director (LaDi): Using LLMs to improve Text-to-Media Generators**|Allen Roush et.al.|[2311.03716](http://arxiv.org/abs/2311.03716)|null|
+|**2023-11-07**|**Image Generation and Learning Strategy for Deep Document Forgery Detection**|Yamato Okamoto et.al.|[2311.03650](http://arxiv.org/abs/2311.03650)|null|
 |**2023-11-06**|**SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis**|Hanrong Ye et.al.|[2311.03355](http://arxiv.org/abs/2311.03355)|null|
 |**2023-11-06**|**Cross-Image Attention for Zero-Shot Appearance Transfer**|Yuval Alaluf et.al.|[2311.03335](http://arxiv.org/abs/2311.03335)|null|
 |**2023-11-04**|**From Trojan Horses to Castle Walls: Unveiling Bilateral Backdoor Effects in Diffusion Models**|Zhuoshi Pan et.al.|[2311.02373](http://arxiv.org/abs/2311.02373)|null|
@@ -524,6 +531,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071](http://arxiv.org/abs/2311.04071)|null|
+|**2023-11-07**|**CLIP Guided Image-perceptive Prompt Learning for Image Enhancement**|Zinuo Li et.al.|[2311.03943](http://arxiv.org/abs/2311.03943)|null|
+|**2023-11-07**|**Constrained Regularization by Denoising with Automatic Parameter Selection**|Pasquale Cascarano et.al.|[2311.03819](http://arxiv.org/abs/2311.03819)|null|
 |**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105](http://arxiv.org/abs/2311.03105)|null|
 |**2023-11-06**|**A New Extrapolation Economy Cascadic Multigrid Method for Image Restoration Problems**|Zhaoteng Chu et.al.|[2311.03010](http://arxiv.org/abs/2311.03010)|null|
 |**2023-11-06**|**Zero-Shot Enhancement of Low-Light Image Based on Retinex Decomposition**|Wenchao Li et.al.|[2311.02995](http://arxiv.org/abs/2311.02995)|null|
