@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores**|Daniel Y. Fu et.al.|[2311.05908](http://arxiv.org/abs/2311.05908)|null|
 |**2023-10-30**|**Scaling Riemannian Diffusion Models**|Aaron Lou et.al.|[2310.20030](http://arxiv.org/abs/2310.20030)|null|
 |**2023-10-27**|**Sample Complexity Bounds for Score-Matching: Causal Discovery and Generative Modeling**|Zhenyu Zhu et.al.|[2310.18123](http://arxiv.org/abs/2310.18123)|null|
 |**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153](http://arxiv.org/abs/2310.17153)|**[link](https://github.com/longinyu/hsivi)**|
