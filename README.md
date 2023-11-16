@@ -28,7 +28,7 @@
 |**2023-10-25**|**SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process**|Zichong Li et.al.|[2310.16336](http://arxiv.org/abs/2310.16336)|**[link](https://github.com/zichongli5/smurf-thp)**|
 |**2023-10-25**|**Score Matching-based Pseudolikelihood Estimation of Neural Marked Spatio-Temporal Point Process with Uncertainty Quantification**|Zichong Li et.al.|[2310.16310](http://arxiv.org/abs/2310.16310)|null|
 |**2023-10-22**|**Shortcuts for causal discovery of nonlinear models by score matching**|Francesco Montagna et.al.|[2310.14246](http://arxiv.org/abs/2310.14246)|null|
-|**2023-10-22**|**On propensity score matching with a diverging number of matches**|Yihui He et.al.|[2310.14142](http://arxiv.org/abs/2310.14142)|**[link](https://github.com/yihui-he2001/propensity-score-matching-with-diverging-m)**|
+|**2023-11-14**|**On propensity score matching with a diverging number of matches**|Yihui He et.al.|[2310.14142](http://arxiv.org/abs/2310.14142)|**[link](https://github.com/yihui-he2001/propensity-score-matching-with-diverging-m)**|
 |**2023-10-20**|**Assumption violations in causal discovery and the robustness of score matching**|Francesco Montagna et.al.|[2310.13387](http://arxiv.org/abs/2310.13387)|null|
 |**2023-10-19**|**Closed-Form Diffusion Models**|Christopher Scarvelis et.al.|[2310.12395](http://arxiv.org/abs/2310.12395)|null|
 |**2023-10-17**|**Sadness, Anger, or Anxiety: Twitter Users' Emotional Responses to Toxicity in Public Conversations**|Ana Aleksandric et.al.|[2310.11436](http://arxiv.org/abs/2310.11436)|null|
@@ -80,6 +80,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Finding AI-Generated Faces in the Wild**|Gonzalo J. Aniano Porcile et.al.|[2311.08577](http://arxiv.org/abs/2311.08577)|null|
 |**2023-11-14**|**Peer is Your Pillar: A Data-unbalanced Conditional GANs for Few-shot Image Generation**|Ziqiang Li et.al.|[2311.08217](http://arxiv.org/abs/2311.08217)|null|
 |**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
 |**2023-11-14**|**One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**|Minghua Liu et.al.|[2311.07885](http://arxiv.org/abs/2311.07885)|null|
@@ -557,6 +558,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Progressive Feedback-Enhanced Transformer for Image Forgery Localization**|Haochen Zhu et.al.|[2311.08910](http://arxiv.org/abs/2311.08910)|null|
 |**2023-11-14**|**Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation**|Zhihang Zhong et.al.|[2311.08007](http://arxiv.org/abs/2311.08007)|**[link](https://github.com/zzh-tech/interpany-clearer)**|
 |**2023-11-09**|**Dynamic Association Learning of Self-Attention and Convolution in Image Restoration**|Kui Jiang et.al.|[2311.05147](http://arxiv.org/abs/2311.05147)|null|
 |**2023-11-08**|**LuminanceL1Loss: A loss function which measures percieved brightness and colour differences**|Dominic De Jonge et.al.|[2311.04614](http://arxiv.org/abs/2311.04614)|null|
