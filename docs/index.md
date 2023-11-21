@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-19**|**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**|Yixun Liang et.al.|[2311.11284](http://arxiv.org/abs/2311.11284)|**[link](https://github.com/envision-research/luciddreamer)**|
 |**2023-11-14**|**Learning Bayes-Optimal Channel Estimation for Holographic MIMO in Unknown EM Environments**|Wentao Yu et.al.|[2311.07908](http://arxiv.org/abs/2311.07908)|null|
 |**2023-11-10**|**FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores**|Daniel Y. Fu et.al.|[2311.05908](http://arxiv.org/abs/2311.05908)|null|
 |**2023-10-30**|**Scaling Riemannian Diffusion Models**|Aaron Lou et.al.|[2310.20030](http://arxiv.org/abs/2310.20030)|null|
@@ -73,6 +74,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Advancing Urban Renewal: An Automated Approach to Generating Historical Arcade Facades with Stable Diffusion Models**|Zheyuan Kuang et.al.|[2311.11590](http://arxiv.org/abs/2311.11590)|null|
+|**2023-11-19**|**Data efficient protein backmapping with backbone-to-side chain transformers**|Shriram Chennakesavalu et.al.|[2311.11459](http://arxiv.org/abs/2311.11459)|null|
+|**2023-11-19**|**DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model**|Zhenghao Pan et.al.|[2311.11417](http://arxiv.org/abs/2311.11417)|null|
+|**2023-11-19**|**A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI**|Yuheng Fan et.al.|[2311.11383](http://arxiv.org/abs/2311.11383)|null|
+|**2023-11-19**|**MoVideo: Motion-Aware Video Generation with Diffusion Models**|Jingyun Liang et.al.|[2311.11325](http://arxiv.org/abs/2311.11325)|null|
+|**2023-11-19**|**AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort**|Wen Wang et.al.|[2311.11243](http://arxiv.org/abs/2311.11243)|null|
+|**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
+|**2023-11-18**|**Mitigating Exposure Bias in Discriminator Guided Diffusion Models**|Eleftherios Tsonis et.al.|[2311.11164](http://arxiv.org/abs/2311.11164)|null|
+|**2023-11-18**|**User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content**|Hongyang Du et.al.|[2311.11094](http://arxiv.org/abs/2311.11094)|null|
+|**2023-11-18**|**Wasserstein Convergence Guarantees for a General Class of Score-Based Generative Models**|Xuefeng Gao et.al.|[2311.11003](http://arxiv.org/abs/2311.11003)|null|
 |**2023-11-17**|**Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**|Rohit Girdhar et.al.|[2311.10709](http://arxiv.org/abs/2311.10709)|null|
 |**2023-11-17**|**SelfEval: Leveraging the discriminative nature of generative models for evaluation**|Sai Saketh Rambhatla et.al.|[2311.10708](http://arxiv.org/abs/2311.10708)|null|
 |**2023-11-17**|**Enhancing Object Coherence in Layout-to-Image Synthesis**|Yibin Wang et.al.|[2311.10522](http://arxiv.org/abs/2311.10522)|null|
@@ -559,6 +570,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Cut-and-Paste: Subject-Driven Video Editing with Attention Control**|Zhichao Zuo et.al.|[2311.11697](http://arxiv.org/abs/2311.11697)|null|
+|**2023-11-20**|**Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement**|Yanyan Wei et.al.|[2311.11695](http://arxiv.org/abs/2311.11695)|null|
+|**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He et.al.|[2311.11638](http://arxiv.org/abs/2311.11638)|**[link](https://github.com/chunminghe/reti-diff)**|
+|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|null|
+|**2023-11-19**|**On the Noise Scheduling for Generating Plausible Designs with Diffusion Models**|Jiajie Fan et.al.|[2311.11207](http://arxiv.org/abs/2311.11207)|null|
 |**2023-11-17**|**Astronomical Images Quality Assessment with Automated Machine Learning**|Olivier Parisot et.al.|[2311.10617](http://arxiv.org/abs/2311.10617)|null|
 |**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089](http://arxiv.org/abs/2311.10089)|null|
