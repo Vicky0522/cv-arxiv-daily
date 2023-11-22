@@ -74,6 +74,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning**|Jiaxi Lv et.al.|[2311.12631](http://arxiv.org/abs/2311.12631)|null|
+|**2023-11-20**|**NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**|Shachar Rosenman et.al.|[2311.12229](http://arxiv.org/abs/2311.12229)|null|
+|**2023-11-20**|**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**|Rohit Gandikota et.al.|[2311.12092](http://arxiv.org/abs/2311.12092)|**[link](https://github.com/rohitgandikota/sliders)**|
 |**2023-11-20**|**Advancing Urban Renewal: An Automated Approach to Generating Historical Arcade Facades with Stable Diffusion Models**|Zheyuan Kuang et.al.|[2311.11590](http://arxiv.org/abs/2311.11590)|null|
 |**2023-11-19**|**Data efficient protein backmapping with backbone-to-side chain transformers**|Shriram Chennakesavalu et.al.|[2311.11459](http://arxiv.org/abs/2311.11459)|null|
 |**2023-11-19**|**DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model**|Zhenghao Pan et.al.|[2311.11417](http://arxiv.org/abs/2311.11417)|null|
@@ -570,10 +573,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**PanBench: Towards High-Resolution and High-Performance Pansharpening**|Shiying Wang et.al.|[2311.12083](http://arxiv.org/abs/2311.12083)|null|
+|**2023-11-19**|**EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models**|Ruoxi Chen et.al.|[2311.12066](http://arxiv.org/abs/2311.12066)|null|
 |**2023-11-20**|**Cut-and-Paste: Subject-Driven Video Editing with Attention Control**|Zhichao Zuo et.al.|[2311.11697](http://arxiv.org/abs/2311.11697)|null|
 |**2023-11-20**|**Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement**|Yanyan Wei et.al.|[2311.11695](http://arxiv.org/abs/2311.11695)|null|
 |**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He et.al.|[2311.11638](http://arxiv.org/abs/2311.11638)|**[link](https://github.com/chunminghe/reti-diff)**|
-|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|null|
+|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|**[link](https://github.com/caojiezhang/deqir)**|
 |**2023-11-19**|**On the Noise Scheduling for Generating Plausible Designs with Diffusion Models**|Jiajie Fan et.al.|[2311.11207](http://arxiv.org/abs/2311.11207)|null|
 |**2023-11-17**|**Astronomical Images Quality Assessment with Automated Machine Learning**|Olivier Parisot et.al.|[2311.10617](http://arxiv.org/abs/2311.10617)|null|
 |**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
