@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -82,7 +82,7 @@ layout: default
 |**2023-11-20**|**NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**|Shachar Rosenman et.al.|[2311.12229](http://arxiv.org/abs/2311.12229)|null|
 |**2023-11-20**|**Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models**|Rohit Gandikota et.al.|[2311.12092](http://arxiv.org/abs/2311.12092)|**[link](https://github.com/rohitgandikota/sliders)**|
 |**2023-11-20**|**Advancing Urban Renewal: An Automated Approach to Generating Historical Arcade Facades with Stable Diffusion Models**|Zheyuan Kuang et.al.|[2311.11590](http://arxiv.org/abs/2311.11590)|null|
-|**2023-11-19**|**Data efficient protein backmapping with backbone-to-side chain transformers**|Shriram Chennakesavalu et.al.|[2311.11459](http://arxiv.org/abs/2311.11459)|null|
+|**2023-11-19**|**Data efficient protein backmapping with backbone-to-side chain transformers**|Shriram Chennakesavalu et.al.|[2311.11459](http://arxiv.org/abs/2311.11459)|**[link](https://github.com/rotskoff-group/transformer-backmapping)**|
 |**2023-11-19**|**DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model**|Zhenghao Pan et.al.|[2311.11417](http://arxiv.org/abs/2311.11417)|null|
 |**2023-11-19**|**A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI**|Yuheng Fan et.al.|[2311.11383](http://arxiv.org/abs/2311.11383)|null|
 |**2023-11-19**|**MoVideo: Motion-Aware Video Generation with Diffusion Models**|Jingyun Liang et.al.|[2311.11325](http://arxiv.org/abs/2311.11325)|null|
