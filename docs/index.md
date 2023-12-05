@@ -14,9 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|null|
 |**2023-11-30**|**SMaRt: Improving GANs with Score Matching Regularity**|Mengfei Xia et.al.|[2311.18208](http://arxiv.org/abs/2311.18208)|null|
 |**2023-11-23**|**Sample-Efficient Training for Diffusion**|Shivam Gupta et.al.|[2311.13745](http://arxiv.org/abs/2311.13745)|null|
-|**2023-11-22**|**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**|Yixun Liang et.al.|[2311.11284](http://arxiv.org/abs/2311.11284)|**[link](https://github.com/envision-research/luciddreamer)**|
+|**2023-12-02**|**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**|Yixun Liang et.al.|[2311.11284](http://arxiv.org/abs/2311.11284)|**[link](https://github.com/envision-research/luciddreamer)**|
 |**2023-11-14**|**Learning Bayes-Optimal Channel Estimation for Holographic MIMO in Unknown EM Environments**|Wentao Yu et.al.|[2311.07908](http://arxiv.org/abs/2311.07908)|null|
 |**2023-11-10**|**FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores**|Daniel Y. Fu et.al.|[2311.05908](http://arxiv.org/abs/2311.05908)|null|
 |**2023-10-30**|**Scaling Riemannian Diffusion Models**|Aaron Lou et.al.|[2310.20030](http://arxiv.org/abs/2310.20030)|null|
@@ -76,6 +77,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
+|**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139](http://arxiv.org/abs/2312.02139)|**[link](https://github.com/nvlabs/diffit)**|
+|**2023-12-04**|**Style Aligned Image Generation via Shared Attention**|Amir Hertz et.al.|[2312.02133](http://arxiv.org/abs/2312.02133)|null|
+|**2023-12-04**|**GIVT: Generative Infinite-Vocabulary Transformers**|Michael Tschannen et.al.|[2312.02116](http://arxiv.org/abs/2312.02116)|null|
+|**2023-12-04**|**UniGS: Unified Representation for Image Generation and Segmentation**|Lu Qi et.al.|[2312.01985](http://arxiv.org/abs/2312.01985)|**[link](https://github.com/qqlu/entity)**|
+|**2023-12-04**|**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**|Xunguang Wang et.al.|[2312.01886](http://arxiv.org/abs/2312.01886)|null|
+|**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742](http://arxiv.org/abs/2312.01742)|null|
+|**2023-12-04**|**ResEnsemble-DDPM: Residual Denoising Diffusion Probabilistic Models for Ensemble Learning**|Shi Zhenning et.al.|[2312.01682](http://arxiv.org/abs/2312.01682)|null|
+|**2023-12-03**|**Diffusion Posterior Sampling for Nonlinear CT Reconstruction**|Shudong Li et.al.|[2312.01464](http://arxiv.org/abs/2312.01464)|null|
+|**2023-12-03**|**Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models**|Shengqu Cai et.al.|[2312.01409](http://arxiv.org/abs/2312.01409)|null|
 |**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
 |**2023-12-01**|**StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter**|Gongye Liu et.al.|[2312.00330](http://arxiv.org/abs/2312.00330)|**[link](https://github.com/GongyeLiu/StyleCrafter)**|
 |**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
@@ -628,6 +639,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence**|Yuchao Gu et.al.|[2312.02087](http://arxiv.org/abs/2312.02087)|null|
+|**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999](http://arxiv.org/abs/2312.01999)|null|
+|**2023-12-04**|**Multi-task Image Restoration Guided By Robust DINO Features**|Xin Lin et.al.|[2312.01677](http://arxiv.org/abs/2312.01677)|null|
+|**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663](http://arxiv.org/abs/2312.01663)|null|
+|**2023-12-03**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529](http://arxiv.org/abs/2312.01529)|null|
+|**2023-12-03**|**Enhancing and Adapting in the Clinic: Source-free Unsupervised Domain Adaptation for Medical Image Enhancement**|Heng Li et.al.|[2312.01338](http://arxiv.org/abs/2312.01338)|**[link](https://github.com/liamheng/annotation-free-medical-image-enhancement)**|
+|**2023-12-03**|**An Augmented Lagrangian Primal-Dual Semismooth Newton Method for Multi-Block Composite Optimization**|Zhanwang Deng et.al.|[2312.01273](http://arxiv.org/abs/2312.01273)|null|
+|**2023-12-02**|**Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation**|Zhipeng Du et.al.|[2312.01220](http://arxiv.org/abs/2312.01220)|null|
+|**2023-12-02**|**Taming Latent Diffusion Models to See in the Dark**|Qiang Wen et.al.|[2312.01027](http://arxiv.org/abs/2312.01027)|null|
+|**2023-12-01**|**Zero-Shot Video Question Answering with Procedural Programs**|Rohan Choudhury et.al.|[2312.00937](http://arxiv.org/abs/2312.00937)|null|
 |**2023-12-01**|**Adversarial Score Distillation: When score distillation meets GAN**|Min Wei et.al.|[2312.00739](http://arxiv.org/abs/2312.00739)|**[link](https://github.com/2y7c3/asd)**|
 |**2023-11-30**|**Advancements and Trends in Ultra-High-Resolution Image Processing: An Overview**|Zhuoran Zheng et.al.|[2312.00250](http://arxiv.org/abs/2312.00250)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
