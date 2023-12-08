@@ -77,6 +77,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Scaling Laws of Synthetic Images for Model Training ... for Now**|Lijie Fan et.al.|[2312.04567](http://arxiv.org/abs/2312.04567)|null|
+|**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566](http://arxiv.org/abs/2312.04566)|null|
+|**2023-12-07**|**GenDeF: Learning Generative Deformation Field for Video Generation**|Wen Wang et.al.|[2312.04561](http://arxiv.org/abs/2312.04561)|null|
+|**2023-12-07**|**GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation**|Shoufa Chen et.al.|[2312.04557](http://arxiv.org/abs/2312.04557)|null|
+|**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552](http://arxiv.org/abs/2312.04552)|null|
+|**2023-12-07**|**Free3D: Consistent Novel View Synthesis without 3D Representation**|Chuanxia Zheng et.al.|[2312.04551](http://arxiv.org/abs/2312.04551)|**[link](https://github.com/lyndonzheng/Free3D)**|
+|**2023-12-07**|**Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation**|Zhiwu Qing et.al.|[2312.04483](http://arxiv.org/abs/2312.04483)|null|
+|**2023-12-07**|**PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding**|Zhen Li et.al.|[2312.04461](http://arxiv.org/abs/2312.04461)|null|
+|**2023-12-07**|**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion**|Yujie Wei et.al.|[2312.04433](http://arxiv.org/abs/2312.04433)|null|
+|**2023-12-07**|**Approximate Caching for Efficiently Serving Diffusion Models**|Shubham Agarwal et.al.|[2312.04429](http://arxiv.org/abs/2312.04429)|null|
 |**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701](http://arxiv.org/abs/2312.03701)|**[link](https://github.com/LTH14/rcg)**|
 |**2023-12-06**|**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**|Ali Naseh et.al.|[2312.03692](http://arxiv.org/abs/2312.03692)|null|
 |**2023-12-06**|**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation**|Zhouxia Wang et.al.|[2312.03641](http://arxiv.org/abs/2312.03641)|null|
@@ -659,7 +669,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698](http://arxiv.org/abs/2312.03698)|null|
+|**2023-12-07**|**GenDeF: Learning Generative Deformation Field for Video Generation**|Wen Wang et.al.|[2312.04561](http://arxiv.org/abs/2312.04561)|null|
+|**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524](http://arxiv.org/abs/2312.04524)|**[link](https://github.com/rehg-lab/rave)**|
+|**2023-12-07**|**Ricci-Notation Tensor Framework for Model-Based Approaches to Imaging**|Dileepan Joseph et.al.|[2312.04018](http://arxiv.org/abs/2312.04018)|null|
+|**2023-12-06**|**A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement**|Risab Biswas et.al.|[2312.03946](http://arxiv.org/abs/2312.03946)|null|
+|**2023-12-06**|**FAAC: Facial Animation Generation with Anchor Frame and Conditional Control for Superior Fidelity and Editability**|Linze Li et.al.|[2312.03775](http://arxiv.org/abs/2312.03775)|null|
+|**2023-12-05**|**DiffusionAtlas: High-Fidelity Consistent Diffusion Video Editing**|Shao-Yu Chang et.al.|[2312.03772](http://arxiv.org/abs/2312.03772)|null|
+|**2023-12-07**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698](http://arxiv.org/abs/2312.03698)|null|
 |**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640](http://arxiv.org/abs/2312.03640)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
 |**2023-12-06**|**Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**|Jianjin Xu et.al.|[2312.03556](http://arxiv.org/abs/2312.03556)|null|
 |**2023-12-05**|**MagicStick: Controllable Video Editing via Control Handle Transformations**|Yue Ma et.al.|[2312.03047](http://arxiv.org/abs/2312.03047)|**[link](https://github.com/mayuelala/magicstick)**|
