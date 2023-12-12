@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-09**|**The New Age of Collusion? An Empirical Study into Airbnb's Pricing Dynamics and Market Behavior**|Richeng Piao et.al.|[2312.05633](http://arxiv.org/abs/2312.05633)|null|
 |**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|null|
 |**2023-11-30**|**SMaRt: Improving GANs with Score Matching Regularity**|Mengfei Xia et.al.|[2311.18208](http://arxiv.org/abs/2311.18208)|null|
 |**2023-11-23**|**Sample-Efficient Training for Diffusion**|Shivam Gupta et.al.|[2311.13745](http://arxiv.org/abs/2311.13745)|null|
@@ -77,6 +78,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662](http://arxiv.org/abs/2312.06662)|null|
+|**2023-12-11**|**ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models**|Denis Zavadski et.al.|[2312.06573](http://arxiv.org/abs/2312.06573)|**[link](https://github.com/vislearn/ControlNet-XS)**|
+|**2023-12-11**|**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**|Xu Peng et.al.|[2312.06354](http://arxiv.org/abs/2312.06354)|null|
+|**2023-12-11**|**Compensation Sampling for Improved Convergence in Diffusion Models**|Hui Lu et.al.|[2312.06285](http://arxiv.org/abs/2312.06285)|null|
+|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|**[link](https://github.com/ddz16/UIEDP)**|
+|**2023-12-11**|**Invariant Representation Learning via Decoupling Style and Spurious Features**|Ruimeng Li et.al.|[2312.06226](http://arxiv.org/abs/2312.06226)|null|
+|**2023-12-11**|**Stellar: Systematic Evaluation of Human-Centric Personalized Text-to-Image Methods**|Panos Achlioptas et.al.|[2312.06116](http://arxiv.org/abs/2312.06116)|null|
+|**2023-12-10**|**Correcting Diffusion Generation through Resampling**|Yujian Liu et.al.|[2312.06038](http://arxiv.org/abs/2312.06038)|**[link](https://github.com/ucsb-nlp-chang/diffusion_resampling)**|
+|**2023-12-10**|**Disentangled Representation Learning for Controllable Person Image Generation**|Wenju Xu et.al.|[2312.05798](http://arxiv.org/abs/2312.05798)|null|
+|**2023-12-10**|**AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model**|Teng Hu et.al.|[2312.05767](http://arxiv.org/abs/2312.05767)|null|
 |**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|null|
 |**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107](http://arxiv.org/abs/2312.05107)|null|
 |**2023-12-08**|**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control**|Jaskirat Singh et.al.|[2312.05039](http://arxiv.org/abs/2312.05039)|null|
@@ -678,6 +689,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|**[link](https://github.com/ddz16/UIEDP)**|
+|**2023-12-11**|**DisControlFace: Disentangled Control for Personalized Facial Image Editing**|Haozhe Jia et.al.|[2312.06193](http://arxiv.org/abs/2312.06193)|null|
+|**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
+|**2023-12-10**|**A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing**|Maomao Li et.al.|[2312.05856](http://arxiv.org/abs/2312.05856)|null|
+|**2023-12-09**|**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion**|Yuming Qiao et.al.|[2312.05482](http://arxiv.org/abs/2312.05482)|null|
+|**2023-12-08**|**NoiseCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions in Diffusion Models**|Yusuf Dalva et.al.|[2312.05390](http://arxiv.org/abs/2312.05390)|null|
+|**2023-12-08**|**Learning 3D Particle-based Simulators from RGB-D Videos**|William F. Whitney et.al.|[2312.05359](http://arxiv.org/abs/2312.05359)|null|
 |**2023-12-08**|**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**|Bruno Lecouat et.al.|[2312.05190](http://arxiv.org/abs/2312.05190)|null|
 |**2023-12-08**|**Prompt-In-Prompt Learning for Universal Image Restoration**|Zilong Li et.al.|[2312.05038](http://arxiv.org/abs/2312.05038)|**[link](https://github.com/longzilicart/pip_universal)**|
 |**2023-12-08**|**Decoupling Degradation and Content Processing for Adverse Weather Image Restoration**|Xi Wang et.al.|[2312.05006](http://arxiv.org/abs/2312.05006)|null|
