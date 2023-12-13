@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Adversarial Estimation of Topological Dimension with Harmonic Score Maps**|Eric Yeats et.al.|[2312.06869](http://arxiv.org/abs/2312.06869)|null|
 |**2023-12-09**|**The New Age of Collusion? An Empirical Study into Airbnb's Pricing Dynamics and Market Behavior**|Richeng Piao et.al.|[2312.05633](http://arxiv.org/abs/2312.05633)|null|
 |**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|null|
 |**2023-11-30**|**SMaRt: Improving GANs with Score Matching Regularity**|Mengfei Xia et.al.|[2311.18208](http://arxiv.org/abs/2311.18208)|null|
@@ -78,6 +79,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
+|**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536](http://arxiv.org/abs/2312.07536)|null|
+|**2023-12-12**|**PEEKABOO: Interactive Video Generation via Masked-Diffusion**|Yash Jain et.al.|[2312.07509](http://arxiv.org/abs/2312.07509)|null|
+|**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424](http://arxiv.org/abs/2312.07424)|null|
+|**2023-12-12**|**DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing**|Kaiwen Zhang et.al.|[2312.07409](http://arxiv.org/abs/2312.07409)|null|
+|**2023-12-12**|**Learned representation-guided diffusion models for large-image generation**|Alexandros Graikos et.al.|[2312.07330](http://arxiv.org/abs/2312.07330)|null|
+|**2023-12-12**|**Probing Commonsense Reasoning Capability of Text-to-Image Generative Models via Non-visual Description**|Mianzhi Pan et.al.|[2312.07294](http://arxiv.org/abs/2312.07294)|null|
+|**2023-12-12**|**Image Content Generation with Causal Reasoning**|Xiaochuan Li et.al.|[2312.07132](http://arxiv.org/abs/2312.07132)|**[link](https://github.com/ieit-agi/mix-shannon)**|
+|**2023-12-12**|**Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass the Censorship of Text-to-Image Generation Model**|Yimo Deng et.al.|[2312.07130](http://arxiv.org/abs/2312.07130)|**[link](https://github.com/researchcode001/divide-and-conquer-attack)**|
+|**2023-12-11**|**User Friendly and Adaptable Discriminative AI: Using the Lessons from the Success of LLMs and Image Generation Models**|Son The Nguyen et.al.|[2312.06826](http://arxiv.org/abs/2312.06826)|null|
 |**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662](http://arxiv.org/abs/2312.06662)|null|
 |**2023-12-11**|**ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models**|Denis Zavadski et.al.|[2312.06573](http://arxiv.org/abs/2312.06573)|**[link](https://github.com/vislearn/ControlNet-XS)**|
 |**2023-12-11**|**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization**|Xu Peng et.al.|[2312.06354](http://arxiv.org/abs/2312.06354)|null|
@@ -689,6 +700,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Hyper-Restormer: A General Hyperspectral Image Restoration Transformer for Remote Sensing Imaging**|Yo-Yu Lai et.al.|[2312.07016](http://arxiv.org/abs/2312.07016)|null|
+|**2023-12-12**|**DGNet: Dynamic Gradient-guided Network with Noise Suppression for Underwater Image Enhancement**|Jingchun Zhou et.al.|[2312.06999](http://arxiv.org/abs/2312.06999)|null|
+|**2023-12-12**|**IA2U: A Transfer Plugin with Multi-Prior for In-Air Model to Underwater**|Jingchun Zhou et.al.|[2312.06955](http://arxiv.org/abs/2312.06955)|null|
+|**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
+|**2023-12-11**|**SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models**|Yuzhou Huang et.al.|[2312.06739](http://arxiv.org/abs/2312.06739)|**[link](https://github.com/TencentARC/SmartEdit)**|
+|**2023-12-11**|**Learning to See Low-Light Images via Feature Domain Adaptation**|Qirui Yang et.al.|[2312.06723](http://arxiv.org/abs/2312.06723)|null|
+|**2023-12-10**|**Neutral Editing Framework for Diffusion-based Video Editing**|Sunjae Yoon et.al.|[2312.06708](http://arxiv.org/abs/2312.06708)|null|
 |**2023-12-11**|**UIEDP:Underwater Image Enhancement with Diffusion Prior**|Dazhao Du et.al.|[2312.06240](http://arxiv.org/abs/2312.06240)|null|
 |**2023-12-11**|**DisControlFace: Disentangled Control for Personalized Facial Image Editing**|Haozhe Jia et.al.|[2312.06193](http://arxiv.org/abs/2312.06193)|null|
 |**2023-12-11**|**Textual Prompt Guided Image Restoration**|Qiuhai Yan et.al.|[2312.06162](http://arxiv.org/abs/2312.06162)|**[link](https://github.com/motong-ai-studio/textpromptir)**|
