@@ -19,10 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-13**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851](http://arxiv.org/abs/2312.07851)|null|
+|**2023-12-14**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851](http://arxiv.org/abs/2312.07851)|null|
 |**2023-12-11**|**Adversarial Estimation of Topological Dimension with Harmonic Score Maps**|Eric Yeats et.al.|[2312.06869](http://arxiv.org/abs/2312.06869)|null|
 |**2023-12-09**|**The New Age of Collusion? An Empirical Study into Airbnb's Pricing Dynamics and Market Behavior**|Richeng Piao et.al.|[2312.05633](http://arxiv.org/abs/2312.05633)|null|
-|**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|null|
+|**2023-12-14**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[2312.02027](http://arxiv.org/abs/2312.02027)|**[link](https://github.com/facebookresearch/soc-matching)**|
 |**2023-11-30**|**SMaRt: Improving GANs with Score Matching Regularity**|Mengfei Xia et.al.|[2311.18208](http://arxiv.org/abs/2311.18208)|null|
 |**2023-11-23**|**Sample-Efficient Training for Diffusion**|Shivam Gupta et.al.|[2311.13745](http://arxiv.org/abs/2311.13745)|null|
 |**2023-12-02**|**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**|Yixun Liang et.al.|[2311.11284](http://arxiv.org/abs/2311.11284)|**[link](https://github.com/envision-research/luciddreamer)**|
@@ -87,6 +87,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
+|**2023-12-14**|**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection**|Hongsuk Choi et.al.|[2312.09252](http://arxiv.org/abs/2312.09252)|null|
+|**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251](http://arxiv.org/abs/2312.09251)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
+|**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193](http://arxiv.org/abs/2312.09193)|null|
+|**2023-12-14**|**VideoLCM: Video Latent Consistency Model**|Xiang Wang et.al.|[2312.09109](http://arxiv.org/abs/2312.09109)|null|
+|**2023-12-13**|**SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance**|Yuanyou Xu et.al.|[2312.08889](http://arxiv.org/abs/2312.08889)|null|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
+|**2023-12-14**|**Local Conditional Controlling for Text-to-Image Diffusion Models**|Yibo Zhao et.al.|[2312.08768](http://arxiv.org/abs/2312.08768)|**[link](https://github.com/yiboozhao/local-control)**|
 |**2023-12-13**|**A Survey of Generative AI for Intelligent Transportation Systems**|Huan Yan et.al.|[2312.08248](http://arxiv.org/abs/2312.08248)|null|
 |**2023-12-13**|**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**|Yan Pang et.al.|[2312.08207](http://arxiv.org/abs/2312.08207)|null|
 |**2023-12-13**|**$ρ$ -Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153](http://arxiv.org/abs/2312.08153)|null|
@@ -719,6 +727,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
+|**2023-12-14**|**SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds**|Minghao Chen et.al.|[2312.09246](http://arxiv.org/abs/2312.09246)|null|
+|**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853](http://arxiv.org/abs/2312.08853)|null|
+|**2023-12-14**|**VQCNIR: Clearer Night Image Restoration with Vector-Quantized Codebook**|Wenbin Zou et.al.|[2312.08606](http://arxiv.org/abs/2312.08606)|null|
 |**2023-12-13**|**A Compact and Semantic Latent Space for Disentangled and Controllable Image Editing**|Gwilherm Lesné et.al.|[2312.08256](http://arxiv.org/abs/2312.08256)|null|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220](http://arxiv.org/abs/2312.08220)|null|
 |**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128](http://arxiv.org/abs/2312.08128)|null|
