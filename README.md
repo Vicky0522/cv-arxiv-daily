@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-16**|**Bayes-Optimal Unsupervised Learning for Channel Estimation in Near-Field Holographic MIMO**|Wentao Yu et.al.|[2312.10438](http://arxiv.org/abs/2312.10438)|null|
+|**2023-12-16**|**Continuous Diffusion for Mixed-Type Tabular Data**|Markus Mueller et.al.|[2312.10431](http://arxiv.org/abs/2312.10431)|null|
 |**2023-12-14**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851](http://arxiv.org/abs/2312.07851)|null|
 |**2023-12-11**|**Adversarial Estimation of Topological Dimension with Harmonic Score Maps**|Eric Yeats et.al.|[2312.06869](http://arxiv.org/abs/2312.06869)|null|
 |**2023-12-09**|**The New Age of Collusion? An Empirical Study into Airbnb's Pricing Dynamics and Market Behavior**|Richeng Piao et.al.|[2312.05633](http://arxiv.org/abs/2312.05633)|null|
@@ -87,6 +89,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**The Right Losses for the Right Gains: Improving the Semantic Consistency of Deep Text-to-Image Generation with Distribution-Sensitive Losses**|Mahmoud Ahmed et.al.|[2312.10854](http://arxiv.org/abs/2312.10854)|null|
+|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
+|**2023-12-17**|**Anomaly Score: Evaluating Generative Models and Individual Generated Images based on Complexity and Vulnerability**|Jaehui Hwang et.al.|[2312.10634](http://arxiv.org/abs/2312.10634)|null|
+|**2023-12-16**|**Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2312.10461](http://arxiv.org/abs/2312.10461)|null|
+|**2023-12-16**|**DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content**|Wentao Wang et.al.|[2312.10407](http://arxiv.org/abs/2312.10407)|**[link](https://github.com/rickwang28574/deepart)**|
+|**2023-12-16**|**Fusing Conditional Submodular GAN and Programmatic Weak Supervision**|Kumar Shubham et.al.|[2312.10366](http://arxiv.org/abs/2312.10366)|**[link](https://github.com/kyrs/subpws-gan)**|
+|**2023-12-16**|**Operator-learning-inspired Modeling of Neural Ordinary Differential Equations**|Woojin Cho et.al.|[2312.10274](http://arxiv.org/abs/2312.10274)|null|
+|**2023-12-15**|**Rich Human Feedback for Text-to-Image Generation**|Youwei Liang et.al.|[2312.10240](http://arxiv.org/abs/2312.10240)|null|
+|**2023-12-15**|**Data-Efficient Multimodal Fusion on a Single GPU**|Noël Vouitsis et.al.|[2312.10144](http://arxiv.org/abs/2312.10144)|**[link](https://github.com/layer6ai-labs/fusemix)**|
 |**2023-12-15**|**Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication**|Thorben Schomacker et.al.|[2312.09966](http://arxiv.org/abs/2312.09966)|null|
 |**2023-12-14**|**High-Resolution Maps of Left Atrial Displacements and Strains Estimated with 3D CINE MRI and Unsupervised Neural Networks**|Christoforos Galazis et.al.|[2312.09387](http://arxiv.org/abs/2312.09387)|**[link](https://github.com/cgalaz01/aladdin_cmr_la)**|
 |**2023-12-14**|**ArchiGuesser -- AI Art Architecture Educational Game**|Joern Ploennigs et.al.|[2312.09334](http://arxiv.org/abs/2312.09334)|null|
@@ -730,6 +741,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Your Student is Better Than Expected: Adaptive Teacher-Student Collaboration for Text-Conditional Diffusion Models**|Nikita Starodubcev et.al.|[2312.10835](http://arxiv.org/abs/2312.10835)|**[link](https://github.com/yandex-research/adaptive-diffusion)**|
+|**2023-12-17**|**Latent Space Editing in Transformer-Based Flow Matching**|Vincent Tao Hu et.al.|[2312.10825](http://arxiv.org/abs/2312.10825)|null|
+|**2023-12-17**|**Bengali License Plate Recognition: Unveiling Clarity with CNN and GFP-GAN**|Noushin Afrin et.al.|[2312.10701](http://arxiv.org/abs/2312.10701)|**[link](https://github.com/mhtusher131/bengali-license-plate-recognition_unveling-clarity-with-cnn-and-gfp-gan)**|
+|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656](http://arxiv.org/abs/2312.10656)|null|
+|**2023-12-16**|**Image Restoration Through Generalized Ornstein-Uhlenbeck Bridge**|Conghan Yue et.al.|[2312.10299](http://arxiv.org/abs/2312.10299)|**[link](https://github.com/Hammour-steak/GOUB)**|
+|**2023-12-15**|**Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation**|Qin Guo et.al.|[2312.10113](http://arxiv.org/abs/2312.10113)|**[link](https://github.com/guoqincode/focus-on-your-instruction)**|
+|**2023-12-15**|**Enlighten-Your-Voice: When Multimodal Meets Zero-shot Low-light Image Enhancement**|Xiaofeng Zhang et.al.|[2312.10109](http://arxiv.org/abs/2312.10109)|**[link](https://github.com/zhangbaijin/enlighten-your-voice)**|
 |**2023-12-15**|**A Case Study of Image Enhancement Algorithms' Effectiveness of Improving Neural Networks' Performance on Adverse Images**|Jonathan Sanderson et.al.|[2312.09509](http://arxiv.org/abs/2312.09509)|null|
 |**2023-12-15**|**System Integration of Xilinx DPU and HDMI for Real-Time inference in PYNQ Environment with Image Enhancement**|Jonathan Sanderson et.al.|[2312.09506](http://arxiv.org/abs/2312.09506)|null|
 |**2023-12-15**|**Image Deblurring using GAN**|Zhengdong Li et.al.|[2312.09496](http://arxiv.org/abs/2312.09496)|null|
