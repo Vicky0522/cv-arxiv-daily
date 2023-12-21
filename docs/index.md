@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -741,7 +741,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748](http://arxiv.org/abs/2312.11748)|null|
+|**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748](http://arxiv.org/abs/2312.11748)|**[link](https://github.com/ShreeramAthreya/CDX-USChallenge)**|
 |**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595](http://arxiv.org/abs/2312.11595)|null|
 |**2023-12-18**|**Warping the Residuals for Image Editing with StyleGAN**|Ahmet Burak Yildirim et.al.|[2312.11422](http://arxiv.org/abs/2312.11422)|null|
 |**2023-12-18**|**MAG-Edit: Localized Image Editing in Complex Scenarios via $\underline{M}$ask-Based $\underline{A}$ttention-Adjusted $\underline{G}$ uidance**|Qi Mao et.al.|[2312.11396](http://arxiv.org/abs/2312.11396)|null|
