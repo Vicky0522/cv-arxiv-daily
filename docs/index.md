@@ -82,6 +82,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting**|Junwu Zhang et.al.|[2312.13271](http://arxiv.org/abs/2312.13271)|**[link](https://github.com/junwuzhang19/repaint123)**|
+|**2023-12-20**|**Conditional Image Generation with Pretrained Generative Model**|Rajesh Shrestha et.al.|[2312.13253](http://arxiv.org/abs/2312.13253)|null|
+|**2023-12-20**|**Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation**|Hongtao Wu et.al.|[2312.13139](http://arxiv.org/abs/2312.13139)|null|
+|**2023-12-20**|**Quantifying Bias in Text-to-Image Generative Models**|Jordan Vice et.al.|[2312.13053](http://arxiv.org/abs/2312.13053)|null|
+|**2023-12-20**|**A self-attention-based differentially private tabular GAN with high data utility**|Zijian Li et.al.|[2312.13031](http://arxiv.org/abs/2312.13031)|null|
+|**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807](http://arxiv.org/abs/2312.12807)|null|
+|**2023-12-19**|**Surf-CDM: Score-Based Surface Cold-Diffusion Model For Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2312.12649](http://arxiv.org/abs/2312.12649)|null|
+|**2023-12-19**|**RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing**|Shutong Jin et.al.|[2312.12635](http://arxiv.org/abs/2312.12635)|null|
 |**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
 |**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
 |**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
@@ -741,6 +749,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**ClassLIE: Structure- and Illumination-Adaptive Classification for Low-Light Image Enhancement**|Zixiang Wei et.al.|[2312.13265](http://arxiv.org/abs/2312.13265)|null|
+|**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865](http://arxiv.org/abs/2312.12865)|null|
+|**2023-12-20**|**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**|Yuhui Wu et.al.|[2312.12826](http://arxiv.org/abs/2312.12826)|null|
+|**2023-12-19**|**RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing**|Shutong Jin et.al.|[2312.12635](http://arxiv.org/abs/2312.12635)|null|
+|**2023-12-19**|**Fixed-point Inversion for Text-to-image diffusion models**|Barak Meiri et.al.|[2312.12540](http://arxiv.org/abs/2312.12540)|null|
+|**2023-12-19**|**Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion**|Fan Zhang et.al.|[2312.12471](http://arxiv.org/abs/2312.12471)|**[link](https://github.com/zkawfanx/atlantis)**|
+|**2023-12-19**|**MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers**|Haoyu Ma et.al.|[2312.12468](http://arxiv.org/abs/2312.12468)|null|
 |**2023-12-18**|**Ultrasound Image Enhancement using CycleGAN and Perceptual Loss**|Shreeram Athreya et.al.|[2312.11748](http://arxiv.org/abs/2312.11748)|**[link](https://github.com/ShreeramAthreya/CDX-USChallenge)**|
 |**2023-12-18**|**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions**|Chenyang Qi et.al.|[2312.11595](http://arxiv.org/abs/2312.11595)|null|
 |**2023-12-18**|**Warping the Residuals for Image Editing with StyleGAN**|Ahmet Burak Yildirim et.al.|[2312.11422](http://arxiv.org/abs/2312.11422)|null|
