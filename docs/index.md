@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -84,7 +84,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867](http://arxiv.org/abs/2312.14867)|null|
 |**2023-12-22**|**Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks**|Haz Sameen Shahgir et.al.|[2312.14440](http://arxiv.org/abs/2312.14440)|null|
-|**2023-12-21**|**Fine-grained Forecasting Models Via Gaussian Process Blurring Effect**|Sepideh Koohfar et.al.|[2312.14280](http://arxiv.org/abs/2312.14280)|null|
+|**2023-12-21**|**Fine-grained Forecasting Models Via Gaussian Process Blurring Effect**|Sepideh Koohfar et.al.|[2312.14280](http://arxiv.org/abs/2312.14280)|**[link](https://github.com/sepkfr/fine-grained-gaussian-process-forcating)**|
 |**2023-12-21**|**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**|Jitesh Jain et.al.|[2312.14233](http://arxiv.org/abs/2312.14233)|**[link](https://github.com/shi-labs/vcoder)**|
 |**2023-12-21**|**Fast Diffusion-Based Counterfactuals for Shortcut Removal and Generation**|Nina Weng et.al.|[2312.14223](http://arxiv.org/abs/2312.14223)|null|
 |**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125](http://arxiv.org/abs/2312.14125)|null|
