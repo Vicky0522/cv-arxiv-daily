@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
 |**2023-12-16**|**Bayes-Optimal Unsupervised Learning for Channel Estimation in Near-Field Holographic MIMO**|Wentao Yu et.al.|[2312.10438](http://arxiv.org/abs/2312.10438)|null|
 |**2023-12-16**|**Continuous Diffusion for Mixed-Type Tabular Data**|Markus Mueller et.al.|[2312.10431](http://arxiv.org/abs/2312.10431)|null|
 |**2023-12-14**|**Noise in the reverse process improves the approximation capabilities of diffusion models**|Karthik Elamvazhuthi et.al.|[2312.07851](http://arxiv.org/abs/2312.07851)|null|
@@ -83,12 +84,21 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20231227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
+|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
+|**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905](http://arxiv.org/abs/2312.15905)|**[link](https://github.com/lyupang/crossinitialization)**|
+|**2023-12-25**|**A Recipe for Scaling up Text-to-Video Generation with Text-free Videos**|Xiang Wang et.al.|[2312.15770](http://arxiv.org/abs/2312.15770)|null|
+|**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
+|**2023-12-24**|**Make-A-Character: High Quality Text-to-3D Character Generation within Minutes**|Jianqiang Ren et.al.|[2312.15430](http://arxiv.org/abs/2312.15430)|null|
+|**2023-12-23**|**Prompt-Propose-Verify: A Reliable Hand-Object-Interaction Data Generation Framework using Foundational Models**|Gurusha Juneja et.al.|[2312.15247](http://arxiv.org/abs/2312.15247)|null|
+|**2023-12-22**|**Generative AI and the History of Architecture**|Joern Ploennigs et.al.|[2312.15106](http://arxiv.org/abs/2312.15106)|null|
+|**2023-12-22**|**Emage: Non-Autoregressive Text-to-Image Generation**|Zhangyin Feng et.al.|[2312.14988](http://arxiv.org/abs/2312.14988)|null|
 |**2023-12-22**|**VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation**|Max Ku et.al.|[2312.14867](http://arxiv.org/abs/2312.14867)|null|
 |**2023-12-22**|**Asymmetric Bias in Text-to-Image Generation with Adversarial Attacks**|Haz Sameen Shahgir et.al.|[2312.14440](http://arxiv.org/abs/2312.14440)|null|
 |**2023-12-21**|**Fine-grained Forecasting Models Via Gaussian Process Blurring Effect**|Sepideh Koohfar et.al.|[2312.14280](http://arxiv.org/abs/2312.14280)|**[link](https://github.com/sepkfr/fine-grained-gaussian-process-forcating)**|
@@ -762,12 +772,19 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20231227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Geometric-Aware Low-Light Image and Video Enhancement via Depth Guidance**|Yingqi Lin et.al.|[2312.15855](http://arxiv.org/abs/2312.15855)|null|
+|**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
+|**2023-12-25**|**Rotation Equivariant Proximal Operator for Deep Unfolding Methods in Image Restoration**|Jiahong Fu et.al.|[2312.15701](http://arxiv.org/abs/2312.15701)|**[link](https://github.com/jiahong-fu/equivariant-proximal-operator)**|
+|**2023-12-25**|**MuLA-GAN: Multi-Level Attention GAN for Enhanced Underwater Visibility**|Ahsan Baidar Bakht et.al.|[2312.15633](http://arxiv.org/abs/2312.15633)|null|
+|**2023-12-24**|**Perception-Distortion Balanced Super-Resolution: A Multi-Objective Optimization Perspective**|Lingchen Sun et.al.|[2312.15408](http://arxiv.org/abs/2312.15408)|**[link](https://github.com/csslc/ea-adam)**|
+|**2023-12-23**|**Revealing Shadows: Low-Light Image Enhancement Using Self-Calibrated Illumination**|Farzaneh Koohestani et.al.|[2312.15199](http://arxiv.org/abs/2312.15199)|null|
+|**2023-12-22**|**UniHuman: A Unified Model for Editing Human Images in the Wild**|Nannan Li et.al.|[2312.14985](http://arxiv.org/abs/2312.14985)|null|
 |**2023-12-22**|**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing**|Xiaoyue Duan et.al.|[2312.14611](http://arxiv.org/abs/2312.14611)|null|
 |**2023-12-22**|**StyleRetoucher: Generalized Portrait Image Retouching with GAN Priors**|Wanchao Su et.al.|[2312.14389](http://arxiv.org/abs/2312.14389)|null|
 |**2023-12-22**|**Variance-insensitive and Target-preserving Mask Refinement for Interactive Image Segmentation**|Chaowei Fang et.al.|[2312.14387](http://arxiv.org/abs/2312.14387)|null|
@@ -1150,7 +1167,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20231227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
