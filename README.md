@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.01
+## Updated on 2024.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -84,18 +84,19 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**RefineNet: Enhancing Text-to-Image Conversion with High-Resolution and Detail Accuracy through Hierarchical Transformers and Progressive Refinement**|Fan Shi et.al.|[2312.17274](http://arxiv.org/abs/2312.17274)|null|
 |**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172](http://arxiv.org/abs/2312.17172)|null|
 |**2023-12-27**|**Prompt Expansion for Adaptive Text-to-Image Generation**|Siddhartha Datta et.al.|[2312.16720](http://arxiv.org/abs/2312.16720)|null|
 |**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
 |**2023-12-27**|**Participatory prompting: a user-centric research method for eliciting AI assistance opportunities in knowledge workflows**|Advait Sarkar et.al.|[2312.16633](http://arxiv.org/abs/2312.16633)|null|
 |**2023-12-27**|**A Non-Uniform Low-Light Image Enhancement Method with Multi-Scale Attention Transformer and Luminance Consistency Loss**|Xiao Fang et.al.|[2312.16498](http://arxiv.org/abs/2312.16498)|**[link](https://github.com/fang001021/msatr)**|
-|**2023-12-27**|**PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion**|Guansong Lu et.al.|[2312.16486](http://arxiv.org/abs/2312.16486)|null|
+|**2023-12-29**|**PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion**|Guansong Lu et.al.|[2312.16486](http://arxiv.org/abs/2312.16486)|null|
 |**2023-12-27**|**Bellman Optimal Step-size Straightening of Flow-Matching Models**|Bao Nguyen et.al.|[2312.16414](http://arxiv.org/abs/2312.16414)|null|
 |**2023-12-26**|**SSR-Encoder: Encoding Selective Subject Representation for Subject-Driven Generation**|Yuxuan Zhang et.al.|[2312.16272](http://arxiv.org/abs/2312.16272)|null|
 |**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
@@ -780,15 +781,16 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334](http://arxiv.org/abs/2312.17334)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234](http://arxiv.org/abs/2312.17234)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161](http://arxiv.org/abs/2312.17161)|null|
-|**2023-12-28**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805](http://arxiv.org/abs/2312.16805)|null|
+|**2023-12-29**|**DarkShot: Lighting Dark Images with Low-Compute and High-Quality**|Jiazhang Zheng et.al.|[2312.16805](http://arxiv.org/abs/2312.16805)|null|
 |**2023-12-28**|**ZONE: Zero-Shot Instruction-Guided Local Editing**|Shanglin Li et.al.|[2312.16794](http://arxiv.org/abs/2312.16794)|null|
 |**2023-12-27**|**Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation**|Rongyu Zhang et.al.|[2312.16610](http://arxiv.org/abs/2312.16610)|null|
 |**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519](http://arxiv.org/abs/2312.16519)|null|
@@ -1184,7 +1186,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
