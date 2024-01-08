@@ -85,6 +85,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et.al.|[2401.02335](http://arxiv.org/abs/2401.02335)|**[link](https://github.com/dflip3k/dflip-3k)**|
 |**2024-01-04**|**Bayesian Intrinsic Groupwise Image Registration: Unsupervised Disentanglement of Anatomy and Geometry**|Xinzhe Luo et.al.|[2401.02141](http://arxiv.org/abs/2401.02141)|null|
 |**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015](http://arxiv.org/abs/2401.02015)|null|
@@ -802,6 +803,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|null|
+|**2024-01-05**|**Analysis of a wavelet frame based two-scale model for enhanced edges**|Bin Dong et.al.|[2401.02688](http://arxiv.org/abs/2401.02688)|null|
+|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-04**|**Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain**|Xuanhua He et.al.|[2401.02161](http://arxiv.org/abs/2401.02161)|null|
 |**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
 |**2024-01-03**|**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions**|David Junhao Zhang et.al.|[2401.01827](http://arxiv.org/abs/2401.01827)|**[link](https://github.com/salesforce/lavis)**|
