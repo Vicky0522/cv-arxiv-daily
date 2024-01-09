@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -803,9 +803,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|null|
+|**2024-01-05**|**Generating Non-Stationary Textures using Self-Rectification**|Yang Zhou et.al.|[2401.02847](http://arxiv.org/abs/2401.02847)|**[link](https://github.com/xiaorongjun000/self-rectification)**|
 |**2024-01-05**|**Analysis of a wavelet frame based two-scale model for enhanced edges**|Bin Dong et.al.|[2401.02688](http://arxiv.org/abs/2401.02688)|null|
-|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-04**|**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos**|Elia Peruzzo et.al.|[2401.02473](http://arxiv.org/abs/2401.02473)|null|
 |**2024-01-04**|**Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain**|Xuanhua He et.al.|[2401.02161](http://arxiv.org/abs/2401.02161)|null|
 |**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
