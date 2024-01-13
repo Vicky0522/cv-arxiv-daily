@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.12
+## Updated on 2024.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -86,12 +86,17 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240113>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**RAVEN: Rethinking Adversarial Video Generation with Efficient Tri-plane Networks**|Partha Ghosh et.al.|[2401.06035](http://arxiv.org/abs/2401.06035)|null|
+|**2024-01-11**|**EraseDiff: Erasing Data Influence in Diffusion Models**|Jing Wu et.al.|[2401.05779](http://arxiv.org/abs/2401.05779)|null|
+|**2024-01-11**|**Learn From Zoom: Decoupled Supervised Contrastive Learning For WCE Image Classification**|Kunpeng Qiu et.al.|[2401.05771](http://arxiv.org/abs/2401.05771)|null|
+|**2024-01-11**|**Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation**|Seung Hyun Lee et.al.|[2401.05675](http://arxiv.org/abs/2401.05675)|null|
+|**2024-01-10**|**From Pampas to Pixels: Fine-Tuning Diffusion Models for Gaúcho Heritage**|Marcellus Amadeus et.al.|[2401.05520](http://arxiv.org/abs/2401.05520)|null|
 |**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252](http://arxiv.org/abs/2401.05252)|**[link](https://github.com/PixArt-alpha/PixArt-alpha)**|
 |**2024-01-09**|**Content-Conditioned Generation of Stylized Free hand Sketches**|Jiajun Liu et.al.|[2401.04739](http://arxiv.org/abs/2401.04739)|null|
 |**2024-01-09**|**Advancing Ante-Hoc Explainable Models through Generative Adversarial Networks**|Tanmay Garg et.al.|[2401.04647](http://arxiv.org/abs/2401.04647)|null|
@@ -817,12 +822,14 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240113>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
+|**2024-01-11**|**Object-Centric Diffusion for Efficient Video Editing**|Kumara Kahatapitiya et.al.|[2401.05735](http://arxiv.org/abs/2401.05735)|null|
 |**2024-01-10**|**Content-Aware Depth-Adaptive Image Restoration**|Tom Richard Vargis et.al.|[2401.05049](http://arxiv.org/abs/2401.05049)|null|
 |**2024-01-10**|**Structure-focused Neurodegeneration Convolutional Neural Network for Modeling and Classification of Alzheimer's Disease**|Simisola Odimayo et.al.|[2401.03922](http://arxiv.org/abs/2401.03922)|null|
 |**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788](http://arxiv.org/abs/2401.03788)|**[link](https://github.com/He-Jinhong/CFWD)**|
@@ -1241,7 +1248,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
