@@ -87,7 +87,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578](http://arxiv.org/abs/2401.06578)|null|
 |**2024-01-12**|**Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation**|Akshita Jha et.al.|[2401.06310](http://arxiv.org/abs/2401.06310)|null|
-|**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|null|
+|**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|**[link](https://github.com/opengvlab/dcnv4)**|
 |**2024-01-10**|**AI Art is Theft: Labour, Extraction, and Exploitation, Or, On the Dangers of Stochastic Pollocks**|Trystan S. Goetze et.al.|[2401.06178](http://arxiv.org/abs/2401.06178)|null|
 |**2024-01-11**|**RAVEN: Rethinking Adversarial Video Generation with Efficient Tri-plane Networks**|Partha Ghosh et.al.|[2401.06035](http://arxiv.org/abs/2401.06035)|null|
 |**2024-01-11**|**EraseDiff: Erasing Data Influence in Diffusion Models**|Jing Wu et.al.|[2401.05779](http://arxiv.org/abs/2401.05779)|null|
