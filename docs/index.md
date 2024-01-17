@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-14**|**Score-matching neural networks for improved multi-band source separation**|Matt L. Sampson et.al.|[2401.07313](http://arxiv.org/abs/2401.07313)|null|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
 |**2024-01-03**|**Diffusion Model with Perceptual Loss**|Shanchuan Lin et.al.|[2401.00110](http://arxiv.org/abs/2401.00110)|null|
 |**2024-01-04**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
@@ -85,6 +86,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Key-point Guided Deformable Image Manipulation Using Diffusion Model**|Seok-Hwan Oh et.al.|[2401.08178](http://arxiv.org/abs/2401.08178)|null|
+|**2024-01-16**|**E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning**|Qiang Qu et.al.|[2401.08117](http://arxiv.org/abs/2401.08117)|**[link](https://github.com/vincentqqu/e2hqv)**|
+|**2024-01-16**|**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation**|Zhixuan Liu et.al.|[2401.08053](http://arxiv.org/abs/2401.08053)|null|
+|**2024-01-15**|**Towards A Better Metric for Text-to-Video Generation**|Jay Zhangjie Wu et.al.|[2401.07781](http://arxiv.org/abs/2401.07781)|null|
+|**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584](http://arxiv.org/abs/2401.07584)|null|
+|**2024-01-15**|**InstantID: Zero-shot Identity-Preserving Generation in Seconds**|Qixun Wang et.al.|[2401.07519](http://arxiv.org/abs/2401.07519)|**[link](https://github.com/instantid/instantid)**|
+|**2024-01-14**|**Generation of Synthetic Images for Pedestrian Detection Using a Sequence of GANs**|Viktor Seib et.al.|[2401.07370](http://arxiv.org/abs/2401.07370)|null|
+|**2024-01-13**|**Quantum Denoising Diffusion Models**|Michael Kölle et.al.|[2401.07049](http://arxiv.org/abs/2401.07049)|null|
+|**2024-01-13**|**Progressive Feature Fusion Network for Enhancing Image Quality Assessment**|Kaiqun Wu et.al.|[2401.06992](http://arxiv.org/abs/2401.06992)|null|
 |**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578](http://arxiv.org/abs/2401.06578)|null|
 |**2024-01-12**|**Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation**|Akshita Jha et.al.|[2401.06310](http://arxiv.org/abs/2401.06310)|null|
 |**2024-01-11**|**Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**|Yuwen Xiong et.al.|[2401.06197](http://arxiv.org/abs/2401.06197)|**[link](https://github.com/opengvlab/dcnv4)**|
@@ -823,6 +833,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|null|
+|**2024-01-15**|**Low-light Stereo Image Enhancement and De-noising in the Low-frequency Information Enhanced Image Space**|Minghua Zhao et.al.|[2401.07753](http://arxiv.org/abs/2401.07753)|**[link](https://github.com/noportraits/lfenet)**|
+|**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|null|
+|**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087](http://arxiv.org/abs/2401.07087)|null|
 |**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517](http://arxiv.org/abs/2401.06517)|null|
 |**2024-01-12**|**RotationDrag: Point-based Image Editing with Rotated Diffusion Features**|Minxing Luo et.al.|[2401.06442](http://arxiv.org/abs/2401.06442)|**[link](https://github.com/tony-lowe/rotationdrag)**|
 |**2024-01-11**|**E $^{2}$ GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127](http://arxiv.org/abs/2401.06127)|null|
