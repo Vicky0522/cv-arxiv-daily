@@ -86,9 +86,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
+|**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985](http://arxiv.org/abs/2401.09985)|null|
+|**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
+|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624](http://arxiv.org/abs/2401.09624)|null|
+|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596](http://arxiv.org/abs/2401.09596)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**UniVG: Towards UNIfied-modal Video Generation**|Ludan Ruan et.al.|[2401.09084](http://arxiv.org/abs/2401.09084)|null|
-|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|null|
+|**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742](http://arxiv.org/abs/2401.08742)|null|
 |**2024-01-16**|**Fixed Point Diffusion Models**|Xingjian Bai et.al.|[2401.08741](http://arxiv.org/abs/2401.08741)|null|
 |**2024-01-16**|**Revealing Vulnerabilities in Stable Diffusion via Targeted Attacks**|Chenyu Zhang et.al.|[2401.08725](http://arxiv.org/abs/2401.08725)|**[link](https://github.com/datar001/revealing-vulnerabilities-in-stable-diffusion-via-targeted-attacks)**|
@@ -841,6 +847,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Edit One for All: Interactive Batch Image Editing**|Thao Nguyen et.al.|[2401.10219](http://arxiv.org/abs/2401.10219)|null|
+|**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985](http://arxiv.org/abs/2401.09985)|null|
+|**2024-01-18**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
+|**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
 |**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-15**|**Low-light Stereo Image Enhancement and De-noising in the Low-frequency Information Enhanced Image Space**|Minghua Zhao et.al.|[2401.07753](http://arxiv.org/abs/2401.07753)|**[link](https://github.com/noportraits/lfenet)**|
 |**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|null|
