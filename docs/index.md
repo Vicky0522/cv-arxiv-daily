@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**|Yi-Chiao Wu et.al.|[2401.12160](http://arxiv.org/abs/2401.12160)|null|
 |**2024-01-14**|**Score-matching neural networks for improved multi-band source separation**|Matt L. Sampson et.al.|[2401.07313](http://arxiv.org/abs/2401.07313)|**[link](https://github.com/pmelchior/scarlet2)**|
 |**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
 |**2024-01-19**|**Diffusion Model with Perceptual Loss**|Shanchuan Lin et.al.|[2401.00110](http://arxiv.org/abs/2401.00110)|null|
@@ -86,9 +87,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Control of OSIRIS-REx OTES Observations using OCAMS TAG Images**|Kris J. Becker et.al.|[2401.12177](http://arxiv.org/abs/2401.12177)|null|
+|**2024-01-22**|**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**|Ling Yang et.al.|[2401.11708](http://arxiv.org/abs/2401.11708)|**[link](https://github.com/yangling0818/rpg-diffusionmaster)**|
+|**2024-01-21**|**Text-to-Image Cross-Modal Generation: A Systematic Review**|Maciej Żelaszczyk et.al.|[2401.11631](http://arxiv.org/abs/2401.11631)|null|
+|**2024-01-21**|**Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**|Katherine Crowson et.al.|[2401.11605](http://arxiv.org/abs/2401.11605)|null|
 |**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
 |**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
-|**2024-01-19**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-22**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
 |**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
 |**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985](http://arxiv.org/abs/2401.09985)|null|
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
@@ -849,11 +854,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**Text-to-Image Cross-Modal Generation: A Systematic Review**|Maciej Żelaszczyk et.al.|[2401.11631](http://arxiv.org/abs/2401.11631)|null|
+|**2024-01-21**|**LLMRA: Multi-modal Large Language Model based Restoration Assistant**|Xiaoyu Jin et.al.|[2401.11401](http://arxiv.org/abs/2401.11401)|null|
 |**2024-01-19**|**MixNet: Towards Effective and Efficient UHD Low-Light Image Enhancement**|Chen Wu et.al.|[2401.10666](http://arxiv.org/abs/2401.10666)|null|
 |**2024-01-18**|**M3BUNet: Mobile Mean Max UNet for Pancreas Segmentation on CT-Scans**|Juwita juwita et.al.|[2401.10419](http://arxiv.org/abs/2401.10419)|null|
 |**2024-01-18**|**Edit One for All: Interactive Batch Image Editing**|Thao Nguyen et.al.|[2401.10219](http://arxiv.org/abs/2401.10219)|null|
 |**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985](http://arxiv.org/abs/2401.09985)|null|
-|**2024-01-18**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
+|**2024-01-20**|**Boosting Few-Shot Semantic Segmentation Via Segment Anything Model**|Chen-Bin Feng et.al.|[2401.09826](http://arxiv.org/abs/2401.09826)|null|
 |**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
 |**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-15**|**Low-light Stereo Image Enhancement and De-noising in the Low-frequency Information Enhanced Image Space**|Minghua Zhao et.al.|[2401.07753](http://arxiv.org/abs/2401.07753)|**[link](https://github.com/noportraits/lfenet)**|
