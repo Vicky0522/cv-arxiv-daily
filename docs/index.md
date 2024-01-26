@@ -88,6 +88,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**|Xinlei Chen et.al.|[2401.14404](http://arxiv.org/abs/2401.14404)|null|
+|**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379](http://arxiv.org/abs/2401.14379)|null|
+|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
+|**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992](http://arxiv.org/abs/2401.13992)|null|
+|**2024-01-25**|**Learning to Manipulate Artistic Images**|Wei Guo et.al.|[2401.13976](http://arxiv.org/abs/2401.13976)|**[link](https://github.com/snailforce/sim-net)**|
+|**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
+|**2024-01-25**|**A New Image Quality Database for Multiple Industrial Processes**|Xuanchao Ma et.al.|[2401.13956](http://arxiv.org/abs/2401.13956)|null|
+|**2024-01-25**|**StyleInject: Parameter Efficient Tuning of Text-to-Image Diffusion Models**|Yalong Bai et.al.|[2401.13942](http://arxiv.org/abs/2401.13942)|null|
 |**2024-01-24**|**Research about the Ability of LLM in the Tamper-Detection Area**|Xinyu Yang et.al.|[2401.13504](http://arxiv.org/abs/2401.13504)|null|
 |**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
 |**2024-01-24**|**Deep Learning for Improved Polyp Detection from Synthetic Narrow-Band Imaging**|Mathias Ramm Haugland et.al.|[2401.13315](http://arxiv.org/abs/2401.13315)|null|
@@ -865,6 +874,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|null|
+|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-24**|**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild**|Fanghua Yu et.al.|[2401.13627](http://arxiv.org/abs/2401.13627)|null|
 |**2024-01-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
 |**2024-01-24**|**Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration**|Yimin Xu et.al.|[2401.13221](http://arxiv.org/abs/2401.13221)|**[link](https://github.com/xuyimin0926/u-wadn)**|
