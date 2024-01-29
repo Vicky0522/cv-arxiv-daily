@@ -125,7 +125,7 @@
 |**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985](http://arxiv.org/abs/2401.09985)|null|
 |**2024-01-18**|**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects**|Zhao Wang et.al.|[2401.09962](http://arxiv.org/abs/2401.09962)|null|
 |**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624](http://arxiv.org/abs/2401.09624)|**[link](https://github.com/giovannipasq/mits-gan)**|
-|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596](http://arxiv.org/abs/2401.09596)|null|
+|**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596](http://arxiv.org/abs/2401.09596)|**[link](https://github.com/milmor/ladagan)**|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**UniVG: Towards UNIfied-modal Video Generation**|Ludan Ruan et.al.|[2401.09084](http://arxiv.org/abs/2401.09084)|null|
 |**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047](http://arxiv.org/abs/2401.09047)|**[link](https://github.com/ailab-cvc/videocrafter)**|
@@ -849,7 +849,7 @@
 |**2023-07-05**|**On the Adversarial Robustness of Generative Autoencoders in the Latent Space**|Mingfei Lu et.al.|[2307.02202](http://arxiv.org/abs/2307.02202)|null|
 |**2023-07-05**|**Prompting Diffusion Representations for Cross-Domain Semantic Segmentation**|Rui Gong et.al.|[2307.02138](http://arxiv.org/abs/2307.02138)|null|
 |**2023-07-04**|**SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis**|Dustin Podell et.al.|[2307.01952](http://arxiv.org/abs/2307.01952)|**[link](https://github.com/stability-ai/generative-models)**|
-|**2023-07-04**|**A Synthetic Electrocardiogram (ECG) Image Generation Toolbox to Facilitate Deep Learning-Based Scanned ECG Digitization**|Kshama Kodthalu Shivashankara et.al.|[2307.01946](http://arxiv.org/abs/2307.01946)|null|
+|**2023-07-04**|**A Synthetic Electrocardiogram (ECG) Image Generation Toolbox to Facilitate Deep Learning-Based Scanned ECG Digitization**|Kshama Kodthalu Shivashankara et.al.|[2307.01946](http://arxiv.org/abs/2307.01946)|**[link](https://github.com/alphanumericslab/ecg-image-kit)**|
 |**2023-07-04**|**Text + Sketch: Image Compression at Ultra Low Rates**|Eric Lei et.al.|[2307.01944](http://arxiv.org/abs/2307.01944)|**[link](https://github.com/leieric/text-sketch)**|
 |**2023-07-04**|**Generative Artificial Intelligence Consensus in a Trustless Network**|Edward Kim et.al.|[2307.01898](http://arxiv.org/abs/2307.01898)|null|
 |**2023-07-04**|**Training Energy-Based Models with Diffusion Contrastive Divergences**|Weijian Luo et.al.|[2307.01668](http://arxiv.org/abs/2307.01668)|null|
@@ -901,7 +901,7 @@
 |**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
 |**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171](http://arxiv.org/abs/2401.08171)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-15**|**Low-light Stereo Image Enhancement and De-noising in the Low-frequency Information Enhanced Image Space**|Minghua Zhao et.al.|[2401.07753](http://arxiv.org/abs/2401.07753)|**[link](https://github.com/noportraits/lfenet)**|
-|**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|null|
+|**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709](http://arxiv.org/abs/2401.07709)|**[link](https://github.com/xiaotianqing/instdiffedit)**|
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087](http://arxiv.org/abs/2401.07087)|null|
 |**2024-01-12**|**LiDAR Depth Map Guided Image Compression Model**|Alessandro Gnutti et.al.|[2401.06517](http://arxiv.org/abs/2401.06517)|null|
 |**2024-01-12**|**RotationDrag: Point-based Image Editing with Rotated Diffusion Features**|Minxing Luo et.al.|[2401.06442](http://arxiv.org/abs/2401.06442)|**[link](https://github.com/tony-lowe/rotationdrag)**|
@@ -1109,7 +1109,7 @@
 |**2023-10-26**|**Integrating View Conditions for Image Synthesis**|Jinbin Bai et.al.|[2310.16002](http://arxiv.org/abs/2310.16002)|**[link](https://github.com/viiika/viewcontrol)**|
 |**2023-10-19**|**Neural Degradation Representation Learning for All-In-One Image Restoration**|Mingde Yao et.al.|[2310.12848](http://arxiv.org/abs/2310.12848)|**[link](https://github.com/mdyao/NDR-Restore)**|
 |**2023-10-18**|**Object-aware Inversion and Reassembly for Image Editing**|Zhen Yang et.al.|[2310.12149](http://arxiv.org/abs/2310.12149)|null|
-|**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881](http://arxiv.org/abs/2310.11881)|null|
+|**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881](http://arxiv.org/abs/2310.11881)|**[link](https://github.com/andrew0613/x-restormer)**|
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-21**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
