@@ -91,12 +91,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
+|**2024-01-31**|**Head and Neck Tumor Segmentation from [18F]F-FDG PET/CT Images Based on 3D Diffusion Model**|Yafei Dong et.al.|[2401.17593](http://arxiv.org/abs/2401.17593)|null|
+|**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547](http://arxiv.org/abs/2401.17547)|null|
+|**2024-01-31**|**Fréchet Distance for Offline Evaluation of Information Retrieval Systems with Sparse Labels**|Negar Arabzadeh et.al.|[2401.17543](http://arxiv.org/abs/2401.17543)|null|
 |**2024-01-30**|**OmniSCV: An Omnidirectional Synthetic Image Generator for Computer Vision**|Bruno Berenguel-Baeta et.al.|[2401.17061](http://arxiv.org/abs/2401.17061)|**[link](https://github.com/sbrunoberenguel/omniscv)**|
 |**2024-01-30**|**Repositioning the Subject within Image**|Yikai Wang et.al.|[2401.16861](http://arxiv.org/abs/2401.16861)|null|
 |**2024-01-30**|**X-ray Image Generation as a Method of Performance Prediction for Real-Time Inspection: a Case Study**|Vladyslav Andriiashen et.al.|[2401.16847](http://arxiv.org/abs/2401.16847)|**[link](https://github.com/vandriiashen/pod2settings)**|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157](http://arxiv.org/abs/2401.16157)|null|
-|**2024-01-29**|**Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You**|Felix Friedrich et.al.|[2401.16092](http://arxiv.org/abs/2401.16092)|**[link](https://github.com/felifri/magbig)**|
+|**2024-01-31**|**Multilingual Text-to-Image Generation Magnifies Gender Stereotypes and Prompt Engineering May Not Help You**|Felix Friedrich et.al.|[2401.16092](http://arxiv.org/abs/2401.16092)|**[link](https://github.com/felifri/magbig)**|
 |**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977](http://arxiv.org/abs/2401.15977)|null|
 |**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|**[link](https://github.com/xacheng1996/diff)**|
 |**2024-01-29**|**2L3: Lifting Imperfect Generated 2D Images into Accurate 3D**|Yizheng Chen et.al.|[2401.15841](http://arxiv.org/abs/2401.15841)|null|
@@ -892,8 +896,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
+|**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629](http://arxiv.org/abs/2401.17629)|null|
+|**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547](http://arxiv.org/abs/2401.17547)|null|
+|**2024-01-30**|**Anything in Any Scene: Photorealistic Video Object Insertion**|Chen Bai et.al.|[2401.17509](http://arxiv.org/abs/2401.17509)|null|
 |**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
-|**2024-01-29**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468](http://arxiv.org/abs/2401.16468)|**[link](https://github.com/mv-lab/InstructIR)**|
+|**2024-01-31**|**High-Quality Image Restoration Following Human Instructions**|Marcos V. Conde et.al.|[2401.16468](http://arxiv.org/abs/2401.16468)|**[link](https://github.com/mv-lab/InstructIR)**|
 |**2024-01-30**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688](http://arxiv.org/abs/2401.15688)|null|
 |**2024-01-28**|**CPDM: Content-Preserving Diffusion Model for Underwater Image Enhancement**|Xiaowen Shi et.al.|[2401.15649](http://arxiv.org/abs/2401.15649)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
