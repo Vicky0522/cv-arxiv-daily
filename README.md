@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-03**|**Analyzing Neural Network-Based Generative Diffusion Models through Convex Optimization**|Fangzhao Zhang et.al.|[2402.01965](http://arxiv.org/abs/2402.01965)|null|
+|**2024-02-06**|**Analyzing Neural Network-Based Generative Diffusion Models through Convex Optimization**|Fangzhao Zhang et.al.|[2402.01965](http://arxiv.org/abs/2402.01965)|null|
 |**2024-02-02**|**Conditioning non-linear and infinite-dimensional diffusion processes**|Elizabeth Louise Baker et.al.|[2402.01434](http://arxiv.org/abs/2402.01434)|null|
 |**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027](http://arxiv.org/abs/2401.16027)|null|
 |**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
@@ -100,10 +100,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|null|
+|**2024-02-05**|**Projected Generative Diffusion Models for Constraint Satisfaction**|Jacob K Christopher et.al.|[2402.03559](http://arxiv.org/abs/2402.03559)|null|
+|**2024-02-05**|**Assessing the Efficacy of Invisible Watermarks in AI-Generated Medical Images**|Xiaodan Xing et.al.|[2402.03473](http://arxiv.org/abs/2402.03473)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290](http://arxiv.org/abs/2402.03290)|null|
 |**2024-02-05**|**Training-Free Consistent Text-to-Image Generation**|Yoad Tewel et.al.|[2402.03286](http://arxiv.org/abs/2402.03286)|null|
-|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|null|
+|**2024-02-05**|**IGUANe: a 3D generalizable CycleGAN for multicenter harmonization of brain MR images**|Vincent Roca et.al.|[2402.03227](http://arxiv.org/abs/2402.03227)|**[link](https://github.com/rocavincent/iguane_harmonization)**|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162](http://arxiv.org/abs/2402.03162)|null|
 |**2024-02-05**|**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions**|Yiyuan Zhang et.al.|[2402.03040](http://arxiv.org/abs/2402.03040)|**[link](https://github.com/invictus717/interactivevideo)**|
 |**2024-02-05**|**SynthVision -- Harnessing Minimal Input for Maximal Output in Computer Vision Models using Synthetic Image data**|Yudara Kularathne et.al.|[2402.02826](http://arxiv.org/abs/2402.02826)|null|
@@ -932,6 +935,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|null|
+|**2024-02-06**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
+|**2024-02-05**|**Rethinking RGB Color Representation for Image Restoration Models**|Jaerin Lee et.al.|[2402.03399](http://arxiv.org/abs/2402.03399)|null|
 |**2024-02-05**|**Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing**|Yan Shu et.al.|[2402.03082](http://arxiv.org/abs/2402.03082)|null|
 |**2024-02-05**|**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions**|Yiyuan Zhang et.al.|[2402.03040](http://arxiv.org/abs/2402.03040)|**[link](https://github.com/invictus717/interactivevideo)**|
 |**2024-02-05**|**Knowledge-driven deep learning for fast MR imaging: undersampled MR image reconstruction from supervised to un-supervised learning**|Shanshan Wang et.al.|[2402.02704](http://arxiv.org/abs/2402.02704)|null|
