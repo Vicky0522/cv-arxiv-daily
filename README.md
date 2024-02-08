@@ -22,7 +22,7 @@
 |**2024-02-06**|**Analyzing Neural Network-Based Generative Diffusion Models through Convex Optimization**|Fangzhao Zhang et.al.|[2402.01965](http://arxiv.org/abs/2402.01965)|null|
 |**2024-02-02**|**Conditioning non-linear and infinite-dimensional diffusion processes**|Elizabeth Louise Baker et.al.|[2402.01434](http://arxiv.org/abs/2402.01434)|null|
 |**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027](http://arxiv.org/abs/2401.16027)|null|
-|**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
+|**2024-02-06**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
 |**2024-02-04**|**Free public transport to the destination: A causal analysis of tourists' travel mode choice**|Kevin Blättler et.al.|[2401.14945](http://arxiv.org/abs/2401.14945)|null|
 |**2024-01-23**|**Contractive Diffusion Probabilistic Models**|Wenpin Tang et.al.|[2401.13115](http://arxiv.org/abs/2401.13115)|null|
 |**2024-01-22**|**ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**|Yi-Chiao Wu et.al.|[2401.12160](http://arxiv.org/abs/2401.12160)|null|
@@ -100,6 +100,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12**|Liuqing Chen et.al.|[2402.04975](http://arxiv.org/abs/2402.04975)|null|
+|**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
+|**2024-02-07**|**ColorSwap: A Color and Word Order Dataset for Multimodal Evaluation**|Jirayu Burapacheep et.al.|[2402.04492](http://arxiv.org/abs/2402.04492)|**[link](https://github.com/top34051/colorswap)**|
+|**2024-02-06**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
+|**2024-02-06**|**ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**|Weiming Ren et.al.|[2402.04324](http://arxiv.org/abs/2402.04324)|null|
 |**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|null|
 |**2024-02-05**|**Projected Generative Diffusion Models for Constraint Satisfaction**|Jacob K Christopher et.al.|[2402.03559](http://arxiv.org/abs/2402.03559)|null|
 |**2024-02-05**|**Assessing the Efficacy of Invisible Watermarks in AI-Generated Medical Images**|Xiaodan Xing et.al.|[2402.03473](http://arxiv.org/abs/2402.03473)|null|
@@ -935,6 +940,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625](http://arxiv.org/abs/2402.04625)|**[link](https://github.com/hansam95/nmg)**|
+|**2024-02-07**|**Troublemaker Learning for Low-Light Image Enhancement**|Yinghao Song et.al.|[2402.04584](http://arxiv.org/abs/2402.04584)|**[link](https://github.com/rainbowman0/tml_llie)**|
 |**2024-02-06**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|null|
 |**2024-02-06**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
 |**2024-02-05**|**Rethinking RGB Color Representation for Image Restoration Models**|Jaerin Lee et.al.|[2402.03399](http://arxiv.org/abs/2402.03399)|null|
