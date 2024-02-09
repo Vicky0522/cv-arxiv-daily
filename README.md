@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|null|
 |**2024-02-06**|**Analyzing Neural Network-Based Generative Diffusion Models through Convex Optimization**|Fangzhao Zhang et.al.|[2402.01965](http://arxiv.org/abs/2402.01965)|null|
 |**2024-02-02**|**Conditioning non-linear and infinite-dimensional diffusion processes**|Elizabeth Louise Baker et.al.|[2402.01434](http://arxiv.org/abs/2402.01434)|null|
 |**2024-01-29**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al.|[2401.16027](http://arxiv.org/abs/2401.16027)|null|
@@ -100,6 +101,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Collaborative Control for Geometry-Conditioned PBR Image Generation**|Shimon Vainer et.al.|[2402.05919](http://arxiv.org/abs/2402.05919)|null|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
+|**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
+|**2024-02-08**|**Scalable Wasserstein Gradient Flow for Generative Modeling through Unbalanced Optimal Transport**|Jaemoo Choi et.al.|[2402.05443](http://arxiv.org/abs/2402.05443)|null|
+|**2024-02-07**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210](http://arxiv.org/abs/2402.05210)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
 |**2024-02-07**|**ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12**|Liuqing Chen et.al.|[2402.04975](http://arxiv.org/abs/2402.04975)|null|
 |**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
 |**2024-02-07**|**ColorSwap: A Color and Word Order Dataset for Multimodal Evaluation**|Jirayu Burapacheep et.al.|[2402.04492](http://arxiv.org/abs/2402.04492)|**[link](https://github.com/top34051/colorswap)**|
@@ -940,10 +946,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**You Only Need One Color Space: An Efficient Network for Low-light Image Enhancement**|Yixu Feng et.al.|[2402.05809](http://arxiv.org/abs/2402.05809)|**[link](https://github.com/fediory/hvi-cidnet)**|
+|**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
+|**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
 |**2024-02-07**|**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**|Hansam Cho et.al.|[2402.04625](http://arxiv.org/abs/2402.04625)|**[link](https://github.com/hansam95/nmg)**|
 |**2024-02-07**|**Troublemaker Learning for Low-Light Image Enhancement**|Yinghao Song et.al.|[2402.04584](http://arxiv.org/abs/2402.04584)|**[link](https://github.com/rainbowman0/tml_llie)**|
-|**2024-02-06**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|null|
-|**2024-02-06**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
+|**2024-02-08**|**U-shaped Vision Mamba for Single Image Dehazing**|Zhuoran Zheng et.al.|[2402.04139](http://arxiv.org/abs/2402.04139)|**[link](https://github.com/zzr-idam/uvm-net)**|
+|**2024-02-08**|**Analysis of Deep Image Prior and Exploiting Self-Guidance for Image Reconstruction**|Shijun Liang et.al.|[2402.04097](http://arxiv.org/abs/2402.04097)|null|
 |**2024-02-05**|**Rethinking RGB Color Representation for Image Restoration Models**|Jaerin Lee et.al.|[2402.03399](http://arxiv.org/abs/2402.03399)|null|
 |**2024-02-05**|**Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing**|Yan Shu et.al.|[2402.03082](http://arxiv.org/abs/2402.03082)|null|
 |**2024-02-05**|**InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions**|Yiyuan Zhang et.al.|[2402.03040](http://arxiv.org/abs/2402.03040)|**[link](https://github.com/invictus717/interactivevideo)**|
