@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Optimal score estimation via empirical Bayes smoothing**|Andre Wibisono et.al.|[2402.07747](http://arxiv.org/abs/2402.07747)|null|
+|**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487](http://arxiv.org/abs/2402.07487)|null|
+|**2024-02-12**|**Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck Equations**|Zheyuan Hu et.al.|[2402.07465](http://arxiv.org/abs/2402.07465)|null|
 |**2024-02-09**|**Particle Denoising Diffusion Sampler**|Angus Phillips et.al.|[2402.06320](http://arxiv.org/abs/2402.06320)|**[link](https://github.com/angusphillips/particle_denoising_diffusion_sampler)**|
 |**2024-02-09**|**Iterated Denoising Energy Matching for Sampling from Boltzmann Densities**|Tara Akhound-Sadegh et.al.|[2402.06121](http://arxiv.org/abs/2402.06121)|null|
 |**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|**[link](https://github.com/jonathancrabbe/fourierdiffusion)**|
@@ -103,12 +106,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597](http://arxiv.org/abs/2402.07597)|null|
+|**2024-02-11**|**The Aleph & Other Metaphors for Image Generation**|Gonzalo Ramos et.al.|[2402.07104](http://arxiv.org/abs/2402.07104)|null|
+|**2024-02-10**|**Disentangled Latent Energy-Based Style Translation: An Image-Level Structural MRI Harmonization Framework**|Mengqi Wu et.al.|[2402.06875](http://arxiv.org/abs/2402.06875)|null|
 |**2024-02-09**|**Cardiac ultrasound simulation for autonomous ultrasound navigation**|Abdoul Aziz Amadou et.al.|[2402.06463](http://arxiv.org/abs/2402.06463)|null|
 |**2024-02-08**|**Collaborative Control for Geometry-Conditioned PBR Image Generation**|Shimon Vainer et.al.|[2402.05919](http://arxiv.org/abs/2402.05919)|null|
 |**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
 |**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
 |**2024-02-08**|**Scalable Wasserstein Gradient Flow for Generative Modeling through Unbalanced Optimal Transport**|Jaemoo Choi et.al.|[2402.05443](http://arxiv.org/abs/2402.05443)|null|
-|**2024-02-07**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210](http://arxiv.org/abs/2402.05210)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
+|**2024-02-09**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210](http://arxiv.org/abs/2402.05210)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
 |**2024-02-07**|**ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12**|Liuqing Chen et.al.|[2402.04975](http://arxiv.org/abs/2402.04975)|null|
 |**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
 |**2024-02-07**|**ColorSwap: A Color and Word Order Dataset for Multimodal Evaluation**|Jirayu Burapacheep et.al.|[2402.04492](http://arxiv.org/abs/2402.04492)|**[link](https://github.com/top34051/colorswap)**|
@@ -949,6 +955,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Tutorial: Shaping the Spatial Correlations of Entangled Photon Pairs**|Patrick Cameron et.al.|[2402.07667](http://arxiv.org/abs/2402.07667)|null|
+|**2024-02-10**|**Gyroscope-Assisted Motion Deblurring Network**|Simin Luan et.al.|[2402.06854](http://arxiv.org/abs/2402.06854)|null|
 |**2024-02-08**|**You Only Need One Color Space: An Efficient Network for Low-light Image Enhancement**|Yixu Feng et.al.|[2402.05809](http://arxiv.org/abs/2402.05809)|**[link](https://github.com/fediory/hvi-cidnet)**|
 |**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448](http://arxiv.org/abs/2402.05448)|null|
 |**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
