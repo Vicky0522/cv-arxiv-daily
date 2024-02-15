@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -20,7 +20,7 @@ layout: default
 |**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487](http://arxiv.org/abs/2402.07487)|null|
 |**2024-02-12**|**Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck Equations**|Zheyuan Hu et.al.|[2402.07465](http://arxiv.org/abs/2402.07465)|null|
 |**2024-02-09**|**Particle Denoising Diffusion Sampler**|Angus Phillips et.al.|[2402.06320](http://arxiv.org/abs/2402.06320)|**[link](https://github.com/angusphillips/particle_denoising_diffusion_sampler)**|
-|**2024-02-09**|**Iterated Denoising Energy Matching for Sampling from Boltzmann Densities**|Tara Akhound-Sadegh et.al.|[2402.06121](http://arxiv.org/abs/2402.06121)|null|
+|**2024-02-09**|**Iterated Denoising Energy Matching for Sampling from Boltzmann Densities**|Tara Akhound-Sadegh et.al.|[2402.06121](http://arxiv.org/abs/2402.06121)|**[link](https://github.com/jarridrb/dem)**|
 |**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|**[link](https://github.com/jonathancrabbe/fourierdiffusion)**|
 |**2024-02-06**|**Analyzing Neural Network-Based Generative Diffusion Models through Convex Optimization**|Fangzhao Zhang et.al.|[2402.01965](http://arxiv.org/abs/2402.01965)|null|
 |**2024-02-02**|**Conditioning non-linear and infinite-dimensional diffusion processes**|Elizabeth Louise Baker et.al.|[2402.01434](http://arxiv.org/abs/2402.01434)|null|
