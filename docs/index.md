@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -103,7 +103,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
 |**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970](http://arxiv.org/abs/2402.09970)|null|
 |**2024-02-15**|**Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation**|Junjie Shentu et.al.|[2402.09966](http://arxiv.org/abs/2402.09966)|**[link](https://github.com/junjie-shentu/textual-localization)**|
