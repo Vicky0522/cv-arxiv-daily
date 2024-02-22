@@ -102,6 +102,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**SDXL-Lightning: Progressive Adversarial Diffusion Distillation**|Shanchuan Lin et.al.|[2402.13929](http://arxiv.org/abs/2402.13929)|null|
+|**2024-02-21**|**SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model**|Xudong Ling et.al.|[2402.13737](http://arxiv.org/abs/2402.13737)|null|
+|**2024-02-21**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/abs/2402.13729)|null|
+|**2024-02-21**|**Hybrid Reasoning Based on Large Language Models for Autonomous Car Driving**|Mehdi Azarafza et.al.|[2402.13602](http://arxiv.org/abs/2402.13602)|null|
+|**2024-02-21**|**Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models**|Chen Wu et.al.|[2402.13490](http://arxiv.org/abs/2402.13490)|null|
+|**2024-02-20**|**Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control**|Denis Lukovnikov et.al.|[2402.13404](http://arxiv.org/abs/2402.13404)|null|
 |**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254](http://arxiv.org/abs/2402.13254)|null|
 |**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185](http://arxiv.org/abs/2402.13185)|null|
 |**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
@@ -986,8 +992,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
 |**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185](http://arxiv.org/abs/2402.13185)|null|
-|**2024-02-20**|**Robust-Wide: Robust Watermarking against Instruction-driven Image Editing**|Runyi Hu et.al.|[2402.12688](http://arxiv.org/abs/2402.12688)|null|
+|**2024-02-21**|**Robust-Wide: Robust Watermarking against Instruction-driven Image Editing**|Runyi Hu et.al.|[2402.12688](http://arxiv.org/abs/2402.12688)|null|
 |**2024-02-19**|**Integrating kNN with Foundation Models for Adaptable and Privacy-Aware Image Classification**|Sebastian Doerrich et.al.|[2402.12500](http://arxiv.org/abs/2402.12500)|**[link](https://github.com/tobarc/privacy-aware-image-classification-with-knn)**|
 |**2024-02-19**|**Human Video Translation via Query Warping**|Haiming Zhu et.al.|[2402.12099](http://arxiv.org/abs/2402.12099)|null|
 |**2024-02-08**|**Text2Data: Low-Resource Data Generation with Textual Control**|Shiyu Wang et.al.|[2402.10941](http://arxiv.org/abs/2402.10941)|null|
