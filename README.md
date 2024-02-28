@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
+|**2024-02-27**|**Label-Noise Robust Diffusion Models**|Byeonghu Na et.al.|[2402.17517](http://arxiv.org/abs/2402.17517)|**[link](https://github.com/byeonghu-na/tdsm)**|
 |**2024-02-23**|**The Surprising Effectiveness of Skip-Tuning in Diffusion Sampling**|Jiajun Ma et.al.|[2402.15170](http://arxiv.org/abs/2402.15170)|null|
 |**2024-02-13**|**Space-Time Bridge-Diffusion**|Hamidreza Behjoo et.al.|[2402.08847](http://arxiv.org/abs/2402.08847)|null|
 |**2024-02-13**|**Target Score Matching**|Valentin De Bortoli et.al.|[2402.08667](http://arxiv.org/abs/2402.08667)|null|
@@ -110,6 +112,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
+|**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
+|**2024-02-27**|**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
+|**2024-02-27**|**Sora Generates Videos with Stunning Geometrical Consistency**|Xuanyi Li et.al.|[2402.17403](http://arxiv.org/abs/2402.17403)|null|
+|**2024-02-27**|**Accelerating Diffusion Sampling with Optimized Time Steps**|Shuchen Xue et.al.|[2402.17376](http://arxiv.org/abs/2402.17376)|null|
+|**2024-02-27**|**Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation**|Daiqing Li et.al.|[2402.17245](http://arxiv.org/abs/2402.17245)|null|
+|**2024-02-27**|**Advancing Generative Model Evaluation: A Novel Algorithm for Realistic Image Synthesis and Comparison in OCR System**|Majid Memari et.al.|[2402.17204](http://arxiv.org/abs/2402.17204)|null|
+|**2024-02-27**|**Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**|Yixin Liu et.al.|[2402.17177](http://arxiv.org/abs/2402.17177)|**[link](https://github.com/lichao-sun/sorareview)**|
+|**2024-02-27**|**Video as the New Language for Real-World Decision Making**|Sherry Yang et.al.|[2402.17139](http://arxiv.org/abs/2402.17139)|null|
+|**2024-02-27**|**Transparent Image Layer Diffusion using Latent Transparency**|Lvmin Zhang et.al.|[2402.17113](http://arxiv.org/abs/2402.17113)|null|
 |**2024-02-26**|**Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion**|Xuantong Liu et.al.|[2402.16305](http://arxiv.org/abs/2402.16305)|null|
 |**2024-02-25**|**Towards Efficient Quantum Hybrid Diffusion Models**|Francesca De Falco et.al.|[2402.16147](http://arxiv.org/abs/2402.16147)|null|
 |**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504](http://arxiv.org/abs/2402.15504)|**[link](https://github.com/louisYen/Gen4Gen)**|
@@ -1013,6 +1025,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
+|**2024-02-27**|**Learning Exposure Correction in Dynamic Scenes**|Jin Liu et.al.|[2402.17296](http://arxiv.org/abs/2402.17296)|null|
+|**2024-02-25**|**Diffusion Posterior Proximal Sampling for Image Restoration**|Hongjie Wu et.al.|[2402.16907](http://arxiv.org/abs/2402.16907)|null|
+|**2024-02-26**|**Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing**|Ling Yang et.al.|[2402.16627](http://arxiv.org/abs/2402.16627)|**[link](https://github.com/yangling0818/contextdiff)**|
 |**2024-02-25**|**ARIN: Adaptive Resampling and Instance Normalization for Robust Blind Inpainting of Dunhuang Cave Paintings**|Alexander Schmidt et.al.|[2402.16188](http://arxiv.org/abs/2402.16188)|null|
 |**2024-02-25**|**An Image Enhancement Method for Improving Small Intestinal Villi Clarity**|Shaojie Zhang et.al.|[2402.15977](http://arxiv.org/abs/2402.15977)|null|
 |**2024-02-24**|**Sandwich GAN: Image Reconstruction from Phase Mask based Anti-dazzle Imaging**|Xiaopeng Peng et.al.|[2402.15919](http://arxiv.org/abs/2402.15919)|null|
