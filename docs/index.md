@@ -51,7 +51,7 @@ layout: default
 |**2023-10-30**|**Scaling Riemannian Diffusion Models**|Aaron Lou et.al.|[2310.20030](http://arxiv.org/abs/2310.20030)|null|
 |**2023-10-27**|**Sample Complexity Bounds for Score-Matching: Causal Discovery and Generative Modeling**|Zhenyu Zhu et.al.|[2310.18123](http://arxiv.org/abs/2310.18123)|null|
 |**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153](http://arxiv.org/abs/2310.17153)|**[link](https://github.com/longinyu/hsivi)**|
-|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
+|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|**[link](https://github.com/louaaron/score-entropy-discrete-diffusion)**|
 |**2023-10-25**|**SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process**|Zichong Li et.al.|[2310.16336](http://arxiv.org/abs/2310.16336)|**[link](https://github.com/zichongli5/smurf-thp)**|
 |**2023-10-25**|**Score Matching-based Pseudolikelihood Estimation of Neural Marked Spatio-Temporal Point Process with Uncertainty Quantification**|Zichong Li et.al.|[2310.16310](http://arxiv.org/abs/2310.16310)|null|
 |**2023-10-22**|**Shortcuts for causal discovery of nonlinear models by score matching**|Francesco Montagna et.al.|[2310.14246](http://arxiv.org/abs/2310.14246)|null|
@@ -127,7 +127,7 @@ layout: default
 |**2024-02-27**|**Advancing Generative Model Evaluation: A Novel Algorithm for Realistic Image Synthesis and Comparison in OCR System**|Majid Memari et.al.|[2402.17204](http://arxiv.org/abs/2402.17204)|null|
 |**2024-02-27**|**Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**|Yixin Liu et.al.|[2402.17177](http://arxiv.org/abs/2402.17177)|**[link](https://github.com/lichao-sun/sorareview)**|
 |**2024-02-27**|**Video as the New Language for Real-World Decision Making**|Sherry Yang et.al.|[2402.17139](http://arxiv.org/abs/2402.17139)|null|
-|**2024-02-27**|**Transparent Image Layer Diffusion using Latent Transparency**|Lvmin Zhang et.al.|[2402.17113](http://arxiv.org/abs/2402.17113)|null|
+|**2024-02-27**|**Transparent Image Layer Diffusion using Latent Transparency**|Lvmin Zhang et.al.|[2402.17113](http://arxiv.org/abs/2402.17113)|**[link](https://github.com/layerdiffusion/layerdiffusion)**|
 |**2024-02-26**|**Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion**|Xuantong Liu et.al.|[2402.16305](http://arxiv.org/abs/2402.16305)|null|
 |**2024-02-25**|**Towards Efficient Quantum Hybrid Diffusion Models**|Francesca De Falco et.al.|[2402.16147](http://arxiv.org/abs/2402.16147)|null|
 |**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504](http://arxiv.org/abs/2402.15504)|**[link](https://github.com/louisYen/Gen4Gen)**|
@@ -304,7 +304,7 @@ layout: default
 |**2024-01-09**|**Content-Conditioned Generation of Stylized Free hand Sketches**|Jiajun Liu et.al.|[2401.04739](http://arxiv.org/abs/2401.04739)|null|
 |**2024-01-09**|**Advancing Ante-Hoc Explainable Models through Generative Adversarial Networks**|Tanmay Garg et.al.|[2401.04647](http://arxiv.org/abs/2401.04647)|null|
 |**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
-|**2024-01-09**|**Enhanced Distribution Alignment for Post-Training Quantization of Diffusion Models**|Xuewen Liu et.al.|[2401.04585](http://arxiv.org/abs/2401.04585)|null|
+|**2024-01-09**|**Enhanced Distribution Alignment for Post-Training Quantization of Diffusion Models**|Xuewen Liu et.al.|[2401.04585](http://arxiv.org/abs/2401.04585)|**[link](https://github.com/BienLuky/EDA-DM)**|
 |**2024-01-09**|**Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding**|Yatong Bai et.al.|[2401.04575](http://arxiv.org/abs/2401.04575)|null|
 |**2024-01-09**|**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**|Weimin Wang et.al.|[2401.04468](http://arxiv.org/abs/2401.04468)|null|
 |**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317](http://arxiv.org/abs/2401.04317)|null|
@@ -603,7 +603,7 @@ layout: default
 |**2023-10-30**|**VideoCrafter1: Open Diffusion Models for High-Quality Video Generation**|Haoxin Chen et.al.|[2310.19512](http://arxiv.org/abs/2310.19512)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2023-10-30**|**Few-shot Hybrid Domain Adaptation of Image Generators**|Hengjia Li et.al.|[2310.19378](http://arxiv.org/abs/2310.19378)|**[link](https://github.com/echopluto/fhda)**|
 |**2023-10-30**|**On Measuring Fairness in Generative Models**|Christopher T. H. Teo et.al.|[2310.19297](http://arxiv.org/abs/2310.19297)|null|
-|**2023-10-29**|**FPGAN-Control: A Controllable Fingerprint Generator for Training with Synthetic Data**|Alon Shoshan et.al.|[2310.19024](http://arxiv.org/abs/2310.19024)|null|
+|**2023-10-29**|**FPGAN-Control: A Controllable Fingerprint Generator for Training with Synthetic Data**|Alon Shoshan et.al.|[2310.19024](http://arxiv.org/abs/2310.19024)|**[link](https://github.com/amazon-science/fpgan-control)**|
 |**2023-10-30**|**Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation**|Jaemin Cho et.al.|[2310.18235](http://arxiv.org/abs/2310.18235)|null|
 |**2023-10-27**|**Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra from RGB Images**|Pai Chet Ng et.al.|[2310.17911](http://arxiv.org/abs/2310.17911)|**[link](https://github.com/hyperspectral-skin/hyper-skin-2023)**|
 |**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835](http://arxiv.org/abs/2310.17835)|**[link](https://github.com/sandman002/One-Style-is-All-You-Need-to-Generate-a-Video)**|
@@ -1181,7 +1181,7 @@ layout: default
 |**2023-12-14**|**SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds**|Minghao Chen et.al.|[2312.09246](http://arxiv.org/abs/2312.09246)|null|
 |**2023-12-14**|**Guided Image Restoration via Simultaneous Feature and Image Guided Fusion**|Xinyi Liu et.al.|[2312.08853](http://arxiv.org/abs/2312.08853)|null|
 |**2023-12-14**|**VQCNIR: Clearer Night Image Restoration with Vector-Quantized Codebook**|Wenbin Zou et.al.|[2312.08606](http://arxiv.org/abs/2312.08606)|**[link](https://github.com/alexzou14/vqcnir)**|
-|**2023-12-13**|**A Compact and Semantic Latent Space for Disentangled and Controllable Image Editing**|Gwilherm Lesné et.al.|[2312.08256](http://arxiv.org/abs/2312.08256)|null|
+|**2023-12-13**|**A Compact and Semantic Latent Space for Disentangled and Controllable Image Editing**|Gwilherm Lesné et.al.|[2312.08256](http://arxiv.org/abs/2312.08256)|**[link](https://github.com/Gwilherm-LESNE/Disentangler)**|
 |**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220](http://arxiv.org/abs/2312.08220)|null|
 |**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128](http://arxiv.org/abs/2312.08128)|**[link](https://github.com/qualcomm-ai-research/clockwork-diffusion)**|
 |**2023-12-13**|**AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing**|Zhiyuan Ma et.al.|[2312.08019](http://arxiv.org/abs/2312.08019)|**[link](https://github.com/anonymouspony/adap-edit)**|
