@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.04
+## Updated on 2024.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -106,7 +106,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## generation
 
@@ -117,9 +117,9 @@
 |**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186](http://arxiv.org/abs/2402.19186)|null|
 |**2024-02-29**|**Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection**|Christos Koutlis et.al.|[2402.19091](http://arxiv.org/abs/2402.19091)|null|
 |**2024-02-29**|**WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis**|Paul Friedrich et.al.|[2402.19043](http://arxiv.org/abs/2402.19043)|**[link](https://github.com/pfriedri/wdm-3d)**|
-|**2024-02-29**|**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**|Xianghui Yang et.al.|[2402.18842](http://arxiv.org/abs/2402.18842)|null|
+|**2024-02-29**|**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**|Xianghui Yang et.al.|[2402.18842](http://arxiv.org/abs/2402.18842)|**[link](https://github.com/Wi-sc/ViewFusion)**|
 |**2024-02-29**|**A Quantitative Evaluation of Score Distillation Sampling Based Text-to-3D**|Xiaohan Fei et.al.|[2402.18780](http://arxiv.org/abs/2402.18780)|null|
-|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|null|
+|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331](http://arxiv.org/abs/2402.18331)|**[link](https://github.com/FineDiffusion/FineDiffusion)**|
 |**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206](http://arxiv.org/abs/2402.18206)|null|
 |**2024-02-28**|**VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation**|Tao Peng et.al.|[2402.18189](http://arxiv.org/abs/2402.18189)|null|
 |**2024-02-28**|**Block and Detail: Scaffolding Sketch-to-Image Generation**|Vishnu Sarukkai et.al.|[2402.18116](http://arxiv.org/abs/2402.18116)|null|
@@ -1032,7 +1032,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -1538,7 +1538,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
