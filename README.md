@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-04**|**Soft-constrained Schrodinger Bridge: a Stochastic Control Approach**|Jhanvi Garg et.al.|[2403.01717](http://arxiv.org/abs/2403.01717)|null|
 |**2024-03-02**|**Re-evaluating the impact of hormone replacement therapy on heart disease using match-adaptive randomization inference**|Samuel D. Pimentel et.al.|[2403.01330](http://arxiv.org/abs/2403.01330)|null|
 |**2024-03-02**|**Training Unbiased Diffusion Models From Biased Dataset**|Yeongmin Kim et.al.|[2403.01189](http://arxiv.org/abs/2403.01189)|**[link](https://github.com/alsdudrla10/tiw-dsm)**|
 |**2024-03-04**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
@@ -114,6 +115,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**|Patrick Esser et.al.|[2403.03206](http://arxiv.org/abs/2403.03206)|null|
+|**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
+|**2024-03-05**|**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**|Weijie Li et.al.|[2403.02827](http://arxiv.org/abs/2403.02827)|null|
+|**2024-03-05**|**Bias in Generative AI**|Mi Zhou et.al.|[2403.02726](http://arxiv.org/abs/2403.02726)|null|
+|**2024-03-04**|**Transformer for Times Series: an Application to the S&P500**|Pierre Brugiere et.al.|[2403.02523](http://arxiv.org/abs/2403.02523)|null|
+|**2024-03-04**|**NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function**|Abdullah Nazhat Abdullah et.al.|[2403.02411](http://arxiv.org/abs/2403.02411)|**[link](https://github.com/Abdullah-88/NiNformer)**|
+|**2024-03-05**|**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control**|Xuweiyi Chen et.al.|[2403.02332](http://arxiv.org/abs/2403.02332)|**[link](https://github.com/XuweiyiChen/UniCtrl)**|
+|**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084](http://arxiv.org/abs/2403.02084)|null|
+|**2024-03-04**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
+|**2024-03-05**|**AtomoVideo: High Fidelity Image-to-Video Generation**|Litong Gong et.al.|[2403.01800](http://arxiv.org/abs/2403.01800)|null|
 |**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
 |**2024-03-02**|**SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code**|Ziniu Hu et.al.|[2403.01248](http://arxiv.org/abs/2403.01248)|null|
 |**2024-03-02**|**TCIG: Two-Stage Controlled Image Generation with Quality Enhancement through Diffusion**|Salaheldin Mohamed et.al.|[2403.01212](http://arxiv.org/abs/2403.01212)|null|
@@ -1050,11 +1061,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Doubly Abductive Counterfactual Inference for Text-based Image Editing**|Xue Song et.al.|[2403.02981](http://arxiv.org/abs/2403.02981)|null|
+|**2024-03-05**|**Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement**|Jinhong He et.al.|[2403.02879](http://arxiv.org/abs/2403.02879)|null|
+|**2024-03-05**|**Speckle Noise Reduction in Ultrasound Images using Denoising Auto-encoder with Skip Connection**|Suraj Bhute et.al.|[2403.02750](http://arxiv.org/abs/2403.02750)|null|
+|**2024-03-04**|**A Spatio-temporal Aligned SUNet Model for Low-light Video Enhancement**|Ruirui Lin et.al.|[2403.02408](http://arxiv.org/abs/2403.02408)|null|
+|**2024-03-03**|**Learning A Physical-aware Diffusion Model Based on Transformer for Underwater Image Enhancement**|Chen Zhao et.al.|[2403.01497](http://arxiv.org/abs/2403.01497)|null|
 |**2024-03-02**|**Extrapolated Plug-and-Play Three-Operator Splitting Methods for Nonconvex Optimization with Applications to Image Restoration**|Zhongming Wu et.al.|[2403.01144](http://arxiv.org/abs/2403.01144)|null|
 |**2024-03-02**|**Edge-guided Low-light Image Enhancement with Inertial Bregman Alternating Linearized Minimization**|Chaoyan Huang et.al.|[2403.01142](http://arxiv.org/abs/2403.01142)|null|
 |**2024-03-01**|**LoMOE: Localized Multi-Object Editing via Multi-Diffusion**|Goirik Chakrabarty et.al.|[2403.00437](http://arxiv.org/abs/2403.00437)|null|
 |**2024-03-01**|**ChartReformer: Natural Language-Driven Chart Image Editing**|Pengyu Yan et.al.|[2403.00209](http://arxiv.org/abs/2403.00209)|null|
-|**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni et.al.|[2402.18192](http://arxiv.org/abs/2402.18192)|null|
+|**2024-02-28**|**Misalignment-Robust Frequency Distribution Loss for Image Transformation**|Zhangkai Ni et.al.|[2402.18192](http://arxiv.org/abs/2402.18192)|**[link](https://github.com/eezkni/fdl)**|
 |**2024-02-28**|**A Lightweight Low-Light Image Enhancement Network via Channel Prior and Gamma Correction**|Shyang-En Weng et.al.|[2402.18147](http://arxiv.org/abs/2402.18147)|null|
 |**2024-02-28**|**Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction**|Koki Maeda et.al.|[2402.17969](http://arxiv.org/abs/2402.17969)|null|
 |**2024-02-26**|**Randomized Algorithms for Solving Singular Value Decomposition Problems with Matlab Toolbox**|Xiaowen Li et.al.|[2402.17794](http://arxiv.org/abs/2402.17794)|null|
