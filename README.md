@@ -132,7 +132,7 @@
 |**2024-03-04**|**Transformer for Times Series: an Application to the S&P500**|Pierre Brugiere et.al.|[2403.02523](http://arxiv.org/abs/2403.02523)|null|
 |**2024-03-04**|**NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function**|Abdullah Nazhat Abdullah et.al.|[2403.02411](http://arxiv.org/abs/2403.02411)|**[link](https://github.com/Abdullah-88/NiNformer)**|
 |**2024-03-05**|**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control**|Xuweiyi Chen et.al.|[2403.02332](http://arxiv.org/abs/2403.02332)|**[link](https://github.com/XuweiyiChen/UniCtrl)**|
-|**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084](http://arxiv.org/abs/2403.02084)|null|
+|**2024-03-04**|**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models**|Jiaxiang Cheng et.al.|[2403.02084](http://arxiv.org/abs/2403.02084)|**[link](https://github.com/bytedance/res-adapter)**|
 |**2024-03-04**|**ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models**|Lukas Höllein et.al.|[2403.01807](http://arxiv.org/abs/2403.01807)|**[link](https://github.com/facebookresearch/viewdiff)**|
 |**2024-03-05**|**AtomoVideo: High Fidelity Image-to-Video Generation**|Litong Gong et.al.|[2403.01800](http://arxiv.org/abs/2403.01800)|null|
 |**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
@@ -182,7 +182,7 @@
 |**2024-02-21**|**SDXL-Lightning: Progressive Adversarial Diffusion Distillation**|Shanchuan Lin et.al.|[2402.13929](http://arxiv.org/abs/2402.13929)|null|
 |**2024-02-21**|**SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model**|Xudong Ling et.al.|[2402.13737](http://arxiv.org/abs/2402.13737)|null|
 |**2024-02-21**|**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation**|Kihong Kim et.al.|[2402.13729](http://arxiv.org/abs/2402.13729)|null|
-|**2024-02-21**|**Hybrid Reasoning Based on Large Language Models for Autonomous Car Driving**|Mehdi Azarafza et.al.|[2402.13602](http://arxiv.org/abs/2402.13602)|null|
+|**2024-02-21**|**Hybrid Reasoning Based on Large Language Models for Autonomous Car Driving**|Mehdi Azarafza et.al.|[2402.13602](http://arxiv.org/abs/2402.13602)|**[link](https://github.com/mehdiazarafza/hybrid-reasoning)**|
 |**2024-02-21**|**Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models**|Chen Wu et.al.|[2402.13490](http://arxiv.org/abs/2402.13490)|null|
 |**2024-02-20**|**Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control**|Denis Lukovnikov et.al.|[2402.13404](http://arxiv.org/abs/2402.13404)|null|
 |**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254](http://arxiv.org/abs/2402.13254)|**[link](https://github.com/hansolo9682/countercurate)**|
@@ -337,7 +337,7 @@
 |**2024-01-10**|**AI Art is Theft: Labour, Extraction, and Exploitation, Or, On the Dangers of Stochastic Pollocks**|Trystan S. Goetze et.al.|[2401.06178](http://arxiv.org/abs/2401.06178)|null|
 |**2024-01-11**|**RAVEN: Rethinking Adversarial Video Generation with Efficient Tri-plane Networks**|Partha Ghosh et.al.|[2401.06035](http://arxiv.org/abs/2401.06035)|null|
 |**2024-01-11**|**EraseDiff: Erasing Data Influence in Diffusion Models**|Jing Wu et.al.|[2401.05779](http://arxiv.org/abs/2401.05779)|null|
-|**2024-01-11**|**Learn From Zoom: Decoupled Supervised Contrastive Learning For WCE Image Classification**|Kunpeng Qiu et.al.|[2401.05771](http://arxiv.org/abs/2401.05771)|null|
+|**2024-01-11**|**Learn From Zoom: Decoupled Supervised Contrastive Learning For WCE Image Classification**|Kunpeng Qiu et.al.|[2401.05771](http://arxiv.org/abs/2401.05771)|**[link](https://github.com/qiukunpeng/dscl)**|
 |**2024-01-11**|**Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation**|Seung Hyun Lee et.al.|[2401.05675](http://arxiv.org/abs/2401.05675)|null|
 |**2024-01-10**|**From Pampas to Pixels: Fine-Tuning Diffusion Models for Gaúcho Heritage**|Marcellus Amadeus et.al.|[2401.05520](http://arxiv.org/abs/2401.05520)|null|
 |**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252](http://arxiv.org/abs/2401.05252)|**[link](https://github.com/PixArt-alpha/PixArt-alpha)**|
@@ -688,7 +688,7 @@
 |**2023-10-17**|**GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**|Dhruba Ghosh et.al.|[2310.11513](http://arxiv.org/abs/2310.11513)|**[link](https://github.com/djghosh13/geneval)**|
 |**2023-10-18**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440](http://arxiv.org/abs/2310.11440)|null|
 |**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|**[link](https://github.com/alexmaols/elucd)**|
-|**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|null|
+|**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142](http://arxiv.org/abs/2310.11142)|**[link](https://github.com/karrykkk/bayesdiff)**|
 |**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769](http://arxiv.org/abs/2310.10769)|**[link](https://github.com/RQ-Wu/LAMP)**|
 |**2023-10-18**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765](http://arxiv.org/abs/2310.10765)|null|
 |**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|**[link](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)**|
@@ -751,7 +751,7 @@
 |**2023-10-03**|**Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation**|Jun Li et.al.|[2310.01819](http://arxiv.org/abs/2310.01819)|null|
 |**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|**[link](https://github.com/TIGER-AI-Lab/ImagenHub)**|
 |**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
-|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
+|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|**[link](https://github.com/fast-codi/CoDi)**|
 |**2023-10-02**|**Trained Latent Space Navigation to Prevent Lack of Photorealism in Generated Images on Style-based Models**|Takumi Harada et.al.|[2310.00936](http://arxiv.org/abs/2310.00936)|null|
 |**2023-10-02**|**Understanding Transferable Representation Learning and Zero-shot Transfer in CLIP**|Zixiang Chen et.al.|[2310.00927](http://arxiv.org/abs/2310.00927)|null|
 |**2023-10-02**|**RT-GAN: Recurrent Temporal GAN for Adding Lightweight Temporal Consistency to Frame-Based Domain Translation Approaches**|Shawn Mathew et.al.|[2310.00868](http://arxiv.org/abs/2310.00868)|**[link](https://github.com/nadeemlab/CEP)**|
@@ -1399,7 +1399,7 @@
 |**2023-10-03**|**Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration**|Tomáš Chobola et.al.|[2310.02097](http://arxiv.org/abs/2310.02097)|**[link](https://github.com/ctom2/cider)**|
 |**2023-10-02**|**ImagenHub: Standardizing the evaluation of conditional image generation models**|Max Ku et.al.|[2310.01596](http://arxiv.org/abs/2310.01596)|**[link](https://github.com/TIGER-AI-Lab/ImagenHub)**|
 |**2023-10-02**|**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code**|Xuan Ju et.al.|[2310.01506](http://arxiv.org/abs/2310.01506)|**[link](https://github.com/cure-lab/directinversion)**|
-|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|null|
+|**2023-10-02**|**Conditional Diffusion Distillation**|Kangfu Mei et.al.|[2310.01407](http://arxiv.org/abs/2310.01407)|**[link](https://github.com/fast-codi/CoDi)**|
 |**2023-10-02**|**Sequential Data Generation with Groupwise Diffusion Process**|Sangyun Lee et.al.|[2310.01400](http://arxiv.org/abs/2310.01400)|null|
 |**2023-10-02**|**A Restoration Network as an Implicit Prior**|Yuyang Hu et.al.|[2310.01391](http://arxiv.org/abs/2310.01391)|null|
 |**2023-10-02**|**Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**|Hyeonho Jeong et.al.|[2310.01107](http://arxiv.org/abs/2310.01107)|**[link](https://github.com/ground-a-video/ground-a-video)**|
