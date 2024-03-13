@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-10**|**Propensity-score matching analysis in COVID-19-related studies: a method and quality systematic review**|Chunhui Gu et.al.|[2403.07023](http://arxiv.org/abs/2403.07023)|null|
 |**2024-03-10**|**UNICORN: Ultrasound Nakagami Imaging via Score Matching and Adaptation**|Kwanyoung Kim et.al.|[2403.06275](http://arxiv.org/abs/2403.06275)|null|
 |**2024-03-04**|**Soft-constrained Schrodinger Bridge: a Stochastic Control Approach**|Jhanvi Garg et.al.|[2403.01717](http://arxiv.org/abs/2403.01717)|null|
 |**2024-03-02**|**Re-evaluating the impact of hormone replacement therapy on heart disease using match-adaptive randomization inference**|Samuel D. Pimentel et.al.|[2403.01330](http://arxiv.org/abs/2403.01330)|null|
@@ -109,6 +110,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
+|**2024-03-12**|**Synth $^2$ : Boosting Visual-Language Models with Synthetic Captions and Image Embeddings**|Sahand Sharifzadeh et.al.|[2403.07750](http://arxiv.org/abs/2403.07750)|null|
+|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|null|
+|**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
+|**2024-03-12**|**Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation**|Michael Ogezi et.al.|[2403.07605](http://arxiv.org/abs/2403.07605)|null|
+|**2024-03-12**|**Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation**|Likun Li et.al.|[2403.07500](http://arxiv.org/abs/2403.07500)|null|
+|**2024-03-12**|**Backdoor Attack with Mode Mixture Latent Modification**|Hongwei Zhang et.al.|[2403.07463](http://arxiv.org/abs/2403.07463)|null|
+|**2024-03-12**|**DragAnything: Motion Control for Anything using Entity Representation**|Wejia Wu et.al.|[2403.07420](http://arxiv.org/abs/2403.07420)|**[link](https://github.com/showlab/draganything)**|
 |**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
 |**2024-03-11**|**Medical Image Synthesis via Fine-Grained Image-Text Alignment and Anatomy-Pathology Prompting**|Wenting Chen et.al.|[2403.06835](http://arxiv.org/abs/2403.06835)|null|
 |**2024-03-11**|**Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2403.06803](http://arxiv.org/abs/2403.06803)|**[link](https://github.com/chuangchuangtan/data-independent-operator)**|
@@ -1083,6 +1094,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Multiple Latent Space Mapping for Compressed Dark Image Enhancement**|Yi Zeng et.al.|[2403.07622](http://arxiv.org/abs/2403.07622)|null|
+|**2024-03-12**|**Imagine a dragon made of seaweed: How images enhance learning in Wikipedia**|Anita Silva et.al.|[2403.07613](http://arxiv.org/abs/2403.07613)|null|
+|**2024-03-12**|**NightHaze: Nighttime Image Dehazing via Self-Prior Learning**|Beibei Lin et.al.|[2403.07408](http://arxiv.org/abs/2403.07408)|null|
+|**2024-03-12**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
+|**2024-03-12**|**Continual All-in-One Adverse Weather Removal with Knowledge Replay on a Unified Network Structure**|De Cheng et.al.|[2403.07292](http://arxiv.org/abs/2403.07292)|**[link](https://github.com/xiaojihh/cl_all-in-one)**|
+|**2024-03-11**|**Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions**|Lan Wang et.al.|[2403.07198](http://arxiv.org/abs/2403.07198)|null|
 |**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
 |**2024-03-11**|**Boosting Image Restoration via Priors from Pre-trained Models**|Xiaogang Xu et.al.|[2403.06793](http://arxiv.org/abs/2403.06793)|null|
 |**2024-03-11**|**Comparison of No-Reference Image Quality Models via MAP Estimation in Diffusion Latents**|Weixia Zhang et.al.|[2403.06406](http://arxiv.org/abs/2403.06406)|null|
