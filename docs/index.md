@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -114,12 +114,12 @@ layout: default
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
 |**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
 |**2024-03-12**|**Synth $^2$ : Boosting Visual-Language Models with Synthetic Captions and Image Embeddings**|Sahand Sharifzadeh et.al.|[2403.07750](http://arxiv.org/abs/2403.07750)|null|
-|**2024-03-12**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|null|
+|**2024-03-13**|**Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion**|Dongyang Li et.al.|[2403.07721](http://arxiv.org/abs/2403.07721)|**[link](https://github.com/dongyangli-del/eeg_image_decode)**|
 |**2024-03-12**|**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**|Yuta Oshima et.al.|[2403.07711](http://arxiv.org/abs/2403.07711)|**[link](https://github.com/shim0114/ssm-meets-video-diffusion-models)**|
 |**2024-03-12**|**Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation**|Michael Ogezi et.al.|[2403.07605](http://arxiv.org/abs/2403.07605)|null|
 |**2024-03-12**|**Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation**|Likun Li et.al.|[2403.07500](http://arxiv.org/abs/2403.07500)|null|
 |**2024-03-12**|**Backdoor Attack with Mode Mixture Latent Modification**|Hongwei Zhang et.al.|[2403.07463](http://arxiv.org/abs/2403.07463)|null|
-|**2024-03-12**|**DragAnything: Motion Control for Anything using Entity Representation**|Wejia Wu et.al.|[2403.07420](http://arxiv.org/abs/2403.07420)|**[link](https://github.com/showlab/draganything)**|
+|**2024-03-13**|**DragAnything: Motion Control for Anything using Entity Representation**|Weijia Wu et.al.|[2403.07420](http://arxiv.org/abs/2403.07420)|**[link](https://github.com/showlab/draganything)**|
 |**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
 |**2024-03-11**|**Medical Image Synthesis via Fine-Grained Image-Text Alignment and Anatomy-Pathology Prompting**|Wenting Chen et.al.|[2403.06835](http://arxiv.org/abs/2403.06835)|null|
 |**2024-03-11**|**Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2403.06803](http://arxiv.org/abs/2403.06803)|**[link](https://github.com/chuangchuangtan/data-independent-operator)**|
