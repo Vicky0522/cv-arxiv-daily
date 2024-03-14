@@ -110,6 +110,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
+|**2024-03-13**|**HAIFIT: Human-Centered AI for Fashion Image Translation**|Jianan Jiang et.al.|[2403.08651](http://arxiv.org/abs/2403.08651)|**[link](https://github.com/exponentiai/haifit)**|
+|**2024-03-13**|**Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation**|Tianyi Chu et.al.|[2403.08294](http://arxiv.org/abs/2403.08294)|null|
+|**2024-03-13**|**Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**|Yue Ma et.al.|[2403.08268](http://arxiv.org/abs/2403.08268)|**[link](https://github.com/mayuelala/followyourclick)**|
+|**2024-03-13**|**Make Me Happier: Evoking Emotions Through Image Diffusion Models**|Qing Lin et.al.|[2403.08255](http://arxiv.org/abs/2403.08255)|null|
 |**2024-03-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al.|[2403.07860](http://arxiv.org/abs/2403.07860)|**[link](https://github.com/shihaozhaozsh/lavi-bridge)**|
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
 |**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
@@ -1094,6 +1099,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
+|**2024-03-13**|**iCONTRA: Toward Thematic Collection Design Via Interactive Concept Transfer**|Dinh-Khoi Vo et.al.|[2403.08746](http://arxiv.org/abs/2403.08746)|**[link](https://github.com/vdkhoi20/icontra)**|
+|**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
+|**2024-03-13**|**Make Me Happier: Evoking Emotions Through Image Diffusion Models**|Qing Lin et.al.|[2403.08255](http://arxiv.org/abs/2403.08255)|null|
+|**2024-03-12**|**Pix2Pix-OnTheFly: Leveraging LLMs for Instruction-Guided Image Editing**|Rodrigo Santos et.al.|[2403.08004](http://arxiv.org/abs/2403.08004)|null|
 |**2024-03-12**|**Multiple Latent Space Mapping for Compressed Dark Image Enhancement**|Yi Zeng et.al.|[2403.07622](http://arxiv.org/abs/2403.07622)|null|
 |**2024-03-12**|**Imagine a dragon made of seaweed: How images enhance learning in Wikipedia**|Anita Silva et.al.|[2403.07613](http://arxiv.org/abs/2403.07613)|null|
 |**2024-03-12**|**NightHaze: Nighttime Image Dehazing via Self-Prior Learning**|Beibei Lin et.al.|[2403.07408](http://arxiv.org/abs/2403.07408)|null|
