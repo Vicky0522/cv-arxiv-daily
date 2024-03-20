@@ -110,6 +110,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963](http://arxiv.org/abs/2403.12963)|**[link](https://github.com/leonhlj/fouriscale)**|
+|**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935](http://arxiv.org/abs/2403.12935)|null|
+|**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
+|**2024-03-19**|**How Spammers and Scammers Leverage AI-Generated Images on Facebook for Audience Growth**|Renee DiResta et.al.|[2403.12838](http://arxiv.org/abs/2403.12838)|null|
+|**2024-03-19**|**Total Disentanglement of Font Images into Style and Character Class Features**|Daichi Haraguchi et.al.|[2403.12784](http://arxiv.org/abs/2403.12784)|null|
+|**2024-03-19**|**AnimateDiff-Lightning: Cross-Model Diffusion Distillation**|Shanchuan Lin et.al.|[2403.12706](http://arxiv.org/abs/2403.12706)|null|
+|**2024-03-18**|**Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts**|Anh Bui et.al.|[2403.12326](http://arxiv.org/abs/2403.12326)|null|
+|**2024-03-18**|**Synthetic Image Generation in Cyber Influence Operations: An Emergent Threat?**|Melanie Mathys et.al.|[2403.12207](http://arxiv.org/abs/2403.12207)|null|
+|**2024-03-18**|**CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility**|Bojia Zi et.al.|[2403.12035](http://arxiv.org/abs/2403.12035)|null|
+|**2024-03-18**|**Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2403.12015](http://arxiv.org/abs/2403.12015)|null|
 |**2024-03-18**|**Virbo: Multimodal Multilingual Avatar Video Generation in Digital Marketing**|Juan Zhang et.al.|[2403.11700](http://arxiv.org/abs/2403.11700)|null|
 |**2024-03-19**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697](http://arxiv.org/abs/2403.11697)|null|
 |**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667](http://arxiv.org/abs/2403.11667)|null|
@@ -1124,8 +1134,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.|[2403.12770](http://arxiv.org/abs/2403.12770)|null|
+|**2024-03-19**|**LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing**|Yazeed Alharbi et.al.|[2403.12585](http://arxiv.org/abs/2403.12585)|null|
+|**2024-03-19**|**Generalized Consistency Trajectory Models for Image Manipulation**|Beomsu Kim et.al.|[2403.12510](http://arxiv.org/abs/2403.12510)|**[link](https://github.com/1202kbs/gctm)**|
+|**2024-03-18**|**Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2403.12015](http://arxiv.org/abs/2403.12015)|null|
+|**2024-03-18**|**DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing**|Hyeonho Jeong et.al.|[2403.12002](http://arxiv.org/abs/2403.12002)|null|
+|**2024-03-18**|**LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model**|Runhui Huang et.al.|[2403.11929](http://arxiv.org/abs/2403.11929)|null|
+|**2024-03-18**|**View-Consistent 3D Editing with Gaussian Splatting**|Yuxuan Wang et.al.|[2403.11868](http://arxiv.org/abs/2403.11868)|null|
 |**2024-03-18**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|null|
-|**2024-03-18**|**End-To-End Underwater Video Enhancement: Dataset and Model**|Dazhao Du et.al.|[2403.11506](http://arxiv.org/abs/2403.11506)|null|
+|**2024-03-18**|**End-To-End Underwater Video Enhancement: Dataset and Model**|Dazhao Du et.al.|[2403.11506](http://arxiv.org/abs/2403.11506)|**[link](https://github.com/ddz16/UVENet)**|
 |**2024-03-18**|**Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors**|Ruicheng Wang et.al.|[2403.11503](http://arxiv.org/abs/2403.11503)|null|
 |**2024-03-18**|**CasSR: Activating Image Power for Real-World Image Super-Resolution**|Haolan Chen et.al.|[2403.11451](http://arxiv.org/abs/2403.11451)|null|
 |**2024-03-18**|**VmambaIR: Visual State Space Model for Image Restoration**|Yuan Shi et.al.|[2403.11423](http://arxiv.org/abs/2403.11423)|**[link](https://github.com/alphacatplus/vmambair)**|
