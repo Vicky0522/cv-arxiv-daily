@@ -117,6 +117,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
+|**2024-03-20**|**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**|Fu-Yun Wang et.al.|[2403.13745](http://arxiv.org/abs/2403.13745)|null|
+|**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
+|**2024-03-20**|**ReGround: Improving Textual and Spatial Grounding at No Cost**|Yuseung Lee et.al.|[2403.13589](http://arxiv.org/abs/2403.13589)|null|
+|**2024-03-20**|**Diversity-aware Channel Pruning for StyleGAN Compression**|Jiwoo Chung et.al.|[2403.13548](http://arxiv.org/abs/2403.13548)|**[link](https://github.com/jiwoogit/dcp-gan)**|
+|**2024-03-20**|**IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models**|Siying Cui et.al.|[2403.13535](http://arxiv.org/abs/2403.13535)|null|
+|**2024-03-20**|**Deepfake Detection without Deepfakes: Generalization via Synthetic Frequency Patterns Injection**|Davide Alessandro Coccomini et.al.|[2403.13479](http://arxiv.org/abs/2403.13479)|null|
+|**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408](http://arxiv.org/abs/2403.13408)|null|
+|**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352](http://arxiv.org/abs/2403.13352)|null|
+|**2024-03-20**|**TiBiX: Leveraging Temporal Information for Bidirectional X-ray and Report Generation**|Santosh Sanjeev et.al.|[2403.13343](http://arxiv.org/abs/2403.13343)|null|
 |**2024-03-19**|**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis**|Linjiang Huang et.al.|[2403.12963](http://arxiv.org/abs/2403.12963)|**[link](https://github.com/leonhlj/fouriscale)**|
 |**2024-03-19**|**Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties**|Efrain Torres-Lomas et.al.|[2403.12935](http://arxiv.org/abs/2403.12935)|null|
 |**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
@@ -1143,6 +1153,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
+|**2024-03-20**|**Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing**|Hangeol Chang et.al.|[2403.13551](http://arxiv.org/abs/2403.13551)|null|
+|**2024-03-20**|**A multilevel framework for accelerating uSARA in radio-interferometric imaging**|Guillaume Lauga et.al.|[2403.13385](http://arxiv.org/abs/2403.13385)|null|
+|**2024-03-20**|**Mora: Enabling Generalist Video Generation via A Multi-Agent Framework**|Zhengqing Yuan et.al.|[2403.13248](http://arxiv.org/abs/2403.13248)|**[link](https://github.com/lichao-sun/mora)**|
 |**2024-03-19**|**Multispectral Image Restoration by Generalized Opponent Transformation Total Variation**|Zhantao Ma et.al.|[2403.12770](http://arxiv.org/abs/2403.12770)|null|
 |**2024-03-19**|**LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing**|Yazeed Alharbi et.al.|[2403.12585](http://arxiv.org/abs/2403.12585)|null|
 |**2024-03-19**|**Generalized Consistency Trajectory Models for Image Manipulation**|Beomsu Kim et.al.|[2403.12510](http://arxiv.org/abs/2403.12510)|**[link](https://github.com/1202kbs/gctm)**|
