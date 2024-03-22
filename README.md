@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection**|Jakub Micorek et.al.|[2403.14497](http://arxiv.org/abs/2403.14497)|null|
 |**2024-03-10**|**Propensity-score matching analysis in COVID-19-related studies: a method and quality systematic review**|Chunhui Gu et.al.|[2403.07023](http://arxiv.org/abs/2403.07023)|null|
 |**2024-03-10**|**UNICORN: Ultrasound Nakagami Imaging via Score Matching and Adaptation**|Kwanyoung Kim et.al.|[2403.06275](http://arxiv.org/abs/2403.06275)|null|
 |**2024-03-04**|**Soft-constrained Schrodinger Bridge: a Stochastic Control Approach**|Jhanvi Garg et.al.|[2403.01717](http://arxiv.org/abs/2403.01717)|null|
@@ -117,6 +118,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611](http://arxiv.org/abs/2403.14611)|null|
+|**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|null|
+|**2024-03-21**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
+|**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
+|**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
+|**2024-03-21**|**Enabling Visual Composition and Animation in Unsupervised Video Generation**|Aram Davtyan et.al.|[2403.14368](http://arxiv.org/abs/2403.14368)|null|
+|**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
+|**2024-03-21**|**Safeguarding Medical Image Segmentation Datasets against Unauthorized Training via Contour- and Texture-Aware Perturbations**|Xun Lin et.al.|[2403.14250](http://arxiv.org/abs/2403.14250)|null|
+|**2024-03-21**|**StyleCineGAN: Landscape Cinemagraph Generation using a Pre-trained StyleGAN**|Jongwoo Choi et.al.|[2403.14186](http://arxiv.org/abs/2403.14186)|null|
+|**2024-03-21**|**Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition**|Sihyun Yu et.al.|[2403.14148](http://arxiv.org/abs/2403.14148)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
 |**2024-03-20**|**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation**|Fu-Yun Wang et.al.|[2403.13745](http://arxiv.org/abs/2403.13745)|null|
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
@@ -1153,6 +1164,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
+|**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614](http://arxiv.org/abs/2403.14614)|null|
+|**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
+|**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|null|
+|**2024-03-21**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
 |**2024-03-20**|**Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing**|Hangeol Chang et.al.|[2403.13551](http://arxiv.org/abs/2403.13551)|null|
 |**2024-03-20**|**A multilevel framework for accelerating uSARA in radio-interferometric imaging**|Guillaume Lauga et.al.|[2403.13385](http://arxiv.org/abs/2403.13385)|null|
