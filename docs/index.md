@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.21
+## Updated on 2024.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -115,7 +115,7 @@ layout: default
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
 |**2024-03-20**|**ReGround: Improving Textual and Spatial Grounding at No Cost**|Yuseung Lee et.al.|[2403.13589](http://arxiv.org/abs/2403.13589)|null|
 |**2024-03-20**|**Diversity-aware Channel Pruning for StyleGAN Compression**|Jiwoo Chung et.al.|[2403.13548](http://arxiv.org/abs/2403.13548)|**[link](https://github.com/jiwoogit/dcp-gan)**|
-|**2024-03-20**|**IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models**|Siying Cui et.al.|[2403.13535](http://arxiv.org/abs/2403.13535)|null|
+|**2024-03-21**|**IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models**|Siying Cui et.al.|[2403.13535](http://arxiv.org/abs/2403.13535)|null|
 |**2024-03-20**|**Deepfake Detection without Deepfakes: Generalization via Synthetic Frequency Patterns Injection**|Davide Alessandro Coccomini et.al.|[2403.13479](http://arxiv.org/abs/2403.13479)|null|
 |**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408](http://arxiv.org/abs/2403.13408)|null|
 |**2024-03-20**|**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation**|Jingkun An et.al.|[2403.13352](http://arxiv.org/abs/2403.13352)|null|
