@@ -118,6 +118,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**DragAPart: Learning a Part-Level Motion Prior for Articulated Objects**|Ruining Li et.al.|[2403.15382](http://arxiv.org/abs/2403.15382)|null|
+|**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|null|
+|**2024-03-22**|**Controlled Training Data Generation with Diffusion Models**|Teresa Yeo et.al.|[2403.15309](http://arxiv.org/abs/2403.15309)|null|
+|**2024-03-22**|**Spectral Motion Alignment for Video Motion Transfer using Diffusion Models**|Geon Yeong Park et.al.|[2403.15249](http://arxiv.org/abs/2403.15249)|null|
+|**2024-03-22**|**A Multimodal Approach for Cross-Domain Image Retrieval**|Lucas Iijima et.al.|[2403.15152](http://arxiv.org/abs/2403.15152)|null|
+|**2024-03-22**|**MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration**|Zhichao Wei et.al.|[2403.15059](http://arxiv.org/abs/2403.15059)|null|
+|**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048](http://arxiv.org/abs/2403.15048)|null|
+|**2024-03-22**|**CLIP-VQDiffusion : Langauge Free Training of Text To Image generation using CLIP and vector quantized diffusion model**|Seungdae Han et.al.|[2403.14944](http://arxiv.org/abs/2403.14944)|null|
+|**2024-03-22**|**Geometric Generative Models based on Morphological Equivariant PDEs and GANs**|El Hadji S. Diop et.al.|[2403.14897](http://arxiv.org/abs/2403.14897)|null|
+|**2024-03-21**|**StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text**|Roberto Henschel et.al.|[2403.14773](http://arxiv.org/abs/2403.14773)|null|
 |**2024-03-21**|**Explorative Inbetweening of Time and Space**|Haiwen Feng et.al.|[2403.14611](http://arxiv.org/abs/2403.14611)|null|
 |**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|null|
 |**2024-03-22**|**AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks**|Max Ku et.al.|[2403.14468](http://arxiv.org/abs/2403.14468)|null|
@@ -1164,7 +1174,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
+|**2024-03-21**|**Osmosis: RGBD Diffusion Prior for Underwater Image Restoration**|Opher Bar Nathan et.al.|[2403.14837](http://arxiv.org/abs/2403.14837)|null|
+|**2024-03-21**|**Multimodal-Conditioned Latent Diffusion Models for Fashion Image Editing**|Alberto Baldrati et.al.|[2403.14828](http://arxiv.org/abs/2403.14828)|null|
+|**2024-03-21**|**StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text**|Roberto Henschel et.al.|[2403.14773](http://arxiv.org/abs/2403.14773)|null|
+|**2024-03-22**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
 |**2024-03-21**|**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**|Yuning Cui et.al.|[2403.14614](http://arxiv.org/abs/2403.14614)|**[link](https://github.com/c-yn/adair)**|
 |**2024-03-21**|**ReNoise: Real Image Inversion Through Iterative Noising**|Daniel Garibi et.al.|[2403.14602](http://arxiv.org/abs/2403.14602)|null|
 |**2024-03-21**|**DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing**|Yueru Jia et.al.|[2403.14487](http://arxiv.org/abs/2403.14487)|null|
