@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -113,12 +113,13 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Iso-Diffusion: Improving Diffusion Probabilistic Models Using the Isotropy of the Additive Gaussian Noise**|Dilum Fernando et.al.|[2403.16790](http://arxiv.org/abs/2403.16790)|null|
 |**2024-03-25**|**Multi-Scale Texture Loss for CT denoising with GANs**|Francesco Di Feola et.al.|[2403.16640](http://arxiv.org/abs/2403.16640)|**[link](https://github.com/francescodifeola/denotextureloss)**|
 |**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|
 |**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530](http://arxiv.org/abs/2403.16530)|null|
@@ -1179,7 +1180,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -1190,7 +1191,7 @@
 |**2024-03-24**|**EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing**|Xiangpeng Yang et.al.|[2403.16111](http://arxiv.org/abs/2403.16111)|null|
 |**2024-03-24**|**Edit3K: Universal Representation Learning for Video Editing Components**|Xin Gu et.al.|[2403.16048](http://arxiv.org/abs/2403.16048)|null|
 |**2024-03-23**|**Graph Image Prior for Unsupervised Dynamic MRI Reconstruction**|Zhongsen Li et.al.|[2403.15770](http://arxiv.org/abs/2403.15770)|**[link](https://github.com/lizs17/gip_cardiac_mri)**|
-|**2024-03-22**|**MedPromptX: Grounded Multimodal Prompting for Chest X-ray Diagnosis**|Mai A. Shaaban et.al.|[2403.15585](http://arxiv.org/abs/2403.15585)|null|
+|**2024-03-22**|**MedPromptX: Grounded Multimodal Prompting for Chest X-ray Diagnosis**|Mai A. Shaaban et.al.|[2403.15585](http://arxiv.org/abs/2403.15585)|**[link](https://github.com/biomedia-mbzuai/medpromptx)**|
 |**2024-03-22**|**Latent Neural Cellular Automata for Resource-Efficient Image Restoration**|Andrea Menta et.al.|[2403.15525](http://arxiv.org/abs/2403.15525)|null|
 |**2024-03-22**|**Medical Image Data Provenance for Medical Cyber-Physical System**|Vijay Kumar et.al.|[2403.15522](http://arxiv.org/abs/2403.15522)|null|
 |**2024-03-21**|**Osmosis: RGBD Diffusion Prior for Underwater Image Restoration**|Opher Bar Nathan et.al.|[2403.14837](http://arxiv.org/abs/2403.14837)|null|
@@ -1770,7 +1771,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
