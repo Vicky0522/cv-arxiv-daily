@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -114,7 +114,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 ## generation
 
@@ -1197,7 +1197,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -1206,7 +1206,7 @@
 |**2024-03-27**|**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**|Daniel Winter et.al.|[2403.18818](http://arxiv.org/abs/2403.18818)|null|
 |**2024-03-27**|**Towards Image Ambient Lighting Normalization**|Florin-Alexandru Vasluianu et.al.|[2403.18730](http://arxiv.org/abs/2403.18730)|null|
 |**2024-03-27**|**InstructBrush: Learning Attention-based Instruction Optimization for Image Editing**|Ruoyu Zhao et.al.|[2403.18660](http://arxiv.org/abs/2403.18660)|null|
-|**2024-03-27**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
+|**2024-03-28**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
 |**2024-03-26**|**Bidirectional Consistency Models**|Liangchen Li et.al.|[2403.18035](http://arxiv.org/abs/2403.18035)|null|
 |**2024-03-26**|**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**|Mohammad Shahab Sepehri et.al.|[2403.17902](http://arxiv.org/abs/2403.17902)|null|
 |**2024-03-26**|**ExpressEdit: Video Editing with Natural Language and Sketching**|Bekzat Tilekbay et.al.|[2403.17693](http://arxiv.org/abs/2403.17693)|null|
@@ -1798,7 +1798,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

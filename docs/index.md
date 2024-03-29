@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -1197,7 +1197,7 @@ layout: default
 |**2024-03-27**|**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion**|Daniel Winter et.al.|[2403.18818](http://arxiv.org/abs/2403.18818)|null|
 |**2024-03-27**|**Towards Image Ambient Lighting Normalization**|Florin-Alexandru Vasluianu et.al.|[2403.18730](http://arxiv.org/abs/2403.18730)|null|
 |**2024-03-27**|**InstructBrush: Learning Attention-based Instruction Optimization for Image Editing**|Ruoyu Zhao et.al.|[2403.18660](http://arxiv.org/abs/2403.18660)|null|
-|**2024-03-27**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
+|**2024-03-28**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
 |**2024-03-26**|**Bidirectional Consistency Models**|Liangchen Li et.al.|[2403.18035](http://arxiv.org/abs/2403.18035)|null|
 |**2024-03-26**|**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**|Mohammad Shahab Sepehri et.al.|[2403.17902](http://arxiv.org/abs/2403.17902)|null|
 |**2024-03-26**|**ExpressEdit: Video Editing with Natural Language and Sketching**|Bekzat Tilekbay et.al.|[2403.17693](http://arxiv.org/abs/2403.17693)|null|
