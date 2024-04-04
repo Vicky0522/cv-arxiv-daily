@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -116,7 +116,7 @@ layout: default
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
 |**2024-04-02**|**CameraCtrl: Enabling Camera Control for Text-to-Video Generation**|Hao He et.al.|[2404.02101](http://arxiv.org/abs/2404.02101)|**[link](https://github.com/hehao13/cameractrl)**|
-|**2024-04-02**|**Real, fake and synthetic faces - does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
+|**2024-04-02**|**Real, fake and synthetic faces -- does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
 |**2024-04-02**|**Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model**|Xu He et.al.|[2404.01862](http://arxiv.org/abs/2404.01862)|**[link](https://github.com/thuhcsi/s2g-mddiffusion)**|
 |**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|null|
 |**2024-04-01**|**PlayFutures: Imagining Civic Futures with AI and Puppets**|Supratim Pait et.al.|[2404.01527](http://arxiv.org/abs/2404.01527)|null|
@@ -1225,7 +1225,7 @@ layout: default
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
 |**2024-04-02**|**Specularity Factorization for Low-Light Enhancement**|Saurabh Saini et.al.|[2404.01998](http://arxiv.org/abs/2404.01998)|null|
 |**2024-04-02**|**Fashion Style Editing with Generative Human Prior**|Chaerin Kong et.al.|[2404.01984](http://arxiv.org/abs/2404.01984)|null|
-|**2024-04-02**|**RAVE: Residual Vector Embedding for CLIP-Guided Backlit Image Enhancement**|Tatiana Gaintseva et.al.|[2404.01889](http://arxiv.org/abs/2404.01889)|null|
+|**2024-04-03**|**RAVE: Residual Vector Embedding for CLIP-Guided Backlit Image Enhancement**|Tatiana Gaintseva et.al.|[2404.01889](http://arxiv.org/abs/2404.01889)|null|
 |**2024-04-01**|**An image speaks a thousand words, but can everyone listen? On translating images for cultural relevance**|Simran Khanuja et.al.|[2404.01247](http://arxiv.org/abs/2404.01247)|**[link](https://github.com/simran-khanuja/image-transcreation)**|
 |**2024-04-01**|**Uncovering the Text Embedding in Text-to-Image Diffusion Models**|Hu Yu et.al.|[2404.01154](http://arxiv.org/abs/2404.01154)|null|
 |**2024-04-01**|**CLIPtone: Unsupervised Learning for Text-based Image Tone Adjustment**|Hyeongmin Lee et.al.|[2404.01123](http://arxiv.org/abs/2404.01123)|null|
