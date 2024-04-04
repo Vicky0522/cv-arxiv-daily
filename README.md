@@ -120,6 +120,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905](http://arxiv.org/abs/2404.02905)|**[link](https://github.com/FoundationVision/VAR)**|
+|**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
+|**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
+|**2024-04-03**|**MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation**|Petru-Daniel Tudosiu et.al.|[2404.02790](http://arxiv.org/abs/2404.02790)|null|
+|**2024-04-03**|**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2404.02733](http://arxiv.org/abs/2404.02733)|**[link](https://github.com/instantstyle/instantstyle)**|
+|**2024-04-03**|**Model-agnostic Origin Attribution of Generated Images with Few-shot Examples**|Fengyuan Liu et.al.|[2404.02697](http://arxiv.org/abs/2404.02697)|null|
+|**2024-04-03**|**Severity Controlled Text-to-Image Generative Model Bias Manipulation**|Jordan Vice et.al.|[2404.02530](http://arxiv.org/abs/2404.02530)|null|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
 |**2024-04-02**|**CameraCtrl: Enabling Camera Control for Text-to-Video Generation**|Hao He et.al.|[2404.02101](http://arxiv.org/abs/2404.02101)|**[link](https://github.com/hehao13/cameractrl)**|
@@ -1230,6 +1237,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Deep Image Composition Meets Image Forgery**|Eren Tahir et.al.|[2404.02897](http://arxiv.org/abs/2404.02897)|**[link](https://github.com/99eren99/dis25k)**|
+|**2024-04-03**|**MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation**|Petru-Daniel Tudosiu et.al.|[2404.02790](http://arxiv.org/abs/2404.02790)|null|
 |**2024-04-02**|**Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration**|Akshay Dudhane et.al.|[2404.02154](http://arxiv.org/abs/2404.02154)|null|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
 |**2024-04-02**|**Specularity Factorization for Low-Light Enhancement**|Saurabh Saini et.al.|[2404.01998](http://arxiv.org/abs/2404.01998)|null|
