@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Unifying Bayesian Flow Networks and Diffusion Models through Stochastic Differential Equations**|Kaiwen Xue et.al.|[2404.15766](http://arxiv.org/abs/2404.15766)|**[link](https://github.com/ml-gsai/bfn-solver)**|
 |**2024-04-23**|**Score matching for sub-Riemannian bridge sampling**|Erlend Grong et.al.|[2404.15258](http://arxiv.org/abs/2404.15258)|null|
 |**2024-04-20**|**A Massive MIMO Sampling Detection Strategy Based on Denoising Diffusion Model**|Lanxin He et.al.|[2404.13281](http://arxiv.org/abs/2404.13281)|null|
 |**2024-04-22**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814](http://arxiv.org/abs/2404.12814)|null|
@@ -119,6 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|null|
+|**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
+|**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
+|**2024-04-25**|**OpenDlign: Enhancing Open-World 3D Learning with Depth-Aligned Images**|Ye Mao et.al.|[2404.16538](http://arxiv.org/abs/2404.16538)|null|
+|**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
+|**2024-04-25**|**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models**|Haomiao Ni et.al.|[2404.16306](http://arxiv.org/abs/2404.16306)|null|
+|**2024-04-25**|**Semantically consistent Video-to-Audio Generation using Multimodal Language Large Model**|Gehui Chen et.al.|[2404.16305](http://arxiv.org/abs/2404.16305)|null|
+|**2024-04-24**|**Guardians of the Quantum GAN**|Archisman Ghosh et.al.|[2404.16156](http://arxiv.org/abs/2404.16156)|null|
+|**2024-04-24**|**Spinning solar jets explained through the interplay between plasma sheets and vortex columns**|Sahel Dey et.al.|[2404.16096](http://arxiv.org/abs/2404.16096)|null|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
 |**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275](http://arxiv.org/abs/2404.15275)|**[link](https://github.com/id-animator/id-animator)**|
@@ -1335,6 +1346,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**|Xuanyu Zhang et.al.|[2404.16824](http://arxiv.org/abs/2404.16824)|null|
+|**2024-04-25**|**NTIRE 2024 Quality Assessment of AI-Generated Content Challenge**|Xiaohong Liu et.al.|[2404.16687](http://arxiv.org/abs/2404.16687)|null|
+|**2024-04-25**|**AudioScenic: Audio-Driven Video Scene Editing**|Kaixin Shen et.al.|[2404.16581](http://arxiv.org/abs/2404.16581)|null|
+|**2024-04-24**|**Editable Image Elements for Controllable Synthesis**|Jiteng Mu et.al.|[2404.16029](http://arxiv.org/abs/2404.16029)|null|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-22**|**UVEB: A Large-scale Benchmark and Baseline Towards Real-World Underwater Video Enhancement**|Yaofeng Xie et.al.|[2404.14542](http://arxiv.org/abs/2404.14542)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
