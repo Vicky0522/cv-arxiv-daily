@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -1380,7 +1380,7 @@ layout: default
 |**2024-04-28**|**Paint by Inpaint: Learning to Add Image Objects by Removing Them First**|Navve Wasserman et.al.|[2404.18212](http://arxiv.org/abs/2404.18212)|**[link](https://github.com/RotsteinNoam/Paint-by-Inpaint)**|
 |**2024-04-27**|**DM-Align: Leveraging the Power of Natural Language Instructions to Make Changes to Images**|Maria Mihaela Trusca et.al.|[2404.18020](http://arxiv.org/abs/2404.18020)|**[link](https://github.com/cdgco/dream-api)**|
 |**2024-04-27**|**FDCE-Net: Underwater Image Enhancement with Embedding Frequency and Dual Color Encoder**|Zheng Cheng et.al.|[2404.17936](http://arxiv.org/abs/2404.17936)|null|
-|**2024-04-27**|**Underwater Variable Zoom-Depth-Guided Perception Network for Underwater Image Enhancement**|Zhixiong Huang et.al.|[2404.17883](http://arxiv.org/abs/2404.17883)|**[link](https://github.com/windysprint/uvz)**|
+|**2024-05-02**|**Underwater Variable Zoom: Depth-Guided Perception Network for Underwater Image Enhancement**|Zhixiong Huang et.al.|[2404.17883](http://arxiv.org/abs/2404.17883)|**[link](https://github.com/windysprint/uvz)**|
 |**2024-04-26**|**Inhomogeneous illuminated image enhancement under extremely low visibility condition**|Libang Chen et.al.|[2404.17503](http://arxiv.org/abs/2404.17503)|null|
 |**2024-04-26**|**Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model**|Zhenghong Li et.al.|[2404.17484](http://arxiv.org/abs/2404.17484)|null|
 |**2024-04-26**|**PromptCIR: Blind Compressed Image Restoration with Prompt Learning**|Bingchen Li et.al.|[2404.17433](http://arxiv.org/abs/2404.17433)|**[link](https://github.com/lbc12345/promptcir-ntire24)**|
