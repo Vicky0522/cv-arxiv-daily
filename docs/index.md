@@ -136,10 +136,10 @@ layout: default
 |**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475](http://arxiv.org/abs/2404.19475)|null|
 |**2024-04-30**|**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**|Chanran Kim et.al.|[2404.19427](http://arxiv.org/abs/2404.19427)|null|
 |**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277](http://arxiv.org/abs/2404.19277)|null|
-|**2024-05-01**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217](http://arxiv.org/abs/2404.19217)|null|
+|**2024-05-01**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217](http://arxiv.org/abs/2404.19217)|**[link](https://github.com/rancho-zhao/fots)**|
 |**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
 |**2024-04-29**|**DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing**|Minghao Chen et.al.|[2404.18929](http://arxiv.org/abs/2404.18929)|null|
-|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|null|
+|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|**[link](https://github.com/donahowe/theatergen)**|
 |**2024-04-29**|**Hide and Seek: How Does Watermarking Impact Face Recognition?**|Yuguang Yao et.al.|[2404.18890](http://arxiv.org/abs/2404.18890)|null|
 |**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
@@ -147,11 +147,11 @@ layout: default
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
 |**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409](http://arxiv.org/abs/2404.18409)|null|
 |**2024-04-30**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385](http://arxiv.org/abs/2404.18385)|null|
-|**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343](http://arxiv.org/abs/2404.18343)|null|
+|**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343](http://arxiv.org/abs/2404.18343)|**[link](https://github.com/q-future/q-refine)**|
 |**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|null|
 |**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254](http://arxiv.org/abs/2404.17254)|null|
 |**2024-04-26**|**Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis**|Shivangi Yadav et.al.|[2404.17105](http://arxiv.org/abs/2404.17105)|null|
-|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
+|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|**[link](https://github.com/Owen-Oertell/rlcm)**|
 |**2024-04-27**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|**[link](https://github.com/tetsuyaodaka/steerablepyramid)**|
 |**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
 |**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
@@ -1026,7 +1026,7 @@ layout: default
 |**2023-10-11**|**Crowd Counting in Harsh Weather using Image Denoising with Pix2Pix GANs**|Muhammad Asif Khan et.al.|[2310.07245](http://arxiv.org/abs/2310.07245)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222](http://arxiv.org/abs/2310.07222)|**[link](https://github.com/ysy31415/unipaint)**|
 |**2023-10-11**|**Echocardiography video synthesis from end diastolic semantic map via diffusion model**|Phi Nguyen Van et.al.|[2310.07131](http://arxiv.org/abs/2310.07131)|null|
-|**2023-10-10**|**Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images**|Che Liu et.al.|[2310.07027](http://arxiv.org/abs/2310.07027)|null|
+|**2023-10-10**|**Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images**|Che Liu et.al.|[2310.07027](http://arxiv.org/abs/2310.07027)|**[link](https://github.com/cheliu-computation/medsyn-replearn)**|
 |**2023-10-10**|**ObjectComposer: Consistent Generation of Multiple Objects Without Fine-tuning**|Alec Helbling et.al.|[2310.06968](http://arxiv.org/abs/2310.06968)|null|
 |**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389](http://arxiv.org/abs/2310.06389)|null|
 |**2023-10-10**|**JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling**|Jingyang Zhang et.al.|[2310.06347](http://arxiv.org/abs/2310.06347)|null|
@@ -1340,7 +1340,7 @@ layout: default
 |**2023-07-06**|**On the Cultural Gap in Text-to-Image Generation**|Bingshuai Liu et.al.|[2307.02971](http://arxiv.org/abs/2307.02971)|null|
 |**2023-07-06**|**Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback**|TaeHo Yoon et.al.|[2307.02770](http://arxiv.org/abs/2307.02770)|**[link](https://github.com/tetrzim/diffusion-human-feedback)**|
 |**2023-07-05**|**Additive Decoders for Latent Variables Identification and Cartesian-Product Extrapolation**|Sébastien Lachapelle et.al.|[2307.02598](http://arxiv.org/abs/2307.02598)|**[link](https://github.com/divyat09/additive_decoder_extrapolation)**|
-|**2023-07-05**|**Diffusion Models for Computational Design at the Example of Floor Plans**|Joern Ploennigs et.al.|[2307.02511](http://arxiv.org/abs/2307.02511)|null|
+|**2023-07-05**|**Diffusion Models for Computational Design at the Example of Floor Plans**|Joern Ploennigs et.al.|[2307.02511](http://arxiv.org/abs/2307.02511)|**[link](https://github.com/ai4sc/bim-diffusion-models)**|
 |**2023-07-05**|**Detecting Images Generated by Deep Diffusion Models using their Local Intrinsic Dimensionality**|Peter Lorenz et.al.|[2307.02347](http://arxiv.org/abs/2307.02347)|**[link](https://github.com/deepfake-study/deepfake_multilid)**|
 |**2023-07-05**|**On the Adversarial Robustness of Generative Autoencoders in the Latent Space**|Mingfei Lu et.al.|[2307.02202](http://arxiv.org/abs/2307.02202)|null|
 |**2023-07-05**|**Prompting Diffusion Representations for Cross-Domain Semantic Segmentation**|Rui Gong et.al.|[2307.02138](http://arxiv.org/abs/2307.02138)|null|
@@ -2007,7 +2007,7 @@ layout: default
 |**2023-07-30**|**RealityCanvas: Augmented Reality Sketching for Embedded and Responsive Scribble Animation Effects**|Zhijie Xia et.al.|[2307.16116](http://arxiv.org/abs/2307.16116)|**[link](https://github.com/ucalgary-ilab/realitycanvas)**|
 |**2023-07-27**|**Fast Dust Sand Image Enhancement Based on Color Correction and New Membership Function**|Ali Hakem Alsaeedi et.al.|[2307.15230](http://arxiv.org/abs/2307.15230)|null|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061](http://arxiv.org/abs/2307.15061)|**[link](https://github.com/ldkong1205/robodepth)**|
-|**2023-07-27**|**Meta-Processing: A robust framework for multi-tasks seismic processing**|Shijun Cheng et.al.|[2307.14851](http://arxiv.org/abs/2307.14851)|null|
+|**2023-07-27**|**Meta-Processing: A robust framework for multi-tasks seismic processing**|Shijun Cheng et.al.|[2307.14851](http://arxiv.org/abs/2307.14851)|**[link](https://github.com/deepwave-kaust/meta-processing)**|
 |**2023-07-27**|**Semantic Image Completion and Enhancement using GANs**|Priyansh Saxena et.al.|[2307.14748](http://arxiv.org/abs/2307.14748)|null|
 |**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659](http://arxiv.org/abs/2307.14659)|**[link](https://github.com/taowangzj/lldiffusion)**|
 |**2023-07-26**|**SuperInpaint: Learning Detail-Enhanced Attentional Implicit Representation for Super-resolutional Image Inpainting**|Canyu Zhang et.al.|[2307.14489](http://arxiv.org/abs/2307.14489)|null|
