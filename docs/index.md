@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
+|**2024-05-05**|**Score-based Generative Priors Guided Model-driven Network for MRI Reconstruction**|Xiaoyu Qiao et.al.|[2405.02958](http://arxiv.org/abs/2405.02958)|null|
 |**2024-05-03**|**SocialGFs: Learning Social Gradient Fields for Multi-Agent Reinforcement Learning**|Qian Long et.al.|[2405.01839](http://arxiv.org/abs/2405.01839)|null|
 |**2024-04-29**|**Learning general Gaussian mixtures with efficient score matching**|Sitan Chen et.al.|[2404.18893](http://arxiv.org/abs/2404.18893)|null|
 |**2024-04-24**|**Unifying Bayesian Flow Networks and Diffusion Models through Stochastic Differential Equations**|Kaiwen Xue et.al.|[2404.15766](http://arxiv.org/abs/2404.15766)|**[link](https://github.com/ml-gsai/bfn-solver)**|
@@ -122,6 +124,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**|Zheng Zhu et.al.|[2405.03520](http://arxiv.org/abs/2405.03520)|**[link](https://github.com/gigaai-research/general-world-models-survey)**|
+|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|null|
+|**2024-05-05**|**Matten: Video Generation with Mamba-Attention**|Yu Gao et.al.|[2405.03025](http://arxiv.org/abs/2405.03025)|null|
+|**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
+|**2024-05-05**|**ImageInWords: Unlocking Hyper-Detailed Image Descriptions**|Roopal Garg et.al.|[2405.02793](http://arxiv.org/abs/2405.02793)|**[link](https://github.com/google/imageinwords)**|
+|**2024-05-04**|**U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**|Yuchuan Tian et.al.|[2405.02730](http://arxiv.org/abs/2405.02730)|null|
 |**2024-05-03**|**Multi-method Integration with Confidence-based Weighting for Zero-shot Image Classification**|Siqi Yin et.al.|[2405.02155](http://arxiv.org/abs/2405.02155)|null|
 |**2024-05-03**|**AI-generated art perceptions with GenFrame -- an image-generating picture frame**|Peter Kun et.al.|[2405.01901](http://arxiv.org/abs/2405.01901)|null|
 |**2024-05-03**|**Defect Image Sample Generation With Diffusion Prior for Steel Surface Defect Recognition**|Yichun Tai et.al.|[2405.01872](http://arxiv.org/abs/2405.01872)|null|
@@ -1382,7 +1391,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-02**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
+|**2024-05-06**|**Low-light Object Detection**|Pengpeng Li et.al.|[2405.03519](http://arxiv.org/abs/2405.03519)|null|
+|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
+|**2024-05-06**|**Light-VQA+: A Video Quality Assessment Model for Exposure Correction with Vision-Language Guidance**|Xunchu Zhou et.al.|[2405.03333](http://arxiv.org/abs/2405.03333)|null|
+|**2024-05-05**|**Residual-Conditioned Optimal Transport: Towards Structure-preserving Unpaired and Paired Image Restoration**|Xiaole Tang et.al.|[2405.02843](http://arxiv.org/abs/2405.02843)|null|
+|**2024-05-04**|**Deep Image Restoration For Image Anti-Forensics**|Eren Tahir et.al.|[2405.02751](http://arxiv.org/abs/2405.02751)|**[link](https://github.com/99eren99/dirfiaf)**|
+|**2024-05-06**|**SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**|Guanyiman Fu et.al.|[2405.01726](http://arxiv.org/abs/2405.01726)|null|
 |**2024-05-02**|**LocInv: Localization-aware Inversion for Text-Guided Image Editing**|Chuanming Tang et.al.|[2405.01496](http://arxiv.org/abs/2405.01496)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2024-05-01**|**SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models**|Burak Can Biner et.al.|[2405.00878](http://arxiv.org/abs/2405.00878)|null|
 |**2024-05-01**|**TexSliders: Diffusion-Based Texture Editing in CLIP Space**|Julia Guerrero-Viu et.al.|[2405.00672](http://arxiv.org/abs/2405.00672)|null|
