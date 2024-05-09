@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**A score-based particle method for homogeneous Landau equation**|Yan Huang et.al.|[2405.05187](http://arxiv.org/abs/2405.05187)|null|
 |**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
 |**2024-05-05**|**Score-based Generative Priors Guided Model-driven Network for MRI Reconstruction**|Xiaoyu Qiao et.al.|[2405.02958](http://arxiv.org/abs/2405.02958)|null|
 |**2024-05-03**|**SocialGFs: Learning Social Gradient Fields for Multi-Agent Reinforcement Learning**|Qian Long et.al.|[2405.01839](http://arxiv.org/abs/2405.01839)|null|
@@ -124,6 +125,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|null|
+|**2024-05-08**|**Reviewing Intelligent Cinematography: AI research for camera-based video production**|Adrian Azzarelli et.al.|[2405.05039](http://arxiv.org/abs/2405.05039)|null|
+|**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974](http://arxiv.org/abs/2405.04974)|null|
+|**2024-05-08**|**FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation**|Xuehai He et.al.|[2405.04834](http://arxiv.org/abs/2405.04834)|null|
+|**2024-05-07**|**TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation**|Hritik Bansal et.al.|[2405.04682](http://arxiv.org/abs/2405.04682)|null|
+|**2024-05-07**|**TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model**|Yongming Zhang et.al.|[2405.04675](http://arxiv.org/abs/2405.04675)|null|
 |**2024-05-07**|**Towards Geographic Inclusion in the Evaluation of Text-to-Image Models**|Melissa Hall et.al.|[2405.04457](http://arxiv.org/abs/2405.04457)|null|
 |**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356](http://arxiv.org/abs/2405.04356)|null|
 |**2024-05-07**|**Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation**|Dogucan Yaman et.al.|[2405.04327](http://arxiv.org/abs/2405.04327)|null|
@@ -1400,6 +1407,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection**|Zhaoxiang Zhang et.al.|[2405.04782](http://arxiv.org/abs/2405.04782)|null|
 |**2024-05-07**|**Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing**|Yi Zuo et.al.|[2405.04496](http://arxiv.org/abs/2405.04496)|null|
 |**2024-05-07**|**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**|Jiaxin Zhang et.al.|[2405.04408](http://arxiv.org/abs/2405.04408)|**[link](https://github.com/zzzhang-jx/docres)**|
 |**2024-05-07**|**SEED-Data-Edit Technical Report: A Hybrid Dataset for Instructional Image Editing**|Yuying Ge et.al.|[2405.04007](http://arxiv.org/abs/2405.04007)|null|
