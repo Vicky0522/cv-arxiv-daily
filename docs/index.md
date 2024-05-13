@@ -145,7 +145,7 @@ layout: default
 |**2024-05-08**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
 |**2024-05-07**|**Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models**|Fan Bao et.al.|[2405.04233](http://arxiv.org/abs/2405.04233)|null|
-|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
+|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|**[link](https://github.com/truthai-lab/soradetector)**|
 |**2024-05-07**|**Exposing AI-generated Videos: A Benchmark Dataset and a Local-and-Global Temporal Defect Based Detection Method**|Peisong He et.al.|[2405.04133](http://arxiv.org/abs/2405.04133)|null|
 |**2024-05-07**|**Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model**|Joo Young Choi et.al.|[2405.03958](http://arxiv.org/abs/2405.03958)|null|
 |**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
@@ -170,7 +170,7 @@ layout: default
 |**2024-04-30**|**DOCCI: Descriptions of Connected and Contrasting Images**|Yasumasa Onoe et.al.|[2404.19753](http://arxiv.org/abs/2404.19753)|null|
 |**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
 |**2024-04-30**|**SwipeGANSpace: Swipe-to-Compare Image Generation via Efficient Latent Space Exploration**|Yuto Nakashima et.al.|[2404.19693](http://arxiv.org/abs/2404.19693)|null|
-|**2024-04-30**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|null|
+|**2024-04-30**|**VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization**|Yuliang Liu et.al.|[2404.19652](http://arxiv.org/abs/2404.19652)|**[link](https://github.com/Yuliang-Liu/VimTS)**|
 |**2024-04-30**|**TwinDiffusion: Enhancing Coherence and Efficiency in Panoramic Image Generation with Diffusion Models**|Teng Zhou et.al.|[2404.19475](http://arxiv.org/abs/2404.19475)|null|
 |**2024-04-30**|**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**|Chanran Kim et.al.|[2404.19427](http://arxiv.org/abs/2404.19427)|null|
 |**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277](http://arxiv.org/abs/2404.19277)|null|
@@ -183,7 +183,7 @@ layout: default
 |**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620](http://arxiv.org/abs/2404.18620)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
 |**2024-04-29**|**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting**|Tianyidan Xie et.al.|[2404.18598](http://arxiv.org/abs/2404.18598)|null|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
-|**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409](http://arxiv.org/abs/2404.18409)|null|
+|**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409](http://arxiv.org/abs/2404.18409)|**[link](https://github.com/jiquan123/aigiqa4k)**|
 |**2024-04-30**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385](http://arxiv.org/abs/2404.18385)|null|
 |**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343](http://arxiv.org/abs/2404.18343)|**[link](https://github.com/q-future/q-refine)**|
 |**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|null|
@@ -581,7 +581,7 @@ layout: default
 |**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
 |**2024-02-07**|**ColorSwap: A Color and Word Order Dataset for Multimodal Evaluation**|Jirayu Burapacheep et.al.|[2402.04492](http://arxiv.org/abs/2402.04492)|**[link](https://github.com/top34051/colorswap)**|
 |**2024-02-06**|**Denoising Diffusion Probabilistic Models in Six Simple Steps**|Richard E. Turner et.al.|[2402.04384](http://arxiv.org/abs/2402.04384)|null|
-|**2024-02-06**|**ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**|Weiming Ren et.al.|[2402.04324](http://arxiv.org/abs/2402.04324)|null|
+|**2024-02-06**|**ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation**|Weiming Ren et.al.|[2402.04324](http://arxiv.org/abs/2402.04324)|**[link](https://github.com/TIGER-AI-Lab/ConsistI2V)**|
 |**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|**[link](https://github.com/hatchetProject/QuEST)**|
 |**2024-02-05**|**Projected Generative Diffusion Models for Constraint Satisfaction**|Jacob K Christopher et.al.|[2402.03559](http://arxiv.org/abs/2402.03559)|null|
 |**2024-02-05**|**Assessing the Efficacy of Invisible Watermarks in AI-Generated Medical Images**|Xiaodan Xing et.al.|[2402.03473](http://arxiv.org/abs/2402.03473)|null|
@@ -609,7 +609,7 @@ layout: default
 |**2024-02-01**|**CapHuman: Capture Your Moments in Parallel Universes**|Chao Liang et.al.|[2402.00627](http://arxiv.org/abs/2402.00627)|**[link](https://github.com/vamosc/caphuman)**|
 |**2024-02-01**|**Masked Conditional Diffusion Model for Enhancing Deepfake Detection**|Tiewen Chen et.al.|[2402.00541](http://arxiv.org/abs/2402.00541)|null|
 |**2024-02-01**|**High-Quality Medical Image Generation from Free-hand Sketch**|Quan Huu Cap et.al.|[2402.00353](http://arxiv.org/abs/2402.00353)|null|
-|**2024-02-01**|**Machine Unlearning for Image-to-Image Generative Models**|Guihong Li et.al.|[2402.00351](http://arxiv.org/abs/2402.00351)|null|
+|**2024-02-01**|**Machine Unlearning for Image-to-Image Generative Models**|Guihong Li et.al.|[2402.00351](http://arxiv.org/abs/2402.00351)|**[link](https://github.com/jpmorganchase/l2l-generator-unlearning)**|
 |**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
 |**2024-01-31**|**Head and Neck Tumor Segmentation from [18F]F-FDG PET/CT Images Based on 3D Diffusion Model**|Yafei Dong et.al.|[2401.17593](http://arxiv.org/abs/2401.17593)|null|
 |**2024-01-31**|**Task-Oriented Diffusion Model Compression**|Geonung Kim et.al.|[2401.17547](http://arxiv.org/abs/2401.17547)|null|
@@ -1672,7 +1672,7 @@ layout: default
 |**2024-01-30**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688](http://arxiv.org/abs/2401.15688)|null|
 |**2024-01-28**|**CPDM: Content-Preserving Diffusion Model for Underwater Image Enhancement**|Xiaowen Shi et.al.|[2401.15649](http://arxiv.org/abs/2401.15649)|null|
 |**2024-01-28**|**UP-CrackNet: Unsupervised Pixel-Wise Road Crack Detection via Adversarial Image Restoration**|Nachuan Ma et.al.|[2401.15647](http://arxiv.org/abs/2401.15647)|null|
-|**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
+|**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|**[link](https://github.com/Ascend-Research/CascadedGaze)**|
 |**2024-01-30**|**LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement**|A. Brateanu et.al.|[2401.15204](http://arxiv.org/abs/2401.15204)|**[link](https://github.com/albrateanu/lyt-net)**|
 |**2024-01-25**|**Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks**|Tianhe Ren et.al.|[2401.14159](http://arxiv.org/abs/2401.14159)|**[link](https://github.com/IDEA-Research/Grounded-Segment-Anything)**|
 |**2024-01-30**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/CreativeSynth)**|
