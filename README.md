@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**High-dimensional multiple imputation (HDMI) for partially observed confounders including natural language processing-derived auxiliary covariates**|Janick Weberpals et.al.|[2405.10925](http://arxiv.org/abs/2405.10925)|null|
 |**2024-05-15**|**Response Matching for generating materials and molecules**|Bingqing Cheng et.al.|[2405.09057](http://arxiv.org/abs/2405.09057)|null|
 |**2024-05-08**|**A score-based particle method for homogeneous Landau equation**|Yan Huang et.al.|[2405.05187](http://arxiv.org/abs/2405.05187)|null|
 |**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
@@ -133,6 +134,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Improving face generation quality and prompt following with synthetic captions**|Michail Tarasiou et.al.|[2405.10864](http://arxiv.org/abs/2405.10864)|null|
+|**2024-05-17**|**From Sora What We Can See: A Survey of Text-to-Video Generation**|Rui Sun et.al.|[2405.10674](http://arxiv.org/abs/2405.10674)|**[link](https://github.com/soraw-ai/awesome-text-to-video-generation)**|
+|**2024-05-17**|**Multi-scale Semantic Prior Features Guided Deep Neural Network for Urban Street-view Image**|Jianshun Zeng et.al.|[2405.10504](http://arxiv.org/abs/2405.10504)|null|
+|**2024-05-17**|**Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers**|Rya Sanovar et.al.|[2405.10480](http://arxiv.org/abs/2405.10480)|null|
 |**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
 |**2024-05-16**|**VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing**|Binghui Chen et.al.|[2405.09985](http://arxiv.org/abs/2405.09985)|null|
 |**2024-05-16**|**Chameleon: Mixed-Modal Early-Fusion Foundation Models**|Chameleon Team et.al.|[2405.09818](http://arxiv.org/abs/2405.09818)|null|
@@ -1446,6 +1451,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
+|**2024-05-17**|**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**|Tong Chen et.al.|[2405.10550](http://arxiv.org/abs/2405.10550)|**[link](https://github.com/davismeee/lightdiff)**|
 |**2024-05-16**|**RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**|Huiling Zhou et.al.|[2405.10030](http://arxiv.org/abs/2405.10030)|null|
 |**2024-05-16**|**NTIRE 2024 Restore Any Image Model (RAIM) in the Wild Challenge**|Jie Liang et.al.|[2405.09923](http://arxiv.org/abs/2405.09923)|null|
 |**2024-05-15**|**Inference in higher-order undirected graphical models and binary polynomial optimization**|Aida Khajavirad et.al.|[2405.09727](http://arxiv.org/abs/2405.09727)|null|
