@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**ExactDreamer: High-Fidelity Text-to-3D Content Creation via Exact Score Matching**|Yumin Zhang et.al.|[2405.15914](http://arxiv.org/abs/2405.15914)|null|
 |**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754](http://arxiv.org/abs/2405.15754)|null|
 |**2024-05-24**|**Nonlinear denoising score matching for enhanced learning of structured distributions**|Jeremiah Birrell et.al.|[2405.15625](http://arxiv.org/abs/2405.15625)|null|
 |**2024-05-18**|**Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching**|Xingyu Miao et.al.|[2405.11252](http://arxiv.org/abs/2405.11252)|**[link](https://github.com/xingy038/dreamer-xl)**|
@@ -137,6 +138,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
+|**2024-05-27**|**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**|Ruizhi Shao et.al.|[2405.17405](http://arxiv.org/abs/2405.17405)|null|
+|**2024-05-27**|**Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability**|Shenyuan Gao et.al.|[2405.17398](http://arxiv.org/abs/2405.17398)|**[link](https://github.com/opendrivelab/vista)**|
+|**2024-05-27**|**Prompt Optimization with Human Feedback**|Xiaoqiang Lin et.al.|[2405.17346](http://arxiv.org/abs/2405.17346)|**[link](https://github.com/xqlin98/apohf)**|
+|**2024-05-27**|**Controllable Longer Image Animation with Diffusion Models**|Qiang Wang et.al.|[2405.17306](http://arxiv.org/abs/2405.17306)|null|
+|**2024-05-27**|**Training-free Editioning of Text-to-Image Models**|Jinqi Wang et.al.|[2405.17069](http://arxiv.org/abs/2405.17069)|null|
+|**2024-05-27**|**The Poisson Midpoint Method for Langevin Dynamics: Provably Efficient Discretization for Diffusion Models**|Saravanan Kandasamy et.al.|[2405.17068](http://arxiv.org/abs/2405.17068)|null|
+|**2024-05-27**|**Glauber Generative Model: Discrete Diffusion Models via Binary Classification**|Harshit Varma et.al.|[2405.17035](http://arxiv.org/abs/2405.17035)|null|
+|**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
+|**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
 |**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406](http://arxiv.org/abs/2405.15406)|null|
 |**2024-05-24**|**Stochastic SR for Gaussian microtextures**|Emile Pierret et.al.|[2405.15399](http://arxiv.org/abs/2405.15399)|null|
 |**2024-05-24**|**Challenges and Opportunities in 3D Content Generation**|Ke Zhao et.al.|[2405.15335](http://arxiv.org/abs/2405.15335)|null|
@@ -1487,6 +1498,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection**|Gihyun Kwon et.al.|[2405.16823](http://arxiv.org/abs/2405.16823)|null|
+|**2024-05-27**|**TIE: Revolutionizing Text-based Image Editing for Complex-Prompt Following and High-Fidelity Editing**|Xinyu Zhang et.al.|[2405.16803](http://arxiv.org/abs/2405.16803)|null|
+|**2024-05-27**|**PromptFix: You Prompt and We Fix the Photo**|Yongsheng Yu et.al.|[2405.16785](http://arxiv.org/abs/2405.16785)|null|
+|**2024-05-26**|**I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models**|Wenqi Ouyang et.al.|[2405.16537](http://arxiv.org/abs/2405.16537)|null|
+|**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475](http://arxiv.org/abs/2405.16475)|null|
+|**2024-05-26**|**Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation**|Jinlin Liu et.al.|[2405.16393](http://arxiv.org/abs/2405.16393)|null|
+|**2024-05-25**|**LEAST: "Local" text-conditioned image style transfer**|Silky Singh et.al.|[2405.16330](http://arxiv.org/abs/2405.16330)|**[link](https://github.com/silky1708/local-style-transfer)**|
+|**2024-05-25**|**ModelLock: Locking Your Model With a Spell**|Yifeng Gao et.al.|[2405.16285](http://arxiv.org/abs/2405.16285)|null|
+|**2024-05-25**|**Enhancing Consistency-Based Image Generation via Adversarialy-Trained Classification and Energy-Based Discrimination**|Shelly Golan et.al.|[2405.16260](http://arxiv.org/abs/2405.16260)|null|
+|**2024-05-25**|**Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier**|Shuaixin Liu et.al.|[2405.16214](http://arxiv.org/abs/2405.16214)|null|
 |**2024-05-24**|**FastDrag: Manipulate Anything in One Step**|Xuanjia Zhao et.al.|[2405.15769](http://arxiv.org/abs/2405.15769)|null|
 |**2024-05-24**|**Hierarchical Uncertainty Exploration via Feedforward Posterior Trees**|Elias Nehme et.al.|[2405.15719](http://arxiv.org/abs/2405.15719)|null|
 |**2024-05-24**|**Low-Light Video Enhancement via Spatial-Temporal Consistent Illumination and Reflection Decomposition**|Xiaogang Xu et.al.|[2405.15660](http://arxiv.org/abs/2405.15660)|null|
