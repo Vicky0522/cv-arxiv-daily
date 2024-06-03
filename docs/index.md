@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-29**|**Kernel Semi-Implicit Variational Inference**|Ziheng Cheng et.al.|[2405.18997](http://arxiv.org/abs/2405.18997)|null|
 |**2024-05-28**|**Simulating infinite-dimensional nonlinear diffusion bridges**|Gefan Yang et.al.|[2405.18353](http://arxiv.org/abs/2405.18353)|null|
-|**2024-05-24**|**ExactDreamer: High-Fidelity Text-to-3D Content Creation via Exact Score Matching**|Yumin Zhang et.al.|[2405.15914](http://arxiv.org/abs/2405.15914)|null|
+|**2024-05-24**|**ExactDreamer: High-Fidelity Text-to-3D Content Creation via Exact Score Matching**|Yumin Zhang et.al.|[2405.15914](http://arxiv.org/abs/2405.15914)|**[link](https://github.com/zymvszym/ExactDreamer)**|
 |**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754](http://arxiv.org/abs/2405.15754)|null|
 |**2024-05-24**|**Nonlinear denoising score matching for enhanced learning of structured distributions**|Jeremiah Birrell et.al.|[2405.15625](http://arxiv.org/abs/2405.15625)|null|
 |**2024-05-18**|**Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching**|Xingyu Miao et.al.|[2405.11252](http://arxiv.org/abs/2405.11252)|**[link](https://github.com/xingy038/dreamer-xl)**|
@@ -1524,7 +1524,7 @@ layout: default
 |**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325](http://arxiv.org/abs/2405.20325)|null|
 |**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|null|
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769](http://arxiv.org/abs/2405.19769)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
-|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|null|
+|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|**[link](https://github.com/Chenfeng1271/SVDiff)**|
 |**2024-05-30**|**Text Guided Image Editing with Automatic Concept Locating and Forgetting**|Jia Li et.al.|[2405.19708](http://arxiv.org/abs/2405.19708)|null|
 |**2024-05-30**|**A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning**|Xiaofeng Cong et.al.|[2405.19684](http://arxiv.org/abs/2405.19684)|null|
 |**2024-05-30**|**Creating Language-driven Spatial Variations of Icon Images**|Xianghao Xu et.al.|[2405.19636](http://arxiv.org/abs/2405.19636)|null|

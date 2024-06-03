@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2024-05-29**|**Kernel Semi-Implicit Variational Inference**|Ziheng Cheng et.al.|[2405.18997](http://arxiv.org/abs/2405.18997)|null|
 |**2024-05-28**|**Simulating infinite-dimensional nonlinear diffusion bridges**|Gefan Yang et.al.|[2405.18353](http://arxiv.org/abs/2405.18353)|null|
-|**2024-05-24**|**ExactDreamer: High-Fidelity Text-to-3D Content Creation via Exact Score Matching**|Yumin Zhang et.al.|[2405.15914](http://arxiv.org/abs/2405.15914)|null|
+|**2024-05-24**|**ExactDreamer: High-Fidelity Text-to-3D Content Creation via Exact Score Matching**|Yumin Zhang et.al.|[2405.15914](http://arxiv.org/abs/2405.15914)|**[link](https://github.com/zymvszym/ExactDreamer)**|
 |**2024-05-24**|**Score-based generative models are provably robust: an uncertainty quantification perspective**|Nikiforos Mimikos-Stamatopoulos et.al.|[2405.15754](http://arxiv.org/abs/2405.15754)|null|
 |**2024-05-24**|**Nonlinear denoising score matching for enhanced learning of structured distributions**|Jeremiah Birrell et.al.|[2405.15625](http://arxiv.org/abs/2405.15625)|null|
 |**2024-05-18**|**Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching**|Xingyu Miao et.al.|[2405.11252](http://arxiv.org/abs/2405.11252)|**[link](https://github.com/xingy038/dreamer-xl)**|
@@ -134,7 +134,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
 ## generation
 
@@ -1524,7 +1524,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -1533,7 +1533,7 @@
 |**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325](http://arxiv.org/abs/2405.20325)|null|
 |**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|null|
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769](http://arxiv.org/abs/2405.19769)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
-|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|null|
+|**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|**[link](https://github.com/Chenfeng1271/SVDiff)**|
 |**2024-05-30**|**Text Guided Image Editing with Automatic Concept Locating and Forgetting**|Jia Li et.al.|[2405.19708](http://arxiv.org/abs/2405.19708)|null|
 |**2024-05-30**|**A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning**|Xiaofeng Cong et.al.|[2405.19684](http://arxiv.org/abs/2405.19684)|null|
 |**2024-05-30**|**Creating Language-driven Spatial Variations of Icon Images**|Xianghao Xu et.al.|[2405.19636](http://arxiv.org/abs/2405.19636)|null|
@@ -2288,7 +2288,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
