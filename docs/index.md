@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -136,13 +136,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
-|**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|null|
+|**2024-06-06**|**BitsFusion: 1.99 bits Weight Quantization of Diffusion Model**|Yang Sui et.al.|[2406.04333](http://arxiv.org/abs/2406.04333)|**[link](https://github.com/huggingface/diffusers)**|
 |**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325](http://arxiv.org/abs/2406.04325)|null|
 |**2024-06-06**|**SF-V: Single Forward Video Generation Model**|Zhixing Zhang et.al.|[2406.04324](http://arxiv.org/abs/2406.04324)|null|
 |**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277](http://arxiv.org/abs/2406.04277)|**[link](https://github.com/yangling0818/videotetris)**|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
 |**2024-06-06**|**Machine Learning-Driven Microwave Imaging for Soil Moisture Estimation near Leaky Pipe**|Mohammad Ramezaninia et.al.|[2406.04193](http://arxiv.org/abs/2406.04193)|null|
-|**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|null|
+|**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|**[link](https://github.com/GGorMM1/QIREN)**|
 |**2024-06-06**|**Semantic Similarity Score for Measuring Visual Similarity at Semantic Level**|Senran Fan et.al.|[2406.03865](http://arxiv.org/abs/2406.03865)|null|
 |**2024-06-06**|**Malware Classification Based on Image Segmentation**|Wanhu Nie et.al.|[2406.03831](http://arxiv.org/abs/2406.03831)|null|
 |**2024-06-05**|**Tackling GenAI Copyright Issues: Originality Estimation and Genericization**|Hiroaki Chiba-Okabe et.al.|[2406.03341](http://arxiv.org/abs/2406.03341)|null|
@@ -1561,13 +1561,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Diffusion-based image inpainting with internal learning**|Nicolas Cherel et.al.|[2406.04206](http://arxiv.org/abs/2406.04206)|null|
 |**2024-06-06**|**LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression**|Junhui Li et.al.|[2406.03961](http://arxiv.org/abs/2406.03961)|null|
-|**2024-06-06**|**JIGMARK: A Black-Box Approach for Enhancing Image Watermarks against Diffusion Model Edits**|Minzhou Pan et.al.|[2406.03720](http://arxiv.org/abs/2406.03720)|null|
+|**2024-06-06**|**JIGMARK: A Black-Box Approach for Enhancing Image Watermarks against Diffusion Model Edits**|Minzhou Pan et.al.|[2406.03720](http://arxiv.org/abs/2406.03720)|**[link](https://github.com/pmzzs/JigMark)**|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541](http://arxiv.org/abs/2406.02541)|null|
 |**2024-06-04**|**Deep Block Proximal Linearised Minimisation Algorithm for Non-convex Inverse Problems**|Chaoyan Huang et.al.|[2406.02458](http://arxiv.org/abs/2406.02458)|null|
 |**2024-06-03**|**DiffUHaul: A Training-Free Method for Object Dragging in Images**|Omri Avrahami et.al.|[2406.01594](http://arxiv.org/abs/2406.01594)|null|
 |**2024-06-03**|**CLIP-Guided Attribute Aware Pretraining for Generalizable Image Quality Assessment**|Daekyu Kwon et.al.|[2406.01020](http://arxiv.org/abs/2406.01020)|null|
 |**2024-06-03**|**MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models**|Mingzhen Huang et.al.|[2406.00985](http://arxiv.org/abs/2406.00985)|null|
-|**2024-06-03**|**Assessing the Adversarial Security of Perceptual Hashing Algorithms**|Jordan Madden et.al.|[2406.00918](http://arxiv.org/abs/2406.00918)|null|
+|**2024-06-03**|**Assessing the Adversarial Security of Perceptual Hashing Algorithms**|Jordan Madden et.al.|[2406.00918](http://arxiv.org/abs/2406.00918)|**[link](https://github.com/neddamj/nnhash)**|
 |**2024-06-02**|**Invisible Backdoor Attacks on Diffusion Models**|Sen Li et.al.|[2406.00816](http://arxiv.org/abs/2406.00816)|**[link](https://github.com/invisibletriggerdiffusion/invisible_triggers_for_diffusion)**|
 |**2024-06-02**|**Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior**|Yukai Shi et.al.|[2406.00632](http://arxiv.org/abs/2406.00632)|**[link](https://github.com/yupeilin2388/diff-mosaic)**|
 |**2024-06-02**|**Correlation Matching Transformation Transformers for UHD Image Restoration**|Cong Wang et.al.|[2406.00629](http://arxiv.org/abs/2406.00629)|**[link](https://github.com/supersupercong/uhdformer)**|
