@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-08**|**Mean-field Chaos Diffusion Models**|Sungwoo Park et.al.|[2406.05396](http://arxiv.org/abs/2406.05396)|null|
 |**2024-06-07**|**Combinatorial Complex Score-based Diffusion Modelling through Stochastic Differential Equations**|Adrien Carrel et.al.|[2406.04916](http://arxiv.org/abs/2406.04916)|null|
 |**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633](http://arxiv.org/abs/2406.04633)|null|
 |**2024-06-04**|**Democratizing Propensity Score Matching Using Web Application**|Adam Gajtkowski et.al.|[2406.02743](http://arxiv.org/abs/2406.02743)|null|
@@ -144,6 +145,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**The Effect of Training Dataset Size on Discriminative and Diffusion-Based Speech Enhancement Systems**|Philippe Gonzalez et.al.|[2406.06160](http://arxiv.org/abs/2406.06160)|null|
+|**2024-06-10**|**ProcessPainter: Learn Painting Process from Sequence Data**|Yiren Song et.al.|[2406.06062](http://arxiv.org/abs/2406.06062)|null|
+|**2024-06-09**|**OmniControlNet: Dual-stage Integration for Conditional Image Generation**|Yilin Wang et.al.|[2406.05871](http://arxiv.org/abs/2406.05871)|null|
+|**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
+|**2024-06-09**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
+|**2024-06-09**|**Ctrl-V: Higher Fidelity Video Generation with Bounding-Box Controlled Object Motion**|Ge Ya Luo et.al.|[2406.05630](http://arxiv.org/abs/2406.05630)|null|
+|**2024-06-09**|**Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models**|Philip Wootaek Shin et.al.|[2406.05602](http://arxiv.org/abs/2406.05602)|null|
+|**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
+|**2024-06-08**|**Regularized Training with Generated Datasets for Name-Only Transfer of Vision-Language Models**|Minho Park et.al.|[2406.05432](http://arxiv.org/abs/2406.05432)|null|
 |**2024-06-07**|**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion**|Xingrui Wang et.al.|[2406.05082](http://arxiv.org/abs/2406.05082)|null|
 |**2024-06-07**|**GANetic Loss for Generative Adversarial Networks with a Focus on Medical Applications**|Shakhnaz Akhmedova et.al.|[2406.05023](http://arxiv.org/abs/2406.05023)|**[link](https://github.com/ZKI-PH-ImageAnalysis/GANetic-Loss)**|
 |**2024-06-07**|**AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2406.05000](http://arxiv.org/abs/2406.05000)|null|
@@ -1580,7 +1591,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-07**|**GenHeld: Generating and Editing Handheld Objects**|Chaerin Min et.al.|[2406.05059](http://arxiv.org/abs/2406.05059)|**[link](https://github.com/ChaerinMin/GenHeld)**|
+|**2024-06-10**|**NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing**|Ting-Hsuan Chen et.al.|[2406.06523](http://arxiv.org/abs/2406.06523)|null|
+|**2024-06-10**|**FRAG: Frequency Adapting Group for Diffusion Video Editing**|Sunjae Yoon et.al.|[2406.06044](http://arxiv.org/abs/2406.06044)|null|
+|**2024-06-09**|**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction**|Shangyu Chen et.al.|[2406.05641](http://arxiv.org/abs/2406.05641)|null|
+|**2024-06-08**|**Training-Free Robust Interactive Video Object Segmentation**|Xiaoli Wei et.al.|[2406.05485](http://arxiv.org/abs/2406.05485)|null|
+|**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288](http://arxiv.org/abs/2406.05288)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
+|**2024-06-07**|**Research on Tumors Segmentation based on Image Enhancement Method**|Danyi Huang et.al.|[2406.05170](http://arxiv.org/abs/2406.05170)|null|
+|**2024-06-10**|**GenHeld: Generating and Editing Handheld Objects**|Chaerin Min et.al.|[2406.05059](http://arxiv.org/abs/2406.05059)|**[link](https://github.com/ChaerinMin/GenHeld)**|
 |**2024-06-07**|**Zero-Shot Video Editing through Adaptive Sliding Score Distillation**|Lianghan Zhu et.al.|[2406.04888](http://arxiv.org/abs/2406.04888)|null|
 |**2024-06-07**|**Ada-VE: Training-Free Consistent Video Editing Using Adaptive Motion Prior**|Tanvir Mahmud et.al.|[2406.04873](http://arxiv.org/abs/2406.04873)|null|
 |**2024-06-06**|**GenAI Arena: An Open Evaluation Platform for Generative Models**|Dongfu Jiang et.al.|[2406.04485](http://arxiv.org/abs/2406.04485)|null|
