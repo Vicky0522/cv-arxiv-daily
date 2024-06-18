@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Score-fPINN: Fractional Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck-Levy Equations**|Zheyuan Hu et.al.|[2406.11676](http://arxiv.org/abs/2406.11676)|null|
 |**2024-06-13**|**Operator-informed score matching for Markov diffusion models**|Zheyang Shen et.al.|[2406.09084](http://arxiv.org/abs/2406.09084)|null|
 |**2024-06-13**|**Conceptual Learning via Embedding Approximations for Reinforcing Interpretability and Transparency**|Maor Dikter et.al.|[2406.08840](http://arxiv.org/abs/2406.08840)|**[link](https://github.com/clearproject/clear)**|
 |**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070](http://arxiv.org/abs/2406.08070)|null|
@@ -142,6 +143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|null|
+|**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837](http://arxiv.org/abs/2406.11837)|**[link](https://github.com/zh460045050/vqgan-lc)**|
+|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
+|**2024-06-17**|**PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**|Fanqing Meng et.al.|[2406.11802](http://arxiv.org/abs/2406.11802)|**[link](https://github.com/opengvlab/phybench)**|
+|**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659](http://arxiv.org/abs/2406.11659)|null|
+|**2024-06-17**|**GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation**|Shihao Cai et.al.|[2406.11503](http://arxiv.org/abs/2406.11503)|null|
+|**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
+|**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
+|**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/abs/2406.11196)|null|
+|**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100](http://arxiv.org/abs/2406.11100)|null|
 |**2024-06-14**|**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**|Lital Binyamin et.al.|[2406.10210](http://arxiv.org/abs/2406.10210)|null|
 |**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197](http://arxiv.org/abs/2406.10197)|null|
 |**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
@@ -1624,6 +1635,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
+|**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/abs/2406.11077)|null|
+|**2024-06-16**|**Enhancing Supermarket Robot Interaction: A Multi-Level LLM Conversational Interface for Handling Diverse Customer Intents**|Chandran Nandkumar et.al.|[2406.11047](http://arxiv.org/abs/2406.11047)|null|
+|**2024-06-15**|**Fast Unsupervised Tensor Restoration via Low-rank Deconvolution**|David Reixach et.al.|[2406.10679](http://arxiv.org/abs/2406.10679)|null|
+|**2024-06-15**|**The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing**|Denis Bobkov et.al.|[2406.10601](http://arxiv.org/abs/2406.10601)|null|
 |**2024-06-14**|**VideoGUI: A Benchmark for GUI Automation from Instructional Videos**|Kevin Qinghong Lin et.al.|[2406.10227](http://arxiv.org/abs/2406.10227)|null|
 |**2024-06-14**|**InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning**|Tiancheng Li et.al.|[2406.09973](http://arxiv.org/abs/2406.09973)|null|
 |**2024-06-14**|**RSEND: Retinex-based Squeeze and Excitation Network with Dark Region Detection for Efficient Low Light Image Enhancement**|Jingcheng Li et.al.|[2406.09656](http://arxiv.org/abs/2406.09656)|null|
