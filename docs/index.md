@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**A Practical Diffusion Path for Sampling**|Omar Chehab et.al.|[2406.14040](http://arxiv.org/abs/2406.14040)|null|
 |**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
 |**2024-06-17**|**Score-fPINN: Fractional Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck-Levy Equations**|Zheyuan Hu et.al.|[2406.11676](http://arxiv.org/abs/2406.11676)|null|
 |**2024-06-13**|**Operator-informed score matching for Markov diffusion models**|Zheyang Shen et.al.|[2406.09084](http://arxiv.org/abs/2406.09084)|null|
@@ -144,6 +145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
+|**2024-06-20**|**SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**|Josef Dai et.al.|[2406.14477](http://arxiv.org/abs/2406.14477)|**[link](https://github.com/pku-alignment/safe-sora)**|
+|**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
+|**2024-06-20**|**ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning**|Zhongjie Duan et.al.|[2406.14130](http://arxiv.org/abs/2406.14130)|null|
+|**2024-06-19**|**Splatter a Video: Video Gaussian Representation for Versatile Processing**|Yang-Tian Sun et.al.|[2406.13870](http://arxiv.org/abs/2406.13870)|null|
+|**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|null|
+|**2024-06-19**|**Development of a Dual-Input Neural Model for Detecting AI-Generated Imagery**|Jonathan Gallagher et.al.|[2406.13688](http://arxiv.org/abs/2406.13688)|null|
+|**2024-06-19**|**Improving Visual Commonsense in Language Models via Multiple Image Generation**|Guy Yariv et.al.|[2406.13621](http://arxiv.org/abs/2406.13621)|**[link](https://github.com/guyyariv/vlmig)**|
+|**2024-06-19**|**What's Next? Exploring Utilization, Challenges, and Future Directions of AI-Generated Image Tools in Graphic Design**|Yuying Tang et.al.|[2406.13436](http://arxiv.org/abs/2406.13436)|null|
 |**2024-06-19**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805](http://arxiv.org/abs/2406.12805)|**[link](https://github.com/itsmag11/aitti)**|
 |**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592](http://arxiv.org/abs/2406.12592)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
 |**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
@@ -1644,6 +1655,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510](http://arxiv.org/abs/2406.14510)|null|
+|**2024-06-19**|**EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**|Long Bai et.al.|[2406.13705](http://arxiv.org/abs/2406.13705)|**[link](https://github.com/longbai1006/endouic)**|
+|**2024-06-19**|**Ultra-High-Definition Restoration: New Benchmarks and A Dual Interaction Prior-Driven Solution**|Liyan Wang et.al.|[2406.13607](http://arxiv.org/abs/2406.13607)|**[link](https://github.com/wlydlut/uhddip)**|
+|**2024-06-19**|**WaterMono: Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation**|Yilin Ding et.al.|[2406.13344](http://arxiv.org/abs/2406.13344)|**[link](https://github.com/oucvisiongroup/watermono)**|
+|**2024-06-19**|**ECAFormer: Low-light Image Enhancement using Cross Attention**|Yudi Ruan et.al.|[2406.13281](http://arxiv.org/abs/2406.13281)|null|
+|**2024-06-19**|**Diffusion Model-based FOD Restoration from High Distortion in dMRI**|Shuo Huang et.al.|[2406.13209](http://arxiv.org/abs/2406.13209)|null|
 |**2024-06-18**|**VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing**|Jing Gu et.al.|[2406.12831](http://arxiv.org/abs/2406.12831)|null|
 |**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
 |**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
