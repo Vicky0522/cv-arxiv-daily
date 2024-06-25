@@ -145,6 +145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
+|**2024-06-24**|**Dreamitate: Real-World Visuomotor Policy Learning via Video Generation**|Junbang Liang et.al.|[2406.16862](http://arxiv.org/abs/2406.16862)|null|
+|**2024-06-24**|**DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation**|Yuang Peng et.al.|[2406.16855](http://arxiv.org/abs/2406.16855)|**[link](https://github.com/yuangpeng/dreambench_plus)**|
+|**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807](http://arxiv.org/abs/2406.16807)|null|
+|**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683](http://arxiv.org/abs/2406.16683)|null|
+|**2024-06-24**|**EvalAlign: Evaluating Text-to-Image Models through Precision Alignment of Multimodal Large Models with Supervised Fine-Tuning to Human Annotations**|Zhiyu Tan et.al.|[2406.16562](http://arxiv.org/abs/2406.16562)|**[link](https://github.com/sais-fuxi/evalalign)**|
+|**2024-06-24**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|null|
+|**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476](http://arxiv.org/abs/2406.16476)|null|
+|**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
+|**2024-06-24**|**Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**|Zhiyuan Chang et.al.|[2406.16272](http://arxiv.org/abs/2406.16272)|null|
 |**2024-06-21**|**MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252](http://arxiv.org/abs/2406.15252)|null|
 |**2024-06-21**|**Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors**|Ali Naseh et.al.|[2406.15213](http://arxiv.org/abs/2406.15213)|null|
 |**2024-06-21**|**Disability Representations: Finding Biases in Automatic Image Generation**|Yannis Tevissen et.al.|[2406.14993](http://arxiv.org/abs/2406.14993)|null|
@@ -1661,6 +1671,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization**|Yirui Chen et.al.|[2406.16531](http://arxiv.org/abs/2406.16531)|null|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
+|**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
+|**2024-06-22**|**MVOC: a training-free multiple video object composition method with diffusion models**|Wei Wang et.al.|[2406.15829](http://arxiv.org/abs/2406.15829)|null|
 |**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
