@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -1687,7 +1687,7 @@ layout: default
 |**2024-06-22**|**MVOC: a training-free multiple video object composition method with diffusion models**|Wei Wang et.al.|[2406.15829](http://arxiv.org/abs/2406.15829)|null|
 |**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
-|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-26**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
 |**2024-06-20**|**V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data**|Rotem Shalev-Arkushin et.al.|[2406.14510](http://arxiv.org/abs/2406.14510)|null|
 |**2024-06-19**|**EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy**|Long Bai et.al.|[2406.13705](http://arxiv.org/abs/2406.13705)|**[link](https://github.com/longbai1006/endouic)**|
 |**2024-06-22**|**Ultra-High-Definition Restoration: New Benchmarks and A Dual Interaction Prior-Driven Solution**|Liyan Wang et.al.|[2406.13607](http://arxiv.org/abs/2406.13607)|**[link](https://github.com/wlydlut/uhddip)**|
