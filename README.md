@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -146,7 +146,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## generation
 
@@ -161,7 +161,7 @@
 |**2024-06-25**|**TSynD: Targeted Synthetic Data Generation for Enhanced Medical Image Classification**|Joshua Niemeijer et.al.|[2406.17473](http://arxiv.org/abs/2406.17473)|null|
 |**2024-06-25**|**SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing**|Ruihuang Li et.al.|[2406.17396](http://arxiv.org/abs/2406.17396)|null|
 |**2024-06-25**|**Semantic Deep Hiding for Robust Unlearnable Examples**|Ruohan Meng et.al.|[2406.17349](http://arxiv.org/abs/2406.17349)|null|
-|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|null|
+|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|**[link](https://github.com/juanerx/q-dit)**|
 |**2024-06-25**|**Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds**|Hongliang Zeng et.al.|[2406.17342](http://arxiv.org/abs/2406.17342)|null|
 |**2024-06-24**|**Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation**|Zhenyi Liao et.al.|[2406.17100](http://arxiv.org/abs/2406.17100)|null|
 |**2024-06-24**|**FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models**|Haonan Qiu et.al.|[2406.16863](http://arxiv.org/abs/2406.16863)|**[link](https://github.com/arthur-qiu/freetraj)**|
@@ -1686,17 +1686,17 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
-|**2024-06-26**|**ConStyle v2: A Strong Prompter for All-in-One Image Restoration**|Dongqi Fan et.al.|[2406.18242](http://arxiv.org/abs/2406.18242)|null|
+|**2024-06-26**|**ConStyle v2: A Strong Prompter for All-in-One Image Restoration**|Dongqi Fan et.al.|[2406.18242](http://arxiv.org/abs/2406.18242)|**[link](https://github.com/Dongqi-Fan/ConStyle_v2)**|
 |**2024-06-26**|**MFDNet: Multi-Frequency Deflare Network for Efficient Nighttime Flare Removal**|Yiguo Jiang et.al.|[2406.18079](http://arxiv.org/abs/2406.18079)|null|
 |**2024-06-25**|**LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing**|Aoyang Liu et.al.|[2406.17236](http://arxiv.org/abs/2406.17236)|null|
-|**2024-06-24**|**GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization**|Yirui Chen et.al.|[2406.16531](http://arxiv.org/abs/2406.16531)|null|
+|**2024-06-24**|**GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization**|Yirui Chen et.al.|[2406.16531](http://arxiv.org/abs/2406.16531)|**[link](https://github.com/chenyirui/gim)**|
 |**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
 |**2024-06-22**|**Quality-guided Skin Tone Enhancement for Portrait Photography**|Shiqi Gao et.al.|[2406.15848](http://arxiv.org/abs/2406.15848)|null|
 |**2024-06-22**|**MVOC: a training-free multiple video object composition method with diffusion models**|Wei Wang et.al.|[2406.15829](http://arxiv.org/abs/2406.15829)|null|
@@ -2524,7 +2524,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
