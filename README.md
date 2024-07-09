@@ -155,6 +155,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
+|**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174](http://arxiv.org/abs/2407.06174)|null|
+|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109](http://arxiv.org/abs/2407.06109)|**[link](https://github.com/labshuhanggu/perldiff)**|
+|**2024-07-08**|**MMIS: Multimodal Dataset for Interior Scene Visual Generation and Recognition**|Hozaifa Kassab et.al.|[2407.05980](http://arxiv.org/abs/2407.05980)|null|
+|**2024-07-08**|**T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models**|Yibo Miao et.al.|[2407.05965](http://arxiv.org/abs/2407.05965)|null|
+|**2024-07-08**|**3D Vessel Graph Generation Using Denoising Diffusion**|Chinmay Prabhakar et.al.|[2407.05842](http://arxiv.org/abs/2407.05842)|null|
+|**2024-07-08**|**GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing**|Zhenyu Wang et.al.|[2407.05600](http://arxiv.org/abs/2407.05600)|null|
+|**2024-07-08**|**This&That: Language-Gesture Controlled Video Generation for Robot Planning**|Boyang Wang et.al.|[2407.05530](http://arxiv.org/abs/2407.05530)|null|
+|**2024-07-07**|**Diffusion as Sound Propagation: Physics-inspired Model for Ultrasound Image Generation**|Marina Domínguez et.al.|[2407.05428](http://arxiv.org/abs/2407.05428)|**[link](https://github.com/marinadominguez/diffusion-for-us-images)**|
+|**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323](http://arxiv.org/abs/2407.05323)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
 |**2024-07-05**|**Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator**|Mehryar Abbasi et.al.|[2407.04258](http://arxiv.org/abs/2407.04258)|null|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992](http://arxiv.org/abs/2407.03992)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
@@ -1726,6 +1736,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**|Jiacheng Su et.al.|[2407.05577](http://arxiv.org/abs/2407.05577)|null|
+|**2024-07-07**|**Image-Conditional Diffusion Transformer for Underwater Image Enhancement**|Xingyang Nie et.al.|[2407.05389](http://arxiv.org/abs/2407.05389)|null|
+|**2024-07-07**|**UltraEdit: Instruction-based Fine-Grained Image Editing at Scale**|Haozhe Zhao et.al.|[2407.05282](http://arxiv.org/abs/2407.05282)|null|
+|**2024-07-07**|**Multi-scale Conditional Generative Modeling for Microscopic Image Restoration**|Luzhe Huang et.al.|[2407.05259](http://arxiv.org/abs/2407.05259)|null|
+|**2024-07-06**|**Robust Skin Color Driven Privacy Preserving Face Recognition via Function Secret Sharing**|Dong Han et.al.|[2407.05045](http://arxiv.org/abs/2407.05045)|null|
 |**2024-07-05**|**On a nonlinear nonlocal reaction-diffusion system applied to image restoration**|Yuhang Li et.al.|[2407.04347](http://arxiv.org/abs/2407.04347)|null|
 |**2024-07-05**|**A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation**|Dazhao Du et.al.|[2407.04230](http://arxiv.org/abs/2407.04230)|null|
 |**2024-07-04**|**DiffRetouch: Using Diffusion to Retouch on the Shoulder of Experts**|Zheng-Peng Duan et.al.|[2407.03757](http://arxiv.org/abs/2407.03757)|null|
