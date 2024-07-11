@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -149,12 +149,21 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
+|**2024-07-09**|**Spanish TrOCR: Leveraging Transfer Learning for Language Adaptation**|Filipe Lauar et.al.|[2407.06950](http://arxiv.org/abs/2407.06950)|null|
+|**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937](http://arxiv.org/abs/2407.06937)|**[link](https://github.com/enderfga/humanrefiner)**|
+|**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642](http://arxiv.org/abs/2407.06642)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
+|**2024-07-09**|**Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task**|Yiran Yang et.al.|[2407.06617](http://arxiv.org/abs/2407.06617)|null|
+|**2024-07-09**|**Sketch-Guided Scene Image Generation**|Tianyu Zhang et.al.|[2407.06469](http://arxiv.org/abs/2407.06469)|null|
+|**2024-07-08**|**MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions**|Xuan Ju et.al.|[2407.06358](http://arxiv.org/abs/2407.06358)|null|
+|**2024-07-08**|**Dynamics of quantum turbulence in axially rotating thermal counterflow**|Ritesh Dwivedi et.al.|[2407.06311](http://arxiv.org/abs/2407.06311)|null|
+|**2024-07-08**|**VIMI: Grounding Video Generation through Multi-modal Instruction**|Yuwei Fang et.al.|[2407.06304](http://arxiv.org/abs/2407.06304)|null|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 |**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174](http://arxiv.org/abs/2407.06174)|null|
 |**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109](http://arxiv.org/abs/2407.06109)|**[link](https://github.com/labshuhanggu/perldiff)**|
@@ -1730,12 +1739,14 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
+|**2024-07-10**|**Asymmetric Mask Scheme for Self-Supervised Real Image Denoising**|Xiangyu Liao et.al.|[2407.06514](http://arxiv.org/abs/2407.06514)|null|
 |**2024-07-08**|**Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**|Jiacheng Su et.al.|[2407.05577](http://arxiv.org/abs/2407.05577)|null|
 |**2024-07-07**|**Image-Conditional Diffusion Transformer for Underwater Image Enhancement**|Xingyang Nie et.al.|[2407.05389](http://arxiv.org/abs/2407.05389)|null|
 |**2024-07-07**|**UltraEdit: Instruction-based Fine-Grained Image Editing at Scale**|Haozhe Zhao et.al.|[2407.05282](http://arxiv.org/abs/2407.05282)|null|
@@ -2592,7 +2603,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
