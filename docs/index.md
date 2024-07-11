@@ -148,6 +148,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
+|**2024-07-10**|**StoryDiffusion: How to Support UX Storyboarding With Generative-AI**|Zhaohui Liang et.al.|[2407.07672](http://arxiv.org/abs/2407.07672)|null|
+|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
+|**2024-07-10**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564](http://arxiv.org/abs/2407.07564)|null|
+|**2024-07-10**|**Video-to-Audio Generation with Hidden Alignment**|Manjie Xu et.al.|[2407.07464](http://arxiv.org/abs/2407.07464)|null|
+|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295](http://arxiv.org/abs/2407.07295)|null|
+|**2024-07-09**|**Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion**|Yu Cao et.al.|[2407.07249](http://arxiv.org/abs/2407.07249)|null|
+|**2024-07-09**|**Accelerating Mobile Edge Generation (MEG) by Constrained Learning**|Xiaoxia Xu et.al.|[2407.07245](http://arxiv.org/abs/2407.07245)|null|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**Spanish TrOCR: Leveraging Transfer Learning for Language Adaptation**|Filipe Lauar et.al.|[2407.06950](http://arxiv.org/abs/2407.06950)|null|
 |**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937](http://arxiv.org/abs/2407.06937)|**[link](https://github.com/enderfga/humanrefiner)**|
@@ -1736,8 +1744,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
+|**2024-07-10**|**Aging-Resistant Wideband Precoding in 5G and Beyond Using 3D Convolutional Neural Networks**|Alejandro Villena-Rodriguez et.al.|[2407.07434](http://arxiv.org/abs/2407.07434)|null|
 |**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
-|**2024-07-10**|**Asymmetric Mask Scheme for Self-Supervised Real Image Denoising**|Xiangyu Liao et.al.|[2407.06514](http://arxiv.org/abs/2407.06514)|null|
+|**2024-07-10**|**Asymmetric Mask Scheme for Self-Supervised Real Image Denoising**|Xiangyu Liao et.al.|[2407.06514](http://arxiv.org/abs/2407.06514)|**[link](https://github.com/lll143653/amsnet)**|
 |**2024-07-08**|**Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN**|Jiacheng Su et.al.|[2407.05577](http://arxiv.org/abs/2407.05577)|null|
 |**2024-07-07**|**Image-Conditional Diffusion Transformer for Underwater Image Enhancement**|Xingyang Nie et.al.|[2407.05389](http://arxiv.org/abs/2407.05389)|null|
 |**2024-07-07**|**UltraEdit: Instruction-based Fine-Grained Image Editing at Scale**|Haozhe Zhao et.al.|[2407.05282](http://arxiv.org/abs/2407.05282)|null|
