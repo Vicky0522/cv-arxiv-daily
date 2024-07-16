@@ -157,6 +157,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation**|Yuanhao Zhai et.al.|[2407.10937](http://arxiv.org/abs/2407.10937)|**[link](https://github.com/yhZhai/idol)**|
+|**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923](http://arxiv.org/abs/2407.10923)|null|
+|**2024-07-15**|**DataDream: Few-shot Guided Dataset Generation**|Jae Myung Kim et.al.|[2407.10910](http://arxiv.org/abs/2407.10910)|**[link](https://github.com/explainableml/datadream)**|
+|**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897](http://arxiv.org/abs/2407.10897)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**An Autonomous Drone Swarm for Detecting and Tracking Anomalies among Dense Vegetation**|Rakesh John Amala Arokia Nathan et.al.|[2407.10754](http://arxiv.org/abs/2407.10754)|null|
+|**2024-07-15**|**AccDiffusion: An Accurate Method for Higher-Resolution Image Generation**|Zhihang Lin et.al.|[2407.10738](http://arxiv.org/abs/2407.10738)|**[link](https://github.com/lzhxmu/accdiffusion)**|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-15**|**Spatio-temporal neural distance fields for conditional generative modeling of the heart**|Kristine Sørensen et.al.|[2407.10663](http://arxiv.org/abs/2407.10663)|**[link](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model)**|
+|**2024-07-15**|**A Survey of Defenses against AI-generated Visual Media: Detection, Disruption, and Authentication**|Jingyi Deng et.al.|[2407.10575](http://arxiv.org/abs/2407.10575)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
 |**2024-07-12**|**PID: Physics-Informed Diffusion Model for Infrared Image Generation**|Fangyuan Mao et.al.|[2407.09299](http://arxiv.org/abs/2407.09299)|**[link](https://github.com/fangyuanmao/pid)**|
 |**2024-07-12**|**Surgical Text-to-Image Generation**|Chinedu Innocent Nwoye et.al.|[2407.09230](http://arxiv.org/abs/2407.09230)|null|
@@ -1767,8 +1777,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models**|Nirat Saini et.al.|[2407.10958](http://arxiv.org/abs/2407.10958)|null|
+|**2024-07-15**|**In-Loop Filtering via Trained Look-Up Tables**|Zhuoyuan Li et.al.|[2407.10926](http://arxiv.org/abs/2407.10926)|null|
+|**2024-07-15**|**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration**|Yulin Ren et.al.|[2407.10833](http://arxiv.org/abs/2407.10833)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-14**|**Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models**|Qinyu Yang et.al.|[2407.10285](http://arxiv.org/abs/2407.10285)|**[link](https://github.com/yangqy1110/nc-sdedit)**|
+|**2024-07-14**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172](http://arxiv.org/abs/2407.10172)|null|
+|**2024-07-13**|**NamedCurves: Learned Image Enhancement via Color Naming**|David Serrano-Lozano et.al.|[2407.09892](http://arxiv.org/abs/2407.09892)|null|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
-|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950](http://arxiv.org/abs/2407.08950)|null|
+|**2024-07-12**|**Exploring Richer and More Accurate Information via Frequency Selection for Image Restoration**|Hu Gao et.al.|[2407.08950](http://arxiv.org/abs/2407.08950)|**[link](https://github.com/Tombs98/MSFSNet_)**|
 |**2024-07-12**|**LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models**|Hai Jiang et.al.|[2407.08939](http://arxiv.org/abs/2407.08939)|**[link](https://github.com/jianghaiscu/lightendiffusion)**|
 |**2024-07-11**|**Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey**|Laniqng Guo et.al.|[2407.08865](http://arxiv.org/abs/2407.08865)|null|
 |**2024-07-11**|**Haar Nuclear Norms with Applications to Remote Sensing Imagery Restoration**|Shuang Xu et.al.|[2407.08509](http://arxiv.org/abs/2407.08509)|null|
