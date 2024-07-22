@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -155,7 +155,7 @@ layout: default
 |**2024-07-18**|**Training-free Composite Scene Generation for Layout-to-Image Synthesis**|Jiaqi Liu et.al.|[2407.13609](http://arxiv.org/abs/2407.13609)|null|
 |**2024-07-18**|**Multi-sentence Video Grounding for Long Video Generation**|Wei Feng et.al.|[2407.13219](http://arxiv.org/abs/2407.13219)|null|
 |**2024-07-18**|**Image Inpainting Models are Effective Tools for Instruction-guided Image Editing**|Xuan Ju et.al.|[2407.13139](http://arxiv.org/abs/2407.13139)|null|
-|**2024-07-17**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
+|**2024-07-19**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
 |**2024-07-17**|**Denoising Diffusions in Latent Space for Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2407.12952](http://arxiv.org/abs/2407.12952)|null|
 |**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/abs/2407.12781)|null|
 |**2024-07-17**|**Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**|Yiqing Shen et.al.|[2407.12678](http://arxiv.org/abs/2407.12678)|null|
@@ -1797,7 +1797,7 @@ layout: default
 |**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
 |**2024-07-18**|**Any Image Restoration with Efficient Automatic Degradation Adaptation**|Bin Ren et.al.|[2407.13372](http://arxiv.org/abs/2407.13372)|null|
 |**2024-07-18**|**Multi-sentence Video Grounding for Long Video Generation**|Wei Feng et.al.|[2407.13219](http://arxiv.org/abs/2407.13219)|null|
-|**2024-07-18**|**Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**|Zhiyuan Ma et.al.|[2407.13188](http://arxiv.org/abs/2407.13188)|null|
+|**2024-07-19**|**Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**|Zhiyuan Ma et.al.|[2407.13188](http://arxiv.org/abs/2407.13188)|null|
 |**2024-07-18**|**Training-Free Large Model Priors for Multiple-in-One Image Restoration**|Xuanhua He et.al.|[2407.13181](http://arxiv.org/abs/2407.13181)|null|
 |**2024-07-18**|**Unified-EGformer: Exposure Guided Lightweight Transformer for Mixed-Exposure Image Enhancement**|Eashan Adhikarla et.al.|[2407.13170](http://arxiv.org/abs/2407.13170)|null|
 |**2024-07-18**|**Image Inpainting Models are Effective Tools for Instruction-guided Image Editing**|Xuan Ju et.al.|[2407.13139](http://arxiv.org/abs/2407.13139)|null|
