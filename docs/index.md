@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -16,15 +16,15 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-24**|**Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference**|Jian Xu et.al.|[2407.17033](http://arxiv.org/abs/2407.17033)|null|
 |**2024-07-22**|**Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond**|Silvio Galesso et.al.|[2407.15739](http://arxiv.org/abs/2407.15739)|**[link](https://github.com/lmb-freiburg/diffusion-for-ood)**|
-|**2024-07-23**|**Score matching for bridges without time-reversals**|Elizabeth L. Baker et.al.|[2407.15455](http://arxiv.org/abs/2407.15455)|null|
+|**2024-07-23**|**Score matching for bridges without time-reversals**|Elizabeth L. Baker et.al.|[2407.15455](http://arxiv.org/abs/2407.15455)|**[link](https://github.com/libbylbaker/forward_bridge)**|
 |**2024-07-20**|**Improving Bias Correction Standards by Quantifying its Effects on Treatment Outcomes**|Alexandre Abraham et.al.|[2407.14861](http://arxiv.org/abs/2407.14861)|null|
 |**2024-07-12**|**Learning Distances from Data with Normalizing Flows and Score Matching**|Peter Sorrenson et.al.|[2407.09297](http://arxiv.org/abs/2407.09297)|null|
 |**2024-07-10**|**What's the score? Automated Denoising Score Matching for Nonlinear Diffusions**|Raghav Singhal et.al.|[2407.07998](http://arxiv.org/abs/2407.07998)|null|
 |**2024-06-15**|**Stein's Method of Moments on the Sphere**|Adrian Fischer et.al.|[2407.02299](http://arxiv.org/abs/2407.02299)|null|
-|**2024-07-01**|**Learning data efficient coarse-grained molecular dynamics from forces and noise**|Aleksander E. P. Durumeric et.al.|[2407.01286](http://arxiv.org/abs/2407.01286)|null|
+|**2024-07-01**|**Learning data efficient coarse-grained molecular dynamics from forces and noise**|Aleksander E. P. Durumeric et.al.|[2407.01286](http://arxiv.org/abs/2407.01286)|**[link](https://github.com/noegroup/aggforce)**|
 |**2024-07-18**|**Localizing Anomalies via Multiscale Score Matching Analysis**|Ahsan Mahmood et.al.|[2407.00148](http://arxiv.org/abs/2407.00148)|**[link](https://github.com/ahsanmah/sade)**|
 |**2024-06-20**|**A Practical Diffusion Path for Sampling**|Omar Chehab et.al.|[2406.14040](http://arxiv.org/abs/2406.14040)|null|
-|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
+|**2024-07-25**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
 |**2024-06-17**|**Score-fPINN: Fractional Score-Based Physics-Informed Neural Networks for High-Dimensional Fokker-Planck-Levy Equations**|Zheyuan Hu et.al.|[2406.11676](http://arxiv.org/abs/2406.11676)|null|
 |**2024-06-13**|**Operator-informed score matching for Markov diffusion models**|Zheyang Shen et.al.|[2406.09084](http://arxiv.org/abs/2406.09084)|null|
 |**2024-06-13**|**Conceptual Learning via Embedding Approximations for Reinforcing Interpretability and Transparency**|Maor Dikter et.al.|[2406.08840](http://arxiv.org/abs/2406.08840)|**[link](https://github.com/clearproject/clear)**|
@@ -156,7 +156,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
-|**2024-07-24**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
+|**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
 |**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095](http://arxiv.org/abs/2407.17095)|null|
 |**2024-07-24**|**An Adaptive Gradient Regularization Method**|Huixiu Jiang et.al.|[2407.16944](http://arxiv.org/abs/2407.16944)|null|
 |**2024-07-24**|**Synthetic Trajectory Generation Through Convolutional Neural Networks**|Jesse Merhi et.al.|[2407.16938](http://arxiv.org/abs/2407.16938)|**[link](https://github.com/jesse-merhi/CNN-TRAJGAN)**|
