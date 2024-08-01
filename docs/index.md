@@ -155,6 +155,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
+|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
+|**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
+|**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428](http://arxiv.org/abs/2407.21428)|null|
+|**2024-07-31**|**Benchmarking AIGC Video Quality Assessment: A Dataset and Unified Model**|Zhichao Zhang et.al.|[2407.21408](http://arxiv.org/abs/2407.21408)|null|
+|**2024-07-31**|**Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging**|Wenhua Wu et.al.|[2407.21381](http://arxiv.org/abs/2407.21381)|null|
+|**2024-07-31**|**ESIQA: Perceptual Quality Assessment of Vision-Pro-based Egocentric Spatial Images**|Xilei Zhu et.al.|[2407.21363](http://arxiv.org/abs/2407.21363)|null|
+|**2024-07-30**|**Adding Multi-modal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|null|
 |**2024-07-29**|**Retinex-Diffusion: On Controlling Illumination Conditions in Diffusion Models via Retinex Theory**|Xiaoyan Xing et.al.|[2407.20785](http://arxiv.org/abs/2407.20785)|null|
 |**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
 |**2024-07-30**|**DocXPand-25k: a large and diverse benchmark dataset for identity documents analysis**|Julien Lerouge et.al.|[2407.20662](http://arxiv.org/abs/2407.20662)|**[link](https://github.com/quicksign/docxpand)**|
@@ -1846,6 +1855,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Hyper-parameter tuning for text guided image editing**|Shiwen Zhang et.al.|[2407.21703](http://arxiv.org/abs/2407.21703)|null|
+|**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
+|**2024-07-31**|**Generalized Tampered Scene Text Detection in the era of Generative AI**|Chenfan Qu et.al.|[2407.21422](http://arxiv.org/abs/2407.21422)|null|
 |**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/abs/2407.20784)|null|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
