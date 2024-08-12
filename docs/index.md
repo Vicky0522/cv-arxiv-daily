@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.11
+## Updated on 2024.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -1892,7 +1892,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-08**|**Physical prior guided cooperative learning framework for joint turbulence degradation estimation and infrared video restoration**|Ziran Zhang et.al.|[2408.04227](http://arxiv.org/abs/2408.04227)|null|
 |**2024-08-08**|**MultiColor: Image Colorization by Learning from Multiple Color Spaces**|Xiangcheng Du et.al.|[2408.04172](http://arxiv.org/abs/2408.04172)|null|
 |**2024-08-06**|**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning**|Zhi Chen et.al.|[2408.03355](http://arxiv.org/abs/2408.03355)|null|
