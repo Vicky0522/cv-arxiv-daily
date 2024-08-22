@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-05**|**MRI Optimized Reconstruction of Simultaneous Multi-Slice Imaging Using Diffusion Model**|Ting Zhao et.al.|[2408.08883](http://arxiv.org/abs/2408.08883)|null|
+|**2024-08-21**|**MR Optimized Reconstruction of Simultaneous Multi-Slice Imaging Using Diffusion Model**|Ting Zhao et.al.|[2408.08883](http://arxiv.org/abs/2408.08883)|null|
 |**2024-08-13**|**A comparison of methods for estimating the average treatment effect on the treated for externally controlled trials**|Huan Wang et.al.|[2408.07193](http://arxiv.org/abs/2408.07193)|null|
 |**2024-08-09**|**Bootstrap Matching: a robust and efficient correction for non-random A/B test, and its applications**|Zihao Zheng et.al.|[2408.05297](http://arxiv.org/abs/2408.05297)|null|
 |**2024-07-26**|**Score matching through the roof: linear, nonlinear, and latent variables causal discovery**|Francesco Montagna et.al.|[2407.18755](http://arxiv.org/abs/2407.18755)|null|
@@ -160,14 +160,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
 |**2024-08-20**|**A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse**|Zhongliang Guo et.al.|[2408.10901](http://arxiv.org/abs/2408.10901)|null|
-|**2024-08-20**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
+|**2024-08-21**|**MUSES: 3D-Controllable Image Generation via Multi-Modal Agent Collaboration**|Yanbo Ding et.al.|[2408.10605](http://arxiv.org/abs/2408.10605)|null|
 |**2024-08-20**|**Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models**|Cong Wan et.al.|[2408.10571](http://arxiv.org/abs/2408.10571)|null|
 |**2024-08-19**|**Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation**|Liu He et.al.|[2408.10453](http://arxiv.org/abs/2408.10453)|null|
 |**2024-08-19**|**The Brittleness of AI-Generated Image Watermarking Techniques: Examining Their Robustness Against Visual Paraphrasing Attacks**|Niyar R Barman et.al.|[2408.10446](http://arxiv.org/abs/2408.10446)|null|
 |**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119](http://arxiv.org/abs/2408.10119)|null|
 |**2024-08-19**|**Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation**|Yunxin Li et.al.|[2408.09787](http://arxiv.org/abs/2408.09787)|**[link](https://github.com/hitsz-tmg/anim-director)**|
 |**2024-08-19**|**TraDiffusion: Trajectory-Based Training-Free Image Generation**|Mingrui Wu et.al.|[2408.09739](http://arxiv.org/abs/2408.09739)|**[link](https://github.com/och-mac/tradiffusion)**|
-|**2024-08-19**|**Diff2CT: Diffusion Learning to Reconstruct Spine CT from Biplanar X-Rays**|Zhi Qiao et.al.|[2408.09731](http://arxiv.org/abs/2408.09731)|null|
+|**2024-08-21**|**Reconstruct Spine CT from Biplanar X-Rays via Diffusion Learning**|Zhi Qiao et.al.|[2408.09731](http://arxiv.org/abs/2408.09731)|null|
 |**2024-08-18**|**AnomalyFactory: Regard Anomaly Generation as Unsupervised Anomaly Localization**|Ying Zhao et.al.|[2408.09533](http://arxiv.org/abs/2408.09533)|null|
 |**2024-08-18**|**Deformation-aware GAN for Medical Image Synthesis with Substantially Misaligned Pairs**|Bowen Xin et.al.|[2408.09432](http://arxiv.org/abs/2408.09432)|null|
 |**2024-08-18**|**SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama**|Jing Tang et.al.|[2408.09333](http://arxiv.org/abs/2408.09333)|**[link](https://github.com/vaew/skyscript-100m)**|
