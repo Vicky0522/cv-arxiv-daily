@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -160,7 +160,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
 
 ## generation
 
@@ -1960,7 +1960,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -1970,7 +1970,7 @@
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
 |**2024-08-22**|**Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement**|Lingyu Zhu et.al.|[2408.12316](http://arxiv.org/abs/2408.12316)|**[link](https://github.com/lingyzhu0101/udu)**|
 |**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810](http://arxiv.org/abs/2408.11810)|null|
-|**2024-08-21**|**AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion**|Yunfang Niu et.al.|[2408.11553](http://arxiv.org/abs/2408.11553)|**[link](https://github.com/nyf8/anydesign)**|
+|**2024-08-23**|**AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion**|Yunfang Niu et.al.|[2408.11553](http://arxiv.org/abs/2408.11553)|**[link](https://github.com/nyf8/anydesign)**|
 |**2024-08-21**|**E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment**|Shangkun Sun et.al.|[2408.11481](http://arxiv.org/abs/2408.11481)|**[link](https://github.com/littlespray/e-bench)**|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**Taming Generative Diffusion for Universal Blind Image Restoration**|Siwei Tu et.al.|[2408.11287](http://arxiv.org/abs/2408.11287)|null|
@@ -2935,7 +2935,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

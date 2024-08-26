@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -1961,7 +1961,7 @@ layout: default
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
 |**2024-08-22**|**Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement**|Lingyu Zhu et.al.|[2408.12316](http://arxiv.org/abs/2408.12316)|**[link](https://github.com/lingyzhu0101/udu)**|
 |**2024-08-21**|**Pixel Is Not A Barrier: An Effective Evasion Attack for Pixel-Domain Diffusion Models**|Chun-Yen Shih et.al.|[2408.11810](http://arxiv.org/abs/2408.11810)|null|
-|**2024-08-21**|**AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion**|Yunfang Niu et.al.|[2408.11553](http://arxiv.org/abs/2408.11553)|**[link](https://github.com/nyf8/anydesign)**|
+|**2024-08-23**|**AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion**|Yunfang Niu et.al.|[2408.11553](http://arxiv.org/abs/2408.11553)|**[link](https://github.com/nyf8/anydesign)**|
 |**2024-08-21**|**E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment**|Shangkun Sun et.al.|[2408.11481](http://arxiv.org/abs/2408.11481)|**[link](https://github.com/littlespray/e-bench)**|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**Taming Generative Diffusion for Universal Blind Image Restoration**|Siwei Tu et.al.|[2408.11287](http://arxiv.org/abs/2408.11287)|null|
