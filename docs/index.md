@@ -162,6 +162,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion**|Yiran Chen et.al.|[2408.17424](http://arxiv.org/abs/2408.17424)|null|
+|**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
+|**2024-08-30**|**VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers**|Juncan Deng et.al.|[2408.17131](http://arxiv.org/abs/2408.17131)|null|
+|**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
+|**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
+|**2024-08-30**|**AdaptVision: Dynamic Input Scaling in MLLMs for Versatile Scene Understanding**|Yonghui Wang et.al.|[2408.16986](http://arxiv.org/abs/2408.16986)|**[link](https://github.com/harrytea/adaptvision)**|
+|**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965](http://arxiv.org/abs/2408.16965)|**[link](https://github.com/dewenzeng/clsp)**|
+|**2024-08-29**|**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models**|Koushik Srivatsan et.al.|[2408.16807](http://arxiv.org/abs/2408.16807)|**[link](https://github.com/koushiksrivats/robust-concept-erasing)**|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos**|Anisha Jain et.al.|[2408.16704](http://arxiv.org/abs/2408.16704)|null|
 |**2024-08-29**|**GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2408.16700](http://arxiv.org/abs/2408.16700)|**[link](https://github.com/moreno98/gradbias)**|
@@ -1998,6 +2006,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Enhancing Underwater Imaging with 4-D Light Fields: Dataset and Method**|Yuji Lin et.al.|[2408.17339](http://arxiv.org/abs/2408.17339)|null|
+|**2024-08-30**|**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL**|Haiyang Zhao et.al.|[2408.17060](http://arxiv.org/abs/2408.17060)|null|
+|**2024-08-29**|**GameIR: A Large-Scale Synthesized Ground-Truth Dataset for Image Restoration over Gaming Content**|Lebin Zhou et.al.|[2408.16866](http://arxiv.org/abs/2408.16866)|null|
 |**2024-08-29**|**A Deep-Learning-Based Lable-free No-Reference Image Quality Assessment Metric: Application in Sodium MRI Denoising**|Shuaiyu Yuan et.al.|[2408.16481](http://arxiv.org/abs/2408.16481)|null|
 |**2024-08-29**|**What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer**|Chaeyeon Chung et.al.|[2408.16450](http://arxiv.org/abs/2408.16450)|null|
 |**2024-08-29**|**Enhanced Control for Diffusion Bridge in Image Restoration**|Conghan Yue et.al.|[2408.16303](http://arxiv.org/abs/2408.16303)|**[link](https://github.com/Hammour-steak/ECDB)**|
