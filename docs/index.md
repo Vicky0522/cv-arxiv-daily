@@ -163,6 +163,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
+|**2024-09-06**|**Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation**|Zhuoyan Luo et.al.|[2409.04410](http://arxiv.org/abs/2409.04410)|null|
+|**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133](http://arxiv.org/abs/2409.04133)|null|
+|**2024-09-06**|**Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task**|Jing Wang et.al.|[2409.04005](http://arxiv.org/abs/2409.04005)|**[link](https://github.com/360cvgroup/qihoo-t2x)**|
+|**2024-09-06**|**DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes**|Jianbiao Mei et.al.|[2409.04003](http://arxiv.org/abs/2409.04003)|**[link](https://github.com/PJLab-ADG/DriveArena)**|
 |**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745](http://arxiv.org/abs/2409.03745)|null|
 |**2024-09-05**|**Blended Latent Diffusion under Attention Control for Real-World Video Editing**|Deyin Liu et.al.|[2409.03514](http://arxiv.org/abs/2409.03514)|null|
 |**2024-09-05**|**Non-Uniform Illumination Attack for Fooling Convolutional Neural Networks**|Akshay Jain et.al.|[2409.03458](http://arxiv.org/abs/2409.03458)|**[link](https://github.com/Akshayjain97/Non-Uniform_Illumination)**|
@@ -2023,6 +2028,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior**|Charlesquin Kemajou Mbakam et.al.|[2409.04384](http://arxiv.org/abs/2409.04384)|null|
+|**2024-09-06**|**RCNet: Deep Recurrent Collaborative Network for Multi-View Low-Light Image Enhancement**|Hao Luo et.al.|[2409.04363](http://arxiv.org/abs/2409.04363)|**[link](https://github.com/hluo29/rcnet)**|
 |**2024-09-05**|**Blended Latent Diffusion under Attention Control for Real-World Video Editing**|Deyin Liu et.al.|[2409.03514](http://arxiv.org/abs/2409.03514)|null|
 |**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455](http://arxiv.org/abs/2409.03455)|null|
 |**2024-09-05**|**KAN See In the Dark**|Aoxiang Ning et.al.|[2409.03404](http://arxiv.org/abs/2409.03404)|**[link](https://github.com/axning/ksid)**|
