@@ -165,6 +165,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
+|**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
+|**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063](http://arxiv.org/abs/2409.20063)|null|
+|**2024-09-30**|**Illustrious: an Open Advanced Illustration Model**|Sang Hyun Park et.al.|[2409.19946](http://arxiv.org/abs/2409.19946)|null|
+|**2024-09-30**|**MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation**|Wenchao Chen et.al.|[2409.19937](http://arxiv.org/abs/2409.19937)|null|
+|**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911](http://arxiv.org/abs/2409.19911)|null|
+|**2024-09-29**|**OrganiQ: Mitigating Classical Resource Bottlenecks of Quantum Generative Adversarial Networks on NISQ-Era Machines**|Daniel Silver et.al.|[2409.19823](http://arxiv.org/abs/2409.19823)|null|
+|**2024-09-29**|**Simple and Fast Distillation of Diffusion Models**|Zhenyu Zhou et.al.|[2409.19681](http://arxiv.org/abs/2409.19681)|**[link](https://github.com/zju-pi/diff-sampler)**|
+|**2024-09-29**|**Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection**|Yuhang Ma et.al.|[2409.19624](http://arxiv.org/abs/2409.19624)|null|
+|**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804](http://arxiv.org/abs/2409.18804)|null|
 |**2024-09-26**|**Realistic Evaluation of Model Merging for Compositional Generalization**|Derek Tam et.al.|[2409.18314](http://arxiv.org/abs/2409.18314)|null|
@@ -2112,6 +2122,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
+|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|null|
+|**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong et.al.|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|
+|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
+|**2024-09-28**|**PDCFNet: Enhancing Underwater Images through Pixel Difference Convolution**|Song Zhang et.al.|[2409.19269](http://arxiv.org/abs/2409.19269)|**[link](https://github.com/zhangsong1213/pdcfnet)**|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
 |**2024-09-27**|**Underwater Image Enhancement with Physical-based Denoising Diffusion Implicit Models**|Nguyen Gia Bach et.al.|[2409.18476](http://arxiv.org/abs/2409.18476)|**[link](https://github.com/bachzz/uw-diffphys)**|
 |**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|null|
