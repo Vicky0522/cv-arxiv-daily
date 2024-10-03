@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -166,7 +166,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## generation
 
@@ -2125,20 +2125,20 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
-|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|null|
+|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong et.al.|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|
 |**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
 |**2024-09-28**|**PDCFNet: Enhancing Underwater Images through Pixel Difference Convolution**|Song Zhang et.al.|[2409.19269](http://arxiv.org/abs/2409.19269)|**[link](https://github.com/zhangsong1213/pdcfnet)**|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
 |**2024-09-27**|**Underwater Image Enhancement with Physical-based Denoising Diffusion Implicit Models**|Nguyen Gia Bach et.al.|[2409.18476](http://arxiv.org/abs/2409.18476)|**[link](https://github.com/bachzz/uw-diffphys)**|
-|**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|null|
+|**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|**[link](https://github.com/Pangyk/SinoSynth)**|
 |**2024-09-26**|**Toward Efficient Deep Blind RAW Image Restoration**|Marcos V. Conde et.al.|[2409.18204](http://arxiv.org/abs/2409.18204)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction**|Runze He et.al.|[2409.18071](http://arxiv.org/abs/2409.18071)|null|
@@ -3194,7 +3194,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -2123,13 +2123,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
-|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|null|
+|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong et.al.|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|
 |**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
 |**2024-09-28**|**PDCFNet: Enhancing Underwater Images through Pixel Difference Convolution**|Song Zhang et.al.|[2409.19269](http://arxiv.org/abs/2409.19269)|**[link](https://github.com/zhangsong1213/pdcfnet)**|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
 |**2024-09-27**|**Underwater Image Enhancement with Physical-based Denoising Diffusion Implicit Models**|Nguyen Gia Bach et.al.|[2409.18476](http://arxiv.org/abs/2409.18476)|**[link](https://github.com/bachzz/uw-diffphys)**|
-|**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|null|
+|**2024-09-27**|**SinoSynth: A Physics-based Domain Randomization Approach for Generalizable CBCT Image Enhancement**|Yunkui Pang et.al.|[2409.18355](http://arxiv.org/abs/2409.18355)|**[link](https://github.com/Pangyk/SinoSynth)**|
 |**2024-09-26**|**Toward Efficient Deep Blind RAW Image Restoration**|Marcos V. Conde et.al.|[2409.18204](http://arxiv.org/abs/2409.18204)|**[link](https://github.com/mv-lab/AISP)**|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction**|Runze He et.al.|[2409.18071](http://arxiv.org/abs/2409.18071)|null|
