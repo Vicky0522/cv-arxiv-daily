@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Equivariant score-based generative models provably learn distributions with symmetries efficiently**|Ziyu Chen et.al.|[2410.01244](http://arxiv.org/abs/2410.01244)|null|
+|**2024-10-01**|**Generative Precipitation Downscaling using Score-based Diffusion with Wasserstein Regularization**|Yuhao Liu et.al.|[2410.00381](http://arxiv.org/abs/2410.00381)|null|
 |**2024-09-12**|**Scores as Actions: a framework of fine-tuning diffusion models by continuous-time reinforcement learning**|Hanyang Zhao et.al.|[2409.08400](http://arxiv.org/abs/2409.08400)|null|
 |**2024-09-11**|**From optimal score matching to optimal sampling**|Zehao Dou et.al.|[2409.07032](http://arxiv.org/abs/2409.07032)|null|
 |**2024-09-02**|**Highly Accurate Real-space Electron Densities with Neural Networks**|Lixue Cheng et.al.|[2409.01306](http://arxiv.org/abs/2409.01306)|null|
@@ -172,6 +174,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796](http://arxiv.org/abs/2410.01796)|null|
+|**2024-10-02**|**ImageFolder: Autoregressive Image Generation with Folded Tokens**|Xiang Li et.al.|[2410.01756](http://arxiv.org/abs/2410.01756)|**[link](https://github.com/lxa9867/imagefolder)**|
+|**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
+|**2024-10-02**|**COMUNI: Decomposing Common and Unique Video Signals for Diffusion-based Video Generation**|Mingzhen Sun et.al.|[2410.01718](http://arxiv.org/abs/2410.01718)|null|
+|**2024-10-02**|**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding**|Yao Teng et.al.|[2410.01699](http://arxiv.org/abs/2410.01699)|null|
+|**2024-10-02**|**Data Extrapolation for Text-to-image Generation on Small Datasets**|Senmao Ye et.al.|[2410.01638](http://arxiv.org/abs/2410.01638)|**[link](https://github.com/senmaoy/RAT-Diffusion)**|
+|**2024-10-02**|**KnobGen: Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models**|Pouyan Navard et.al.|[2410.01595](http://arxiv.org/abs/2410.01595)|**[link](https://github.com/aminK8/KnobGen)**|
+|**2024-10-02**|**MM-LDM: Multi-Modal Latent Diffusion Model for Sounding Video Generation**|Mingzhen Sun et.al.|[2410.01594](http://arxiv.org/abs/2410.01594)|**[link](https://github.com/iva-mzsun/mm-ldm)**|
+|**2024-10-02**|**Edge-preserving noise for diffusion models**|Jente Vandersanden et.al.|[2410.01540](http://arxiv.org/abs/2410.01540)|null|
+|**2024-10-02**|**Aggregation of Multi Diffusion Models for Enhancing Learned Representations**|Conghan Yue et.al.|[2410.01262](http://arxiv.org/abs/2410.01262)|**[link](https://github.com/hammour-steak/amdm)**|
 |**2024-09-30**|**Inverse Painting: Reconstructing The Painting Process**|Bowei Chen et.al.|[2409.20556](http://arxiv.org/abs/2409.20556)|null|
 |**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
 |**2024-09-30**|**Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs**|Zicheng Zhang et.al.|[2409.20063](http://arxiv.org/abs/2409.20063)|null|
@@ -2131,6 +2143,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
+|**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099](http://arxiv.org/abs/2410.01099)|null|
+|**2024-10-01**|**GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**|Youngho Yoon et.al.|[2410.00672](http://arxiv.org/abs/2410.00672)|**[link](https://github.com/yh-yoon/gmt)**|
+|**2024-10-01**|**Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation**|Yunnan Wang et.al.|[2410.00447](http://arxiv.org/abs/2410.00447)|null|
+|**2024-10-01**|**Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration**|Guy Ohayon et.al.|[2410.00418](http://arxiv.org/abs/2410.00418)|**[link](https://github.com/ohayonguy/PMRF)**|
+|**2024-10-01**|**GLMHA A Guided Low-rank Multi-Head Self-Attention for Efficient Image Restoration and Spectral Reconstruction**|Zaid Ilyas et.al.|[2410.00380](http://arxiv.org/abs/2410.00380)|null|
+|**2024-09-30**|**A Survey on Diffusion Models for Inverse Problems**|Giannis Daras et.al.|[2410.00083](http://arxiv.org/abs/2410.00083)|null|
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong et.al.|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|
