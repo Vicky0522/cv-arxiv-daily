@@ -176,6 +176,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
+|**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
+|**2024-10-09**|**EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**|Rui Zhao et.al.|[2410.07133](http://arxiv.org/abs/2410.07133)|**[link](https://github.com/showlab/evolvedirector)**|
+|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
+|**2024-10-09**|**Decouple-Then-Merge: Towards Better Training for Diffusion Models**|Qianli Ma et.al.|[2410.06664](http://arxiv.org/abs/2410.06664)|null|
+|**2024-10-09**|**On the Solution of Linearized Inverse Scattering Problems in Near-Field Microwave Imaging by Operator Inversion and Matched Filtering**|Matthias M. Saurer et.al.|[2410.06465](http://arxiv.org/abs/2410.06465)|null|
+|**2024-10-08**|**Story-Adapter: A Training-free Iterative Framework for Long Story Visualization**|Jiawei Mao et.al.|[2410.06244](http://arxiv.org/abs/2410.06244)|null|
+|**2024-10-08**|**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way**|Jiazi Bu et.al.|[2410.06241](http://arxiv.org/abs/2410.06241)|null|
+|**2024-10-08**|**SD- $π$ XL: Generating Low-Resolution Quantized Imagery via Score Distillation**|Alexandre Binninger et.al.|[2410.06236](http://arxiv.org/abs/2410.06236)|null|
+|**2024-10-08**|**GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**|Chi-Lam Cheang et.al.|[2410.06158](http://arxiv.org/abs/2410.06158)|null|
 |**2024-10-07**|**The Dawn of Video Generation: Preliminary Explorations with SORA-like Models**|Ailing Zeng et.al.|[2410.05227](http://arxiv.org/abs/2410.05227)|null|
 |**2024-10-07**|**Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality**|Ge Ya et.al.|[2410.05203](http://arxiv.org/abs/2410.05203)|**[link](https://github.com/oooolga/JEDi)**|
 |**2024-10-07**|**Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning**|Ayano Hiranaka et.al.|[2410.05116](http://arxiv.org/abs/2410.05116)|null|
@@ -2173,6 +2183,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**InstantIR: Blind Image Restoration with Instant Generative Reference**|Jen-Yuan Huang et.al.|[2410.06551](http://arxiv.org/abs/2410.06551)|null|
+|**2024-10-08**|**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM**|Stefan Stefanache et.al.|[2410.05710](http://arxiv.org/abs/2410.05710)|**[link](https://github.com/thesstefan/pixlens)**|
+|**2024-10-08**|**DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing**|June Suk Choi et.al.|[2410.05694](http://arxiv.org/abs/2410.05694)|null|
+|**2024-10-08**|**ReFIR: Grounding Large Restoration Models with Retrieval Augmentation**|Hang Guo et.al.|[2410.05601](http://arxiv.org/abs/2410.05601)|**[link](https://github.com/csguoh/refir)**|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-07**|**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing**|Feng Tian et.al.|[2410.04844](http://arxiv.org/abs/2410.04844)|null|
 |**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
