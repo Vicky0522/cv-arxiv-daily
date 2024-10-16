@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**l_inf-approximation of localized distributions**|Tiangang Cui et.al.|[2410.11771](http://arxiv.org/abs/2410.11771)|null|
 |**2024-10-14**|**High-Dimensional Differential Parameter Inference in Exponential Family using Time Score Matching**|Daniel J. Williams et.al.|[2410.10637](http://arxiv.org/abs/2410.10637)|null|
 |**2024-10-12**|**On Divergence Measures for Training GFlowNets**|Tiago da Silva et.al.|[2410.09355](http://arxiv.org/abs/2410.09355)|null|
 |**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046](http://arxiv.org/abs/2410.09046)|null|
@@ -173,7 +174,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|
+|**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824](http://arxiv.org/abs/2410.11824)|null|
+|**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
+|**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
+|**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
+|**2024-10-15**|**A Simple Approach to Unifying Diffusion-based Conditional Generation**|Xirui Li et.al.|[2410.11439](http://arxiv.org/abs/2410.11439)|null|
+|**2024-10-15**|**Evolutionary Retrofitting**|Mathurin Videau et.al.|[2410.11330](http://arxiv.org/abs/2410.11330)|null|
+|**2024-10-15**|**Ctrl-U: Robust Conditional Image Generation via Uncertainty-aware Reward Modeling**|Guiyu Zhang et.al.|[2410.11236](http://arxiv.org/abs/2410.11236)|null|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|**[link](https://github.com/ZqlwMatt/Tex4D)**|
 |**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817](http://arxiv.org/abs/2410.10817)|null|
 |**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816](http://arxiv.org/abs/2410.10816)|**[link](https://github.com/silentview/lvd-2m)**|
 |**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812](http://arxiv.org/abs/2410.10812)|**[link](https://github.com/mit-han-lab/hart)**|
@@ -2207,6 +2216,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828](http://arxiv.org/abs/2410.11828)|null|
+|**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815](http://arxiv.org/abs/2410.11815)|null|
+|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722](http://arxiv.org/abs/2410.11722)|null|
+|**2024-10-15**|**Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing**|Yoonjeon Kim et.al.|[2410.11374](http://arxiv.org/abs/2410.11374)|null|
+|**2024-10-14**|**Incorporating Task Progress Knowledge for Subgoal Generation in Robotic Manipulation through Image Edits**|Xuhui Kang et.al.|[2410.11013](http://arxiv.org/abs/2410.11013)|null|
 |**2024-10-14**|**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**|Litu Rout et.al.|[2410.10792](http://arxiv.org/abs/2410.10792)|null|
 |**2024-10-14**|**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing**|Kejie Wang et.al.|[2410.10496](http://arxiv.org/abs/2410.10496)|null|
 |**2024-10-13**|**TextMaster: Universal Controllable Text Edit**|Aoqiang Wang et.al.|[2410.09879](http://arxiv.org/abs/2410.09879)|null|
