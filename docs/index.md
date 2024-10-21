@@ -175,6 +175,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672](http://arxiv.org/abs/2410.14672)|**[link](https://github.com/haoosz/BiGR)**|
+|**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
+|**2024-10-18**|**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**|Bo Cheng et.al.|[2410.14324](http://arxiv.org/abs/2410.14324)|**[link](https://github.com/360cvgroup/hico_t2i)**|
+|**2024-10-18**|**HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects**|Oliverio Theophilus Nathanael et.al.|[2410.14265](http://arxiv.org/abs/2410.14265)|null|
+|**2024-10-18**|**Text-to-Image Representativity Fairness Evaluation Framework**|Asma Yamani et.al.|[2410.14201](http://arxiv.org/abs/2410.14201)|null|
+|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|null|
+|**2024-10-18**|**Assessing Open-world Forgetting in Generative Image Model Customization**|Héctor Laria et.al.|[2410.14159](http://arxiv.org/abs/2410.14159)|null|
+|**2024-10-17**|**Inference of morphology and dynamical state of nearby $Planck$ -SZ galaxy clusters with Zernike polynomials**|Valentina Capalbo et.al.|[2410.13929](http://arxiv.org/abs/2410.13929)|null|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
 |**2024-10-17**|**VidPanos: Generative Panoramic Videos from Casual Panning Videos**|Jingwei Ma et.al.|[2410.13832](http://arxiv.org/abs/2410.13832)|null|
@@ -2234,6 +2242,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing**|Jimin Dai et.al.|[2410.14247](http://arxiv.org/abs/2410.14247)|null|
+|**2024-10-17**|**MMAD-Purify: A Precision-Optimized Framework for Efficient and Scalable Multi-Modal Attacks**|Xinxin Liu et.al.|[2410.14089](http://arxiv.org/abs/2410.14089)|null|
 |**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720](http://arxiv.org/abs/2410.13720)|**[link](https://github.com/facebookresearch/moviegenbench)**|
 |**2024-10-17**|**Generative Location Modeling for Spatially Aware Object Insertion**|Jooyeol Yun et.al.|[2410.13564](http://arxiv.org/abs/2410.13564)|null|
 |**2024-10-16**|**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing**|DuoSheng Chen et.al.|[2410.12696](http://arxiv.org/abs/2410.12696)|null|
