@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -185,7 +185,7 @@ layout: default
 |**2024-10-22**|**Dual-Model Defense: Safeguarding Diffusion Models from Membership Inference Attacks through Disjoint Data Splitting**|Bao Q. Tran et.al.|[2410.16657](http://arxiv.org/abs/2410.16657)|null|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266](http://arxiv.org/abs/2410.16266)|null|
-|**2024-10-21**|**Elucidating the design space of language models for image generation**|Xuantong Liu et.al.|[2410.16257](http://arxiv.org/abs/2410.16257)|null|
+|**2024-10-21**|**Elucidating the design space of language models for image generation**|Xuantong Liu et.al.|[2410.16257](http://arxiv.org/abs/2410.16257)|**[link](https://github.com/Pepper-lll/LMforImageGeneration)**|
 |**2024-10-21**|**A Framework for Evaluating Predictive Models Using Synthetic Image Covariates and Longitudinal Data**|Simon Deltadahl et.al.|[2410.16177](http://arxiv.org/abs/2410.16177)|null|
 |**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
 |**2024-10-20**|**EVA: An Embodied World Model for Future Video Anticipation**|Xiaowei Chi et.al.|[2410.15461](http://arxiv.org/abs/2410.15461)|null|
@@ -2261,7 +2261,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
-|**2024-10-19**|**A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends**|Junjun Jiang et.al.|[2410.15067](http://arxiv.org/abs/2410.15067)|null|
+|**2024-10-19**|**A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends**|Junjun Jiang et.al.|[2410.15067](http://arxiv.org/abs/2410.15067)|**[link](https://github.com/harbinzzy/all-in-one-image-restoration-survey)**|
 |**2024-10-19**|**Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**|Haichuan Zhang et.al.|[2410.14966](http://arxiv.org/abs/2410.14966)|null|
 |**2024-10-18**|**ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing**|Jimin Dai et.al.|[2410.14247](http://arxiv.org/abs/2410.14247)|null|
 |**2024-10-17**|**MMAD-Purify: A Precision-Optimized Framework for Efficient and Scalable Multi-Modal Attacks**|Xinxin Liu et.al.|[2410.14089](http://arxiv.org/abs/2410.14089)|null|
