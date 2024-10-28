@@ -184,6 +184,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**|Zhengyao Lv et.al.|[2410.19355](http://arxiv.org/abs/2410.19355)|null|
+|**2024-10-25**|**High Resolution Seismic Waveform Generation using Denoising Diffusion**|Andreas Bergmeister et.al.|[2410.19343](http://arxiv.org/abs/2410.19343)|null|
 |**2024-10-24**|**Framer: Interactive Frame Interpolation**|Wen Wang et.al.|[2410.18978](http://arxiv.org/abs/2410.18978)|null|
 |**2024-10-24**|**Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences**|Weijian Luo et.al.|[2410.18881](http://arxiv.org/abs/2410.18881)|null|
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
@@ -2285,6 +2287,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164](http://arxiv.org/abs/2410.19164)|null|
 |**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
 |**2024-10-25**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|
 |**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
