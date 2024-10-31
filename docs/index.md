@@ -180,6 +180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
+|**2024-10-30**|**Multi-student Diffusion Distillation for Better One-step Generators**|Yanke Song et.al.|[2410.23274](http://arxiv.org/abs/2410.23274)|null|
+|**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979](http://arxiv.org/abs/2410.22979)|null|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/abs/2410.22971)|null|
+|**2024-10-30**|**An Individual Identity-Driven Framework for Animal Re-Identification**|Yihao Wu et.al.|[2410.22927](http://arxiv.org/abs/2410.22927)|**[link](https://github.com/ywu840/indivaid)**|
+|**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901](http://arxiv.org/abs/2410.22901)|**[link](https://github.com/HelloVision/HelloMeme)**|
+|**2024-10-30**|**Latent Diffusion, Implicit Amplification: Efficient Continuous-Scale Super-Resolution for Remote Sensing Images**|Hanlin Wu et.al.|[2410.22830](http://arxiv.org/abs/2410.22830)|null|
+|**2024-10-30**|**Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models**|Arash Marioriyad et.al.|[2410.22775](http://arxiv.org/abs/2410.22775)|null|
+|**2024-10-30**|**Identifying Drift, Diffusion, and Causal Structure from Temporal Snapshots**|Vincent Guan et.al.|[2410.22729](http://arxiv.org/abs/2410.22729)|null|
 |**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669](http://arxiv.org/abs/2410.21669)|null|
 |**2024-10-29**|**Exploring Local Memorization in Diffusion Models via Bright Ending Attention**|Chen Chen et.al.|[2410.21665](http://arxiv.org/abs/2410.21665)|null|
 |**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653](http://arxiv.org/abs/2410.21653)|null|
@@ -2295,6 +2305,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
 |**2024-10-30**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946](http://arxiv.org/abs/2410.21946)|**[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)**|
 |**2024-10-25**|**ArCSEM: Artistic Colorization of SEM Images via Gaussian Splatting**|Takuma Nishimura et.al.|[2410.21310](http://arxiv.org/abs/2410.21310)|null|
 |**2024-10-27**|**Wavelet-based Mamba with Fourier Adjustment for Low-light Image Enhancement**|Junhao Tan et.al.|[2410.20314](http://arxiv.org/abs/2410.20314)|**[link](https://github.com/mcpaulgeorge/walmafa)**|
