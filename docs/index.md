@@ -182,7 +182,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning**|Penghui Ruan et.al.|[2410.24219](http://arxiv.org/abs/2410.24219)|**[link](https://github.com/pr-ryan/demo)**|
 |**2024-10-31**|**Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts**|Xiang Deng et.al.|[2410.23836](http://arxiv.org/abs/2410.23836)|null|
-|**2024-10-31**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775](http://arxiv.org/abs/2410.23775)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
+|**2024-11-01**|**In-Context LoRA for Diffusion Transformers**|Lianghua Huang et.al.|[2410.23775](http://arxiv.org/abs/2410.23775)|**[link](https://github.com/ali-vilab/In-Context-LoRA)**|
 |**2024-10-31**|**Language-guided Hierarchical Fine-grained Image Forgery Detection and Localization**|Xiao Guo et.al.|[2410.23556](http://arxiv.org/abs/2410.23556)|null|
 |**2024-10-30**|**MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts**|Jie Zhu et.al.|[2410.23332](http://arxiv.org/abs/2410.23332)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
