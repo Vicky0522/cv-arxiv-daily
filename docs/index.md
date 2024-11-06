@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -2323,7 +2323,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-04**|**AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**|Hao-Yu Hsu et.al.|[2411.02394](http://arxiv.org/abs/2411.02394)|null|
 |**2024-11-04**|**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability**|Bo Gao et.al.|[2411.01819](http://arxiv.org/abs/2411.01819)|null|
-|**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|null|
+|**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|**[link](https://github.com/xl-tang3/DA-RCOT)**|
 |**2024-11-03**|**Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach**|Qihe Pan et.al.|[2411.01545](http://arxiv.org/abs/2411.01545)|null|
 |**2024-11-03**|**TPOT: Topology Preserving Optimal Transport in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2411.01403](http://arxiv.org/abs/2411.01403)|null|
 |**2024-11-02**|**Medical X-Ray Image Enhancement Using Global Contrast-Limited Adaptive Histogram Equalization**|Sohrab Namazi Nia et.al.|[2411.01373](http://arxiv.org/abs/2411.01373)|null|
