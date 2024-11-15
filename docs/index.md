@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Propensity Score Matching: Should We Use It in Designing Observational Studies?**|Fei Wan et.al.|[2411.09579](http://arxiv.org/abs/2411.09579)|null|
+|**2024-11-14**|**Efficiently learning and sampling multimodal distributions with data-based initialization**|Frederic Koehler et.al.|[2411.09117](http://arxiv.org/abs/2411.09117)|null|
+|**2024-11-13**|**Parameter Inference via Differentiable Diffusion Bridge Importance Sampling**|Nicklas Boserup et.al.|[2411.08993](http://arxiv.org/abs/2411.08993)|null|
 |**2024-11-02**|**Supervised Score-Based Modeling by Gradient Boosting**|Changyuan Zhao et.al.|[2411.01159](http://arxiv.org/abs/2411.01159)|null|
 |**2024-10-31**|**TV-3DG: Mastering Text-to-3D Customized Generation with Visual Prompt**|Jiahui Yang et.al.|[2410.21299](http://arxiv.org/abs/2410.21299)|null|
 |**2024-10-27**|**Hamiltonian Score Matching and Generative Flows**|Peter Holderrieth et.al.|[2410.20470](http://arxiv.org/abs/2410.20470)|null|
@@ -181,6 +184,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising**|Yunuo Wang et.al.|[2411.09512](http://arxiv.org/abs/2411.09512)|null|
+|**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449](http://arxiv.org/abs/2411.09449)|null|
+|**2024-11-14**|**Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance**|Md Fahim Anjum et.al.|[2411.09174](http://arxiv.org/abs/2411.09174)|null|
+|**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
 |**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
 |**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
 |**2024-11-13**|**I Can Embrace and Avoid Vagueness Myself: Supporting the Design Process by Balancing Vagueness through Text-to-Image Generative AI**|Myungjin Kim et.al.|[2411.08588](http://arxiv.org/abs/2411.08588)|null|
@@ -2369,6 +2376,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
 |**2024-11-13**|**A Survey on Vision Autoregressive Model**|Kai Jiang et.al.|[2411.08666](http://arxiv.org/abs/2411.08666)|null|
 |**2024-11-12**|**Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing**|Zitao Shuai et.al.|[2411.08196](http://arxiv.org/abs/2411.08196)|null|
 |**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
