@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**Propensity Score Matching: Should We Use It in Designing Observational Studies?**|Fei Wan et.al.|[2411.09579](http://arxiv.org/abs/2411.09579)|null|
 |**2024-11-14**|**Efficiently learning and sampling multimodal distributions with data-based initialization**|Frederic Koehler et.al.|[2411.09117](http://arxiv.org/abs/2411.09117)|null|
-|**2024-11-13**|**Parameter Inference via Differentiable Diffusion Bridge Importance Sampling**|Nicklas Boserup et.al.|[2411.08993](http://arxiv.org/abs/2411.08993)|null|
+|**2024-11-13**|**Parameter Inference via Differentiable Diffusion Bridge Importance Sampling**|Nicklas Boserup et.al.|[2411.08993](http://arxiv.org/abs/2411.08993)|**[link](https://github.com/nickeopti/msc-thesis-code)**|
 |**2024-11-02**|**Supervised Score-Based Modeling by Gradient Boosting**|Changyuan Zhao et.al.|[2411.01159](http://arxiv.org/abs/2411.01159)|null|
 |**2024-10-31**|**TV-3DG: Mastering Text-to-3D Customized Generation with Visual Prompt**|Jiahui Yang et.al.|[2410.21299](http://arxiv.org/abs/2410.21299)|null|
 |**2024-10-27**|**Hamiltonian Score Matching and Generative Flows**|Peter Holderrieth et.al.|[2410.20470](http://arxiv.org/abs/2410.20470)|null|
