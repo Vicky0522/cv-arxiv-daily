@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|null|
+|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|**[link](https://github.com/ecburx/proteval)**|
 |**2024-11-20**|**Comprehensive Methodology for Sample Augmentation in EEG Biomarker Studies for Alzheimers Risk Classification**|Veronica Henao Isaza et.al.|[2411.17717](http://arxiv.org/abs/2411.17717)|null|
 |**2024-11-14**|**Propensity Score Matching: Should We Use It in Designing Observational Studies?**|Fei Wan et.al.|[2411.09579](http://arxiv.org/abs/2411.09579)|null|
 |**2024-11-14**|**Efficiently learning and sampling multimodal distributions with data-based initialization**|Frederic Koehler et.al.|[2411.09117](http://arxiv.org/abs/2411.09117)|null|
