@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**How to Use Diffusion Priors under Sparse Views?**|Qisen Wang et.al.|[2412.02225](http://arxiv.org/abs/2412.02225)|**[link](https://github.com/icvteam/ipsm)**|
+|**2024-11-29**|**Pretrained Reversible Generation as Unsupervised Visual Representation Learning**|Rongkun Xue et.al.|[2412.01787](http://arxiv.org/abs/2412.01787)|null|
 |**2024-11-29**|**Riemannian Denoising Score Matching for Molecular Structure Optimization with Accurate Energy**|Jeheon Woo et.al.|[2411.19769](http://arxiv.org/abs/2411.19769)|null|
 |**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|**[link](https://github.com/ecburx/proteval)**|
 |**2024-11-20**|**Comprehensive Methodology for Sample Augmentation in EEG Biomarker Studies for Alzheimers Risk Classification**|Veronica Henao Isaza et.al.|[2411.17717](http://arxiv.org/abs/2411.17717)|null|
@@ -187,6 +189,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
+|**2024-12-03**|**Taming Scalable Visual Tokenizer for Autoregressive Image Generation**|Fengyuan Shi et.al.|[2412.02692](http://arxiv.org/abs/2412.02692)|null|
+|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
+|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**WEM-GAN: Wavelet transform based facial expression manipulation**|Dongya Sun et.al.|[2412.02530](http://arxiv.org/abs/2412.02530)|null|
+|**2024-12-03**|**ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?**|Leixin Zhang et.al.|[2412.02368](http://arxiv.org/abs/2412.02368)|null|
+|**2024-12-03**|**VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation**|Mingzhe Zheng et.al.|[2412.02259](http://arxiv.org/abs/2412.02259)|null|
+|**2024-12-03**|**Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models**|Jungwon Park et.al.|[2412.02237](http://arxiv.org/abs/2412.02237)|null|
 |**2024-11-29**|**JetFormer: An Autoregressive Generative Model of Raw Images and Text**|Michael Tschannen et.al.|[2411.19722](http://arxiv.org/abs/2411.19722)|null|
 |**2024-11-29**|**Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing**|Wenyi Mo et.al.|[2411.19652](http://arxiv.org/abs/2411.19652)|**[link](https://github.com/mowenyii/uniform-attention-maps)**|
 |**2024-11-29**|**QUOTA: Quantifying Objects with Text-to-Image Models for Any Domain**|Wenfang Sun et.al.|[2411.19534](http://arxiv.org/abs/2411.19534)|null|
@@ -2472,6 +2484,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
+|**2024-12-03**|**MetaShadow: Object-Centered Shadow Detection, Removal, and Synthesis**|Tianyu Wang et.al.|[2412.02635](http://arxiv.org/abs/2412.02635)|null|
+|**2024-12-03**|**GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing**|Khawar Islam et.al.|[2412.02366](http://arxiv.org/abs/2412.02366)|null|
+|**2024-12-03**|**Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models**|Jungwon Park et.al.|[2412.02237](http://arxiv.org/abs/2412.02237)|null|
+|**2024-12-03**|**OmniCreator: Self-Supervised Unified Generation with Universal Editing**|Haodong Chen et.al.|[2412.02114](http://arxiv.org/abs/2412.02114)|null|
+|**2024-12-03**|**Relaxed and Inertial Nonlinear Forward-Backward with Momentum**|Fernando Roldán et.al.|[2412.02045](http://arxiv.org/abs/2412.02045)|null|
+|**2024-12-02**|**CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion**|Kai He et.al.|[2412.01792](http://arxiv.org/abs/2412.01792)|null|
+|**2024-12-02**|**OmniGuard: Hybrid Manipulation Localization via Augmented Versatile Deep Image Watermarking**|Xuanyu Zhang et.al.|[2412.01615](http://arxiv.org/abs/2412.01615)|null|
+|**2024-12-02**|**Learning Adaptive Lighting via Channel-Aware Guidance**|Qirui Yang et.al.|[2412.01493](http://arxiv.org/abs/2412.01493)|null|
+|**2024-12-02**|**Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond**|MD Raqib Khan et.al.|[2412.01456](http://arxiv.org/abs/2412.01456)|**[link](https://github.com/Mdraqibkhan/Phaseformer)**|
 |**2024-11-29**|**Self-Supervised Denoiser Framework**|Emilien Valat et.al.|[2411.19593](http://arxiv.org/abs/2411.19593)|null|
 |**2024-11-28**|**Trajectory Attention for Fine-grained Video Motion Control**|Zeqi Xiao et.al.|[2411.19324](http://arxiv.org/abs/2411.19324)|null|
 |**2024-11-28**|**LoRA of Change: Learning to Generate LoRA for the Editing Instruction from A Single Before-After Image Pair**|Xue Song et.al.|[2411.19156](http://arxiv.org/abs/2411.19156)|null|
