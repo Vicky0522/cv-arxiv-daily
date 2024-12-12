@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Score Change of Variables**|Stephen Robbins et.al.|[2412.07904](http://arxiv.org/abs/2412.07904)|null|
 |**2024-12-10**|**Score-matching-based Structure Learning for Temporal Data on Networks**|Hao Chen et.al.|[2412.07469](http://arxiv.org/abs/2412.07469)|null|
 |**2024-12-09**|**Improving Source Extraction with Diffusion and Consistency Models**|Tornike Karchkhadze et.al.|[2412.06965](http://arxiv.org/abs/2412.06965)|null|
 |**2024-12-09**|**Generative Lines Matching Models**|Ori Matityahu et.al.|[2412.06403](http://arxiv.org/abs/2412.06403)|null|
@@ -193,6 +194,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639](http://arxiv.org/abs/2412.08639)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
+|**2024-12-11**|**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**|Zejian Li et.al.|[2412.08580](http://arxiv.org/abs/2412.08580)|null|
+|**2024-12-11**|**Learning Flow Fields in Attention for Controllable Person Image Generation**|Zijian Zhou et.al.|[2412.08486](http://arxiv.org/abs/2412.08486)|**[link](https://github.com/franciszzj/leffa)**|
+|**2024-12-11**|**InvDiff: Invariant Guidance for Bias Mitigation in Diffusion Models**|Min Hou et.al.|[2412.08480](http://arxiv.org/abs/2412.08480)|**[link](https://github.com/hundredl/invdiff)**|
+|**2024-12-11**|**CC-Diff: Enhancing Contextual Coherence in Remote Sensing Image Synthesis**|Mu Zhang et.al.|[2412.08464](http://arxiv.org/abs/2412.08464)|null|
+|**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[2412.08410](http://arxiv.org/abs/2412.08410)|null|
+|**2024-12-11**|**FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks**|Chongkai Gao et.al.|[2412.08261](http://arxiv.org/abs/2412.08261)|null|
+|**2024-12-11**|**VSD2M: A Large-scale Vision-language Sticker Dataset for Multi-frame Animated Sticker Generation**|Zhiqiang Yuan et.al.|[2412.08259](http://arxiv.org/abs/2412.08259)|null|
+|**2024-12-11**|**Analyzing and Improving Model Collapse in Rectified Flow Models**|Huminhao Zhu et.al.|[2412.08175](http://arxiv.org/abs/2412.08175)|null|
 |**2024-12-10**|**UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics**|Xi Chen et.al.|[2412.07774](http://arxiv.org/abs/2412.07774)|null|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
 |**2024-12-10**|**SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints**|Jianhong Bai et.al.|[2412.07760](http://arxiv.org/abs/2412.07760)|**[link](https://github.com/kwaivgi/syncammaster)**|
@@ -2538,6 +2549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm**|Marien Renaud et.al.|[2412.08262](http://arxiv.org/abs/2412.08262)|null|
 |**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|null|
 |**2024-12-10**|**Analytical-Heuristic Modeling and Optimization for Low-Light Image Enhancement**|Axel Martinez et.al.|[2412.07659](http://arxiv.org/abs/2412.07659)|null|
 |**2024-12-10**|**Deep Joint Unrolling for Deblurring and Low-Light Image Enhancement (JUDE).pdf**|Tu Vo et.al.|[2412.07527](http://arxiv.org/abs/2412.07527)|null|
