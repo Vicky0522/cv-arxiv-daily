@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-12-13**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-10**|**Score Change of Variables**|Stephen Robbins et.al.|[2412.07904](http://arxiv.org/abs/2412.07904)|null|
 |**2024-12-10**|**Score-matching-based Structure Learning for Temporal Data on Networks**|Hao Chen et.al.|[2412.07469](http://arxiv.org/abs/2412.07469)|null|
-|**2024-12-09**|**Improving Source Extraction with Diffusion and Consistency Models**|Tornike Karchkhadze et.al.|[2412.06965](http://arxiv.org/abs/2412.06965)|null|
+|**2024-12-09**|**Improving Source Extraction with Diffusion and Consistency Models**|Tornike Karchkhadze et.al.|[2412.06965](http://arxiv.org/abs/2412.06965)|**[link](https://github.com/Russell-Izadi-Bose/DiCoSe)**|
 |**2024-12-09**|**Generative Lines Matching Models**|Ori Matityahu et.al.|[2412.06403](http://arxiv.org/abs/2412.06403)|null|
 |**2024-12-06**|**Local Curvature Smoothing with Stein's Identity for Efficient Score Matching**|Genki Osada et.al.|[2412.03962](http://arxiv.org/abs/2412.03962)|null|
 |**2024-12-03**|**How to Use Diffusion Priors under Sparse Views?**|Qisen Wang et.al.|[2412.02225](http://arxiv.org/abs/2412.02225)|**[link](https://github.com/icvteam/ipsm)**|
@@ -196,7 +196,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
 ## generation
 
@@ -206,11 +206,11 @@
 |**2024-12-13**|**TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation**|Xingrui Wang et.al.|[2412.10275](http://arxiv.org/abs/2412.10275)|null|
 |**2024-12-13**|**Exploring the Frontiers of Animation Video Generation in the Sora Era: Method, Dataset and Benchmark**|Yudong Jiang et.al.|[2412.10255](http://arxiv.org/abs/2412.10255)|null|
 |**2024-12-13**|**Simple Guidance Mechanisms for Discrete Diffusion Models**|Yair Schiff et.al.|[2412.10193](http://arxiv.org/abs/2412.10193)|**[link](https://github.com/kuleshov-group/discrete-diffusion-guidance)**|
-|**2024-12-13**|**Financial Fine-tuning a Large Time Series Model**|Xinghong Fu et.al.|[2412.09880](http://arxiv.org/abs/2412.09880)|null|
+|**2024-12-13**|**Financial Fine-tuning a Large Time Series Model**|Xinghong Fu et.al.|[2412.09880](http://arxiv.org/abs/2412.09880)|**[link](https://github.com/pfnet-research/timesfm_fin)**|
 |**2024-12-13**|**LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity**|Hongjie Wang et.al.|[2412.09856](http://arxiv.org/abs/2412.09856)|null|
 |**2024-12-13**|**MSC: Multi-Scale Spatio-Temporal Causal Attention for Autoregressive Video Diffusion**|Xunnong Xu et.al.|[2412.09828](http://arxiv.org/abs/2412.09828)|null|
 |**2024-12-12**|**Human vs. AI: A Novel Benchmark and a Comparative Study on the Detection of Generated Images and the Impact of Prompts**|Philipp Moeßner et.al.|[2412.09715](http://arxiv.org/abs/2412.09715)|**[link](https://github.com/heikeadel/cocoxgen)**|
-|**2024-12-12**|**Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation**|Chun-Mei Feng et.al.|[2412.09706](http://arxiv.org/abs/2412.09706)|null|
+|**2024-12-12**|**Diffusion-Enhanced Test-time Adaptation with Text and Image Augmentation**|Chun-Mei Feng et.al.|[2412.09706](http://arxiv.org/abs/2412.09706)|**[link](https://github.com/chunmeifeng/difftpt)**|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[2412.09627](http://arxiv.org/abs/2412.09627)|**[link](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation**|Weiqi Li et.al.|[2412.09623](http://arxiv.org/abs/2412.09623)|null|
 |**2024-12-12**|**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**|Enis Simsar et.al.|[2412.09622](http://arxiv.org/abs/2412.09622)|null|
@@ -2572,7 +2572,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -3847,7 +3847,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
