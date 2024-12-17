@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-13**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
+|**2024-12-16**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-10**|**Score Change of Variables**|Stephen Robbins et.al.|[2412.07904](http://arxiv.org/abs/2412.07904)|null|
 |**2024-12-10**|**Score-matching-based Structure Learning for Temporal Data on Networks**|Hao Chen et.al.|[2412.07469](http://arxiv.org/abs/2412.07469)|null|
 |**2024-12-09**|**Improving Source Extraction with Diffusion and Consistency Models**|Tornike Karchkhadze et.al.|[2412.06965](http://arxiv.org/abs/2412.06965)|**[link](https://github.com/Russell-Izadi-Bose/DiCoSe)**|
@@ -195,6 +195,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
+|**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048](http://arxiv.org/abs/2412.12048)|null|
+|**2024-12-16**|**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models**|Rick Akkerman et.al.|[2412.11785](http://arxiv.org/abs/2412.11785)|null|
+|**2024-12-16**|**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation**|Tianyi Zhu et.al.|[2412.11755](http://arxiv.org/abs/2412.11755)|null|
+|**2024-12-16**|**IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation**|Yiren Song et.al.|[2412.11638](http://arxiv.org/abs/2412.11638)|null|
+|**2024-12-16**|**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting**|Muhammet Furkan Ilaslan et.al.|[2412.11621](http://arxiv.org/abs/2412.11621)|**[link](https://github.com/mfurkanilaslan/vg-tvp)**|
+|**2024-12-16**|**3D $^2$ -Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599](http://arxiv.org/abs/2412.11599)|**[link](https://github.com/silence-tang/gaussianactor)**|
+|**2024-12-16**|**LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model**|Xi Wang et.al.|[2412.11519](http://arxiv.org/abs/2412.11519)|null|
+|**2024-12-16**|**FedCAR: Cross-client Adaptive Re-weighting for Generative Models in Federated Learning**|Minjun Kim et.al.|[2412.11463](http://arxiv.org/abs/2412.11463)|**[link](https://github.com/danny0628/fedcar)**|
+|**2024-12-16**|**Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion Models**|Namhyuk Ahn et.al.|[2412.11423](http://arxiv.org/abs/2412.11423)|null|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-13**|**TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation**|Xingrui Wang et.al.|[2412.10275](http://arxiv.org/abs/2412.10275)|null|
 |**2024-12-13**|**Exploring the Frontiers of Animation Video Generation in the Sora Era: Method, Dataset and Benchmark**|Yudong Jiang et.al.|[2412.10255](http://arxiv.org/abs/2412.10255)|null|
@@ -2569,9 +2579,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-13**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
+|**2024-12-16**|**Re-Attentional Controllable Video Diffusion Editing**|Yuanzhi Wang et.al.|[2412.11710](http://arxiv.org/abs/2412.11710)|**[link](https://github.com/mdswyz/reatco)**|
+|**2024-12-15**|**Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing**|Jiancheng Huang et.al.|[2412.11152](http://arxiv.org/abs/2412.11152)|null|
+|**2024-12-15**|**Towards Context-aware Convolutional Network for Image Restoration**|Fangwei Hao et.al.|[2412.11008](http://arxiv.org/abs/2412.11008)|null|
+|**2024-12-14**|**Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation, Spatial Purification, and Scale Diversification**|Yucong Meng et.al.|[2412.10776](http://arxiv.org/abs/2412.10776)|null|
+|**2024-12-16**|**BrushEdit: All-In-One Image Inpainting and Editing**|Yaowei Li et.al.|[2412.10316](http://arxiv.org/abs/2412.10316)|null|
 |**2024-12-13**|**Learning Complex Non-Rigid Image Edits from Multimodal Conditioning**|Nikolai Warner et.al.|[2412.10219](http://arxiv.org/abs/2412.10219)|null|
-|**2024-12-13**|**Matrix Completion via Residual Spectral Matching**|Ziyuan Chen et.al.|[2412.10005](http://arxiv.org/abs/2412.10005)|null|
+|**2024-12-16**|**Matrix Completion via Residual Spectral Matching**|Ziyuan Chen et.al.|[2412.10005](http://arxiv.org/abs/2412.10005)|null|
 |**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614](http://arxiv.org/abs/2412.09614)|null|
 |**2024-12-12**|**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**|Yusuf Dalva et.al.|[2412.09611](http://arxiv.org/abs/2412.09611)|null|
 |**2024-12-12**|**Video Seal: Open and Efficient Video Watermarking**|Pierre Fernandez et.al.|[2412.09492](http://arxiv.org/abs/2412.09492)|**[link](https://github.com/facebookresearch/videoseal)**|
