@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Catalysts of Conversation: Examining Interaction Dynamics Between Topic Initiators and Commentors in Alzheimer's Disease Online Communities**|Congning Ni et.al.|[2412.13388](http://arxiv.org/abs/2412.13388)|null|
 |**2024-12-16**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-10**|**Score Change of Variables**|Stephen Robbins et.al.|[2412.07904](http://arxiv.org/abs/2412.07904)|null|
 |**2024-12-10**|**Score-matching-based Structure Learning for Temporal Data on Networks**|Hao Chen et.al.|[2412.07469](http://arxiv.org/abs/2412.07469)|null|
@@ -202,6 +203,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
+|**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169](http://arxiv.org/abs/2412.14169)|**[link](https://github.com/baaivision/nova)**|
+|**2024-12-18**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
+|**2024-12-18**|**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**|Runtao Liu et.al.|[2412.14167](http://arxiv.org/abs/2412.14167)|null|
+|**2024-12-18**|**AKiRa: Augmentation Kit on Rays for optical video generation**|Xi Wang et.al.|[2412.14158](http://arxiv.org/abs/2412.14158)|null|
+|**2024-12-18**|**SurgSora: Decoupled RGBD-Flow Diffusion Model for Controllable Surgical Video Generation**|Tong Chen et.al.|[2412.14018](http://arxiv.org/abs/2412.14018)|null|
+|**2024-12-18**|**Text2Relight: Creative Portrait Relighting with Text Guidance**|Junuk Cha et.al.|[2412.13734](http://arxiv.org/abs/2412.13734)|null|
+|**2024-12-18**|**Diffusion models and stochastic quantisation in lattice field theory**|Gert Aarts et.al.|[2412.13704](http://arxiv.org/abs/2412.13704)|null|
+|**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
+|**2024-12-18**|**Self-control: A Better Conditional Mechanism for Masked Autoregressive Model**|Qiaoying Qu et.al.|[2412.13635](http://arxiv.org/abs/2412.13635)|null|
 |**2024-12-17**|**MotionBridge: Dynamic Video Inbetweening with Flexible Controls**|Maham Tanveer et.al.|[2412.13190](http://arxiv.org/abs/2412.13190)|null|
 |**2024-12-17**|**F-Bench: Rethinking Human Preference Evaluation Metrics for Benchmarking Face Generation, Customization, and Restoration**|Lu Liu et.al.|[2412.13155](http://arxiv.org/abs/2412.13155)|null|
 |**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
@@ -2598,6 +2609,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818](http://arxiv.org/abs/2412.13818)|null|
+|**2024-12-18**|**Text2Relight: Creative Portrait Relighting with Text Guidance**|Junuk Cha et.al.|[2412.13734](http://arxiv.org/abs/2412.13734)|null|
+|**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
+|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
+|**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/abs/2412.13401)|null|
 |**2024-12-17**|**MotionBridge: Dynamic Video Inbetweening with Flexible Controls**|Maham Tanveer et.al.|[2412.13190](http://arxiv.org/abs/2412.13190)|null|
 |**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
 |**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
