@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-18**|**Catalysts of Conversation: Examining Interaction Dynamics Between Topic Initiators and Commentors in Alzheimer's Disease Online Communities**|Congning Ni et.al.|[2412.13388](http://arxiv.org/abs/2412.13388)|null|
-|**2024-12-16**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
+|**2024-12-19**|**Score and Distribution Matching Policy: Advanced Accelerated Visuomotor Policies via Matched Distillation**|Bofang Jia et.al.|[2412.09265](http://arxiv.org/abs/2412.09265)|null|
 |**2024-12-10**|**Score Change of Variables**|Stephen Robbins et.al.|[2412.07904](http://arxiv.org/abs/2412.07904)|null|
 |**2024-12-10**|**Score-matching-based Structure Learning for Temporal Data on Networks**|Hao Chen et.al.|[2412.07469](http://arxiv.org/abs/2412.07469)|null|
 |**2024-12-09**|**Improving Source Extraction with Diffusion and Consistency Models**|Tornike Karchkhadze et.al.|[2412.06965](http://arxiv.org/abs/2412.06965)|**[link](https://github.com/Russell-Izadi-Bose/DiCoSe)**|
@@ -196,6 +196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
+|**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205](http://arxiv.org/abs/2412.15205)|**[link](https://github.com/oliverrensu/flowar)**|
+|**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191](http://arxiv.org/abs/2412.15191)|null|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**Tiled Diffusion**|Or Madar et.al.|[2412.15185](http://arxiv.org/abs/2412.15185)|null|
+|**2024-12-19**|**Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**|Yatai Ji et.al.|[2412.15156](http://arxiv.org/abs/2412.15156)|**[link](https://github.com/jiyt17/prompt-a-video)**|
+|**2024-12-19**|**Parallelized Autoregressive Visual Generation**|Yuqing Wang et.al.|[2412.15119](http://arxiv.org/abs/2412.15119)|null|
+|**2024-12-19**|**DCTdiff: Intriguing Properties of Image Generative Modeling in the DCT Space**|Mang Ning et.al.|[2412.15032](http://arxiv.org/abs/2412.15032)|**[link](https://github.com/forever208/dctdiff)**|
+|**2024-12-19**|**Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations**|Yucheng Hu et.al.|[2412.14803](http://arxiv.org/abs/2412.14803)|null|
+|**2024-12-19**|**Qua $^2$ SeDiMo: Quantifiable Quantization Sensitivity of Diffusion Models**|Keith G. Mills et.al.|[2412.14628](http://arxiv.org/abs/2412.14628)|null|
 |**2024-12-18**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
 |**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169](http://arxiv.org/abs/2412.14169)|**[link](https://github.com/baaivision/nova)**|
 |**2024-12-18**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
@@ -2600,6 +2610,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency**|Enis Simsar et.al.|[2412.15216](http://arxiv.org/abs/2412.15216)|null|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
+|**2024-12-19**|**Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion**|Jixuan He et.al.|[2412.14462](http://arxiv.org/abs/2412.14462)|**[link](https://github.com/kakituken/affordance-aware-any)**|
+|**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
+|**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220](http://arxiv.org/abs/2412.14220)|**[link](https://github.com/tranleanh/dpte-net)**|
 |**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818](http://arxiv.org/abs/2412.13818)|null|
 |**2024-12-18**|**Text2Relight: Creative Portrait Relighting with Text Guidance**|Junuk Cha et.al.|[2412.13734](http://arxiv.org/abs/2412.13734)|null|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
