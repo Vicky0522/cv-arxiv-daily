@@ -222,7 +222,7 @@ layout: default
 |**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853](http://arxiv.org/abs/2412.15853)|null|
 |**2024-12-20**|**DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization**|Zihan Ding et.al.|[2412.15689](http://arxiv.org/abs/2412.15689)|null|
 |**2024-12-20**|**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium**|Xinzhe Li et.al.|[2412.15674](http://arxiv.org/abs/2412.15674)|null|
-|**2024-12-20**|**BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models**|Yifei Sun et.al.|[2412.15670](http://arxiv.org/abs/2412.15670)|null|
+|**2024-12-20**|**BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models**|Yifei Sun et.al.|[2412.15670](http://arxiv.org/abs/2412.15670)|**[link](https://github.com/diaoquesang/BS-LDM)**|
 |**2024-12-20**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/abs/2412.15646)|**[link](https://github.com/rongpiking/customttt)**|
 |**2024-12-20**|**Stylish and Functional: Guided Interpolation Subject to Physical Constraints**|Yan-Ying Chen et.al.|[2412.15507](http://arxiv.org/abs/2412.15507)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
@@ -836,7 +836,7 @@ layout: default
 |**2024-08-27**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623](http://arxiv.org/abs/2408.13623)|null|
 |**2024-08-24**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509](http://arxiv.org/abs/2408.13509)|**[link](https://github.com/yinyjin/dualanodiff)**|
 |**2024-08-24**|**Explainable Concept Generation through Vision-Language Preference Learning**|Aditya Taparia et.al.|[2408.13438](http://arxiv.org/abs/2408.13438)|null|
-|**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
+|**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|**[link](https://github.com/wutao-cs/customcrafter)**|
 |**2024-08-23**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
@@ -2654,7 +2654,7 @@ layout: default
 |**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798](http://arxiv.org/abs/2412.15798)|null|
 |**2024-12-19**|**Efficient Neural Network Encoding for 3D Color Lookup Tables**|Vahid Zehtab et.al.|[2412.15438](http://arxiv.org/abs/2412.15438)|**[link](https://github.com/vahidzee/ennelut)**|
 |**2024-12-19**|**UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency**|Enis Simsar et.al.|[2412.15216](http://arxiv.org/abs/2412.15216)|null|
-|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|null|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
 |**2024-12-19**|**Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion**|Jixuan He et.al.|[2412.14462](http://arxiv.org/abs/2412.14462)|**[link](https://github.com/kakituken/affordance-aware-any)**|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
 |**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220](http://arxiv.org/abs/2412.14220)|**[link](https://github.com/tranleanh/dpte-net)**|
