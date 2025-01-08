@@ -204,6 +204,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers**|Yuechen Zhang et.al.|[2501.03931](http://arxiv.org/abs/2501.03931)|**[link](https://github.com/dvlab-research/magicmirror)**|
+|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847](http://arxiv.org/abs/2501.03847)|**[link](https://github.com/igl-hkust/diffusionasshader)**|
+|**2025-01-07**|**Motion-Aware Generative Frame Interpolation**|Guozhen Zhang et.al.|[2501.03699](http://arxiv.org/abs/2501.03699)|null|
+|**2025-01-07**|**Evaluating Image Caption via Cycle-consistent Text-to-Image Generation**|Tianyu Cui et.al.|[2501.03567](http://arxiv.org/abs/2501.03567)|null|
+|**2025-01-07**|**PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models**|Lingzhi Yuan et.al.|[2501.03544](http://arxiv.org/abs/2501.03544)|null|
+|**2025-01-07**|**Textualize Visual Prompt for Image Editing via Diffusion Bridge**|Pengcheng Xu et.al.|[2501.03495](http://arxiv.org/abs/2501.03495)|null|
+|**2025-01-07**|**SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation**|Shang Chai et.al.|[2501.03490](http://arxiv.org/abs/2501.03490)|null|
+|**2025-01-06**|**License Plate Images Generation with Diffusion Models**|Mariia Shpir et.al.|[2501.03374](http://arxiv.org/abs/2501.03374)|null|
 |**2025-01-06**|**Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation**|Guy Yariv et.al.|[2501.03059](http://arxiv.org/abs/2501.03059)|null|
 |**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|null|
 |**2025-01-06**|**Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising**|Yunlong Yuan et.al.|[2501.02741](http://arxiv.org/abs/2501.02741)|null|
@@ -2691,6 +2699,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780](http://arxiv.org/abs/2501.03780)|null|
+|**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|null|
+|**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631](http://arxiv.org/abs/2501.03631)|null|
+|**2025-01-07**|**Textualize Visual Prompt for Image Editing via Diffusion Bridge**|Pengcheng Xu et.al.|[2501.03495](http://arxiv.org/abs/2501.03495)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
 |**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701](http://arxiv.org/abs/2501.02701)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
 |**2025-01-03**|**JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**|Qili Wang et.al.|[2501.01798](http://arxiv.org/abs/2501.01798)|**[link](https://github.com/JOY-MM/JoyGen)**|
