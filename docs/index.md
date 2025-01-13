@@ -220,14 +220,14 @@ layout: default
 |**2025-01-07**|**SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation**|Shang Chai et.al.|[2501.03490](http://arxiv.org/abs/2501.03490)|null|
 |**2025-01-06**|**License Plate Images Generation with Diffusion Models**|Mariia Shpir et.al.|[2501.03374](http://arxiv.org/abs/2501.03374)|null|
 |**2025-01-06**|**Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation**|Guy Yariv et.al.|[2501.03059](http://arxiv.org/abs/2501.03059)|null|
-|**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|null|
+|**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|**[link](https://github.com/wileewang/TransPixar)**|
 |**2025-01-06**|**Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising**|Yunlong Yuan et.al.|[2501.02741](http://arxiv.org/abs/2501.02741)|null|
 |**2025-01-06**|**Artificial Intelligence in Creative Industries: Advances Prior to 2025**|Nantheera Anantrasirichai et.al.|[2501.02725](http://arxiv.org/abs/2501.02725)|null|
 |**2025-01-05**|**GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking**|Weikang Bian et.al.|[2501.02690](http://arxiv.org/abs/2501.02690)|null|
 |**2025-01-05**|**Face-MakeUp: Multimodal Facial Prompts for Text-to-Image Generation**|Dawei Dai et.al.|[2501.02523](http://arxiv.org/abs/2501.02523)|**[link](https://github.com/ddw2aigroup2cqupt/face-makeup)**|
 |**2025-01-05**|**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling**|Chaojie Mao et.al.|[2501.02487](http://arxiv.org/abs/2501.02487)|null|
 |**2025-01-05**|**MedSegDiffNCA: Diffusion Models With Neural Cellular Automata for Skin Lesion Segmentation**|Avni Mittal et.al.|[2501.02447](http://arxiv.org/abs/2501.02447)|null|
-|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|null|
+|**2025-01-04**|**Benchmark Evaluations, Applications, and Challenges of Large Vision Language Models: A Survey**|Zongxia Li et.al.|[2501.02189](http://arxiv.org/abs/2501.02189)|**[link](https://github.com/zli12321/awesome-vlm-papers-and-models)**|
 |**2025-01-04**|**Generating Multimodal Images with GAN: Integrating Text, Image, and Style**|Chaoyi Tan et.al.|[2501.02167](http://arxiv.org/abs/2501.02167)|null|
 |**2025-01-03**|**JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**|Qili Wang et.al.|[2501.01798](http://arxiv.org/abs/2501.01798)|**[link](https://github.com/JOY-MM/JoyGen)**|
 |**2025-01-03**|**Controlling your Attributes in Voice**|Xuyuan Li et.al.|[2501.01674](http://arxiv.org/abs/2501.01674)|null|
@@ -239,7 +239,7 @@ layout: default
 |**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368](http://arxiv.org/abs/2501.01368)|null|
 |**2025-01-02**|**LayeringDiff: Layered Image Synthesis via Generation, then Disassembly with Generative Knowledge**|Kyoungkook Kang et.al.|[2501.01197](http://arxiv.org/abs/2501.01197)|null|
 |**2025-01-02**|**HarmonyIQA: Pioneering Benchmark and Model for Image Harmonization Quality Assessment**|Zitong Xu et.al.|[2501.01116](http://arxiv.org/abs/2501.01116)|null|
-|**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097](http://arxiv.org/abs/2501.01097)|null|
+|**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097](http://arxiv.org/abs/2501.01097)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
 |**2025-01-01**|**OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes**|Sepehr Dehdashtian et.al.|[2501.00962](http://arxiv.org/abs/2501.00962)|null|
 |**2025-01-02**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
 |**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|
@@ -286,7 +286,7 @@ layout: default
 |**2024-12-20**|**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**|Jiadong Pan et.al.|[2412.16039](http://arxiv.org/abs/2412.16039)|null|
 |**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853](http://arxiv.org/abs/2412.15853)|null|
 |**2024-12-20**|**DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization**|Zihan Ding et.al.|[2412.15689](http://arxiv.org/abs/2412.15689)|null|
-|**2024-12-20**|**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium**|Xinzhe Li et.al.|[2412.15674](http://arxiv.org/abs/2412.15674)|null|
+|**2024-12-20**|**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium**|Xinzhe Li et.al.|[2412.15674](http://arxiv.org/abs/2412.15674)|**[link](https://github.com/xzhe-vision/personamagic)**|
 |**2024-12-20**|**BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models**|Yifei Sun et.al.|[2412.15670](http://arxiv.org/abs/2412.15670)|**[link](https://github.com/diaoquesang/BS-LDM)**|
 |**2024-12-20**|**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training**|Xiuli Bi et.al.|[2412.15646](http://arxiv.org/abs/2412.15646)|**[link](https://github.com/rongpiking/customttt)**|
 |**2024-12-20**|**Stylish and Functional: Guided Interpolation Subject to Physical Constraints**|Yan-Ying Chen et.al.|[2412.15507](http://arxiv.org/abs/2412.15507)|null|
@@ -656,7 +656,7 @@ layout: default
 |**2024-10-17**|**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models**|Donghao Zhou et.al.|[2410.13370](http://arxiv.org/abs/2410.13370)|null|
 |**2024-10-18**|**Fundus to Fluorescein Angiography Video Generation as a Retinal Generative Foundation Model**|Weiyi Zhang et.al.|[2410.13242](http://arxiv.org/abs/2410.13242)|null|
 |**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
-|**2024-10-16**|**3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation**|Dewei Zhou et.al.|[2410.12669](http://arxiv.org/abs/2410.12669)|null|
+|**2024-10-16**|**3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation**|Dewei Zhou et.al.|[2410.12669](http://arxiv.org/abs/2410.12669)|**[link](https://github.com/limuloo/3DIS)**|
 |**2024-10-16**|**Evaluating Utility of Memory Efficient Medical Image Generation: A Study on Lung Nodule Segmentation**|Kathrin Khadra et.al.|[2410.12542](http://arxiv.org/abs/2410.12542)|null|
 |**2024-10-16**|**Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective**|Yongxin Zhu et.al.|[2410.12490](http://arxiv.org/abs/2410.12490)|**[link](https://github.com/DAMO-NLP-SG/DiGIT)**|
 |**2024-10-16**|**Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks**|Pranjali Pathre et.al.|[2410.12432](http://arxiv.org/abs/2410.12432)|**[link](https://github.com/pranjali-pathre/Imagine2Servo)**|
@@ -813,7 +813,7 @@ layout: default
 |**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
 |**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
 |**2024-09-13**|**Enhancing Privacy in ControlNet and Stable Diffusion via Split Learning**|Dixi Yao et.al.|[2409.08503](http://arxiv.org/abs/2409.08503)|null|
-|**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
+|**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|**[link](https://github.com/omeregev/click2mask)**|
 |**2024-09-12**|**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder**|NaHyeon Park et.al.|[2409.08248](http://arxiv.org/abs/2409.08248)|**[link](https://github.com/nahyeonkaty/textboost)**|
 |**2024-09-12**|**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation**|Yinwei Wu et.al.|[2409.08240](http://arxiv.org/abs/2409.08240)|null|
 |**2024-09-12**|**High-Frequency Anti-DreamBooth: Robust Defense Against Image Synthesis**|Takuto Onikubo et.al.|[2409.08167](http://arxiv.org/abs/2409.08167)|**[link](https://github.com/mti-lab/HF-ADB)**|
@@ -1321,7 +1321,7 @@ layout: default
 |**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|**[link](https://github.com/myniuuu/mofa-video)**|
 |**2024-05-30**|**Boost Your Own Human Image Generation Model via Direct Preference Optimization with AI Feedback**|Sanghyeon Na et.al.|[2405.20216](http://arxiv.org/abs/2405.20216)|null|
 |**2024-05-30**|**RIGID: A Training-free and Model-Agnostic Framework for Robust AI-Generated Image Detection**|Zhiyuan He et.al.|[2405.20112](http://arxiv.org/abs/2405.20112)|null|
-|**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
+|**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|**[link](https://github.com/JiangkaiWu/Promptus)**|
 |**2024-05-30**|**Mitigating annotation shift in cancer classification using single image generative models**|Marta Buetas Arcas et.al.|[2405.19754](http://arxiv.org/abs/2405.19754)|**[link](https://github.com/martabuetas/enhancingbreastcancerdiagnosis)**|
 |**2024-05-30**|**DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**|Haoxing Chen et.al.|[2405.19707](http://arxiv.org/abs/2405.19707)|**[link](https://github.com/chenhaoxing/DeMamba)**|
 |**2024-05-30**|**Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian**|Wei Sun et.al.|[2405.19657](http://arxiv.org/abs/2405.19657)|null|
@@ -2004,7 +2004,7 @@ layout: default
 |**2024-01-02**|**SSP: A Simple and Safe automatic Prompt engineering method towards realistic image synthesis on LVM**|Weijin Cheng et.al.|[2401.01128](http://arxiv.org/abs/2401.01128)|null|
 |**2023-12-31**|**TrailBlazer: Trajectory Control for Diffusion-Based Video Generation**|Wan-Duo Kurt Ma et.al.|[2401.00896](http://arxiv.org/abs/2401.00896)|null|
 |**2023-12-30**|**Improving the Stability of Diffusion Models for Content Consistent Super-Resolution**|Lingchen Sun et.al.|[2401.00877](http://arxiv.org/abs/2401.00877)|**[link](https://github.com/csslc/ccsr)**|
-|**2024-01-01**|**New Job, New Gender? Measuring the Social Bias in Image Generation Models**|Wenxuan Wang et.al.|[2401.00763](http://arxiv.org/abs/2401.00763)|null|
+|**2024-01-01**|**New Job, New Gender? Measuring the Social Bias in Image Generation Models**|Wenxuan Wang et.al.|[2401.00763](http://arxiv.org/abs/2401.00763)|**[link](https://github.com/Amaodemao/BiasPainter)**|
 |**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739](http://arxiv.org/abs/2401.00739)|null|
 |**2023-12-31**|**Generative Model-Driven Synthetic Training Image Generation: An Approach to Cognition in Rail Defect Detection**|Rahatara Ferdousi et.al.|[2401.00393](http://arxiv.org/abs/2401.00393)|**[link](https://github.com/turna1/genai-for-goods)**|
 |**2023-12-30**|**GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation**|M. AbdulRazek et.al.|[2401.00314](http://arxiv.org/abs/2401.00314)|null|
@@ -2715,7 +2715,7 @@ layout: default
 |**2025-01-08**|**Recognition-Oriented Low-Light Image Enhancement based on Global and Pixelwise Optimization**|Seitaro Ono et.al.|[2501.04210](http://arxiv.org/abs/2501.04210)|null|
 |**2025-01-07**|**Fixed Points of Deep Neural Networks: Emergence, Stability, and Applications**|L. Berlyand et.al.|[2501.04182](http://arxiv.org/abs/2501.04182)|null|
 |**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780](http://arxiv.org/abs/2501.03780)|null|
-|**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|null|
+|**2025-01-07**|**Materialist: Physically Based Editing Using Single-Image Inverse Rendering**|Lezhong Wang et.al.|[2501.03717](http://arxiv.org/abs/2501.03717)|**[link](https://github.com/lez-s/materialist)**|
 |**2025-01-07**|**Exploring Optimal Latent Trajetory for Zero-shot Image Editing**|Maomao Li et.al.|[2501.03631](http://arxiv.org/abs/2501.03631)|null|
 |**2025-01-07**|**Textualize Visual Prompt for Image Editing via Diffusion Bridge**|Pengcheng Xu et.al.|[2501.03495](http://arxiv.org/abs/2501.03495)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
@@ -3020,7 +3020,7 @@ layout: default
 |**2024-09-15**|**TextureDiffusion: Target Prompt Disentangled Editing for Various Texture Transfer**|Zihan Su et.al.|[2409.09610](http://arxiv.org/abs/2409.09610)|null|
 |**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
 |**2024-09-13**|**Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori**|Jinhong He et.al.|[2409.08585](http://arxiv.org/abs/2409.08585)|null|
-|**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
+|**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|**[link](https://github.com/omeregev/click2mask)**|
 |**2024-09-12**|**Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement**|Vamsi Krishna Vasa et.al.|[2409.07862](http://arxiv.org/abs/2409.07862)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797](http://arxiv.org/abs/2409.07797)|null|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
@@ -3119,7 +3119,7 @@ layout: default
 |**2024-08-01**|**A Prior Embedding-Driven Architecture for Long Distance Blind Iris Recognition**|Qi Xiong et.al.|[2408.00210](http://arxiv.org/abs/2408.00210)|null|
 |**2024-07-31**|**Hyper-parameter tuning for text guided image editing**|Shiwen Zhang et.al.|[2407.21703](http://arxiv.org/abs/2407.21703)|**[link](https://github.com/witcherofresearch/forgedit)**|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
-|**2024-07-31**|**Generalized Tampered Scene Text Detection in the era of Generative AI**|Chenfan Qu et.al.|[2407.21422](http://arxiv.org/abs/2407.21422)|null|
+|**2024-07-31**|**Generalized Tampered Scene Text Detection in the era of Generative AI**|Chenfan Qu et.al.|[2407.21422](http://arxiv.org/abs/2407.21422)|**[link](https://github.com/qcf-568/ostf)**|
 |**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/abs/2407.20784)|null|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
@@ -3923,7 +3923,7 @@ layout: default
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-08-31**|**Robust GAN inversion**|Egor Sevriugov et.al.|[2308.16510](http://arxiv.org/abs/2308.16510)|null|
 |**2023-08-30**|**Feature Attention Network (FA-Net): A Deep-Learning Based Approach for Underwater Single Image Enhancement**|Muhammad Hamza et.al.|[2308.15868](http://arxiv.org/abs/2308.15868)|null|
-|**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854](http://arxiv.org/abs/2308.15854)|null|
+|**2023-08-30**|**Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models**|Zhanbo Feng et.al.|[2308.15854](http://arxiv.org/abs/2308.15854)|**[link](https://github.com/sadangelf/editing-via-step-wise-alignment)**|
 |**2023-08-31**|**Improving Underwater Visual Tracking With a Large Scale Dataset and Image Enhancement**|Basit Alawode et.al.|[2308.15816](http://arxiv.org/abs/2308.15816)|**[link](https://github.com/basitalawode/uwvot400)**|
 |**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345](http://arxiv.org/abs/2308.15345)|null|
 |**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|**[link](https://github.com/xpixelgroup/diffbir)**|
