@@ -201,6 +201,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325](http://arxiv.org/abs/2501.08325)|null|
+|**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316](http://arxiv.org/abs/2501.08316)|null|
+|**2025-01-14**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295](http://arxiv.org/abs/2501.08295)|null|
+|**2025-01-14**|**FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors**|Yabo Zhang et.al.|[2501.08225](http://arxiv.org/abs/2501.08225)|**[link](https://github.com/ybybzhang/framepainter)**|
+|**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
+|**2025-01-14**|**Benchmarking Multimodal Models for Fine-Grained Image Analysis: A Comparative Study Across Diverse Visual Features**|Evgenii Evstafev et.al.|[2501.08170](http://arxiv.org/abs/2501.08170)|null|
+|**2025-01-13**|**Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens**|Dongwon Kim et.al.|[2501.07730](http://arxiv.org/abs/2501.07730)|null|
+|**2025-01-13**|**BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations**|Weixi Feng et.al.|[2501.07647](http://arxiv.org/abs/2501.07647)|null|
 |**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563](http://arxiv.org/abs/2501.07563)|null|
 |**2025-01-13**|**Boosting Text-To-Image Generation via Multilingual Prompting in Large Multimodal Models**|Yongyu Mu et.al.|[2501.07086](http://arxiv.org/abs/2501.07086)|**[link](https://github.com/takagi97/pmt2i)**|
 |**2025-01-13**|**Enhancing Image Generation Fidelity via Progressive Prompts**|Zhen Xiong et.al.|[2501.07070](http://arxiv.org/abs/2501.07070)|**[link](https://github.com/zhenxiong-dl/icassp2025-rcac)**|
@@ -2721,6 +2729,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**AI Driven Water Segmentation with deep learning models for Enhanced Flood Monitoring**|Sanjida Afrin Mou et.al.|[2501.08266](http://arxiv.org/abs/2501.08266)|**[link](https://github.com/SanjidaAfrin25/flood-detection-using-deepLab-unet-resnet)**|
+|**2025-01-14**|**FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors**|Yabo Zhang et.al.|[2501.08225](http://arxiv.org/abs/2501.08225)|**[link](https://github.com/ybybzhang/framepainter)**|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
 |**2025-01-13**|**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**|Tharun Anand et.al.|[2501.07530](http://arxiv.org/abs/2501.07530)|null|
 |**2025-01-11**|**Natural Language Supervision for Low-light Image Enhancement**|Jiahui Tang et.al.|[2501.06546](http://arxiv.org/abs/2501.06546)|null|
