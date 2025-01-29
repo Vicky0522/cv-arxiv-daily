@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Flow Matching: Markov Kernels, Stochastic Processes and Transport Plans**|Christian Wald et.al.|[2501.16839](http://arxiv.org/abs/2501.16839)|null|
 |**2025-01-27**|**EDSep: An Effective Diffusion-Based Method for Speech Source Separation**|Jinwei Dong et.al.|[2501.15965](http://arxiv.org/abs/2501.15965)|null|
 |**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|null|
 |**2025-01-24**|**Noise-conditioned Energy-based Annealed Rewards (NEAR): A Generative Framework for Imitation Learning from Observation**|Anish Abhijit Diwan et.al.|[2501.14856](http://arxiv.org/abs/2501.14856)|null|
@@ -213,8 +214,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
+|**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
+|**2025-01-28**|**Polyp-Gen: Realistic and Diverse Polyp Image Generation for Endoscopic Dataset Expansion**|Shengyuan Liu et.al.|[2501.16679](http://arxiv.org/abs/2501.16679)|**[link](https://github.com/cuhk-aim-group/polyp-gen)**|
+|**2025-01-28**|**Variational Schrödinger Momentum Diffusion**|Kevin Rojas et.al.|[2501.16675](http://arxiv.org/abs/2501.16675)|null|
+|**2025-01-28**|**CascadeV: An Implementation of Wurstchen Architecture for Video Generation**|Wenfeng Lin et.al.|[2501.16612](http://arxiv.org/abs/2501.16612)|**[link](https://github.com/bytedance/cascadev)**|
+|**2025-01-27**|**LoRA-X: Bridging Foundation Models with Training-Free Cross-Model Adaptation**|Farzad Farhadzadeh et.al.|[2501.16559](http://arxiv.org/abs/2501.16559)|null|
 |**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330](http://arxiv.org/abs/2501.16330)|null|
-|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
+|**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
 |**2025-01-27**|**Autonomous Horizon-based Asteroid Navigation With Observability-constrained Maneuvers**|Aditya Arjun Anibha et.al.|[2501.15806](http://arxiv.org/abs/2501.15806)|null|
 |**2025-01-27**|**Do Existing Testing Tools Really Uncover Gender Bias in Text-to-Image Models?**|Yunbo Lyu et.al.|[2501.15775](http://arxiv.org/abs/2501.15775)|null|
 |**2025-01-26**|**Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting**|Yuxin Zhang et.al.|[2501.15641](http://arxiv.org/abs/2501.15641)|null|
@@ -2805,6 +2812,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
+|**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
 |**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
 |**2025-01-27**|**CausalSR: Structural Causal Model-Driven Super-Resolution with Counterfactual Inference**|Zhengyang Lu et.al.|[2501.15852](http://arxiv.org/abs/2501.15852)|null|
 |**2025-01-26**|**Universal Image Restoration Pre-training via Degradation Classification**|JiaKui Hu et.al.|[2501.15510](http://arxiv.org/abs/2501.15510)|**[link](https://github.com/milab-pku/dcpt)**|
