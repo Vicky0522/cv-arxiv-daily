@@ -704,7 +704,7 @@ layout: default
 |**2024-10-28**|**Extrapolating Prospective Glaucoma Fundus Images through Diffusion Model in Irregular Longitudinal Sequences**|Zhihao Zhao et.al.|[2410.21130](http://arxiv.org/abs/2410.21130)|null|
 |**2024-10-28**|**Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**|Wenda Li et.al.|[2410.21088](http://arxiv.org/abs/2410.21088)|**[link](https://github.com/liwd190019/shallow-diffuse)**|
 |**2024-10-28**|**Markov spin models for image generation : explicit large deviations with respect to the number of pixels**|Cecile Monthus et.al.|[2410.20906](http://arxiv.org/abs/2410.20906)|null|
-|**2024-10-28**|**Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models**|Weijian Luo et.al.|[2410.20898](http://arxiv.org/abs/2410.20898)|null|
+|**2024-10-28**|**Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models**|Weijian Luo et.al.|[2410.20898](http://arxiv.org/abs/2410.20898)|**[link](https://github.com/pkulwj1994/diff_instruct_star)**|
 |**2024-10-28**|**Murine AI excels at cats and cheese: Structural differences between human and mouse neurons and their implementation in generative AIs**|Rino Saiga et.al.|[2410.20735](http://arxiv.org/abs/2410.20735)|null|
 |**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723](http://arxiv.org/abs/2410.20723)|null|
 |**2024-10-28**|**Video to Video Generative Adversarial Network for Few-shot Learning Based on Policy Gradient**|Yintai Ma et.al.|[2410.20657](http://arxiv.org/abs/2410.20657)|null|
@@ -1624,7 +1624,7 @@ layout: default
 |**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
 |**2024-04-18**|**Alleviating Catastrophic Forgetting in Facial Expression Recognition with Emotion-Centered Models**|Israel A. Laurensi et.al.|[2404.12260](http://arxiv.org/abs/2404.12260)|null|
 |**2024-04-18**|**First 2D electron density measurements using Coherence Imaging Spectroscopy in the MAST-U Super-X divertor**|N. Lonigro et.al.|[2404.12021](http://arxiv.org/abs/2404.12021)|null|
-|**2024-04-18**|**©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**|Chao Zhou et.al.|[2404.11962](http://arxiv.org/abs/2404.11962)|null|
+|**2024-04-18**|**©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**|Chao Zhou et.al.|[2404.11962](http://arxiv.org/abs/2404.11962)|**[link](https://github.com/zc1023/-plug-in-authorization)**|
 |**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936](http://arxiv.org/abs/2404.11936)|null|
 |**2024-04-18**|**EdgeFusion: On-Device Text-to-Image Generation**|Thibault Castells et.al.|[2404.11925](http://arxiv.org/abs/2404.11925)|null|
 |**2024-04-18**|**TextCenGen: Attention-Guided Text-Centric Background Adaptation for Text-to-Image Generation**|Tianyi Liang et.al.|[2404.11824](http://arxiv.org/abs/2404.11824)|null|
@@ -2813,7 +2813,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
-|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
+|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|**[link](https://github.com/wenjuan7275/matir)**|
 |**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
@@ -3015,7 +3015,7 @@ layout: default
 |**2024-11-22**|**AI Tailoring: Evaluating Influence of Image Features on Fashion Product Popularity**|Xiaomin Li et.al.|[2411.14737](http://arxiv.org/abs/2411.14737)|null|
 |**2024-11-22**|**TrojanEdit: Backdooring Text-Based Image Editing Models**|Ji Guo et.al.|[2411.14681](http://arxiv.org/abs/2411.14681)|null|
 |**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
-|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|null|
+|**2024-11-21**|**Stable Flow: Vital Layers for Training-Free Image Editing**|Omri Avrahami et.al.|[2411.14430](http://arxiv.org/abs/2411.14430)|**[link](https://github.com/snap-research/stable-flow)**|
 |**2024-11-21**|**Guided MRI Reconstruction via Schrödinger Bridge**|Yue Wang et.al.|[2411.14269](http://arxiv.org/abs/2411.14269)|null|
 |**2024-11-21**|**Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion**|Jinhong He et.al.|[2411.13961](http://arxiv.org/abs/2411.13961)|**[link](https://github.com/hejh8/joint-wavelet-and-fourier-priors-guided-diffusion)**|
 |**2024-11-21**|**GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter**|Aniruddha Bala et.al.|[2411.13794](http://arxiv.org/abs/2411.13794)|null|
