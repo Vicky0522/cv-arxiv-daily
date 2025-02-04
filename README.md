@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-28**|**Flow Matching: Markov Kernels, Stochastic Processes and Transport Plans**|Christian Wald et.al.|[2501.16839](http://arxiv.org/abs/2501.16839)|null|
+|**2025-02-03**|**Flow Matching: Markov Kernels, Stochastic Processes and Transport Plans**|Christian Wald et.al.|[2501.16839](http://arxiv.org/abs/2501.16839)|null|
 |**2025-01-27**|**EDSep: An Effective Diffusion-Based Method for Speech Source Separation**|Jinwei Dong et.al.|[2501.15965](http://arxiv.org/abs/2501.15965)|null|
 |**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|**[link](https://github.com/baptistar/DiffusionModelDynamics)**|
 |**2025-01-24**|**Noise-conditioned Energy-based Annealed Rewards (NEAR): A Generative Framework for Imitation Learning from Observation**|Anish Abhijit Diwan et.al.|[2501.14856](http://arxiv.org/abs/2501.14856)|null|
