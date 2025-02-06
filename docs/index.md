@@ -14,9 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization**|Yu-Han Wu et.al.|[2502.03435](http://arxiv.org/abs/2502.03435)|null|
 |**2025-02-04**|**Generative Modeling on Lie Groups via Euclidean Generalized Score Matching**|Marco Bertolini et.al.|[2502.02513](http://arxiv.org/abs/2502.02513)|null|
 |**2025-02-03**|**Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning**|Hanyang Zhao et.al.|[2502.01819](http://arxiv.org/abs/2502.01819)|null|
-|**2025-02-01**|**Weak-to-Strong Diffusion with Reflection**|Lichen Bai et.al.|[2502.00473](http://arxiv.org/abs/2502.00473)|null|
+|**2025-02-05**|**Weak-to-Strong Diffusion with Reflection**|Lichen Bai et.al.|[2502.00473](http://arxiv.org/abs/2502.00473)|null|
 |**2025-02-01**|**Denoising Score Matching with Random Features: Insights on Diffusion Models from Precise Learning Curves**|Anand Jerry George et.al.|[2502.00336](http://arxiv.org/abs/2502.00336)|null|
 |**2025-02-03**|**Flow Matching: Markov Kernels, Stochastic Processes and Transport Plans**|Christian Wald et.al.|[2501.16839](http://arxiv.org/abs/2501.16839)|null|
 |**2025-01-27**|**EDSep: An Effective Diffusion-Based Method for Speech Source Separation**|Jinwei Dong et.al.|[2501.15965](http://arxiv.org/abs/2501.15965)|null|
@@ -211,6 +212,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429](http://arxiv.org/abs/2502.03429)|null|
+|**2025-02-05**|**TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer**|Zhihong Xu et.al.|[2502.03426](http://arxiv.org/abs/2502.03426)|null|
+|**2025-02-05**|**Can Text-to-Image Generative Models Accurately Depict Age? A Comparative Study on Synthetic Portrait Generation and Age Estimation**|Alexey A. Novikov et.al.|[2502.03420](http://arxiv.org/abs/2502.03420)|null|
+|**2025-02-05**|**MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent**|Xinyao Liao et.al.|[2502.03207](http://arxiv.org/abs/2502.03207)|null|
+|**2025-02-05**|**Poisson Flow Joint Model for Multiphase contrast-enhanced CT**|Rongjun Ge et.al.|[2502.03079](http://arxiv.org/abs/2502.03079)|null|
+|**2025-02-05**|**A Survey of Sample-Efficient Deep Learning for Change Detection in Remote Sensing: Tasks, Strategies, and Challenges**|Lei Ding et.al.|[2502.02835](http://arxiv.org/abs/2502.02835)|null|
+|**2025-02-04**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771](http://arxiv.org/abs/2502.02771)|null|
+|**2025-02-04**|**Controllable Video Generation with Provable Disentanglement**|Yifan Shen et.al.|[2502.02690](http://arxiv.org/abs/2502.02690)|null|
 |**2025-02-04**|**VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models**|Hila Chefer et.al.|[2502.02492](http://arxiv.org/abs/2502.02492)|null|
 |**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150](http://arxiv.org/abs/2502.02150)|null|
 |**2025-02-04**|**IPO: Iterative Preference Optimization for Text-to-Video Generation**|Xiaomeng Yang et.al.|[2502.02088](http://arxiv.org/abs/2502.02088)|null|
@@ -2833,6 +2842,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Blind Visible Watermark Removal with Morphological Dilation**|Preston K. Robinette et.al.|[2502.02676](http://arxiv.org/abs/2502.02676)|null|
 |**2025-02-04**|**Exploring the latent space of diffusion models directly through singular value decomposition**|Li Wang et.al.|[2502.02225](http://arxiv.org/abs/2502.02225)|null|
 |**2025-02-04**|**EditIQ: Automated Cinematic Editing of Static Wide-Angle Videos via Dialogue Interpretation and Saliency Cues**|Rohit Girmaji et.al.|[2502.02172](http://arxiv.org/abs/2502.02172)|null|
 |**2025-02-03**|**Human Body Restoration with One-Step Diffusion Model and A New Benchmark**|Jue Gong et.al.|[2502.01411](http://arxiv.org/abs/2502.01411)|null|
