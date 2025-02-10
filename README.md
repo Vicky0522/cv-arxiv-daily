@@ -238,9 +238,9 @@
 |**2025-02-04**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771](http://arxiv.org/abs/2502.02771)|null|
 |**2025-02-04**|**Controllable Video Generation with Provable Disentanglement**|Yifan Shen et.al.|[2502.02690](http://arxiv.org/abs/2502.02690)|null|
 |**2025-02-04**|**VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models**|Hila Chefer et.al.|[2502.02492](http://arxiv.org/abs/2502.02492)|null|
-|**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150](http://arxiv.org/abs/2502.02150)|null|
+|**2025-02-04**|**On the Guidance of Flow Matching**|Ruiqi Feng et.al.|[2502.02150](http://arxiv.org/abs/2502.02150)|**[link](https://github.com/ai4science-westlakeu/flow_guidance)**|
 |**2025-02-04**|**IPO: Iterative Preference Optimization for Text-to-Video Generation**|Xiaomeng Yang et.al.|[2502.02088](http://arxiv.org/abs/2502.02088)|null|
-|**2025-02-03**|**VILP: Imitation Learning with Latent Video Planning**|Zhengtong Xu et.al.|[2502.01784](http://arxiv.org/abs/2502.01784)|null|
+|**2025-02-03**|**VILP: Imitation Learning with Latent Video Planning**|Zhengtong Xu et.al.|[2502.01784](http://arxiv.org/abs/2502.01784)|**[link](https://github.com/zhengtongxu/vilp)**|
 |**2025-02-03**|**Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**|Haocheng Xi et.al.|[2502.01776](http://arxiv.org/abs/2502.01776)|null|
 |**2025-02-03**|**MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation**|Haibo Tong et.al.|[2502.01719](http://arxiv.org/abs/2502.01719)|null|
 |**2025-02-03**|**MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation**|Yiren Song et.al.|[2502.01572](http://arxiv.org/abs/2502.01572)|null|
@@ -536,7 +536,7 @@
 |**2024-12-08**|**GraPE: A Generate-Plan-Edit Framework for Compositional T2I Synthesis**|Ashish Goswami et.al.|[2412.06089](http://arxiv.org/abs/2412.06089)|null|
 |**2024-12-06**|**Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model**|Lening Wang et.al.|[2412.05280](http://arxiv.org/abs/2412.05280)|**[link](https://github.com/wzzheng/stag)**|
 |**2024-12-06**|**Mind the Time: Temporally-Controlled Multi-Event Video Generation**|Ziyi Wu et.al.|[2412.05263](http://arxiv.org/abs/2412.05263)|null|
-|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
+|**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|**[link](https://github.com/donaldssh/LoRA.rar)**|
 |**2024-12-06**|**The Silent Prompt: Initial Noise as Implicit Guidance for Goal-Driven Image Generation**|Ruoyu Wang et.al.|[2412.05101](http://arxiv.org/abs/2412.05101)|null|
 |**2024-12-06**|**Noise Matters: Diffusion Model-based Urban Mobility Generation with Collaborative Noise Priors**|Yuheng Zhang et.al.|[2412.05000](http://arxiv.org/abs/2412.05000)|null|
 |**2024-12-06**|**Continuous Video Process: Modeling Videos as Continuous Multi-Dimensional Processes for Video Prediction**|Gaurav Shrivastava et.al.|[2412.04929](http://arxiv.org/abs/2412.04929)|null|
@@ -797,7 +797,7 @@
 |**2024-10-18**|**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**|Bo Cheng et.al.|[2410.14324](http://arxiv.org/abs/2410.14324)|**[link](https://github.com/360cvgroup/hico_t2i)**|
 |**2024-10-18**|**HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects**|Oliverio Theophilus Nathanael et.al.|[2410.14265](http://arxiv.org/abs/2410.14265)|null|
 |**2024-10-18**|**Text-to-Image Representativity Fairness Evaluation Framework**|Asma Yamani et.al.|[2410.14201](http://arxiv.org/abs/2410.14201)|null|
-|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|null|
+|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|**[link](https://github.com/yiyanxu/pigeon)**|
 |**2024-10-18**|**Assessing Open-world Forgetting in Generative Image Model Customization**|Héctor Laria et.al.|[2410.14159](http://arxiv.org/abs/2410.14159)|null|
 |**2024-10-17**|**Inference of morphology and dynamical state of nearby $Planck$ -SZ galaxy clusters with Zernike polynomials**|Valentina Capalbo et.al.|[2410.13929](http://arxiv.org/abs/2410.13929)|null|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
@@ -1385,7 +1385,7 @@
 |**2024-06-14**|**ControlVAR: Exploring Controllable Visual Autoregressive Modeling**|Xiang Li et.al.|[2406.09750](http://arxiv.org/abs/2406.09750)|**[link](https://github.com/lxa9867/ControlVAR)**|
 |**2024-06-13**|**Turns Out I'm Not Real: Towards Robust Detection of AI-Generated Videos**|Qingyuan Liu et.al.|[2406.09601](http://arxiv.org/abs/2406.09601)|null|
 |**2024-06-13**|**You are what you eat? Feeding foundation models a regionally diverse food dataset of World Wide Dishes**|Jabez Magomere et.al.|[2406.09496](http://arxiv.org/abs/2406.09496)|**[link](https://github.com/oxai/world-wide-dishes)**|
-|**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416](http://arxiv.org/abs/2406.09416)|null|
+|**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416](http://arxiv.org/abs/2406.09416)|**[link](https://github.com/qihao067/DiMR)**|
 |**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
 |**2024-06-13**|**Needle In A Video Haystack: A Scalable Synthetic Framework for Benchmarking Video MLLMs**|Zijia Zhao et.al.|[2406.09367](http://arxiv.org/abs/2406.09367)|**[link](https://github.com/joez17/videoniah)**|
 |**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358](http://arxiv.org/abs/2406.09358)|**[link](https://github.com/locuslab/diffusion-model-hallucination)**|
@@ -3019,7 +3019,7 @@
 |**2024-12-06**|**ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration**|Chi-Wei Hsiao et.al.|[2412.05043](http://arxiv.org/abs/2412.05043)|null|
 |**2024-12-09**|**Video Decomposition Prior: A Methodology to Decompose Videos into Layers**|Gaurav Shrivastava et.al.|[2412.04930](http://arxiv.org/abs/2412.04930)|null|
 |**2024-12-06**|**Addressing Attribute Leakages in Diffusion-based Image Editing without Training**|Sunung Mun et.al.|[2412.04715](http://arxiv.org/abs/2412.04715)|null|
-|**2024-12-05**|**Generalized Recorrupted-to-Recorrupted: Self-Supervised Learning Beyond Gaussian Noise**|Brayan Monroy et.al.|[2412.04648](http://arxiv.org/abs/2412.04648)|null|
+|**2024-12-05**|**Generalized Recorrupted-to-Recorrupted: Self-Supervised Learning Beyond Gaussian Noise**|Brayan Monroy et.al.|[2412.04648](http://arxiv.org/abs/2412.04648)|**[link](https://github.com/bemc22/GeneralizedR2R)**|
 |**2024-12-05**|**MetaFormer: High-fidelity Metalens Imaging via Aberration Correcting Transformers**|Byeonghyeon Lee et.al.|[2412.04591](http://arxiv.org/abs/2412.04591)|null|
 |**2024-12-05**|**Action-based image editing guided by human instructions**|Maria Mihaela Trusca et.al.|[2412.04558](http://arxiv.org/abs/2412.04558)|null|
 |**2024-12-05**|**SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion**|Trong-Tung Nguyen et.al.|[2412.04301](http://arxiv.org/abs/2412.04301)|null|
