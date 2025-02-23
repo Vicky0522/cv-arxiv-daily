@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-19**|**Generalization error bound for denoising score matching under relaxed manifold assumption**|Konstantin Yakovlev et.al.|[2502.13662](http://arxiv.org/abs/2502.13662)|null|
 |**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106](http://arxiv.org/abs/2502.13106)|null|
-|**2025-02-19**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|null|
+|**2025-02-19**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|**[link](https://github.com/ALRhub/X_IL)**|
 |**2025-02-14**|**Dimension-free Score Matching and Time Bootstrapping for Diffusion Models**|Syamantak Kumar et.al.|[2502.10354](http://arxiv.org/abs/2502.10354)|null|
 |**2025-02-12**|**Concentration Inequalities for the Stochastic Optimization of Unbounded Objectives with Application to Denoising Score Matching**|Jeremiah Birrell et.al.|[2502.08628](http://arxiv.org/abs/2502.08628)|null|
 |**2025-02-07**|**Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?**|Yujin Han et.al.|[2502.04725](http://arxiv.org/abs/2502.04725)|null|

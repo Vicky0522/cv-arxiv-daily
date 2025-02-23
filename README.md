@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2025-02-19**|**Generalization error bound for denoising score matching under relaxed manifold assumption**|Konstantin Yakovlev et.al.|[2502.13662](http://arxiv.org/abs/2502.13662)|null|
 |**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106](http://arxiv.org/abs/2502.13106)|null|
-|**2025-02-19**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|null|
+|**2025-02-19**|**X-IL: Exploring the Design Space of Imitation Learning Policies**|Xiaogang Jia et.al.|[2502.12330](http://arxiv.org/abs/2502.12330)|**[link](https://github.com/ALRhub/X_IL)**|
 |**2025-02-14**|**Dimension-free Score Matching and Time Bootstrapping for Diffusion Models**|Syamantak Kumar et.al.|[2502.10354](http://arxiv.org/abs/2502.10354)|null|
 |**2025-02-12**|**Concentration Inequalities for the Stochastic Optimization of Unbounded Objectives with Application to Denoising Score Matching**|Jeremiah Birrell et.al.|[2502.08628](http://arxiv.org/abs/2502.08628)|null|
 |**2025-02-07**|**Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?**|Yujin Han et.al.|[2502.04725](http://arxiv.org/abs/2502.04725)|null|
@@ -219,7 +219,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 ## generation
 
@@ -2944,7 +2944,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -4370,7 +4370,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
