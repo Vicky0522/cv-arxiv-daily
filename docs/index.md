@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-27**|**Stein's unbiased risk estimate and Hyvärinen's score matching**|Sulagna Ghosh et.al.|[2502.20123](http://arxiv.org/abs/2502.20123)|null|
-|**2025-02-27**|**Agnostic calculation of atomic free energies with the descriptor density of states**|Thomas D Swinburne et.al.|[2502.18191](http://arxiv.org/abs/2502.18191)|null|
+|**2025-02-27**|**Agnostic calculation of atomic free energies with the descriptor density of states**|Thomas D Swinburne et.al.|[2502.18191](http://arxiv.org/abs/2502.18191)|**[link](https://github.com/tomswinburne/DescriptorDOS)**|
 |**2025-02-24**|**A Fokker-Planck-Based Loss Function that Bridges Dynamics with Density Estimation**|Zhixin Lu et.al.|[2502.17690](http://arxiv.org/abs/2502.17690)|null|
 |**2025-02-25**|**Generalization error bound for denoising score matching under relaxed manifold assumption**|Konstantin Yakovlev et.al.|[2502.13662](http://arxiv.org/abs/2502.13662)|null|
 |**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106](http://arxiv.org/abs/2502.13106)|null|
