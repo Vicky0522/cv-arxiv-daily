@@ -240,12 +240,12 @@ layout: default
 |**2025-02-25**|**Training Consistency Models with Variational Noise Coupling**|Gianluigi Silvestri et.al.|[2502.18197](http://arxiv.org/abs/2502.18197)|**[link](https://github.com/sony/vct)**|
 |**2025-02-25**|**SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference**|Jintao Zhang et.al.|[2502.18137](http://arxiv.org/abs/2502.18137)|**[link](https://github.com/thu-ml/spargeattn)**|
 |**2025-02-26**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
-|**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|null|
+|**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|**[link](https://github.com/Jia7878/compositional-prompt-diffusion-for-polyp-generation)**|
 |**2025-02-25**|**ASurvey: Spatiotemporal Consistency in Video Generation**|Zhiyu Yin et.al.|[2502.17863](http://arxiv.org/abs/2502.17863)|null|
-|**2025-02-25**|**FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks**|Tanawan Premsri et.al.|[2502.17775](http://arxiv.org/abs/2502.17775)|null|
+|**2025-02-25**|**FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks**|Tanawan Premsri et.al.|[2502.17775](http://arxiv.org/abs/2502.17775)|**[link](https://github.com/HLR/FoREST)**|
 |**2025-02-25**|**Fractal Generative Models**|Tianhong Li et.al.|[2502.17437](http://arxiv.org/abs/2502.17437)|**[link](https://github.com/LTH14/fractalgen)**|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
-|**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|null|
+|**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|**[link](https://github.com/claim-berlin/relict)**|
 |**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258](http://arxiv.org/abs/2502.17258)|null|
 |**2025-02-24**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
@@ -435,7 +435,7 @@ layout: default
 |**2025-01-17**|**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency**|Xiaohui Li et.al.|[2501.10110](http://arxiv.org/abs/2501.10110)|null|
 |**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|**[link](https://github.com/lixiaowen-xw/diffueraser)**|
 |**2025-01-17**|**RichSpace: Enriching Text-to-Video Prompt Space via Text Embedding Interpolation**|Yuefan Cao et.al.|[2501.09982](http://arxiv.org/abs/2501.09982)|null|
-|**2025-01-17**|**Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**|Zekun Zhou et.al.|[2501.09935](http://arxiv.org/abs/2501.09935)|null|
+|**2025-01-17**|**Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**|Zekun Zhou et.al.|[2501.09935](http://arxiv.org/abs/2501.09935)|**[link](https://github.com/yqx7150/swarm)**|
 |**2025-01-17**|**IE-Bench: Advancing the Measurement of Text-Driven Image Editing for Human Perception Alignment**|Shangkun Sun et.al.|[2501.09927](http://arxiv.org/abs/2501.09927)|null|
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
 |**2025-01-16**|**VideoWorld: Exploring Knowledge Learning from Unlabeled Videos**|Zhongwei Ren et.al.|[2501.09781](http://arxiv.org/abs/2501.09781)|null|
@@ -1297,7 +1297,7 @@ layout: default
 |**2024-07-29**|**Retinex-Diffusion: On Controlling Illumination Conditions in Diffusion Models via Retinex Theory**|Xiaoyan Xing et.al.|[2407.20785](http://arxiv.org/abs/2407.20785)|null|
 |**2024-07-30**|**Understanding the Impact of Synchronous, Asynchronous, and Hybrid In-Situ Techniques in Computational Fluid Dynamics Applications**|Yi Ju et.al.|[2407.20717](http://arxiv.org/abs/2407.20717)|null|
 |**2024-07-30**|**DocXPand-25k: a large and diverse benchmark dataset for identity documents analysis**|Julien Lerouge et.al.|[2407.20662](http://arxiv.org/abs/2407.20662)|**[link](https://github.com/quicksign/docxpand)**|
-|**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635](http://arxiv.org/abs/2407.20635)|null|
+|**2024-07-30**|**Autonomous Improvement of Instruction Following Skills via Foundation Models**|Zhiyuan Zhou et.al.|[2407.20635](http://arxiv.org/abs/2407.20635)|**[link](https://github.com/rail-berkeley/soar)**|
 |**2024-07-30**|**EgoSonics: Generating Synchronized Audio for Silent Egocentric Videos**|Aashish Rai et.al.|[2407.20592](http://arxiv.org/abs/2407.20592)|null|
 |**2024-07-29**|**Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities**|Lorenzo Baraldi et.al.|[2407.20337](http://arxiv.org/abs/2407.20337)|**[link](https://github.com/aimagelab/code)**|
 |**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034](http://arxiv.org/abs/2407.20034)|null|
@@ -1625,7 +1625,7 @@ layout: default
 |**2024-05-28**|**Are Image Distributions Indistinguishable to Humans Indistinguishable to Classifiers?**|Zebin You et.al.|[2405.18029](http://arxiv.org/abs/2405.18029)|null|
 |**2024-05-28**|**MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling**|Bowen Zhang et.al.|[2405.18003](http://arxiv.org/abs/2405.18003)|**[link](https://github.com/18445864529/mavin)**|
 |**2024-05-28**|**Cycle-YOLO: A Efficient and Robust Framework for Pavement Damage Detection**|Zhengji Li et.al.|[2405.17905](http://arxiv.org/abs/2405.17905)|null|
-|**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842](http://arxiv.org/abs/2405.17842)|null|
+|**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842](http://arxiv.org/abs/2405.17842)|**[link](https://github.com/sonyresearch/mmdisco)**|
 |**2024-05-27**|**RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance**|Jiaojiao Fan et.al.|[2405.17661](http://arxiv.org/abs/2405.17661)|null|
 |**2024-05-27**|**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control**|Zhengfei Kuang et.al.|[2405.17414](http://arxiv.org/abs/2405.17414)|null|
 |**2024-05-27**|**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer**|Ruizhi Shao et.al.|[2405.17405](http://arxiv.org/abs/2405.17405)|null|
@@ -2016,7 +2016,7 @@ layout: default
 |**2024-03-11**|**Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection**|Chuangchuang Tan et.al.|[2403.06803](http://arxiv.org/abs/2403.06803)|**[link](https://github.com/chuangchuangtan/data-independent-operator)**|
 |**2024-03-11**|**FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation**|Pengchong Qiao et.al.|[2403.06775](http://arxiv.org/abs/2403.06775)|**[link](https://github.com/modelscope/facechain)**|
 |**2024-03-11**|**Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback**|Adarsh N L et.al.|[2403.06735](http://arxiv.org/abs/2403.06735)|null|
-|**2024-03-11**|**Active Generation for Image Classification**|Tao Huang et.al.|[2403.06517](http://arxiv.org/abs/2403.06517)|null|
+|**2024-03-11**|**Active Generation for Image Classification**|Tao Huang et.al.|[2403.06517](http://arxiv.org/abs/2403.06517)|**[link](https://github.com/hunto/actgen)**|
 |**2024-03-11**|**Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning**|Woojung Han et.al.|[2403.06516](http://arxiv.org/abs/2403.06516)|null|
 |**2024-03-11**|**3D-aware Image Generation and Editing with Multi-modal Conditions**|Bo Li et.al.|[2403.06470](http://arxiv.org/abs/2403.06470)|null|
 |**2024-03-11**|**A Comparative Study of Perceptual Quality Metrics for Audio-driven Talking Head Videos**|Weixia Zhang et.al.|[2403.06421](http://arxiv.org/abs/2403.06421)|**[link](https://github.com/zwx8981/adth-qa)**|
@@ -3000,7 +3000,7 @@ layout: default
 |**2025-02-26**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
 |**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258](http://arxiv.org/abs/2502.17258)|null|
-|**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|null|
+|**2025-02-24**|**Splitting Regularized Wasserstein Proximal Algorithms for Nonsmooth Sampling Problems**|Fuqun Han et.al.|[2502.16773](http://arxiv.org/abs/2502.16773)|**[link](https://github.com/fq-han/brwp-splitting)**|
 |**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
 |**2025-02-21**|**Improved Partial Differential Equation and Fast Approximation Algorithm for Hazy/Underwater/Dust Storm Image Enhancement**|Uche A. Nnolim et.al.|[2502.15986](http://arxiv.org/abs/2502.15986)|null|
 |**2025-02-21**|**LUMINA-Net: Low-light Upgrade through Multi-stage Illumination and Noise Adaptation Network for Image Enhancement**|Namrah Siddiqua et.al.|[2502.15186](http://arxiv.org/abs/2502.15186)|null|
@@ -3112,7 +3112,7 @@ layout: default
 |**2025-01-02**|**Edicho: Consistent Image Editing in the Wild**|Qingyan Bai et.al.|[2412.21079](http://arxiv.org/abs/2412.21079)|**[link](https://github.com/ezioby/edicho)**|
 |**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063](http://arxiv.org/abs/2412.21063)|**[link](https://github.com/siywang541/Varformer)**|
 |**2024-12-30**|**Low-Light Image Enhancement via Generative Perceptual Priors**|Han Zhou et.al.|[2412.20916](http://arxiv.org/abs/2412.20916)|null|
-|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|null|
+|**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|**[link](https://github.com/tirer-lab/cm4ir)**|
 |**2024-12-28**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al.|[2412.20201](http://arxiv.org/abs/2412.20201)|null|
 |**2024-12-28**|**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**|Jingbo Lin et.al.|[2412.20157](http://arxiv.org/abs/2412.20157)|**[link](https://github.com/mrluin/unirestorer)**|
 |**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|null|
