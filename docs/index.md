@@ -223,7 +223,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-28**|**How far can we go with ImageNet for Text-to-Image generation?**|L. Degeorge et.al.|[2502.21318](http://arxiv.org/abs/2502.21318)|null|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
-|**2025-02-28**|**MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**|Xueyun Tian et.al.|[2502.21291](http://arxiv.org/abs/2502.21291)|null|
+|**2025-03-03**|**MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing**|Xueyun Tian et.al.|[2502.21291](http://arxiv.org/abs/2502.21291)|null|
 |**2025-02-28**|**A Review on Generative AI For Text-To-Image and Image-To-Image Generation and Implications To Scientific Images**|Zineb Sordo et.al.|[2502.21151](http://arxiv.org/abs/2502.21151)|null|
 |**2025-02-28**|**Training-free and Adaptive Sparse Attention for Efficient Long Video Generation**|Yifei Xia et.al.|[2502.21079](http://arxiv.org/abs/2502.21079)|null|
 |**2025-02-28**|**Synthesizing Individualized Aging Brains in Health and Disease with Generative Models and Parallel Transport**|Jingru Fu et.al.|[2502.21049](http://arxiv.org/abs/2502.21049)|null|
