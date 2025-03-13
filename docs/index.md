@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -235,9 +235,9 @@ layout: default
 |**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|null|
 |**2025-03-11**|**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling**|Subin Kim et.al.|[2503.08605](http://arxiv.org/abs/2503.08605)|null|
 |**2025-03-11**|**Generalizable AI-Generated Image Detection Based on Fractal Self-Similarity in the Spectrum**|Shengpeng Xiao et.al.|[2503.08484](http://arxiv.org/abs/2503.08484)|null|
-|**2025-03-11**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377](http://arxiv.org/abs/2503.08377)|null|
+|**2025-03-12**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377](http://arxiv.org/abs/2503.08377)|null|
 |**2025-03-11**|**Robust Latent Matters: Boosting Image Generation with Sampling Error**|Kai Qiu et.al.|[2503.08354](http://arxiv.org/abs/2503.08354)|null|
-|**2025-03-11**|**$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307](http://arxiv.org/abs/2503.08307)|null|
+|**2025-03-12**|**$^R$ FLAV: Rolling Flow matching for infinite Audio Video generation**|Alex Ergasti et.al.|[2503.08307](http://arxiv.org/abs/2503.08307)|null|
 |**2025-03-11**|**OminiControl2: Efficient Conditioning for Diffusion Transformers**|Zhenxiong Tan et.al.|[2503.08280](http://arxiv.org/abs/2503.08280)|null|
 |**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/abs/2503.07493)|null|
 |**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
@@ -3057,7 +3057,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-11**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
+|**2025-03-12**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
 |**2025-03-11**|**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models**|Armando Fortes et.al.|[2503.08434](http://arxiv.org/abs/2503.08434)|null|
 |**2025-03-11**|**PromptLNet: Region-Adaptive Aesthetic Enhancement via Prompt Guidance in Low-Light Enhancement Net**|Jun Yin et.al.|[2503.08276](http://arxiv.org/abs/2503.08276)|null|
 |**2025-03-11**|**Aligning Text to Image in Diffusion Models is Easier Than You Think**|Jaa-Yeon Lee et.al.|[2503.08250](http://arxiv.org/abs/2503.08250)|null|
