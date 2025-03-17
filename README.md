@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615](http://arxiv.org/abs/2503.11615)|null|
 |**2025-03-11**|**Aligning Text to Image in Diffusion Models is Easier Than You Think**|Jaa-Yeon Lee et.al.|[2503.08250](http://arxiv.org/abs/2503.08250)|null|
 |**2025-03-11**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
 |**2025-03-11**|**Computational bottlenecks for denoising diffusions**|Andrea Montanari et.al.|[2503.08028](http://arxiv.org/abs/2503.08028)|null|
@@ -236,6 +237,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647](http://arxiv.org/abs/2503.11647)|null|
+|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
+|**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481](http://arxiv.org/abs/2503.11481)|null|
+|**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
+|**2025-03-14**|**Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking**|Ziyi Wang et.al.|[2503.11324](http://arxiv.org/abs/2503.11324)|null|
+|**2025-03-14**|**Step-Video-TI2V Technical Report: A State-of-the-Art Text-Driven Image-to-Video Generation Model**|Haoyang Huang et.al.|[2503.11251](http://arxiv.org/abs/2503.11251)|null|
+|**2025-03-14**|**Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards**|Zijing Hu et.al.|[2503.11240](http://arxiv.org/abs/2503.11240)|null|
+|**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
+|**2025-03-14**|**Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation**|Fengchen He et.al.|[2503.11213](http://arxiv.org/abs/2503.11213)|null|
+|**2025-03-14**|**Provenance Detection for AI-Generated Images: Combining Perceptual Hashing, Homomorphic Encryption, and AI Detection Models**|Shree Singhi et.al.|[2503.11195](http://arxiv.org/abs/2503.11195)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618](http://arxiv.org/abs/2503.10618)|null|
 |**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
@@ -3086,6 +3097,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing**|Tianrui Pan et.al.|[2503.11571](http://arxiv.org/abs/2503.11571)|null|
+|**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
+|**2025-03-14**|**Multi-Stage Generative Upscaler: Reconstructing Football Broadcast Images via Diffusion Models**|Luca Martini et.al.|[2503.11181](http://arxiv.org/abs/2503.11181)|null|
+|**2025-03-14**|**Zero-TIG: Temporal Consistency-Aware Zero-Shot Illumination-Guided Low-light Video Enhancement**|Yini Li et.al.|[2503.11175](http://arxiv.org/abs/2503.11175)|null|
+|**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|null|
+|**2025-03-14**|**InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences**|Hongkai Zheng et.al.|[2503.11043](http://arxiv.org/abs/2503.11043)|null|
 |**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
 |**2025-03-13**|**CoSTA $\ast$ : Cost-Sensitive Toolpath Agent for Multi-turn Image Editing**|Advait Gupta et.al.|[2503.10613](http://arxiv.org/abs/2503.10613)|**[link](https://github.com/tianyi-lab/CoSTAR)**|
 |**2025-03-13**|**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**|Zexuan Yan et.al.|[2503.10270](http://arxiv.org/abs/2503.10270)|**[link](https://github.com/yuriyanzexuan/eedit)**|
