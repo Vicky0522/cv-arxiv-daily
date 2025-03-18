@@ -237,6 +237,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436](http://arxiv.org/abs/2503.13436)|null|
+|**2025-03-17**|**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**|Yaowei Li et.al.|[2503.13434](http://arxiv.org/abs/2503.13434)|null|
+|**2025-03-17**|**MAME: Multidimensional Adaptive Metamer Exploration with Human Perceptual Feedback**|Mina Kamao et.al.|[2503.13212](http://arxiv.org/abs/2503.13212)|null|
+|**2025-03-17**|**Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation**|Yihong Luo et.al.|[2503.13070](http://arxiv.org/abs/2503.13070)|null|
+|**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953](http://arxiv.org/abs/2503.12953)|null|
+|**2025-03-17**|**DreamLayer: Simultaneous Multi-Layer Generation via Diffusion Mode**|Junjia Huang et.al.|[2503.12838](http://arxiv.org/abs/2503.12838)|null|
+|**2025-03-17**|**AUTV: Creating Underwater Video Datasets with Pixel-wise Annotations**|Quang Trung Truong et.al.|[2503.12828](http://arxiv.org/abs/2503.12828)|null|
+|**2025-03-17**|**GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching**|Feng Qiao et.al.|[2503.12720](http://arxiv.org/abs/2503.12720)|null|
+|**2025-03-16**|**UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing**|Tsu-Jui Fu et.al.|[2503.12652](http://arxiv.org/abs/2503.12652)|null|
+|**2025-03-16**|**Personalize Anything for Free with Diffusion Transformer**|Haoran Feng et.al.|[2503.12590](http://arxiv.org/abs/2503.12590)|null|
 |**2025-03-14**|**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video**|Jianhong Bai et.al.|[2503.11647](http://arxiv.org/abs/2503.11647)|null|
 |**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
 |**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481](http://arxiv.org/abs/2503.11481)|null|
@@ -3097,6 +3107,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**|Lijie Fan et.al.|[2503.13436](http://arxiv.org/abs/2503.13436)|null|
+|**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
+|**2025-03-17**|**From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective**|Chen Zhao et.al.|[2503.13165](http://arxiv.org/abs/2503.13165)|null|
+|**2025-03-17**|**GIFT: Generated Indoor video frames for Texture-less point tracking**|Jianzheng Huang et.al.|[2503.12944](http://arxiv.org/abs/2503.12944)|null|
+|**2025-03-17**|**DreamLayer: Simultaneous Multi-Layer Generation via Diffusion Mode**|Junjia Huang et.al.|[2503.12838](http://arxiv.org/abs/2503.12838)|null|
+|**2025-03-17**|**Decouple to Reconstruct: High Quality UHD Restoration via Active Feature Disentanglement and Reversible Fusion**|Yidi Liu et.al.|[2503.12764](http://arxiv.org/abs/2503.12764)|null|
+|**2025-03-16**|**UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing**|Tsu-Jui Fu et.al.|[2503.12652](http://arxiv.org/abs/2503.12652)|null|
+|**2025-03-16**|**Personalize Anything for Free with Diffusion Transformer**|Haoran Feng et.al.|[2503.12590](http://arxiv.org/abs/2503.12590)|null|
+|**2025-03-16**|**DPF-Net: Physical Imaging Model Embedded Data-Driven Underwater Image Enhancement**|Han Mei et.al.|[2503.12470](http://arxiv.org/abs/2503.12470)|null|
+|**2025-03-16**|**Pathology Image Restoration via Mixture of Prompts**|Jiangdong Cai et.al.|[2503.12399](http://arxiv.org/abs/2503.12399)|null|
 |**2025-03-14**|**RASA: Replace Anyone, Say Anything -- A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing**|Tianrui Pan et.al.|[2503.11571](http://arxiv.org/abs/2503.11571)|null|
 |**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
 |**2025-03-14**|**Multi-Stage Generative Upscaler: Reconstructing Football Broadcast Images via Diffusion Models**|Luca Martini et.al.|[2503.11181](http://arxiv.org/abs/2503.11181)|null|
