@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -235,19 +235,19 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-24**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
+|**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
 |**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
 |**2025-03-24**|**Self-Supervised Learning based on Transformed Image Reconstruction for Equivariance-Coherent Feature Representation**|Qin Wang et.al.|[2503.18753](http://arxiv.org/abs/2503.18753)|null|
 |**2025-03-24**|**Boosting Resolution Generalization of Diffusion Transformers with Randomized Positional Encodings**|Cong Liu et.al.|[2503.18719](http://arxiv.org/abs/2503.18719)|null|
-|**2025-03-24**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
+|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
 |**2025-03-24**|**Instruction-Aligned Visual Attention for Mitigating Hallucinations in Large Vision-Language Models**|Bin Li et.al.|[2503.18556](http://arxiv.org/abs/2503.18556)|null|
 |**2025-03-24**|**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**|Qiang Qu et.al.|[2503.18552](http://arxiv.org/abs/2503.18552)|null|
 |**2025-03-24**|**Can Text-to-Video Generation help Video-Language Alignment?**|Luca Zanella et.al.|[2503.18507](http://arxiv.org/abs/2503.18507)|null|
@@ -3155,18 +3155,18 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640](http://arxiv.org/abs/2503.18640)|null|
-|**2025-03-24**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|null|
+|**2025-03-25**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|null|
 |**2025-03-24**|**Resource-Efficient Motion Control for Video Generation via Dynamic Mask Guidance**|Sicong Feng et.al.|[2503.18386](http://arxiv.org/abs/2503.18386)|null|
 |**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|null|
 |**2025-03-23**|**Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance**|Harang Ju et.al.|[2503.18238](http://arxiv.org/abs/2503.18238)|null|
-|**2025-03-23**|**Shot Sequence Ordering for Video Editing: Benchmarks, Metrics, and Cinematology-Inspired Computing Methods**|Yuzhi Li et.al.|[2503.17975](http://arxiv.org/abs/2503.17975)|null|
+|**2025-03-25**|**Shot Sequence Ordering for Video Editing: Benchmarks, Metrics, and Cinematology-Inspired Computing Methods**|Yuzhi Li et.al.|[2503.17975](http://arxiv.org/abs/2503.17975)|null|
 |**2025-03-23**|**Deep Learning Assisted Denoising of Experimental Micrographs**|Owais Ahmad et.al.|[2503.17945](http://arxiv.org/abs/2503.17945)|null|
 |**2025-03-23**|**Cross-Domain Underwater Image Enhancement Guided by No-Reference Image Quality Assessment: A Transfer Learning Approach**|Zhi Zhang et.al.|[2503.17937](http://arxiv.org/abs/2503.17937)|null|
 |**2025-03-23**|**Cat-AIR: Content and Task-Aware All-in-One Image Restoration**|Jiachen Jiang et.al.|[2503.17915](http://arxiv.org/abs/2503.17915)|null|
@@ -4694,7 +4694,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
