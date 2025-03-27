@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -20,7 +20,7 @@ layout: default
 |**2025-03-18**|**Potential Score Matching: Debiasing Molecular Structure Sampling with Potential Energy Guidance**|Liya Guo et.al.|[2503.14569](http://arxiv.org/abs/2503.14569)|null|
 |**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615](http://arxiv.org/abs/2503.11615)|null|
 |**2025-03-21**|**Aligning Text to Image in Diffusion Models is Easier Than You Think**|Jaa-Yeon Lee et.al.|[2503.08250](http://arxiv.org/abs/2503.08250)|null|
-|**2025-03-11**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
+|**2025-03-26**|**Uni $\textbf{F}^2$ ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models**|Junzhe Li et.al.|[2503.08120](http://arxiv.org/abs/2503.08120)|null|
 |**2025-03-11**|**Computational bottlenecks for denoising diffusions**|Andrea Montanari et.al.|[2503.08028](http://arxiv.org/abs/2503.08028)|null|
 |**2025-03-09**|**Exponential-polynomial divergence based inference for nondestructive one-shot devices under progressive stress model**|Shanya Baghel et.al.|[2503.06414](http://arxiv.org/abs/2503.06414)|null|
 |**2025-03-09**|**Causal Discovery and Inference towards Urban Elements and Associated Factors**|Tao Feng et.al.|[2503.06395](http://arxiv.org/abs/2503.06395)|null|
