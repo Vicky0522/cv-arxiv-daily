@@ -19,7 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-22**|**Solving Schrödinger bridge problem via continuous normalizing flow**|Yang Jing et.al.|[2503.17829](http://arxiv.org/abs/2503.17829)|null|
+|**2025-03-27**|**Inequality Restricted Minimum Density Power Divergence Estimation in Panel Count Data**|Udita Goswami et.al.|[2503.21534](http://arxiv.org/abs/2503.21534)|null|
+|**2025-03-22**|**Solving Schrödinger bridge problem via continuous normalizing flow**|Yang Jing et.al.|[2503.17829](http://arxiv.org/abs/2503.17829)|**[link](https://github.com/sharkjingyang/schb)**|
 |**2025-03-21**|**Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation**|Sophia Tang et.al.|[2503.17361](http://arxiv.org/abs/2503.17361)|null|
 |**2025-03-20**|**Improving Discriminator Guidance in Diffusion Models**|Alexandre Verine et.al.|[2503.16117](http://arxiv.org/abs/2503.16117)|null|
 |**2025-03-18**|**Potential Score Matching: Debiasing Molecular Structure Sampling with Potential Energy Guidance**|Liya Guo et.al.|[2503.14569](http://arxiv.org/abs/2503.14569)|null|
@@ -241,6 +242,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781](http://arxiv.org/abs/2503.21781)|null|
+|**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|null|
+|**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765](http://arxiv.org/abs/2503.21765)|null|
+|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|null|
+|**2025-03-27**|**A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One**|Minyoung Kim et.al.|[2503.21756](http://arxiv.org/abs/2503.21756)|null|
+|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755](http://arxiv.org/abs/2503.21755)|null|
+|**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747](http://arxiv.org/abs/2503.21747)|null|
+|**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
+|**2025-03-27**|**Audio-driven Gesture Generation via Deviation Feature in the Latent Space**|Jiahui Chen et.al.|[2503.21616](http://arxiv.org/abs/2503.21616)|null|
+|**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
 |**2025-03-26**|**High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching**|Guoqiang Zhang et.al.|[2503.20744](http://arxiv.org/abs/2503.20744)|null|
 |**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|null|
 |**2025-03-26**|**BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation**|Yuyang Peng et.al.|[2503.20672](http://arxiv.org/abs/2503.20672)|null|
@@ -3181,11 +3192,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541](http://arxiv.org/abs/2503.21541)|null|
+|**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486](http://arxiv.org/abs/2503.21486)|null|
+|**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
+|**2025-03-26**|**Synthetic Video Enhances Physical Fidelity in Video Synthesis**|Qi Zhao et.al.|[2503.20822](http://arxiv.org/abs/2503.20822)|null|
 |**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782](http://arxiv.org/abs/2503.20782)|null|
-|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|null|
-|**2025-03-26**|**EditCLIP: Representation Learning for Image Editing**|Qian Wang et.al.|[2503.20318](http://arxiv.org/abs/2503.20318)|null|
-|**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|null|
-|**2025-03-26**|**InsViE-1M: Effective Instruction-based Video Editing with Elaborate Dataset Construction**|Yuhui Wu et.al.|[2503.20287](http://arxiv.org/abs/2503.20287)|null|
+|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|**[link](https://github.com/vidya-rejul/uie-snn)**|
+|**2025-03-26**|**EditCLIP: Representation Learning for Image Editing**|Qian Wang et.al.|[2503.20318](http://arxiv.org/abs/2503.20318)|**[link](https://github.com/qianwangx/editclip)**|
+|**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|**[link](https://github.com/wan-video/wan2.1)**|
+|**2025-03-26**|**InsViE-1M: Effective Instruction-based Video Editing with Elaborate Dataset Construction**|Yuhui Wu et.al.|[2503.20287](http://arxiv.org/abs/2503.20287)|**[link](https://github.com/langmanbusi/insvie)**|
 |**2025-03-26**|**Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration**|Shihao Zhou et.al.|[2503.20174](http://arxiv.org/abs/2503.20174)|null|
 |**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
 |**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[2503.19804](http://arxiv.org/abs/2503.19804)|null|
