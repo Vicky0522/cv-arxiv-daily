@@ -29,7 +29,7 @@ layout: default
 |**2025-03-03**|**FlowDec: A flow-based full-band general audio codec with high perceptual quality**|Simon Welker et.al.|[2503.01485](http://arxiv.org/abs/2503.01485)|**[link](https://github.com/facebookresearch/flowdec)**|
 |**2025-03-02**|**Underdamped Diffusion Bridges with Applications to Sampling**|Denis Blessing et.al.|[2503.01006](http://arxiv.org/abs/2503.01006)|**[link](https://github.com/DenisBless/UnderdampedDiffusionBridges)**|
 |**2025-02-27**|**Stein's unbiased risk estimate and Hyvärinen's score matching**|Sulagna Ghosh et.al.|[2502.20123](http://arxiv.org/abs/2502.20123)|null|
-|**2025-03-04**|**Agnostic calculation of atomic free energies with the descriptor density of states**|Thomas D Swinburne et.al.|[2502.18191](http://arxiv.org/abs/2502.18191)|null|
+|**2025-03-04**|**Agnostic calculation of atomic free energies with the descriptor density of states**|Thomas D Swinburne et.al.|[2502.18191](http://arxiv.org/abs/2502.18191)|**[link](https://github.com/tomswinburne/DescriptorDOS)**|
 |**2025-02-27**|**A Fokker-Planck-Based Loss Function that Bridges Dynamics with Density Estimation**|Zhixin Lu et.al.|[2502.17690](http://arxiv.org/abs/2502.17690)|null|
 |**2025-02-25**|**Generalization error bound for denoising score matching under relaxed manifold assumption**|Konstantin Yakovlev et.al.|[2502.13662](http://arxiv.org/abs/2502.13662)|null|
 |**2025-02-18**|**Score Matching Riemannian Diffusion Means**|Frederik Möbius Rygaard et.al.|[2502.13106](http://arxiv.org/abs/2502.13106)|null|
@@ -246,20 +246,20 @@ layout: default
 |**2025-03-27**|**Audio-driven Gesture Generation via Deviation Feature in the Latent Space**|Jiahui Chen et.al.|[2503.21616](http://arxiv.org/abs/2503.21616)|null|
 |**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
 |**2025-03-26**|**High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching**|Guoqiang Zhang et.al.|[2503.20744](http://arxiv.org/abs/2503.20744)|null|
-|**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|null|
+|**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|**[link](https://github.com/fmp453/rectable)**|
 |**2025-03-26**|**BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation**|Yuyang Peng et.al.|[2503.20672](http://arxiv.org/abs/2503.20672)|null|
 |**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
 |**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644](http://arxiv.org/abs/2503.20644)|null|
 |**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523](http://arxiv.org/abs/2503.20523)|null|
-|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|null|
-|**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|null|
+|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|**[link](https://github.com/thu-coai/vpo)**|
+|**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|**[link](https://github.com/wan-video/wan2.1)**|
 |**2025-03-26**|**Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models**|Prin Phunyaphibarn et.al.|[2503.20240](http://arxiv.org/abs/2503.20240)|null|
 |**2025-03-26**|**Video Motion Graphs**|Haiyang Liu et.al.|[2503.20218](http://arxiv.org/abs/2503.20218)|null|
 |**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907](http://arxiv.org/abs/2503.19907)|null|
 |**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
 |**2025-03-25**|**Mask $^2$ DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation**|Tianhao Qi et.al.|[2503.19881](http://arxiv.org/abs/2503.19881)|null|
 |**2025-03-25**|**AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**|Jiazhi Guan et.al.|[2503.19824](http://arxiv.org/abs/2503.19824)|null|
-|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
+|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|**[link](https://github.com/a-raniy-day/sita)**|
 |**2025-03-25**|**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**|Kartik Thakral et.al.|[2503.19783](http://arxiv.org/abs/2503.19783)|null|
 |**2025-03-25**|**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**|Junhyuk So et.al.|[2503.19731](http://arxiv.org/abs/2503.19731)|null|
 |**2025-03-25**|**VectorFit : Adaptive Singular & Bias Vector Fine-Tuning of Pre-trained Foundation Models**|Suhas G Hegde et.al.|[2503.19530](http://arxiv.org/abs/2503.19530)|null|
@@ -268,32 +268,32 @@ layout: default
 |**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
-|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
+|**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|**[link](https://github.com/skmalviya/ai_gen_image_defactify)**|
 |**2025-03-24**|**Self-Supervised Learning based on Transformed Image Reconstruction for Equivariance-Coherent Feature Representation**|Qin Wang et.al.|[2503.18753](http://arxiv.org/abs/2503.18753)|null|
 |**2025-03-24**|**Boosting Resolution Generalization of Diffusion Transformers with Randomized Positional Encodings**|Cong Liu et.al.|[2503.18719](http://arxiv.org/abs/2503.18719)|null|
-|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|null|
+|**2025-03-25**|**AMD-Hummingbird: Towards an Efficient Text-to-Video Model**|Takashi Isobe et.al.|[2503.18559](http://arxiv.org/abs/2503.18559)|**[link](https://github.com/amd-aig-aima/amd-hummingbird-t2v)**|
 |**2025-03-24**|**Instruction-Aligned Visual Attention for Mitigating Hallucinations in Large Vision-Language Models**|Bin Li et.al.|[2503.18556](http://arxiv.org/abs/2503.18556)|null|
 |**2025-03-24**|**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**|Qiang Qu et.al.|[2503.18552](http://arxiv.org/abs/2503.18552)|null|
 |**2025-03-24**|**Can Text-to-Video Generation help Video-Language Alignment?**|Luca Zanella et.al.|[2503.18507](http://arxiv.org/abs/2503.18507)|null|
 |**2025-03-21**|**Position: Interactive Generative Video as Next-Generation Game Engine**|Jiwen Yu et.al.|[2503.17359](http://arxiv.org/abs/2503.17359)|null|
 |**2025-03-21**|**Leveraging Text-to-Image Generation for Handling Spurious Correlation**|Aryan Yazdan Parast et.al.|[2503.17226](http://arxiv.org/abs/2503.17226)|null|
 |**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang et.al.|[2503.17155](http://arxiv.org/abs/2503.17155)|null|
-|**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|null|
+|**2025-03-21**|**Halton Scheduler For Masked Generative Image Transformer**|Victor Besnier et.al.|[2503.17076](http://arxiv.org/abs/2503.17076)|**[link](https://github.com/valeoai/halton-maskgit)**|
 |**2025-03-21**|**Zero-Shot Styled Text Image Generation, but Make It Autoregressive**|Vittorio Pippi et.al.|[2503.17074](http://arxiv.org/abs/2503.17074)|null|
 |**2025-03-21**|**AnimatePainter: A Self-Supervised Rendering Framework for Reconstructing Painting Process**|Junjie Hu et.al.|[2503.17029](http://arxiv.org/abs/2503.17029)|null|
-|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|**[link](https://github.com/PaddlePaddle/PaddleMIX)**|
 |**2025-03-21**|**Multiple Ultrasound Image Generation based on Tuned Alignment of Amplitude Hologram over Spatially non-Uniform Ultrasound Source**|Keisuke Hasegawa et.al.|[2503.16949](http://arxiv.org/abs/2503.16949)|null|
 |**2025-03-21**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
 |**2025-03-21**|**When Preferences Diverge: Aligning Diffusion Models with Minority-Aware Adaptive DPO**|Lingfan Zhang et.al.|[2503.16921](http://arxiv.org/abs/2503.16921)|null|
-|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|null|
+|**2025-03-20**|**XAttention: Block Sparse Attention with Antidiagonal Scoring**|Ruyi Xu et.al.|[2503.16428](http://arxiv.org/abs/2503.16428)|**[link](https://github.com/mit-han-lab/x-attention)**|
 |**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425](http://arxiv.org/abs/2503.16425)|**[link](https://github.com/Gengzigang/TokenSet)**|
 |**2025-03-20**|**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance**|Quanhao Li et.al.|[2503.16421](http://arxiv.org/abs/2503.16421)|null|
 |**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420](http://arxiv.org/abs/2503.16420)|null|
-|**2025-03-20**|**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**|Liming Jiang et.al.|[2503.16418](http://arxiv.org/abs/2503.16418)|null|
-|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
+|**2025-03-20**|**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**|Liming Jiang et.al.|[2503.16418](http://arxiv.org/abs/2503.16418)|**[link](https://github.com/bytedance/infiniteyou)**|
+|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|**[link](https://github.com/seungjucha/verbdiff)**|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
 |**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
-|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|**[link](https://github.com/huage001/urae)**|
 |**2025-03-20**|**Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction**|Ziyao Guo et.al.|[2503.16194](http://arxiv.org/abs/2503.16194)|null|
 |**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
 |**2025-03-19**|**Temporal Regularization Makes Your Video Generator Stronger**|Harold Haodong Chen et.al.|[2503.15417](http://arxiv.org/abs/2503.15417)|null|
@@ -369,7 +369,7 @@ layout: default
 |**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
 |**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418](http://arxiv.org/abs/2503.07418)|null|
 |**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|**[link](https://github.com/ddgoodgood/trce)**|
-|**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|null|
+|**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|**[link](https://github.com/xiexing0916/ARRA)**|
 |**2025-03-10**|**Automated Movie Generation via Multi-Agent CoT Planning**|Weijia Wu et.al.|[2503.07314](http://arxiv.org/abs/2503.07314)|**[link](https://github.com/showlab/movieagent)**|
 |**2025-03-10**|**WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**|Yuwei Niu et.al.|[2503.07265](http://arxiv.org/abs/2503.07265)|**[link](https://github.com/pku-yuangroup/wise)**|
 |**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|**[link](https://github.com/ML-GSAI/eMIGM)**|
@@ -390,7 +390,7 @@ layout: default
 |**2025-03-06**|**Underlying Semantic Diffusion for Effective and Efficient In-Context Learning**|Zhong Ji et.al.|[2503.04050](http://arxiv.org/abs/2503.04050)|null|
 |**2025-03-06**|**DSV-LFS: Unifying LLM-Driven Semantic Cues with Visual Features for Robust Few-Shot Segmentation**|Amin Karimi et.al.|[2503.04006](http://arxiv.org/abs/2503.04006)|null|
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
-|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|**[link](https://github.com/ali-vilab/cdt)**|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|**[link](https://github.com/yangzhaojason/DualDiff)**|
 |**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
 |**2025-03-05**|**High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**|Yuna Kato et.al.|[2503.03558](http://arxiv.org/abs/2503.03558)|**[link](https://github.com/isogawalab/singleviewsurgicalvideo)**|
@@ -531,7 +531,7 @@ layout: default
 |**2025-02-10**|**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**|D. She et.al.|[2502.06527](http://arxiv.org/abs/2502.06527)|null|
 |**2025-02-10**|**Universal Approximation of Visual Autoregressive Transformers**|Yifang Chen et.al.|[2502.06167](http://arxiv.org/abs/2502.06167)|null|
 |**2025-02-10**|**Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile**|Hangliang Ding et.al.|[2502.06155](http://arxiv.org/abs/2502.06155)|null|
-|**2025-02-10**|**Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models**|Ce Zhang et.al.|[2502.06130](http://arxiv.org/abs/2502.06130)|null|
+|**2025-02-10**|**Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models**|Ce Zhang et.al.|[2502.06130](http://arxiv.org/abs/2502.06130)|**[link](https://github.com/zhangce01/degf)**|
 |**2025-02-09**|**Online Reward-Weighted Fine-Tuning of Flow Matching with Wasserstein Regularization**|Jiajun Fan et.al.|[2502.06061](http://arxiv.org/abs/2502.06061)|null|
 |**2025-02-07**|**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**|Shilong Zhang et.al.|[2502.05179](http://arxiv.org/abs/2502.05179)|**[link](https://github.com/foundationvision/flashvideo)**|
 |**2025-02-07**|**QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**|Yue Zhao et.al.|[2502.05178](http://arxiv.org/abs/2502.05178)|null|
@@ -568,7 +568,7 @@ layout: default
 |**2025-02-03**|**Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity**|Haocheng Xi et.al.|[2502.01776](http://arxiv.org/abs/2502.01776)|null|
 |**2025-02-03**|**MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation**|Haibo Tong et.al.|[2502.01719](http://arxiv.org/abs/2502.01719)|null|
 |**2025-02-03**|**MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation**|Yiren Song et.al.|[2502.01572](http://arxiv.org/abs/2502.01572)|null|
-|**2025-02-03**|**Improved Training Technique for Latent Consistency Models**|Quan Dao et.al.|[2502.01441](http://arxiv.org/abs/2502.01441)|null|
+|**2025-02-03**|**Improved Training Technique for Latent Consistency Models**|Quan Dao et.al.|[2502.01441](http://arxiv.org/abs/2502.01441)|**[link](https://github.com/quandao10/slct)**|
 |**2025-02-03**|**Assessing the use of Diffusion models for motion artifact correction in brain MRI**|Paolo Angella et.al.|[2502.01418](http://arxiv.org/abs/2502.01418)|null|
 |**2025-02-04**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189](http://arxiv.org/abs/2502.01189)|null|
 |**2025-01-31**|**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search**|Yuta Oshima et.al.|[2501.19252](http://arxiv.org/abs/2501.19252)|null|
@@ -586,7 +586,7 @@ layout: default
 |**2025-01-29**|**Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**|Fouad Bousetouane et.al.|[2501.18033](http://arxiv.org/abs/2501.18033)|null|
 |**2025-01-29**|**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**|Xiaokang Chen et.al.|[2501.17811](http://arxiv.org/abs/2501.17811)|**[link](https://github.com/deepseek-ai/janus)**|
 |**2025-01-29**|**A Framework for Generating Realistic Synthetic Tabular Data in a Randomized Controlled Trial Setting**|Niki Z. Petrakos et.al.|[2501.17719](http://arxiv.org/abs/2501.17719)|null|
-|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
+|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|**[link](https://github.com/Francisdadada/GRN)**|
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
 |**2025-01-29**|**Polyp-Gen: Realistic and Diverse Polyp Image Generation for Endoscopic Dataset Expansion**|Shengyuan Liu et.al.|[2501.16679](http://arxiv.org/abs/2501.16679)|**[link](https://github.com/cuhk-aim-group/polyp-gen)**|
@@ -1872,7 +1872,7 @@ layout: default
 |**2024-05-17**|**From Sora What We Can See: A Survey of Text-to-Video Generation**|Rui Sun et.al.|[2405.10674](http://arxiv.org/abs/2405.10674)|**[link](https://github.com/soraw-ai/awesome-text-to-video-generation)**|
 |**2024-05-17**|**Multi-scale Semantic Prior Features Guided Deep Neural Network for Urban Street-view Image**|Jianshun Zeng et.al.|[2405.10504](http://arxiv.org/abs/2405.10504)|null|
 |**2024-05-17**|**Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers**|Rya Sanovar et.al.|[2405.10480](http://arxiv.org/abs/2405.10480)|null|
-|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
+|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|**[link](https://github.com/castorini/unirag)**|
 |**2024-05-16**|**VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing**|Binghui Chen et.al.|[2405.09985](http://arxiv.org/abs/2405.09985)|null|
 |**2024-05-16**|**Chameleon: Mixed-Modal Early-Fusion Foundation Models**|Chameleon Team et.al.|[2405.09818](http://arxiv.org/abs/2405.09818)|null|
 |**2024-05-16**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426](http://arxiv.org/abs/2405.09426)|null|
@@ -3197,9 +3197,9 @@ layout: default
 |**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[2503.19804](http://arxiv.org/abs/2503.19804)|null|
 |**2025-03-24**|**FDS: Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing**|Yufan Ren et.al.|[2503.19191](http://arxiv.org/abs/2503.19191)|null|
 |**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640](http://arxiv.org/abs/2503.18640)|null|
-|**2025-03-25**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|null|
+|**2025-03-25**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|**[link](https://github.com/sherryxtchen/instruct-clip)**|
 |**2025-03-24**|**Resource-Efficient Motion Control for Video Generation via Dynamic Mask Guidance**|Sicong Feng et.al.|[2503.18386](http://arxiv.org/abs/2503.18386)|null|
-|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|null|
+|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|**[link](https://github.com/xiechenxi99/mass13k)**|
 |**2025-03-23**|**Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance**|Harang Ju et.al.|[2503.18238](http://arxiv.org/abs/2503.18238)|null|
 |**2025-03-25**|**Shot Sequence Ordering for Video Editing: Benchmarks, Metrics, and Cinematology-Inspired Computing Methods**|Yuzhi Li et.al.|[2503.17975](http://arxiv.org/abs/2503.17975)|null|
 |**2025-03-23**|**Deep Learning Assisted Denoising of Experimental Micrographs**|Owais Ahmad et.al.|[2503.17945](http://arxiv.org/abs/2503.17945)|null|
@@ -3347,7 +3347,7 @@ layout: default
 |**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
 |**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|**[link](https://github.com/wenjuan7275/matir)**|
-|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
+|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|**[link](https://github.com/Francisdadada/GRN)**|
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
 |**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
@@ -3418,7 +3418,7 @@ layout: default
 |**2024-12-29**|**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)**|Tomer Garber et.al.|[2412.20596](http://arxiv.org/abs/2412.20596)|**[link](https://github.com/tirer-lab/cm4ir)**|
 |**2024-12-28**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al.|[2412.20201](http://arxiv.org/abs/2412.20201)|null|
 |**2024-12-28**|**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**|Jingbo Lin et.al.|[2412.20157](http://arxiv.org/abs/2412.20157)|**[link](https://github.com/mrluin/unirestorer)**|
-|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|null|
+|**2024-12-28**|**MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration**|Boyun Li et.al.|[2412.20066](http://arxiv.org/abs/2412.20066)|**[link](https://github.com/XLearning-SCU/2025-CVPR-MaIR)**|
 |**2024-12-28**|**MADiff: Text-Guided Fashion Image Editing with Mask Prediction and Attention-Enhanced Diffusion**|Zechao Zhan et.al.|[2412.20062](http://arxiv.org/abs/2412.20062)|null|
 |**2024-12-28**|**An Ordinary Differential Equation Sampler with Stochastic Start for Diffusion Bridge Models**|Yuang Wang et.al.|[2412.19992](http://arxiv.org/abs/2412.19992)|null|
 |**2024-12-28**|**MAKIMA: Tuning-free Multi-Attribute Open-domain Video Editing via Mask-Guided Attention Modulation**|Haoyu Zheng et.al.|[2412.19978](http://arxiv.org/abs/2412.19978)|null|
