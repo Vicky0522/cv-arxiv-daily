@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Demographic Factors Associated with Triage Acuity, Admission and Length of Stay During Adult Emergency Department Visits**|Helena Coggan et.al.|[2503.22781](http://arxiv.org/abs/2503.22781)|null|
 |**2025-03-27**|**Inequality Restricted Minimum Density Power Divergence Estimation in Panel Count Data**|Udita Goswami et.al.|[2503.21534](http://arxiv.org/abs/2503.21534)|null|
 |**2025-03-22**|**Solving Schrödinger bridge problem via continuous normalizing flow**|Yang Jing et.al.|[2503.17829](http://arxiv.org/abs/2503.17829)|**[link](https://github.com/sharkjingyang/schb)**|
 |**2025-03-21**|**Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation**|Sophia Tang et.al.|[2503.17361](http://arxiv.org/abs/2503.17361)|null|
@@ -235,6 +236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy**|Zhonghan Zhao et.al.|[2503.24388](http://arxiv.org/abs/2503.24388)|null|
+|**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387](http://arxiv.org/abs/2503.24387)|null|
+|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
+|**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282](http://arxiv.org/abs/2503.24282)|null|
+|**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267](http://arxiv.org/abs/2503.24267)|null|
+|**2025-03-31**|**Threats and Opportunities in AI-generated Images for Armed Forces**|Raphael Meier et.al.|[2503.24095](http://arxiv.org/abs/2503.24095)|null|
+|**2025-03-31**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
+|**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951](http://arxiv.org/abs/2503.23951)|null|
+|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|null|
+|**2025-03-31**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
 |**2025-03-28**|**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622](http://arxiv.org/abs/2503.22622)|null|
 |**2025-03-28**|**EchoFlow: A Foundation Model for Cardiac Ultrasound Image and Video Generation**|Hadrien Reynaud et.al.|[2503.22357](http://arxiv.org/abs/2503.22357)|null|
@@ -3193,6 +3204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**InstructRestore: Region-Customized Image Restoration with Human Instructions**|Shuaizheng Liu et.al.|[2503.24357](http://arxiv.org/abs/2503.24357)|**[link](https://github.com/shuaizhengliu/instructrestore)**|
+|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|null|
+|**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|null|
+|**2025-03-31**|**3D Dental Model Segmentation with Geometrical Boundary Preserving**|Shufan Xi et.al.|[2503.23702](http://arxiv.org/abs/2503.23702)|null|
+|**2025-03-30**|**Leveraging Vision-Language Foundation Models to Reveal Hidden Image-Attribute Relationships in Medical Imaging**|Amar Kumar et.al.|[2503.23618](http://arxiv.org/abs/2503.23618)|null|
+|**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
+|**2025-03-30**|**SketchVideo: Sketch-based Video Generation and Editing**|Feng-Lin Liu et.al.|[2503.23284](http://arxiv.org/abs/2503.23284)|null|
+|**2025-03-29**|**A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery**|Pengyu Chen et.al.|[2503.23200](http://arxiv.org/abs/2503.23200)|null|
+|**2025-03-29**|**FreeInv: Free Lunch for Improving DDIM Inversion**|Yuxiang Bao et.al.|[2503.23035](http://arxiv.org/abs/2503.23035)|null|
+|**2025-03-29**|**indiSplit: Bringing Severity Cognizance to Image Decomposition in Fluorescence Microscopy**|Ashesh Ashesh et.al.|[2503.22983](http://arxiv.org/abs/2503.22983)|null|
 |**2025-03-28**|**RELD: Regularization by Latent Diffusion Models for Image Restoration**|Pasquale Cascarano et.al.|[2503.22563](http://arxiv.org/abs/2503.22563)|null|
 |**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225](http://arxiv.org/abs/2503.22225)|null|
 |**2025-03-27**|**Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration**|Yujie Chen et.al.|[2503.21970](http://arxiv.org/abs/2503.21970)|null|
