@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -237,7 +237,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## generation
 
@@ -249,10 +249,10 @@
 |**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282](http://arxiv.org/abs/2503.24282)|null|
 |**2025-03-31**|**FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics**|Yixuan Li et.al.|[2503.24267](http://arxiv.org/abs/2503.24267)|null|
 |**2025-03-31**|**Threats and Opportunities in AI-generated Images for Armed Forces**|Raphael Meier et.al.|[2503.24095](http://arxiv.org/abs/2503.24095)|null|
-|**2025-03-31**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
+|**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
 |**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951](http://arxiv.org/abs/2503.23951)|null|
 |**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|null|
-|**2025-03-31**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
+|**2025-04-01**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
 |**2025-03-28**|**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622](http://arxiv.org/abs/2503.22622)|null|
 |**2025-03-28**|**EchoFlow: A Foundation Model for Cardiac Ultrasound Image and Video Generation**|Hadrien Reynaud et.al.|[2503.22357](http://arxiv.org/abs/2503.22357)|null|
@@ -3207,7 +3207,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -4772,7 +4772,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
