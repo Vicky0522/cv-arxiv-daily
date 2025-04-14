@@ -240,6 +240,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|null|
+|**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
+|**2025-04-11**|**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**|Team Seawead et.al.|[2504.08685](http://arxiv.org/abs/2504.08685)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
+|**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
+|**2025-04-11**|**Discriminator-Free Direct Preference Optimization for Video Diffusion**|Haoran Cheng et.al.|[2504.08542](http://arxiv.org/abs/2504.08542)|null|
+|**2025-04-11**|**On the Design of Diffusion-based Neural Speech Codecs**|Pietro Foti et.al.|[2504.08470](http://arxiv.org/abs/2504.08470)|null|
+|**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|null|
+|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
+|**2025-04-11**|**MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**|Daeun Kim et.al.|[2504.08398](http://arxiv.org/abs/2504.08398)|null|
 |**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963](http://arxiv.org/abs/2504.07963)|**[link](https://github.com/shoufachen/pixelflow)**|
 |**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
@@ -3273,6 +3283,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
+|**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
+|**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
+|**2025-04-10**|**POEM: Precise Object-level Editing via MLLM control**|Marco Schouten et.al.|[2504.08111](http://arxiv.org/abs/2504.08111)|null|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
 |**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|**[link](https://github.com/zhaohengrun/gifl)**|
 |**2025-04-10**|**Synthetic CT Generation from Time-of-Flight Non-Attenutaion-Corrected PET for Whole-Body PET Attenuation Correction**|Weijie Chen et.al.|[2504.07450](http://arxiv.org/abs/2504.07450)|null|
