@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Score Matching Diffusion Based Feedback Control and Planning of Nonlinear Systems**|Karthik Elamvazhuthi et.al.|[2504.09836](http://arxiv.org/abs/2504.09836)|null|
+|**2025-04-13**|**Knowledge Independence Breeds Disruption but Limits Recognition**|Xiaoyao Yu et.al.|[2504.09589](http://arxiv.org/abs/2504.09589)|null|
 |**2025-04-07**|**DDPM Score Matching and Distribution Learning**|Sinho Chewi et.al.|[2504.05161](http://arxiv.org/abs/2504.05161)|null|
 |**2025-04-04**|**Gaussian Process Tilted Nonparametric Density Estimation using Fisher Divergence Score Matching**|John Paisley et.al.|[2504.03485](http://arxiv.org/abs/2504.03485)|null|
 |**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938](http://arxiv.org/abs/2504.01938)|null|
@@ -240,6 +242,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466](http://arxiv.org/abs/2504.10466)|null|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
+|**2025-04-14**|**FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos**|Rui Chen et.al.|[2504.10358](http://arxiv.org/abs/2504.10358)|null|
+|**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
+|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|null|
+|**2025-04-14**|**GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**|Jo-Ku Cheng et.al.|[2504.10146](http://arxiv.org/abs/2504.10146)|null|
+|**2025-04-14**|**Aligning Anime Video Generation with Human Feedback**|Bingwen Zhu et.al.|[2504.10044](http://arxiv.org/abs/2504.10044)|null|
+|**2025-04-14**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al.|[2504.10021](http://arxiv.org/abs/2504.10021)|null|
+|**2025-04-14**|**Omni-Dish: Photorealistic and Faithful Image Generation and Editing for Arbitrary Chinese Dishes**|Huijie Liu et.al.|[2504.09948](http://arxiv.org/abs/2504.09948)|null|
+|**2025-04-14**|**EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise**|Chao Liu et.al.|[2504.09789](http://arxiv.org/abs/2504.09789)|null|
 |**2025-04-11**|**GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation**|Tianwei Xiong et.al.|[2504.08736](http://arxiv.org/abs/2504.08736)|null|
 |**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
 |**2025-04-11**|**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**|Team Seawead et.al.|[2504.08685](http://arxiv.org/abs/2504.08685)|null|
@@ -3283,6 +3295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
+|**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|
+|**2025-04-14**|**Multimodal Representation Learning Techniques for Comprehensive Facial State Analysis**|Kaiwen Zheng et.al.|[2504.10351](http://arxiv.org/abs/2504.10351)|null|
+|**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317](http://arxiv.org/abs/2504.10317)|null|
+|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|null|
+|**2025-04-14**|**Learning to Harmonize Cross-vendor X-ray Images by Non-linear Image Dynamics Correction**|Yucheng Lu et.al.|[2504.10080](http://arxiv.org/abs/2504.10080)|null|
+|**2025-04-14**|**Progressive Transfer Learning for Multi-Pass Fundus Image Restoration**|Uyen Phan et.al.|[2504.10025](http://arxiv.org/abs/2504.10025)|null|
+|**2025-04-14**|**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**|Gang Wu et.al.|[2504.09973](http://arxiv.org/abs/2504.09973)|null|
+|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|null|
+|**2025-04-13**|**CamMimic: Zero-Shot Image To Camera Motion Personalized Video Generation Using Diffusion Models**|Pooja Guhan et.al.|[2504.09472](http://arxiv.org/abs/2504.09472)|null|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
 |**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
 |**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
