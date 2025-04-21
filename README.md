@@ -251,6 +251,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726](http://arxiv.org/abs/2504.13726)|null|
+|**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|
+|**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
+|**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490](http://arxiv.org/abs/2504.13490)|null|
+|**2025-04-18**|**POET: Supporting Prompting Creativity and Personalization with Automated Expansion of Text-to-Image Generation**|Evans Xu Han et.al.|[2504.13392](http://arxiv.org/abs/2504.13392)|null|
+|**2025-04-17**|**SMPL-GPTexture: Dual-View 3D Human Texture Estimation using Text-to-Image Generation Models**|Mingxiao Tu et.al.|[2504.13378](http://arxiv.org/abs/2504.13378)|null|
 |**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
 |**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072](http://arxiv.org/abs/2504.13072)|null|
@@ -3334,6 +3340,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490](http://arxiv.org/abs/2504.13490)|null|
+|**2025-04-18**|**Circular Image Deturbulence using Quasi-conformal Geometry**|Chu Chen et.al.|[2504.13432](http://arxiv.org/abs/2504.13432)|null|
+|**2025-04-17**|**Image Editing with Diffusion Models: A Survey**|Jia Wang et.al.|[2504.13226](http://arxiv.org/abs/2504.13226)|null|
 |**2025-04-17**|**$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143](http://arxiv.org/abs/2504.13143)|null|
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
 |**2025-04-17**|**Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2504.13035](http://arxiv.org/abs/2504.13035)|null|
