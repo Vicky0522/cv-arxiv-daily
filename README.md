@@ -265,11 +265,11 @@
 |**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
 |**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048](http://arxiv.org/abs/2504.12048)|null|
 |**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018](http://arxiv.org/abs/2504.12018)|null|
-|**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|null|
-|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936](http://arxiv.org/abs/2504.11936)|null|
+|**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|**[link](https://github.com/dae-plz/re-gips)**|
+|**2025-04-16**|**Mind2Matter: Creating 3D Models from EEG Signals**|Xia Deng et.al.|[2504.11936](http://arxiv.org/abs/2504.11936)|**[link](https://github.com/sddwwww/mind2matter)**|
 |**2025-04-16**|**The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation**|Bingjie Gao et.al.|[2504.11739](http://arxiv.org/abs/2504.11739)|null|
-|**2025-04-16**|**Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**|Muhammad Shahid Muneer et.al.|[2504.11707](http://arxiv.org/abs/2504.11707)|null|
-|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
+|**2025-04-16**|**Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset**|Muhammad Shahid Muneer et.al.|[2504.11707](http://arxiv.org/abs/2504.11707)|**[link](https://github.com/shahidmuneer/multimodal-nsfw-defense)**|
+|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|**[link](https://github.com/ziqipang/addp)**|
 |**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
 |**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
 |**2025-04-15**|**Omni $^2$ : Unifying Omnidirectional Image Generation and Editing in an Omni Model**|Liu Yang et.al.|[2504.11379](http://arxiv.org/abs/2504.11379)|null|
@@ -280,10 +280,10 @@
 |**2025-04-15**|**Bringing together invertible UNets with invertible attention modules for memory-efficient diffusion models**|Karan Jain et.al.|[2504.10883](http://arxiv.org/abs/2504.10883)|null|
 |**2025-04-15**|**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding**|Dianbing Xi et.al.|[2504.10825](http://arxiv.org/abs/2504.10825)|null|
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466](http://arxiv.org/abs/2504.10466)|null|
-|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|**[link](https://github.com/hutaihang/atm)**|
 |**2025-04-14**|**FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos**|Rui Chen et.al.|[2504.10358](http://arxiv.org/abs/2504.10358)|null|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
-|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|null|
+|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|**[link](https://github.com/rachddou/deadleavesplus)**|
 |**2025-04-14**|**GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**|Jo-Ku Cheng et.al.|[2504.10146](http://arxiv.org/abs/2504.10146)|null|
 |**2025-04-14**|**Aligning Anime Video Generation with Human Feedback**|Bingwen Zhu et.al.|[2504.10044](http://arxiv.org/abs/2504.10044)|null|
 |**2025-04-14**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al.|[2504.10021](http://arxiv.org/abs/2504.10021)|null|
@@ -296,7 +296,7 @@
 |**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
 |**2025-04-11**|**Discriminator-Free Direct Preference Optimization for Video Diffusion**|Haoran Cheng et.al.|[2504.08542](http://arxiv.org/abs/2504.08542)|null|
 |**2025-04-11**|**On the Design of Diffusion-based Neural Speech Codecs**|Pietro Foti et.al.|[2504.08470](http://arxiv.org/abs/2504.08470)|null|
-|**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|null|
+|**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|**[link](https://github.com/chenweiye9/moun-ad)**|
 |**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-11**|**MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization**|Daeun Kim et.al.|[2504.08398](http://arxiv.org/abs/2504.08398)|null|
 |**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963](http://arxiv.org/abs/2504.07963)|**[link](https://github.com/shoufachen/pixelflow)**|
@@ -305,12 +305,12 @@
 |**2025-04-10**|**Beyond the Frame: Generating 360° Panoramic Videos from Perspective Videos**|Rundong Luo et.al.|[2504.07940](http://arxiv.org/abs/2504.07940)|null|
 |**2025-04-10**|**DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows**|Mashrur M. Morshed et.al.|[2504.07894](http://arxiv.org/abs/2504.07894)|null|
 |**2025-04-10**|**Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation**|Daniel Hove Paludan et.al.|[2504.07879](http://arxiv.org/abs/2504.07879)|null|
-|**2025-04-10**|**Diffusion Transformers for Tabular Data Time Series Generation**|Fabrizio Garuti et.al.|[2504.07566](http://arxiv.org/abs/2504.07566)|null|
+|**2025-04-10**|**Diffusion Transformers for Tabular Data Time Series Generation**|Fabrizio Garuti et.al.|[2504.07566](http://arxiv.org/abs/2504.07566)|**[link](https://github.com/fabriziogaruti/TabDiT)**|
 |**2025-04-10**|**FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation**|Linyan Huang et.al.|[2504.07405](http://arxiv.org/abs/2504.07405)|null|
 |**2025-04-10**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|**[link](https://github.com/dariant/id-booth)**|
 |**2025-04-10**|**Model Discrepancy Learning: Synthetic Faces Detection Based on Multi-Reconstruction**|Qingchao Jiang et.al.|[2504.07382](http://arxiv.org/abs/2504.07382)|**[link](https://github.com/hurrice-star/asfd)**|
-|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
-|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|null|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|**[link](https://github.com/alpha-innovator/omnicaptioner)**|
+|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|**[link](https://github.com/hitsz-tmg/agentic-cigeval)**|
 |**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**A Meaningful Perturbation Metric for Evaluating Explainability Methods**|Danielle Cohen et.al.|[2504.06800](http://arxiv.org/abs/2504.06800)|null|
@@ -322,8 +322,8 @@
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232](http://arxiv.org/abs/2504.06232)|null|
 |**2025-04-08**|**A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model**|Jihun Park et.al.|[2504.06144](http://arxiv.org/abs/2504.06144)|null|
-|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
-|**2025-04-08**|**An Empirical Study of GPT-4o Image Generation Capabilities**|Sixiang Chen et.al.|[2504.05979](http://arxiv.org/abs/2504.05979)|null|
+|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|**[link](https://github.com/ldenninger/camcontexti2v)**|
+|**2025-04-08**|**An Empirical Study of GPT-4o Image Generation Capabilities**|Sixiang Chen et.al.|[2504.05979](http://arxiv.org/abs/2504.05979)|**[link](https://github.com/ephemeral182/empirical-study-of-gpt-4o-image-gen)**|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-08**|**Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models**|Jiahao Chen et.al.|[2504.05815](http://arxiv.org/abs/2504.05815)|null|
 |**2025-04-08**|**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling**|Jaskirat Singh et.al.|[2504.05800](http://arxiv.org/abs/2504.05800)|null|
@@ -372,7 +372,7 @@
 |**2025-03-31**|**Threats and Opportunities in AI-generated Images for Armed Forces**|Raphael Meier et.al.|[2503.24095](http://arxiv.org/abs/2503.24095)|null|
 |**2025-04-01**|**HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation**|Boyuan Wang et.al.|[2503.24026](http://arxiv.org/abs/2503.24026)|null|
 |**2025-03-31**|**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**|Fangda Chen et.al.|[2503.23951](http://arxiv.org/abs/2503.23951)|null|
-|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|null|
+|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|**[link](https://github.com/avdpro/ai2apps)**|
 |**2025-04-01**|**On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices**|Bosung Kim et.al.|[2503.23796](http://arxiv.org/abs/2503.23796)|**[link](https://github.com/eai-lab/on-device-sora)**|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
 |**2025-03-28**|**Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model**|Jangho Park et.al.|[2503.22622](http://arxiv.org/abs/2503.22622)|null|
@@ -3344,7 +3344,7 @@
 |**2025-04-16**|**Towards Realistic Low-Light Image Enhancement via ISP Driven Data Modeling**|Zhihua Wang et.al.|[2504.12204](http://arxiv.org/abs/2504.12204)|null|
 |**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169](http://arxiv.org/abs/2504.12169)|null|
 |**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
-|**2025-04-17**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080](http://arxiv.org/abs/2504.12080)|null|
+|**2025-04-17**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080](http://arxiv.org/abs/2504.12080)|**[link](https://github.com/zaplm/dc-sam)**|
 |**2025-04-17**|**Understanding Attention Mechanism in Video Diffusion Models**|Bingyan Liu et.al.|[2504.12027](http://arxiv.org/abs/2504.12027)|null|
 |**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|null|
 |**2025-04-16**|**Learning Physics-Informed Color-Aware Transforms for Low-Light Image Enhancement**|Xingxing Yang et.al.|[2504.11896](http://arxiv.org/abs/2504.11896)|null|
@@ -3352,17 +3352,17 @@
 |**2025-04-15**|**Efficient Medical Image Restoration via Reliability Guided Learning in Frequency Domain**|Pengcheng Zheng et.al.|[2504.11286](http://arxiv.org/abs/2504.11286)|null|
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-15**|**AgentPolyp: Accurate Polyp Segmentation via Image Enhancement Agent**|Pu Wang et.al.|[2504.10978](http://arxiv.org/abs/2504.10978)|null|
-|**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|null|
-|**2025-04-14**|**Enhancing Image Restoration through Learning Context-Rich and Detail-Accurate Features**|Hu Gao et.al.|[2504.10558](http://arxiv.org/abs/2504.10558)|null|
-|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
+|**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|**[link](https://github.com/climbin/restormixer)**|
+|**2025-04-14**|**Enhancing Image Restoration through Learning Context-Rich and Detail-Accurate Features**|Hu Gao et.al.|[2504.10558](http://arxiv.org/abs/2504.10558)|**[link](https://github.com/tombs98/lcdnet)**|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|**[link](https://github.com/hutaihang/atm)**|
 |**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|
 |**2025-04-14**|**Multimodal Representation Learning Techniques for Comprehensive Facial State Analysis**|Kaiwen Zheng et.al.|[2504.10351](http://arxiv.org/abs/2504.10351)|null|
 |**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317](http://arxiv.org/abs/2504.10317)|null|
-|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|null|
+|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|**[link](https://github.com/rachddou/deadleavesplus)**|
 |**2025-04-14**|**Learning to Harmonize Cross-vendor X-ray Images by Non-linear Image Dynamics Correction**|Yucheng Lu et.al.|[2504.10080](http://arxiv.org/abs/2504.10080)|null|
 |**2025-04-14**|**Progressive Transfer Learning for Multi-Pass Fundus Image Restoration**|Uyen Phan et.al.|[2504.10025](http://arxiv.org/abs/2504.10025)|null|
-|**2025-04-14**|**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**|Gang Wu et.al.|[2504.09973](http://arxiv.org/abs/2504.09973)|null|
-|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|null|
+|**2025-04-14**|**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**|Gang Wu et.al.|[2504.09973](http://arxiv.org/abs/2504.09973)|**[link](https://github.com/aitical/cplir)**|
+|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-04-13**|**CamMimic: Zero-Shot Image To Camera Motion Personalized Video Generation Using Diffusion Models**|Pooja Guhan et.al.|[2504.09472](http://arxiv.org/abs/2504.09472)|null|
 |**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
 |**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
@@ -3384,7 +3384,7 @@
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
 |**2025-04-08**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
-|**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
+|**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|**[link](https://github.com/aitical/dswinir)**|
 |**2025-04-07**|**Inland Waterway Object Detection in Multi-environment: Dataset and Approach**|Shanshan Wang et.al.|[2504.04835](http://arxiv.org/abs/2504.04835)|null|
 |**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
 |**2025-04-05**|**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**|Yunlong Lin et.al.|[2504.04158](http://arxiv.org/abs/2504.04158)|null|
@@ -3407,8 +3407,8 @@
 |**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755](http://arxiv.org/abs/2504.01755)|null|
 |**2025-04-01**|**Deconver: A Deconvolutional Network for Medical Image Segmentation**|Pooya Ashtari et.al.|[2504.00302](http://arxiv.org/abs/2504.00302)|**[link](https://github.com/pashtari/deconver)**|
 |**2025-03-31**|**InstructRestore: Region-Customized Image Restoration with Human Instructions**|Shuaizheng Liu et.al.|[2503.24357](http://arxiv.org/abs/2503.24357)|**[link](https://github.com/shuaizhengliu/instructrestore)**|
-|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|null|
-|**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|null|
+|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|**[link](https://github.com/avdpro/ai2apps)**|
+|**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|**[link](https://github.com/wyf0912/aredit)**|
 |**2025-03-31**|**3D Dental Model Segmentation with Geometrical Boundary Preserving**|Shufan Xi et.al.|[2503.23702](http://arxiv.org/abs/2503.23702)|null|
 |**2025-03-30**|**Leveraging Vision-Language Foundation Models to Reveal Hidden Image-Attribute Relationships in Medical Imaging**|Amar Kumar et.al.|[2503.23618](http://arxiv.org/abs/2503.23618)|null|
 |**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
@@ -3501,7 +3501,7 @@
 |**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
 |**2025-03-11**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
 |**2025-03-10**|**TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation**|Victor Shea-Jay Huang et.al.|[2503.07050](http://arxiv.org/abs/2503.07050)|null|
-|**2025-03-10**|**MERLION: Marine ExploRation with Language guIded Online iNformative Visual Sampling and Enhancement**|Shrutika Vishal Thengane et.al.|[2503.06953](http://arxiv.org/abs/2503.06953)|null|
+|**2025-03-10**|**MERLION: Marine ExploRation with Language guIded Online iNformative Visual Sampling and Enhancement**|Shrutika Vishal Thengane et.al.|[2503.06953](http://arxiv.org/abs/2503.06953)|**[link](https://github.com/marvl-lab/merlion)**|
 |**2025-03-10**|**Interactive Tumor Progression Modeling via Sketch-Based Image Editing**|Gexin Huang et.al.|[2503.06809](http://arxiv.org/abs/2503.06809)|null|
 |**2025-03-09**|**Consistent Image Layout Editing with Diffusion Models**|Tao Xia et.al.|[2503.06419](http://arxiv.org/abs/2503.06419)|null|
 |**2025-03-08**|**Get In Video: Add Anything You Want to the Video**|Shaobin Zhuang et.al.|[2503.06268](http://arxiv.org/abs/2503.06268)|null|
@@ -3607,7 +3607,7 @@
 |**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
 |**2025-01-21**|**Quality Enhancement of Radiographic X-ray Images by Interpretable Mapping**|Hongxu Yang et.al.|[2501.12245](http://arxiv.org/abs/2501.12245)|null|
 |**2025-01-21**|**DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains**|Junyu Xia et.al.|[2501.12235](http://arxiv.org/abs/2501.12235)|null|
-|**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
+|**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|**[link](https://github.com/cvlab-kaist/Chrono)**|
 |**2025-01-21**|**Proxies for Distortion and Consistency with Applications for Real-World Image Restoration**|Sean Man et.al.|[2501.12102](http://arxiv.org/abs/2501.12102)|null|
 |**2025-01-20**|**SILO: Solving Inverse Problems with Latent Operators**|Ron Raphaeli et.al.|[2501.11746](http://arxiv.org/abs/2501.11746)|null|
 |**2025-01-20**|**PlotEdit: Natural Language-Driven Accessible Chart Editing in PDFs via Multimodal LLM Agents**|Kanika Goswami et.al.|[2501.11233](http://arxiv.org/abs/2501.11233)|null|
@@ -4263,7 +4263,7 @@
 |**2024-05-15**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
 |**2024-05-14**|**WaterMamba: Visual State Space Model for Underwater Image Enhancement**|Meisheng Guan et.al.|[2405.08419](http://arxiv.org/abs/2405.08419)|null|
 |**2024-05-14**|**Palette-based Color Transfer between Images**|Chenlei Lv et.al.|[2405.08263](http://arxiv.org/abs/2405.08263)|null|
-|**2024-05-13**|**FRRffusion: Unveiling Authenticity with Diffusion-Based Face Retouching Reversal**|Fengchuang Xing et.al.|[2405.07582](http://arxiv.org/abs/2405.07582)|null|
+|**2024-05-13**|**FRRffusion: Unveiling Authenticity with Diffusion-Based Face Retouching Reversal**|Fengchuang Xing et.al.|[2405.07582](http://arxiv.org/abs/2405.07582)|**[link](https://github.com/gzhu-dvl/frrffusion)**|
 |**2024-05-09**|**Diag2Diag: Multi modal super resolution for physics discovery with application to fusion**|Azarakhsh Jalalvand et.al.|[2405.05908](http://arxiv.org/abs/2405.05908)|null|
 |**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800](http://arxiv.org/abs/2405.05800)|null|
 |**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|**[link](https://github.com/hit-philiphan/remote_sensing_image_editing)**|
