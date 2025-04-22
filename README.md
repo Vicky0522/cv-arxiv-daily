@@ -251,6 +251,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189](http://arxiv.org/abs/2504.15189)|null|
+|**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182](http://arxiv.org/abs/2504.15182)|null|
+|**2025-04-21**|**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**|Junyuan Deng et.al.|[2504.15159](http://arxiv.org/abs/2504.15159)|null|
+|**2025-04-21**|**GIFDL: Generated Image Fluctuation Distortion Learning for Enhancing Steganographic Security**|Xiangkun Wang et.al.|[2504.15139](http://arxiv.org/abs/2504.15139)|null|
+|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-21**|**DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation**|Weijie He et.al.|[2504.15032](http://arxiv.org/abs/2504.15032)|null|
+|**2025-04-21**|**TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**|Mazharul Islam Rakib et.al.|[2504.14933](http://arxiv.org/abs/2504.14933)|null|
+|**2025-04-21**|**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**|Chenjie Cao et.al.|[2504.14899](http://arxiv.org/abs/2504.14899)|**[link](https://github.com/ewrfcas/uni3c)**|
+|**2025-04-21**|**Twin Co-Adaptive Dialogue for Progressive Image Generation**|Jianhui Wang et.al.|[2504.14868](http://arxiv.org/abs/2504.14868)|null|
+|**2025-04-21**|**LACE: Exploring Turn-Taking and Parallel Interaction Modes in Human-AI Co-Creation for Iterative Image Generation**|YenKai Huang et.al.|[2504.14827](http://arxiv.org/abs/2504.14827)|null|
 |**2025-04-18**|**MLEP: Multi-granularity Local Entropy Patterns for Universal AI-generated Image Detection**|Lin Yuan et.al.|[2504.13726](http://arxiv.org/abs/2504.13726)|null|
 |**2025-04-18**|**SupResDiffGAN a new approach for the Super-Resolution task**|Dawid Kopeć et.al.|[2504.13622](http://arxiv.org/abs/2504.13622)|null|
 |**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
@@ -3340,6 +3350,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**|Junyuan Deng et.al.|[2504.15159](http://arxiv.org/abs/2504.15159)|null|
+|**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054](http://arxiv.org/abs/2504.15054)|null|
+|**2025-04-21**|**Distribution-aware Dataset Distillation for Efficient Image Restoration**|Zhuoran Zheng et.al.|[2504.14826](http://arxiv.org/abs/2504.14826)|null|
+|**2025-04-20**|**MP-Mat: A 3D-and-Instance-Aware Human Matting and Editing Framework with Multiplane Representation**|Siyi Jiao et.al.|[2504.14606](http://arxiv.org/abs/2504.14606)|null|
+|**2025-04-19**|**Visual Prompting for One-shot Controllable Video Editing without Inversion**|Zhengbo Zhang et.al.|[2504.14335](http://arxiv.org/abs/2504.14335)|null|
+|**2025-04-19**|**Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation**|Bin Ren et.al.|[2504.14249](http://arxiv.org/abs/2504.14249)|null|
+|**2025-04-19**|**PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling**|Alara Dirik et.al.|[2504.14219](http://arxiv.org/abs/2504.14219)|null|
+|**2025-04-18**|**Towards Scale-Aware Low-Light Enhancement via Structure-Guided Transformer Design**|Wei Dong et.al.|[2504.14075](http://arxiv.org/abs/2504.14075)|**[link](https://github.com/minyan8/imagine)**|
+|**2025-04-18**|**Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation**|Fulvio Sanguigni et.al.|[2504.14011](http://arxiv.org/abs/2504.14011)|null|
 |**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490](http://arxiv.org/abs/2504.13490)|null|
 |**2025-04-18**|**Circular Image Deturbulence using Quasi-conformal Geometry**|Chu Chen et.al.|[2504.13432](http://arxiv.org/abs/2504.13432)|null|
 |**2025-04-17**|**Image Editing with Diffusion Models: A Survey**|Jia Wang et.al.|[2504.13226](http://arxiv.org/abs/2504.13226)|null|
