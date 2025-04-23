@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -244,11 +244,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189](http://arxiv.org/abs/2504.15189)|null|
+|**2025-04-22**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189](http://arxiv.org/abs/2504.15189)|null|
 |**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182](http://arxiv.org/abs/2504.15182)|null|
 |**2025-04-21**|**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**|Junyuan Deng et.al.|[2504.15159](http://arxiv.org/abs/2504.15159)|null|
 |**2025-04-21**|**GIFDL: Generated Image Fluctuation Distortion Learning for Enhancing Steganographic Security**|Xiangkun Wang et.al.|[2504.15139](http://arxiv.org/abs/2504.15139)|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-21**|**DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation**|Weijie He et.al.|[2504.15032](http://arxiv.org/abs/2504.15032)|null|
 |**2025-04-21**|**TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**|Mazharul Islam Rakib et.al.|[2504.14933](http://arxiv.org/abs/2504.14933)|null|
 |**2025-04-21**|**Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**|Chenjie Cao et.al.|[2504.14899](http://arxiv.org/abs/2504.14899)|**[link](https://github.com/ewrfcas/uni3c)**|
