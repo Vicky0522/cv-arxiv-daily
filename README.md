@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion**|Ruixiang Zhang et.al.|[2504.16431](http://arxiv.org/abs/2504.16431)|null|
 |**2025-04-22**|**InstaRevive: One-Step Image Enhancement via Dynamic Score Matching**|Yixuan Zhu et.al.|[2504.15513](http://arxiv.org/abs/2504.15513)|null|
 |**2025-04-16**|**Generalization through variance: how noise shapes inductive biases in diffusion models**|John J. Vastola et.al.|[2504.12532](http://arxiv.org/abs/2504.12532)|null|
 |**2025-04-15**|**Mathematical Capabilities of Large Language Models in Finnish Matriculation Examination**|Mika Setälä et.al.|[2504.12347](http://arxiv.org/abs/2504.12347)|null|
@@ -252,6 +253,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907](http://arxiv.org/abs/2504.16907)|null|
+|**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Ying Li et.al.|[2504.16464](http://arxiv.org/abs/2504.16464)|null|
+|**2025-04-23**|**CLPSTNet: A Progressive Multi-Scale Convolutional Steganography Model Integrating Curriculum Learning**|Fengchun Liu et.al.|[2504.16364](http://arxiv.org/abs/2504.16364)|null|
+|**2025-04-23**|**VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models**|Xuming Hu et.al.|[2504.16359](http://arxiv.org/abs/2504.16359)|null|
+|**2025-04-22**|**Learning Energy-Based Generative Models via Potential Flow: A Variational Principle Approach to Probability Density Homotopy Matching**|Junn Yong Loo et.al.|[2504.16262](http://arxiv.org/abs/2504.16262)|null|
 |**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
 |**2025-04-22**|**Boosting Generative Image Modeling via Joint Image-Feature Synthesis**|Theodoros Kouzelis et.al.|[2504.16064](http://arxiv.org/abs/2504.16064)|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016](http://arxiv.org/abs/2504.16016)|null|
@@ -3361,6 +3367,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**RouteWinFormer: A Route-Window Transformer for Middle-range Attention in Image Restoration**|Qifan Li et.al.|[2504.16637](http://arxiv.org/abs/2504.16637)|null|
+|**2025-04-23**|**Cross Paradigm Representation and Alignment Transformer for Image Deraining**|Shun Zou et.al.|[2504.16455](http://arxiv.org/abs/2504.16455)|null|
 |**2025-04-22**|**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework**|Xinyuan Song et.al.|[2504.16016](http://arxiv.org/abs/2504.16016)|null|
 |**2025-04-22**|**Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models**|Dasol Jeong et.al.|[2504.15723](http://arxiv.org/abs/2504.15723)|null|
 |**2025-04-22**|**Vidi: Large Multimodal Models for Video Understanding and Editing**|Vidi Team et.al.|[2504.15681](http://arxiv.org/abs/2504.15681)|null|
