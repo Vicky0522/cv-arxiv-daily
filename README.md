@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Score-Based Deterministic Density Sampling**|Vasily Ilin et.al.|[2504.18130](http://arxiv.org/abs/2504.18130)|null|
 |**2025-04-23**|**Whence Is A Model Fair? Fixing Fairness Bugs via Propensity Score Matching**|Kewen Peng et.al.|[2504.17066](http://arxiv.org/abs/2504.17066)|null|
 |**2025-04-23**|**Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion**|Ruixiang Zhang et.al.|[2504.16431](http://arxiv.org/abs/2504.16431)|null|
 |**2025-04-22**|**InstaRevive: One-Step Image Enhancement via Dynamic Score Matching**|Yixuan Zhu et.al.|[2504.15513](http://arxiv.org/abs/2504.15513)|null|
@@ -254,6 +255,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448](http://arxiv.org/abs/2504.18448)|null|
+|**2025-04-25**|**HepatoGEN: Generating Hepatobiliary Phase MRI with Perceptual and Adversarial Models**|Jens Hooge et.al.|[2504.18405](http://arxiv.org/abs/2504.18405)|null|
+|**2025-04-24**|**Fast Autoregressive Models for Continuous Latent Generation**|Tiankai Hang et.al.|[2504.18391](http://arxiv.org/abs/2504.18391)|null|
+|**2025-04-25**|**TextTIGER: Text-based Intelligent Generation with Entity Prompt Refinement for Text-to-Image Generation**|Shintaro Ozaki et.al.|[2504.18269](http://arxiv.org/abs/2504.18269)|null|
+|**2025-04-25**|**Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Preference Understanding**|Kun Li et.al.|[2504.18204](http://arxiv.org/abs/2504.18204)|null|
+|**2025-04-25**|**Diffusion-Driven Universal Model Inversion Attack for Face Recognition**|Hanrui Wang et.al.|[2504.18015](http://arxiv.org/abs/2504.18015)|null|
 |**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
 |**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
@@ -3378,6 +3385,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing**|Aniruddha Bala et.al.|[2504.17894](http://arxiv.org/abs/2504.17894)|null|
+|**2025-04-24**|**VEU-Bench: Towards Comprehensive Understanding of Video Editing**|Bozheng Li et.al.|[2504.17828](http://arxiv.org/abs/2504.17828)|null|
+|**2025-04-24**|**Dual Prompting Image Restoration with Diffusion Transformers**|Dehong Kong et.al.|[2504.17825](http://arxiv.org/abs/2504.17825)|null|
 |**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
 |**2025-04-24**|**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**|Zhanwen Liu et.al.|[2504.17732](http://arxiv.org/abs/2504.17732)|null|
 |**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
