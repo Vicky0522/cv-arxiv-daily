@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Coreset selection for the Sinkhorn divergence and generic smooth divergences**|Alex Kokot et.al.|[2504.20194](http://arxiv.org/abs/2504.20194)|null|
 |**2025-04-27**|**Generalized Score Matching: Bridging $f$ -Divergence and Statistical Estimation Under Correlated Noise**|Yirong Shen et.al.|[2504.19288](http://arxiv.org/abs/2504.19288)|null|
 |**2025-04-25**|**Score-Based Deterministic Density Sampling**|Vasily Ilin et.al.|[2504.18130](http://arxiv.org/abs/2504.18130)|null|
 |**2025-04-23**|**Whence Is A Model Fair? Fixing Fairness Bugs via Propensity Score Matching**|Kewen Peng et.al.|[2504.17066](http://arxiv.org/abs/2504.17066)|null|
@@ -256,6 +257,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**YoChameleon: Personalized Vision and Language Generation**|Thao Nguyen et.al.|[2504.20998](http://arxiv.org/abs/2504.20998)|null|
+|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
+|**2025-04-29**|**DDPS: Discrete Diffusion Posterior Sampling for Paths in Layered Graphs**|Hao Luan et.al.|[2504.20754](http://arxiv.org/abs/2504.20754)|null|
+|**2025-04-29**|**Efficient Listener: Dyadic Facial Motion Synthesis via Action Diffusion**|Zesheng Wang et.al.|[2504.20685](http://arxiv.org/abs/2504.20685)|null|
+|**2025-04-29**|**Advance Fake Video Detection via Vision Transformers**|Joy Battocchio et.al.|[2504.20669](http://arxiv.org/abs/2504.20669)|null|
+|**2025-04-29**|**PixelHacker: Image Inpainting with Structural and Semantic Consistency**|Ziyang Xu et.al.|[2504.20438](http://arxiv.org/abs/2504.20438)|null|
+|**2025-04-29**|**Inception: Jailbreak the Memory Mechanism of Text-to-Image Generation Systems**|Shiqian Zhao et.al.|[2504.20376](http://arxiv.org/abs/2504.20376)|null|
+|**2025-04-29**|**A Picture is Worth a Thousand Prompts? Efficacy of Iterative Human-Driven Prompt Refinement in Image Regeneration Tasks**|Khoi Trinh et.al.|[2504.20340](http://arxiv.org/abs/2504.20340)|null|
+|**2025-04-28**|**Physics-Informed Diffusion Models for SAR Ship Wake Generation from Text Prompts**|Kamirul Kamirul et.al.|[2504.20241](http://arxiv.org/abs/2504.20241)|null|
 |**2025-04-28**|**CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition**|Quynh Phung et.al.|[2504.19894](http://arxiv.org/abs/2504.19894)|null|
 |**2025-04-28**|**RepText: Rendering Visual Text via Replicating**|Haofan Wang et.al.|[2504.19724](http://arxiv.org/abs/2504.19724)|null|
 |**2025-04-28**|**DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer**|Junpeng Jiang et.al.|[2504.19614](http://arxiv.org/abs/2504.19614)|null|
@@ -3396,6 +3406,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
+|**2025-04-29**|**PixelHacker: Image Inpainting with Structural and Semantic Consistency**|Ziyang Xu et.al.|[2504.20438](http://arxiv.org/abs/2504.20438)|null|
 |**2025-04-27**|**FusionNet: Multi-model Linear Fusion Framework for Low-light Image Enhancement**|Kangbiao Shi et.al.|[2504.19295](http://arxiv.org/abs/2504.19295)|null|
 |**2025-04-27**|**Marine Snow Removal Using Internally Generated Pseudo Ground Truth**|Alexandra Malyugina et.al.|[2504.19289](http://arxiv.org/abs/2504.19289)|null|
 |**2025-04-27**|**Rendering Anywhere You See: Renderability Field-guided Gaussian Splatting**|Xiaofeng Jin et.al.|[2504.19261](http://arxiv.org/abs/2504.19261)|null|
