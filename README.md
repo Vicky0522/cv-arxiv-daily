@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Localized Diffusion Models for High Dimensional Distributions Generation**|Georg A. Gottwald et.al.|[2505.04417](http://arxiv.org/abs/2505.04417)|null|
 |**2025-05-02**|**Incorporating Inductive Biases to Energy-based Generative Models**|Yukun Li et.al.|[2505.01111](http://arxiv.org/abs/2505.01111)|null|
 |**2025-04-29**|**Frequency Feature Fusion Graph Network For Depression Diagnosis Via fNIRS**|Chengkai Yang et.al.|[2504.21064](http://arxiv.org/abs/2504.21064)|null|
 |**2025-04-28**|**Coreset selection for the Sinkhorn divergence and generic smooth divergences**|Alex Kokot et.al.|[2504.20194](http://arxiv.org/abs/2504.20194)|null|
@@ -259,6 +260,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
+|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
+|**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486](http://arxiv.org/abs/2505.04486)|null|
+|**2025-05-07**|**Unmasking the Canvas: A Dynamic Benchmark for Image Generation Jailbreaking and LLM Content Safety**|Variath Madhupal Gautham Nair et.al.|[2505.04146](http://arxiv.org/abs/2505.04146)|null|
+|**2025-05-07**|**RFNNS: Robust Fixed Neural Network Steganography with Popular Deep Generative Models**|Yu Cheng et.al.|[2505.04116](http://arxiv.org/abs/2505.04116)|null|
+|**2025-05-06**|**Deepfakes on Demand: the rise of accessible non-consensual deepfake image generators**|Will Hawkins et.al.|[2505.03859](http://arxiv.org/abs/2505.03859)|null|
 |**2025-05-06**|**Revolutionizing Brain Tumor Imaging: Generating Synthetic 3D FA Maps from T1-Weighted MRI using CycleGAN Models**|Xin Du et.al.|[2505.03662](http://arxiv.org/abs/2505.03662)|null|
 |**2025-05-06**|**Real-Time Person Image Synthesis Using a Flow Matching Model**|Jiwoo Jeong et.al.|[2505.03562](http://arxiv.org/abs/2505.03562)|null|
 |**2025-05-06**|**Safer Prompts: Reducing IP Risk in Visual Generative AI**|Lena Reissinger et.al.|[2505.03338](http://arxiv.org/abs/2505.03338)|null|
@@ -3441,6 +3448,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Multi-turn Consistent Image Editing**|Zijun Zhou et.al.|[2505.04320](http://arxiv.org/abs/2505.04320)|null|
+|**2025-05-07**|**TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement**|Yi Li et.al.|[2505.04281](http://arxiv.org/abs/2505.04281)|**[link](https://github.com/circcclek/ts-diff)**|
+|**2025-05-07**|**Regional chemical potential analysis for material surfaces**|Masahiro Fukuda et.al.|[2505.04053](http://arxiv.org/abs/2505.04053)|null|
+|**2025-05-04**|**Video Forgery Detection for Surveillance Cameras: A Review**|Noor B. Tayfor et.al.|[2505.03832](http://arxiv.org/abs/2505.03832)|null|
 |**2025-05-06**|**DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation**|Shanshan Song et.al.|[2505.03401](http://arxiv.org/abs/2505.03401)|**[link](https://github.com/xmed-lab/ddatr)**|
 |**2025-05-05**|**NTIRE 2025 Challenge on UGC Video Enhancement: Methods and Results**|Nikolay Safonov et.al.|[2505.03007](http://arxiv.org/abs/2505.03007)|**[link](https://github.com/msu-video-group/ntire25_ugc_video_enhancement)**|
 |**2025-05-07**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Inclusion AI et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|**[link](https://github.com/inclusionai/ming)**|
