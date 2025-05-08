@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -259,9 +259,9 @@ layout: default
 |**2025-05-06**|**Transformers for Learning on Noisy and Task-Level Manifolds: Approximation and Generalization Insights**|Zhaiming Shen et.al.|[2505.03205](http://arxiv.org/abs/2505.03205)|null|
 |**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824](http://arxiv.org/abs/2505.02824)|null|
 |**2025-05-06**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
-|**2025-05-05**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567](http://arxiv.org/abs/2505.02567)|null|
+|**2025-05-07**|**Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities**|Xinjie Zhang et.al.|[2505.02567](http://arxiv.org/abs/2505.02567)|null|
 |**2025-05-05**|**Text to Image Generation and Editing: A Survey**|Pengfei Yang et.al.|[2505.02527](http://arxiv.org/abs/2505.02527)|null|
-|**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
+|**2025-05-07**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Inclusion AI et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|**[link](https://github.com/inclusionai/ming)**|
 |**2025-05-04**|**Enhancing AI Face Realism: Cost-Efficient Quality Improvement in Distilled Diffusion Models with a Fully Synthetic Dataset**|Jakub Wąsala et.al.|[2505.02255](http://arxiv.org/abs/2505.02255)|null|
 |**2025-05-04**|**Improving Physical Object State Representation in Text-to-Image Generative Systems**|Tianle Chen et.al.|[2505.02236](http://arxiv.org/abs/2505.02236)|null|
 |**2025-05-04**|**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization**|Wenchuan Wang et.al.|[2505.02192](http://arxiv.org/abs/2505.02192)|null|
@@ -3432,16 +3432,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation**|Shanshan Song et.al.|[2505.03401](http://arxiv.org/abs/2505.03401)|null|
-|**2025-05-05**|**NTIRE 2025 Challenge on UGC Video Enhancement: Methods and Results**|Nikolay Safonov et.al.|[2505.03007](http://arxiv.org/abs/2505.03007)|null|
-|**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
-|**2025-05-05**|**MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection**|Jiaqi Zhang et.al.|[2505.02441](http://arxiv.org/abs/2505.02441)|null|
-|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|null|
+|**2025-05-06**|**DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation**|Shanshan Song et.al.|[2505.03401](http://arxiv.org/abs/2505.03401)|**[link](https://github.com/xmed-lab/ddatr)**|
+|**2025-05-05**|**NTIRE 2025 Challenge on UGC Video Enhancement: Methods and Results**|Nikolay Safonov et.al.|[2505.03007](http://arxiv.org/abs/2505.03007)|**[link](https://github.com/msu-video-group/ntire25_ugc_video_enhancement)**|
+|**2025-05-07**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Inclusion AI et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|**[link](https://github.com/inclusionai/ming)**|
+|**2025-05-05**|**MSFNet-CPD: Multi-Scale Cross-Modal Fusion Network for Crop Pest Detection**|Jiaqi Zhang et.al.|[2505.02441](http://arxiv.org/abs/2505.02441)|**[link](https://github.com/healer-ml/msfnet-cpd)**|
+|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|**[link](https://github.com/bytedance/superedit)**|
 |**2025-05-04**|**HiLLIE: Human-in-the-Loop Training for Low-Light Image Enhancement**|Xiaorui Zhao et.al.|[2505.02134](http://arxiv.org/abs/2505.02134)|null|
 |**2025-05-03**|**ImageR: Enhancing Bug Report Clarity by Screenshots**|Xuchen Tan et.al.|[2505.01925](http://arxiv.org/abs/2505.01925)|null|
 |**2025-05-03**|**Multi-Scale Target-Aware Representation Learning for Fundus Image Enhancement**|Haofan Wu et.al.|[2505.01831](http://arxiv.org/abs/2505.01831)|null|
 |**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294](http://arxiv.org/abs/2505.01294)|null|
-|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|null|
+|**2025-05-02**|**RD-UIE: Relation-Driven State Space Modeling for Underwater Image Enhancement**|Kui Jiang et.al.|[2505.01224](http://arxiv.org/abs/2505.01224)|**[link](https://github.com/kkoucy/rd-uie)**|
 |**2025-05-02**|**Improving Editability in Image Generation with Layer-wise Memory**|Daneul Kim et.al.|[2505.01079](http://arxiv.org/abs/2505.01079)|null|
 |**2025-05-02**|**A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories**|Ziqi Ding et.al.|[2505.01067](http://arxiv.org/abs/2505.01067)|null|
 |**2025-05-02**|**Photoshop Batch Rendering Using Actions for Stylistic Video Editing**|Tessa De La Fuente et.al.|[2505.01001](http://arxiv.org/abs/2505.01001)|null|
