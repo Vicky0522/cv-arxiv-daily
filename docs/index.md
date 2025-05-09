@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Graffe: Graph Representation Learning via Diffusion Probabilistic Models**|Dingshuo Chen et.al.|[2505.04956](http://arxiv.org/abs/2505.04956)|null|
 |**2025-05-07**|**Localized Diffusion Models for High Dimensional Distributions Generation**|Georg A. Gottwald et.al.|[2505.04417](http://arxiv.org/abs/2505.04417)|null|
 |**2025-05-02**|**Incorporating Inductive Biases to Energy-based Generative Models**|Yukun Li et.al.|[2505.01111](http://arxiv.org/abs/2505.01111)|null|
 |**2025-04-29**|**Frequency Feature Fusion Graph Network For Depression Diagnosis Via fNIRS**|Chengkai Yang et.al.|[2504.21064](http://arxiv.org/abs/2504.21064)|null|
@@ -253,6 +254,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-08**|**Normalize Everything: A Preconditioned Magnitude-Preserving Architecture for Diffusion-Based Speech Enhancement**|Julius Richter et.al.|[2505.05216](http://arxiv.org/abs/2505.05216)|null|
+|**2025-05-08**|**PIDiff: Image Customization for Personalized Identities with Diffusion Models**|Jinyu Gu et.al.|[2505.05081](http://arxiv.org/abs/2505.05081)|null|
+|**2025-05-08**|**T2VTextBench: A Human Evaluation Benchmark for Textual Control in Video Generation Models**|Xuyang Guo et.al.|[2505.04946](http://arxiv.org/abs/2505.04946)|null|
+|**2025-05-07**|**CRAFT: Cultural Russian-Oriented Dataset Adaptation for Focused Text-to-Image Generation**|Viacheslav Vasilev et.al.|[2505.04851](http://arxiv.org/abs/2505.04851)|null|
+|**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
 |**2025-05-08**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-08**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
 |**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486](http://arxiv.org/abs/2505.04486)|null|
@@ -3439,6 +3446,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
+|**2025-05-08**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101](http://arxiv.org/abs/2505.05101)|null|
+|**2025-05-08**|**ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization**|Chenxi Zhao et.al.|[2505.05041](http://arxiv.org/abs/2505.05041)|null|
+|**2025-05-08**|**GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing**|Tong Wang et.al.|[2505.04915](http://arxiv.org/abs/2505.04915)|null|
+|**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
 |**2025-05-07**|**Multi-turn Consistent Image Editing**|Zijun Zhou et.al.|[2505.04320](http://arxiv.org/abs/2505.04320)|null|
 |**2025-05-07**|**TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement**|Yi Li et.al.|[2505.04281](http://arxiv.org/abs/2505.04281)|**[link](https://github.com/circcclek/ts-diff)**|
 |**2025-05-07**|**Regional chemical potential analysis for material surfaces**|Masahiro Fukuda et.al.|[2505.04053](http://arxiv.org/abs/2505.04053)|null|
