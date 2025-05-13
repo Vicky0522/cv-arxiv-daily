@@ -255,6 +255,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652](http://arxiv.org/abs/2505.07652)|null|
+|**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538](http://arxiv.org/abs/2505.07538)|null|
+|**2025-05-12**|**Addressing degeneracies in latent interpolation for diffusion models**|Erik Landolsi et.al.|[2505.07481](http://arxiv.org/abs/2505.07481)|null|
+|**2025-05-12**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
+|**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364](http://arxiv.org/abs/2505.07364)|null|
+|**2025-05-12**|**Generative Pre-trained Autoregressive Diffusion Transformer**|Yuan Zhang et.al.|[2505.07344](http://arxiv.org/abs/2505.07344)|null|
+|**2025-05-12**|**Metrics that matter: Evaluating image quality metrics for medical image generation**|Yash Deo et.al.|[2505.07175](http://arxiv.org/abs/2505.07175)|null|
+|**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
+|**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117](http://arxiv.org/abs/2505.06117)|null|
 |**2025-05-09**|**Discovery of the Polar Ring Galaxies with deep learning**|D. V. Dobrycheva et.al.|[2505.05890](http://arxiv.org/abs/2505.05890)|null|
 |**2025-05-09**|**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition**|Zhiyuan Chen et.al.|[2505.05829](http://arxiv.org/abs/2505.05829)|null|
@@ -3452,6 +3462,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699](http://arxiv.org/abs/2505.07699)|null|
+|**2025-05-12**|**Generalizable Pancreas Segmentation via a Dual Self-Supervised Learning Framework**|Jun Li et.al.|[2505.07165](http://arxiv.org/abs/2505.07165)|null|
+|**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
+|**2025-05-10**|**UnfoldIR: Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration**|Chunming He et.al.|[2505.06683](http://arxiv.org/abs/2505.06683)|null|
+|**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[2505.06482](http://arxiv.org/abs/2505.06482)|null|
 |**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176](http://arxiv.org/abs/2505.06176)|null|
 |**2025-05-09**|**A review of advancements in low-light image enhancement using deep learning**|Fangxue Liu et.al.|[2505.05759](http://arxiv.org/abs/2505.05759)|null|
 |**2025-05-08**|**Semantic Style Transfer for Enhancing Animal Facial Landmark Detection**|Anadil Hussein et.al.|[2505.05640](http://arxiv.org/abs/2505.05640)|null|
