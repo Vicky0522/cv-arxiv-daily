@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -260,9 +260,9 @@ layout: default
 |**2025-05-09**|**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition**|Zhiyuan Chen et.al.|[2505.05829](http://arxiv.org/abs/2505.05829)|null|
 |**2025-05-08**|**InstanceGen: Image Generation with Instance-level Instructions**|Etai Sella et.al.|[2505.05678](http://arxiv.org/abs/2505.05678)|null|
 |**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
-|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-11**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
 |**2025-05-08**|**Normalize Everything: A Preconditioned Magnitude-Preserving Architecture for Diffusion-Based Speech Enhancement**|Julius Richter et.al.|[2505.05216](http://arxiv.org/abs/2505.05216)|null|
-|**2025-05-08**|**PIDiff: Image Customization for Personalized Identities with Diffusion Models**|Jinyu Gu et.al.|[2505.05081](http://arxiv.org/abs/2505.05081)|null|
+|**2025-05-12**|**PIDiff: Image Customization for Personalized Identities with Diffusion Models**|Jinyu Gu et.al.|[2505.05081](http://arxiv.org/abs/2505.05081)|null|
 |**2025-05-08**|**T2VTextBench: A Human Evaluation Benchmark for Textual Control in Video Generation Models**|Xuyang Guo et.al.|[2505.04946](http://arxiv.org/abs/2505.04946)|null|
 |**2025-05-07**|**CRAFT: Cultural Russian-Oriented Dataset Adaptation for Focused Text-to-Image Generation**|Viacheslav Vasilev et.al.|[2505.04851](http://arxiv.org/abs/2505.04851)|null|
 |**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
@@ -3457,9 +3457,9 @@ layout: default
 |**2025-05-08**|**Semantic Style Transfer for Enhancing Animal Facial Landmark Detection**|Anadil Hussein et.al.|[2505.05640](http://arxiv.org/abs/2505.05640)|null|
 |**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
-|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-11**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
 |**2025-05-08**|**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution**|Haizhen Xie et.al.|[2505.05209](http://arxiv.org/abs/2505.05209)|null|
-|**2025-05-08**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101](http://arxiv.org/abs/2505.05101)|null|
+|**2025-05-12**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101](http://arxiv.org/abs/2505.05101)|null|
 |**2025-05-08**|**ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization**|Chenxi Zhao et.al.|[2505.05041](http://arxiv.org/abs/2505.05041)|null|
 |**2025-05-08**|**GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing**|Tong Wang et.al.|[2505.04915](http://arxiv.org/abs/2505.04915)|null|
 |**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
