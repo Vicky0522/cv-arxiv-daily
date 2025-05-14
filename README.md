@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-05-07**|**Localized Diffusion Models for High Dimensional Distributions Generation**|Georg A. Gottwald et.al.|[2505.04417](http://arxiv.org/abs/2505.04417)|null|
 |**2025-05-02**|**Incorporating Inductive Biases to Energy-based Generative Models**|Yukun Li et.al.|[2505.01111](http://arxiv.org/abs/2505.01111)|null|
 |**2025-04-29**|**Frequency Feature Fusion Graph Network For Depression Diagnosis Via fNIRS**|Chengkai Yang et.al.|[2504.21064](http://arxiv.org/abs/2504.21064)|null|
-|**2025-04-28**|**Coreset selection for the Sinkhorn divergence and generic smooth divergences**|Alex Kokot et.al.|[2504.20194](http://arxiv.org/abs/2504.20194)|null|
+|**2025-04-28**|**Coreset selection for the Sinkhorn divergence and generic smooth divergences**|Alex Kokot et.al.|[2504.20194](http://arxiv.org/abs/2504.20194)|**[link](https://github.com/amkokot/sinkhorn_coresets)**|
 |**2025-04-27**|**Generalized Score Matching: Bridging $f$ -Divergence and Statistical Estimation Under Correlated Noise**|Yirong Shen et.al.|[2504.19288](http://arxiv.org/abs/2504.19288)|null|
 |**2025-04-25**|**Score-Based Deterministic Density Sampling**|Vasily Ilin et.al.|[2504.18130](http://arxiv.org/abs/2504.18130)|null|
 |**2025-05-01**|**Whence Is A Model Fair? Fixing Fairness Bugs via Propensity Score Matching**|Kewen Peng et.al.|[2504.17066](http://arxiv.org/abs/2504.17066)|null|
@@ -256,7 +256,7 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## generation
 
@@ -266,10 +266,10 @@
 |**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652](http://arxiv.org/abs/2505.07652)|null|
 |**2025-05-12**|**Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**|Bohan Wang et.al.|[2505.07538](http://arxiv.org/abs/2505.07538)|null|
 |**2025-05-12**|**Addressing degeneracies in latent interpolation for diffusion models**|Erik Landolsi et.al.|[2505.07481](http://arxiv.org/abs/2505.07481)|null|
-|**2025-05-12**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
+|**2025-05-13**|**Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**|Wei Li et.al.|[2505.07449](http://arxiv.org/abs/2505.07449)|**[link](https://github.com/mar-cry/ophora)**|
 |**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364](http://arxiv.org/abs/2505.07364)|null|
 |**2025-05-12**|**Generative Pre-trained Autoregressive Diffusion Transformer**|Yuan Zhang et.al.|[2505.07344](http://arxiv.org/abs/2505.07344)|null|
-|**2025-05-12**|**Metrics that matter: Evaluating image quality metrics for medical image generation**|Yash Deo et.al.|[2505.07175](http://arxiv.org/abs/2505.07175)|null|
+|**2025-05-12**|**Metrics that matter: Evaluating image quality metrics for medical image generation**|Yash Deo et.al.|[2505.07175](http://arxiv.org/abs/2505.07175)|**[link](https://github.com/YashDeo-York/GenMed)**|
 |**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
 |**2025-05-11**|**Replay-Based Continual Learning with Dual-Layered Distillation and a Streamlined U-Net for Efficient Text-to-Image Generation**|Md. Naimur Asif Borno et.al.|[2505.06995](http://arxiv.org/abs/2505.06995)|null|
 |**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117](http://arxiv.org/abs/2505.06117)|null|
@@ -3465,7 +3465,7 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## enhancement & editing
 
@@ -5181,7 +5181,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
