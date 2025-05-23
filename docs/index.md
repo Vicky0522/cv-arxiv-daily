@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -3526,7 +3526,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Zhen Sun et.al.|[2505.15644](http://arxiv.org/abs/2505.15644)|null|
-|**2025-05-21**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
+|**2025-05-22**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
 |**2025-05-21**|**AvatarShield: Visual Reinforcement Learning for Human-Centric Video Forgery Detection**|Zhipei Xu et.al.|[2505.15173](http://arxiv.org/abs/2505.15173)|null|
 |**2025-05-20**|**UHD Image Dehazing via anDehazeFormer with Atmospheric-aware KV Cache**|Pu Wang et.al.|[2505.14010](http://arxiv.org/abs/2505.14010)|null|
 |**2025-05-19**|**Adaptive Image Restoration for Video Surveillance: A Real-Time Approach**|Muhammad Awais Amin et.al.|[2505.13130](http://arxiv.org/abs/2505.13130)|null|
