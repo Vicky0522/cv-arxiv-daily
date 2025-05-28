@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Importance Weighted Score Matching for Diffusion Samplers with Enhanced Mode Coverage**|Chenguang Wang et.al.|[2505.19431](http://arxiv.org/abs/2505.19431)|null|
+|**2025-05-14**|**Robust Knowledge Graph Embedding via Denoising**|Tengwei Song et.al.|[2505.18171](http://arxiv.org/abs/2505.18171)|null|
 |**2025-05-22**|**Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free**|Stephen Y. Zhang et.al.|[2505.16644](http://arxiv.org/abs/2505.16644)|null|
 |**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
 |**2025-05-20**|**Extension of Dynamic Network Biomarker using the propensity score method: Simulation of causal effects on variance and correlation coefficient**|Satoru Shinoda et.al.|[2505.13846](http://arxiv.org/abs/2505.13846)|null|
@@ -262,12 +264,22 @@
 |**2023-06-05**|**Machine Learning Force Fields with Data Cost Aware Training**|Alexander Bukharin et.al.|[2306.03109](http://arxiv.org/abs/2306.03109)|**[link](https://github.com/abukharin3/asteroid)**|
 |**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
+|**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
+|**2025-05-27**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
+|**2025-05-26**|**StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation**|Yi Wu et.al.|[2505.19874](http://arxiv.org/abs/2505.19874)|null|
+|**2025-05-26**|**DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving**|Wenchao Sun et.al.|[2505.19692](http://arxiv.org/abs/2505.19692)|null|
+|**2025-05-26**|**TDVE-Assessor: Benchmarking and Evaluating the Quality of Text-Driven Video Editing with LMMs**|Juntong Wang et.al.|[2505.19535](http://arxiv.org/abs/2505.19535)|null|
+|**2025-05-26**|**Applications and Effect Evaluation of Generative Adversarial Networks in Semi-Supervised Learning**|Jiyu Hu et.al.|[2505.19522](http://arxiv.org/abs/2505.19522)|null|
+|**2025-05-26**|**The Role of Video Generation in Enhancing Data-Limited Action Understanding**|Wei Li et.al.|[2505.19495](http://arxiv.org/abs/2505.19495)|null|
+|**2025-05-26**|**MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models**|Hang Hua et.al.|[2505.19415](http://arxiv.org/abs/2505.19415)|null|
+|**2025-05-26**|**Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals**|Nate Gillman et.al.|[2505.19386](http://arxiv.org/abs/2505.19386)|null|
 |**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151](http://arxiv.org/abs/2505.18151)|null|
 |**2025-05-23**|**F-ANcGAN: An Attention-Enhanced Cycle Consistent Generative Adversarial Architecture for Synthetic Image Generation of Nanoparticles**|Varun Ajith et.al.|[2505.18106](http://arxiv.org/abs/2505.18106)|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
@@ -3549,12 +3561,22 @@
 |**2023-06-24**|**UAlberta at SemEval-2023 Task 1: Context Augmentation and Translation for Multilingual Visual Word Sense Disambiguation**|Michael Ogezi et.al.|[2306.14067](http://arxiv.org/abs/2306.14067)|**[link](https://github.com/ualberta-nlp/v-wsd)**|
 |**2023-06-23**|**Zero-shot spatial layout conditioning for text-to-image diffusion models**|Guillaume Couairon et.al.|[2306.13754](http://arxiv.org/abs/2306.13754)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 ## enhancement & editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
+|**2025-05-26**|**StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation**|Yi Wu et.al.|[2505.19874](http://arxiv.org/abs/2505.19874)|null|
+|**2025-05-26**|**A Regularization-Guided Equivariant Approach for Image Restoration**|Yulu Bai et.al.|[2505.19799](http://arxiv.org/abs/2505.19799)|null|
+|**2025-05-26**|**TDVE-Assessor: Benchmarking and Evaluating the Quality of Text-Driven Video Editing with LMMs**|Juntong Wang et.al.|[2505.19535](http://arxiv.org/abs/2505.19535)|null|
+|**2025-05-25**|**Beyond Editing Pairs: Fine-Grained Instructional Image Editing via Multi-Scale Learnable Regions**|Chenrui Ma et.al.|[2505.19352](http://arxiv.org/abs/2505.19352)|null|
+|**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
+|**2025-05-25**|**Benchmarking Laparoscopic Surgical Image Restoration and Beyond**|Jialun Pei et.al.|[2505.19161](http://arxiv.org/abs/2505.19161)|null|
+|**2025-05-25**|**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation**|Shenggan Cheng et.al.|[2505.19151](http://arxiv.org/abs/2505.19151)|null|
+|**2025-05-25**|**MIND-Edit: MLLM Insight-Driven Editing via Language-Vision Projection**|Shuyu Wang et.al.|[2505.19149](http://arxiv.org/abs/2505.19149)|null|
+|**2025-05-25**|**Freqformer: Image-Demoiréing Transformer via Efficient Frequency Decomposition**|Xiaoyang Liu et.al.|[2505.19120](http://arxiv.org/abs/2505.19120)|null|
 |**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-23**|**R-Genie: Reasoning-Guided Generative Image Editing**|Dong Zhang et.al.|[2505.17768](http://arxiv.org/abs/2505.17768)|null|
@@ -5301,7 +5323,7 @@
 |**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
 |**2023-06-22**|**Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator**|Jongwook Si et.al.|[2306.12757](http://arxiv.org/abs/2306.12757)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
