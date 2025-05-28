@@ -270,6 +270,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
+|**2025-05-27**|**DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction**|Yiheng Liu et.al.|[2505.21473](http://arxiv.org/abs/2505.21473)|null|
+|**2025-05-27**|**Dynamic Vision from EEG Brain Recordings: How much does EEG know?**|Prajwal Singh et.al.|[2505.21385](http://arxiv.org/abs/2505.21385)|null|
+|**2025-05-27**|**SageAttention2++: A More Efficient Implementation of SageAttention2**|Jintao Zhang et.al.|[2505.21136](http://arxiv.org/abs/2505.21136)|null|
+|**2025-05-27**|**Creativity in LLM-based Multi-Agent Systems: A Survey**|Yi-Cheng Lin et.al.|[2505.21116](http://arxiv.org/abs/2505.21116)|null|
+|**2025-05-27**|**Minute-Long Videos with Dual Parallelisms**|Zeqing Wang et.al.|[2505.21070](http://arxiv.org/abs/2505.21070)|null|
+|**2025-05-27**|**RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy**|Aiyue Chen et.al.|[2505.21036](http://arxiv.org/abs/2505.21036)|null|
+|**2025-05-27**|**OrienText: Surface Oriented Textual Image Generation**|Shubham Singh Paliwal et.al.|[2505.20958](http://arxiv.org/abs/2505.20958)|null|
+|**2025-05-27**|**Unveiling Impact of Frequency Components on Membership Inference Attacks for Diffusion Models**|Puwei Lian et.al.|[2505.20955](http://arxiv.org/abs/2505.20955)|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
 |**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
 |**2025-05-27**|**Dynamic-I2V: Exploring Image-to-Video Generation Models via Multimodal LLM**|Peng Liu et.al.|[2505.19901](http://arxiv.org/abs/2505.19901)|null|
@@ -3567,6 +3577,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks**|Kyzyl Monteiro et.al.|[2505.20916](http://arxiv.org/abs/2505.20916)|null|
+|**2025-05-27**|**See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction**|Yuan Wu et.al.|[2505.20641](http://arxiv.org/abs/2505.20641)|null|
+|**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
+|**2025-05-26**|**PreP-OCR: A Complete Pipeline for Document Image Restoration and Enhanced OCR Accuracy**|Shuhao Guan et.al.|[2505.20429](http://arxiv.org/abs/2505.20429)|null|
+|**2025-05-26**|**What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models**|Lorenzo Baraldi et.al.|[2505.20405](http://arxiv.org/abs/2505.20405)|null|
+|**2025-05-26**|**ImgEdit: A Unified Image Editing Dataset and Benchmark**|Yang Ye et.al.|[2505.20275](http://arxiv.org/abs/2505.20275)|null|
 |**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
 |**2025-05-26**|**StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation**|Yi Wu et.al.|[2505.19874](http://arxiv.org/abs/2505.19874)|null|
 |**2025-05-26**|**A Regularization-Guided Equivariant Approach for Image Restoration**|Yulu Bai et.al.|[2505.19799](http://arxiv.org/abs/2505.19799)|null|
