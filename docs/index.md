@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**IGSM: Improved Geometric and Sensitivity Matching for Finetuning Pruned Diffusion Models**|Caleb Zheng et.al.|[2506.05398](http://arxiv.org/abs/2506.05398)|null|
 |**2025-06-05**|**Learning normalized image densities via dual score matching**|Florentin Guth et.al.|[2506.05310](http://arxiv.org/abs/2506.05310)|null|
 |**2025-06-02**|**An Introduction to Flow Matching and Diffusion Models**|Peter Holderrieth et.al.|[2506.02070](http://arxiv.org/abs/2506.02070)|null|
 |**2025-05-31**|**Score Matching With Missing Data**|Josh Givens et.al.|[2506.00557](http://arxiv.org/abs/2506.00557)|null|
@@ -268,6 +269,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276](http://arxiv.org/abs/2506.06276)|null|
+|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
+|**2025-06-06**|**Feedback Guidance of Diffusion Models**|Koulischer Felix et.al.|[2506.06085](http://arxiv.org/abs/2506.06085)|null|
+|**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
+|**2025-06-06**|**Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models**|Chaoyi Zhu et.al.|[2506.06018](http://arxiv.org/abs/2506.06018)|null|
+|**2025-06-06**|**Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection**|Yu Li et.al.|[2506.05872](http://arxiv.org/abs/2506.05872)|null|
+|**2025-06-06**|**LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models**|Haojie Yu et.al.|[2506.05806](http://arxiv.org/abs/2506.05806)|null|
+|**2025-06-06**|**Peer-Ranked Precision: Creating a Foundational Dataset for Fine-Tuning Vision Models from DataSeeds' Annotated Imagery**|Sajjad Abdoli et.al.|[2506.05673](http://arxiv.org/abs/2506.05673)|null|
+|**2025-06-05**|**UniRes: Universal Image Restoration for Complex Degradations**|Mo Zhou et.al.|[2506.05599](http://arxiv.org/abs/2506.05599)|null|
+|**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
 |**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289](http://arxiv.org/abs/2506.05289)|null|
 |**2025-06-05**|**Aligning Latent Spaces with Flow Priors**|Yizhuo Li et.al.|[2506.05240](http://arxiv.org/abs/2506.05240)|null|
@@ -3633,6 +3644,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Bidirectional Image-Event Guided Low-Light Image Enhancement**|Zhanwen Liu et.al.|[2506.06120](http://arxiv.org/abs/2506.06120)|null|
+|**2025-06-06**|**Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models**|Yifu Qiu et.al.|[2506.06006](http://arxiv.org/abs/2506.06006)|null|
+|**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|null|
+|**2025-06-06**|**NTIRE 2025 Challenge on HR Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2506.05815](http://arxiv.org/abs/2506.05815)|null|
+|**2025-06-05**|**UniRes: Universal Image Restoration for Complex Degradations**|Mo Zhou et.al.|[2506.05599](http://arxiv.org/abs/2506.05599)|null|
+|**2025-06-05**|**OpenRR-5k: A Large-Scale Benchmark for Reflection Removal in the Wild**|Jie Cai et.al.|[2506.05482](http://arxiv.org/abs/2506.05482)|null|
+|**2025-06-05**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
+|**2025-06-05**|**Degradation-Aware Image Enhancement via Vision-Language Classification**|Jie Cai et.al.|[2506.05450](http://arxiv.org/abs/2506.05450)|null|
 |**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
 |**2025-06-06**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
 |**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046](http://arxiv.org/abs/2506.05046)|null|
