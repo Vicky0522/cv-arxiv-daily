@@ -271,6 +271,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
+|**2025-06-11**|**InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions**|Zhenzhi Wang et.al.|[2506.09984](http://arxiv.org/abs/2506.09984)|null|
+|**2025-06-11**|**ReSim: Reliable World Simulation for Autonomous Driving**|Jiazhi Yang et.al.|[2506.09981](http://arxiv.org/abs/2506.09981)|null|
+|**2025-06-11**|**Canonical Latent Representations in Conditional Diffusion Models**|Yitao Xu et.al.|[2506.09955](http://arxiv.org/abs/2506.09955)|null|
+|**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932](http://arxiv.org/abs/2506.09932)|null|
+|**2025-06-11**|**Only-Style: Stylistic Consistency in Image Generation without Content Leakage**|Tilemachos Aravanis et.al.|[2506.09916](http://arxiv.org/abs/2506.09916)|null|
+|**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
+|**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
+|**2025-06-11**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao LI et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|null|
+|**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482](http://arxiv.org/abs/2506.09482)|null|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
 |**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
@@ -3666,6 +3676,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
+|**2025-06-11**|**EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits**|Ron Yosef et.al.|[2506.09988](http://arxiv.org/abs/2506.09988)|null|
+|**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
+|**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|null|
 |**2025-06-11**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
 |**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632](http://arxiv.org/abs/2506.08632)|null|
