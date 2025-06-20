@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-17**|**Expressive Score-Based Priors for Distribution Matching with Geometry-Preserving Regularization**|Ziyu Gong et.al.|[2506.14607](http://arxiv.org/abs/2506.14607)|null|
+|**2025-06-17**|**Expressive Score-Based Priors for Distribution Matching with Geometry-Preserving Regularization**|Ziyu Gong et.al.|[2506.14607](http://arxiv.org/abs/2506.14607)|**[link](https://github.com/inouye-lab/saub)**|
 |**2025-06-12**|**Variance estimation after matching or re-weighting**|Xiang Meng et.al.|[2506.11317](http://arxiv.org/abs/2506.11317)|null|
 |**2025-06-09**|**Jarzynski Reweighting and Sampling Dynamics for Training Energy-Based Models: Theoretical Analysis of Different Transition Kernels**|Davide Carbone et.al.|[2506.07843](http://arxiv.org/abs/2506.07843)|null|
 |**2025-06-06**|**Direct Fisher Score Estimation for Likelihood Maximization**|Sherman Khoo et.al.|[2506.06542](http://arxiv.org/abs/2506.06542)|null|
@@ -273,6 +273,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
+|**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675](http://arxiv.org/abs/2506.15675)|null|
+|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|null|
+|**2025-06-18**|**Control and Realism: Best of Both Worlds in Layout-to-Image without Training**|Bonan Li et.al.|[2506.15563](http://arxiv.org/abs/2506.15563)|null|
+|**2025-06-18**|**GalaxyGenius: A Mock Galaxy Image Generator for Various Telescopes from Hydrodynamical Simulations**|Xingchen Zhou et.al.|[2506.15060](http://arxiv.org/abs/2506.15060)|null|
+|**2025-06-17**|**Frequency-Calibrated Membership Inference Attacks on Medical Image Diffusion Models**|Xinkai Zhao et.al.|[2506.14919](http://arxiv.org/abs/2506.14919)|null|
+|**2025-06-17**|**DETONATE: A Benchmark for Text-to-Image Alignment and Kernelized Direct Preference Optimization**|Renjith Prasad et.al.|[2506.14903](http://arxiv.org/abs/2506.14903)|null|
+|**2025-06-17**|**The Quasi-Radial Field-line Tracing (QRaFT): an Adaptive Segmentation of the Open-Flux Solar Corona**|Vadim M. Uritsky et.al.|[2506.14894](http://arxiv.org/abs/2506.14894)|null|
 |**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
 |**2025-06-17**|**Align Your Flow: Scaling Continuous-Time Flow Map Distillation**|Amirmojtaba Sabour et.al.|[2506.14603](http://arxiv.org/abs/2506.14603)|null|
 |**2025-06-17**|**Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images**|David Butler et.al.|[2506.14560](http://arxiv.org/abs/2506.14560)|null|
