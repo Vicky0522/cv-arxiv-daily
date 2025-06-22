@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-17**|**Expressive Score-Based Priors for Distribution Matching with Geometry-Preserving Regularization**|Ziyu Gong et.al.|[2506.14607](http://arxiv.org/abs/2506.14607)|**[link](https://github.com/inouye-lab/saub)**|
-|**2025-06-12**|**Variance estimation after matching or re-weighting**|Xiang Meng et.al.|[2506.11317](http://arxiv.org/abs/2506.11317)|null|
+|**2025-06-12**|**Variance estimation after matching or re-weighting**|Xiang Meng et.al.|[2506.11317](http://arxiv.org/abs/2506.11317)|**[link](https://github.com/jche/scmatch2)**|
 |**2025-06-09**|**Jarzynski Reweighting and Sampling Dynamics for Training Energy-Based Models: Theoretical Analysis of Different Transition Kernels**|Davide Carbone et.al.|[2506.07843](http://arxiv.org/abs/2506.07843)|null|
 |**2025-06-06**|**Direct Fisher Score Estimation for Likelihood Maximization**|Sherman Khoo et.al.|[2506.06542](http://arxiv.org/abs/2506.06542)|null|
 |**2025-06-03**|**IGSM: Improved Geometric and Sensitivity Matching for Finetuning Pruned Diffusion Models**|Caleb Zheng et.al.|[2506.05398](http://arxiv.org/abs/2506.05398)|**[link](https://github.com/fate4869/igsm-official)**|
@@ -273,9 +273,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
+|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675](http://arxiv.org/abs/2506.15675)|null|
-|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|null|
+|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
 |**2025-06-18**|**Control and Realism: Best of Both Worlds in Layout-to-Image without Training**|Bonan Li et.al.|[2506.15563](http://arxiv.org/abs/2506.15563)|null|
 |**2025-06-18**|**GalaxyGenius: A Mock Galaxy Image Generator for Various Telescopes from Hydrodynamical Simulations**|Xingchen Zhou et.al.|[2506.15060](http://arxiv.org/abs/2506.15060)|null|
 |**2025-06-17**|**Frequency-Calibrated Membership Inference Attacks on Medical Image Diffusion Models**|Xinkai Zhao et.al.|[2506.14919](http://arxiv.org/abs/2506.14919)|null|
@@ -3715,7 +3715,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
-|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
+|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|**[link](https://github.com/inria-thoth/ddm4ip)**|
 |**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
 |**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
 |**2025-06-16**|**DREAM: On hallucinations in AI-generated content for nuclear medicine imaging**|Menghua Xia et.al.|[2506.13995](http://arxiv.org/abs/2506.13995)|null|
