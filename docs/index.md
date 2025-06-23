@@ -307,21 +307,21 @@ layout: default
 |**2025-06-12**|**Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models**|Francisco Caetano et.al.|[2506.10634](http://arxiv.org/abs/2506.10634)|null|
 |**2025-06-12**|**High-resolution efficient image generation from WiFi CSI using a pretrained latent diffusion model**|Eshan Ramesh et.al.|[2506.10605](http://arxiv.org/abs/2506.10605)|null|
 |**2025-06-12**|**Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning**|Chun-Mei Feng et.al.|[2506.10575](http://arxiv.org/abs/2506.10575)|null|
-|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|null|
+|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|**[link](https://github.com/li-yihua/qsc-diffusion)**|
 |**2025-06-12**|**DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers**|Lizhen Wang et.al.|[2506.10568](http://arxiv.org/abs/2506.10568)|null|
 |**2025-06-11**|**PlayerOne: Egocentric World Simulator**|Yuanpeng Tu et.al.|[2506.09995](http://arxiv.org/abs/2506.09995)|null|
 |**2025-06-11**|**InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions**|Zhenzhi Wang et.al.|[2506.09984](http://arxiv.org/abs/2506.09984)|null|
 |**2025-06-11**|**ReSim: Reliable World Simulation for Autonomous Driving**|Jiazhi Yang et.al.|[2506.09981](http://arxiv.org/abs/2506.09981)|null|
 |**2025-06-11**|**Canonical Latent Representations in Conditional Diffusion Models**|Yitao Xu et.al.|[2506.09955](http://arxiv.org/abs/2506.09955)|null|
 |**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932](http://arxiv.org/abs/2506.09932)|null|
-|**2025-06-11**|**Only-Style: Stylistic Consistency in Image Generation without Content Leakage**|Tilemachos Aravanis et.al.|[2506.09916](http://arxiv.org/abs/2506.09916)|null|
+|**2025-06-11**|**Only-Style: Stylistic Consistency in Image Generation without Content Leakage**|Tilemachos Aravanis et.al.|[2506.09916](http://arxiv.org/abs/2506.09916)|**[link](https://github.com/TilemahosAravanis/Only-Style)**|
 |**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740](http://arxiv.org/abs/2506.09740)|null|
 |**2025-06-11**|**DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning**|Dongxu Liu et.al.|[2506.09644](http://arxiv.org/abs/2506.09644)|null|
-|**2025-06-12**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao Li et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|null|
-|**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482](http://arxiv.org/abs/2506.09482)|null|
+|**2025-06-12**|**Consistent Story Generation with Asymmetry Zigzag Sampling**|Mingxiao Li et.al.|[2506.09612](http://arxiv.org/abs/2506.09612)|**[link](https://github.com/mingxiao-li/asymmetry-zigzag-storydiffusion)**|
+|**2025-06-11**|**Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression**|Dingcheng Zhen et.al.|[2506.09482](http://arxiv.org/abs/2506.09482)|**[link](https://github.com/transdiff/transdiff)**|
 |**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|**[link](https://github.com/zehong-ma/magcache)**|
 |**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|**[link](https://github.com/nv-tlabs/cosmos-drive-dreams)**|
-|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|**[link](https://github.com/alenjandrowang/asvr)**|
 |**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
 |**2025-06-11**|**SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping**|Jiajun Li et.al.|[2506.08908](http://arxiv.org/abs/2506.08908)|**[link](https://github.com/fakerone-li/skipvar)**|
 |**2025-06-10**|**CulturalFrames: Assessing Cultural Expectation Alignment in Text-to-Image Models and Evaluation Metrics**|Shravan Nayak et.al.|[2506.08835](http://arxiv.org/abs/2506.08835)|null|
@@ -343,14 +343,14 @@ layout: default
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |**2025-06-06**|**Feedback Guidance of Diffusion Models**|Koulischer Felix et.al.|[2506.06085](http://arxiv.org/abs/2506.06085)|null|
 |**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
-|**2025-06-06**|**Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models**|Chaoyi Zhu et.al.|[2506.06018](http://arxiv.org/abs/2506.06018)|null|
+|**2025-06-06**|**Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models**|Chaoyi Zhu et.al.|[2506.06018](http://arxiv.org/abs/2506.06018)|**[link](https://github.com/chaoyitud/PnP-Watermark-Forgery)**|
 |**2025-06-06**|**Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection**|Yu Li et.al.|[2506.05872](http://arxiv.org/abs/2506.05872)|null|
 |**2025-06-06**|**LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models**|Haojie Yu et.al.|[2506.05806](http://arxiv.org/abs/2506.05806)|null|
 |**2025-06-06**|**Peer-Ranked Precision: Creating a Foundational Dataset for Fine-Tuning Vision Models from DataSeeds' Annotated Imagery**|Sajjad Abdoli et.al.|[2506.05673](http://arxiv.org/abs/2506.05673)|null|
 |**2025-06-05**|**UniRes: Universal Image Restoration for Complex Degradations**|Mo Zhou et.al.|[2506.05599](http://arxiv.org/abs/2506.05599)|null|
 |**2025-06-05**|**EX-4D: EXtreme Viewpoint 4D Video Synthesis via Depth Watertight Mesh**|Tao Hu et.al.|[2506.05554](http://arxiv.org/abs/2506.05554)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
-|**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289](http://arxiv.org/abs/2506.05289)|null|
+|**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289](http://arxiv.org/abs/2506.05289)|**[link](https://github.com/ali-vilab/alitok)**|
 |**2025-06-05**|**Aligning Latent Spaces with Flow Priors**|Yizhuo Li et.al.|[2506.05240](http://arxiv.org/abs/2506.05240)|null|
 |**2025-06-05**|**PixCell: A generative foundation model for digital histopathology images**|Srikar Yellapragada et.al.|[2506.05127](http://arxiv.org/abs/2506.05127)|null|
 |**2025-06-05**|**Membership Inference Attacks on Sequence Models**|Lorenzo Rossi et.al.|[2506.05126](http://arxiv.org/abs/2506.05126)|null|
@@ -365,7 +365,7 @@ layout: default
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
 |**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|**[link](https://github.com/pralab/raid)**|
 |**2025-06-04**|**EmoArt: A Multidimensional Dataset for Emotion-Aware Artistic Generation**|Cheng Zhang et.al.|[2506.03652](http://arxiv.org/abs/2506.03652)|null|
-|**2025-06-04**|**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning**|Feng Han et.al.|[2506.03596](http://arxiv.org/abs/2506.03596)|null|
+|**2025-06-04**|**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning**|Feng Han et.al.|[2506.03596](http://arxiv.org/abs/2506.03596)|**[link](https://github.com/maplebb/controlthinker)**|
 |**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Ziyi Wu et.al.|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
 |**2025-06-03**|**Robustness in Both Domains: CLIP Needs a Robust Text Encoder**|Elias Abad Rocamora et.al.|[2506.03355](http://arxiv.org/abs/2506.03355)|null|
 |**2025-06-03**|**Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas**|Austin Silveria et.al.|[2506.03275](http://arxiv.org/abs/2506.03275)|null|
@@ -376,7 +376,7 @@ layout: default
 |**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
 |**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
 |**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
-|**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Xiuyu Yang et.al.|[2506.03079](http://arxiv.org/abs/2506.03079)|null|
+|**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Xiuyu Yang et.al.|[2506.03079](http://arxiv.org/abs/2506.03079)|**[link](https://github.com/orangesodahub/orv)**|
 |**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
 |**2025-06-03**|**Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers**|Pengtao Chen et.al.|[2506.03065](http://arxiv.org/abs/2506.03065)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
@@ -1200,7 +1200,7 @@ layout: default
 |**2025-01-13**|**Detection of AI Deepfake and Fraud in Online Payments Using GAN-Based Models**|Zong Ke et.al.|[2501.07033](http://arxiv.org/abs/2501.07033)|null|
 |**2025-01-12**|**Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models**|Michael Toker et.al.|[2501.06751](http://arxiv.org/abs/2501.06751)|null|
 |**2025-01-11**|**Denoising Diffusion Probabilistic Model for Radio Map Estimation in Generative Wireless Networks**|Xuanhao Luo et.al.|[2501.06604](http://arxiv.org/abs/2501.06604)|null|
-|**2025-01-11**|**DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy**|Wenshu Fan et.al.|[2501.06533](http://arxiv.org/abs/2501.06533)|null|
+|**2025-01-11**|**DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy**|Wenshu Fan et.al.|[2501.06533](http://arxiv.org/abs/2501.06533)|**[link](https://github.com/fiora6/divtrackee)**|
 |**2025-01-11**|**Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation**|Xiaoying Xing et.al.|[2501.06481](http://arxiv.org/abs/2501.06481)|null|
 |**2025-01-11**|**Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning**|Maomao Li et.al.|[2501.06438](http://arxiv.org/abs/2501.06438)|null|
 |**2025-01-10**|**MEt3R: Measuring Multi-View Consistency in Generated Images**|Mohammad Asim et.al.|[2501.06336](http://arxiv.org/abs/2501.06336)|null|
@@ -3738,7 +3738,7 @@ layout: default
 |**2025-06-11**|**Fine-Grained Spatially Varying Material Selection in Images**|Julia Guerrero-Viu et.al.|[2506.09023](http://arxiv.org/abs/2506.09023)|null|
 |**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
 |**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632](http://arxiv.org/abs/2506.08632)|null|
-|**2025-06-09**|**Highly Compressed Tokenizer Can Generate Without Training**|L. Lao Beyer et.al.|[2506.08257](http://arxiv.org/abs/2506.08257)|null|
+|**2025-06-09**|**Highly Compressed Tokenizer Can Generate Without Training**|L. Lao Beyer et.al.|[2506.08257](http://arxiv.org/abs/2506.08257)|**[link](https://github.com/lukaslaobeyer/token-opt)**|
 |**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992](http://arxiv.org/abs/2506.07992)|**[link](https://github.com/xudonmao/pairedit)**|
 |**2025-06-09**|**Diffusion Counterfactual Generation with Semantic Abduction**|Rajat Rasal et.al.|[2506.07883](http://arxiv.org/abs/2506.07883)|**[link](https://github.com/rajatrasal/diffusion-counterfactuals)**|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
@@ -3751,7 +3751,7 @@ layout: default
 |**2025-06-06**|**A Deep Learning Approach for Facial Attribute Manipulation and Reconstruction in Surveillance and Reconnaissance**|Anees Nashath Shaik et.al.|[2506.06578](http://arxiv.org/abs/2506.06578)|null|
 |**2025-06-06**|**Bidirectional Image-Event Guided Low-Light Image Enhancement**|Zhanwen Liu et.al.|[2506.06120](http://arxiv.org/abs/2506.06120)|null|
 |**2025-06-06**|**Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models**|Yifu Qiu et.al.|[2506.06006](http://arxiv.org/abs/2506.06006)|**[link](https://github.com/yfqiu-nlp/vlm-world-model)**|
-|**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|null|
+|**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|**[link](https://github.com/eternalevan/fade)**|
 |**2025-06-06**|**NTIRE 2025 Challenge on HR Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2506.05815](http://arxiv.org/abs/2506.05815)|null|
 |**2025-06-05**|**UniRes: Universal Image Restoration for Complex Degradations**|Mo Zhou et.al.|[2506.05599](http://arxiv.org/abs/2506.05599)|null|
 |**2025-06-05**|**OpenRR-5k: A Large-Scale Benchmark for Reflection Removal in the Wild**|Jie Cai et.al.|[2506.05482](http://arxiv.org/abs/2506.05482)|null|
@@ -4007,7 +4007,7 @@ layout: default
 |**2025-03-31**|**InstructRestore: Region-Customized Image Restoration with Human Instructions**|Shuaizheng Liu et.al.|[2503.24357](http://arxiv.org/abs/2503.24357)|**[link](https://github.com/shuaizhengliu/instructrestore)**|
 |**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|**[link](https://github.com/avdpro/ai2apps)**|
 |**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|**[link](https://github.com/wyf0912/aredit)**|
-|**2025-03-31**|**3D Dental Model Segmentation with Geometrical Boundary Preserving**|Shufan Xi et.al.|[2503.23702](http://arxiv.org/abs/2503.23702)|null|
+|**2025-03-31**|**3D Dental Model Segmentation with Geometrical Boundary Preserving**|Shufan Xi et.al.|[2503.23702](http://arxiv.org/abs/2503.23702)|**[link](https://github.com/xishufan/crosstooth_cvpr2025)**|
 |**2025-03-30**|**Leveraging Vision-Language Foundation Models to Reveal Hidden Image-Attribute Relationships in Medical Imaging**|Amar Kumar et.al.|[2503.23618](http://arxiv.org/abs/2503.23618)|null|
 |**2025-03-30**|**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**|Tianming Liang et.al.|[2503.23509](http://arxiv.org/abs/2503.23509)|**[link](https://github.com/isee-laboratory/referdino-plus)**|
 |**2025-03-30**|**SketchVideo: Sketch-based Video Generation and Editing**|Feng-Lin Liu et.al.|[2503.23284](http://arxiv.org/abs/2503.23284)|null|
@@ -4806,7 +4806,7 @@ layout: default
 |**2024-06-01**|**FlowIE: Efficient Image Enhancement via Rectified Flow**|Yixuan Zhu et.al.|[2406.00508](http://arxiv.org/abs/2406.00508)|**[link](https://github.com/eternalevan/flowie)**|
 |**2024-05-31**|**Learning Gaze-aware Compositional GAN**|Nerea Aranjuelo et.al.|[2405.20643](http://arxiv.org/abs/2405.20643)|**[link](https://github.com/naranjuelo/gc-gan)**|
 |**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325](http://arxiv.org/abs/2405.20325)|**[link](https://github.com/Francis-Rings/MotionFollower)**|
-|**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|null|
+|**2024-05-30**|**Sharing Key Semantics in Transformer Makes Efficient Image Restoration**|Bin Ren et.al.|[2405.20008](http://arxiv.org/abs/2405.20008)|**[link](https://github.com/amazingren/semanir)**|
 |**2024-05-30**|**All-In-One Medical Image Restoration via Task-Adaptive Routing**|Zhiwen Yang et.al.|[2405.19769](http://arxiv.org/abs/2405.19769)|**[link](https://github.com/yaziwel/all-in-one-medical-image-restoration-via-task-adaptive-routing)**|
 |**2024-05-30**|**Streaming Video Diffusion: Online Video Editing with Diffusion Models**|Feng Chen et.al.|[2405.19726](http://arxiv.org/abs/2405.19726)|**[link](https://github.com/Chenfeng1271/SVDiff)**|
 |**2024-05-30**|**Text Guided Image Editing with Automatic Concept Locating and Forgetting**|Jia Li et.al.|[2405.19708](http://arxiv.org/abs/2405.19708)|null|
