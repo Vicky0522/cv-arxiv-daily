@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -274,8 +274,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
-|**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675](http://arxiv.org/abs/2506.15675)|null|
-|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
+|**2025-06-20**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675](http://arxiv.org/abs/2506.15675)|null|
+|**2025-06-20**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
 |**2025-06-18**|**Control and Realism: Best of Both Worlds in Layout-to-Image without Training**|Bonan Li et.al.|[2506.15563](http://arxiv.org/abs/2506.15563)|null|
 |**2025-06-18**|**GalaxyGenius: A Mock Galaxy Image Generator for Various Telescopes from Hydrodynamical Simulations**|Xingchen Zhou et.al.|[2506.15060](http://arxiv.org/abs/2506.15060)|null|
 |**2025-06-17**|**Frequency-Calibrated Membership Inference Attacks on Medical Image Diffusion Models**|Xinkai Zhao et.al.|[2506.14919](http://arxiv.org/abs/2506.14919)|null|
@@ -3718,7 +3718,7 @@ layout: default
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|**[link](https://github.com/inria-thoth/ddm4ip)**|
 |**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
 |**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
-|**2025-06-16**|**DREAM: On hallucinations in AI-generated content for nuclear medicine imaging**|Menghua Xia et.al.|[2506.13995](http://arxiv.org/abs/2506.13995)|null|
+|**2025-06-18**|**DREAM: On hallucinations in AI-generated content for nuclear medicine imaging**|Menghua Xia et.al.|[2506.13995](http://arxiv.org/abs/2506.13995)|null|
 |**2025-06-15**|**Balancing Preservation and Modification: A Region and Semantic Aware Metric for Instruction-Based Image Editing**|Zhuoying Li et.al.|[2506.13827](http://arxiv.org/abs/2506.13827)|null|
 |**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
 |**2025-06-16**|**AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing**|Biao Yang et.al.|[2506.13301](http://arxiv.org/abs/2506.13301)|null|
