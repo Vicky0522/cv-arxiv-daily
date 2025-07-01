@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-29**|**Autoregressive Denoising Score Matching is a Good Video Anomaly Detector**|Hanwen Zhang et.al.|[2506.23282](http://arxiv.org/abs/2506.23282)|null|
 |**2025-06-27**|**Score-Based Model for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2506.22295](http://arxiv.org/abs/2506.22295)|null|
 |**2025-06-24**|**Quantum Neural Networks for Propensity Score Estimation and Survival Analysis in Observational Biomedical Studies**|Vojtěch Novák et.al.|[2506.19973](http://arxiv.org/abs/2506.19973)|null|
 |**2025-06-18**|**Origins of Creativity in Attention-Based Diffusion Models**|Emma Finn et.al.|[2506.17324](http://arxiv.org/abs/2506.17324)|null|
@@ -283,6 +284,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
+|**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
+|**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
+|**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919](http://arxiv.org/abs/2506.23919)|null|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
+|**2025-06-30**|**RGC-VQA: An Exploration Database for Robotic-Generated Video Quality Assessment**|Jianing Jin et.al.|[2506.23852](http://arxiv.org/abs/2506.23852)|null|
+|**2025-06-30**|**Radioactive Watermarks in Diffusion and Autoregressive Image Generative Models**|Michel Meintz et.al.|[2506.23731](http://arxiv.org/abs/2506.23731)|null|
+|**2025-06-30**|**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation**|Shuai Tan et.al.|[2506.23690](http://arxiv.org/abs/2506.23690)|null|
+|**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
 |**2025-06-27**|**CERBERUS: Crack Evaluation & Recognition Benchmark for Engineering Reliability & Urban Stability**|Justin Reinman et.al.|[2506.21909](http://arxiv.org/abs/2506.21909)|null|
 |**2025-06-27**|**On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling**|Stanley Wu et.al.|[2506.21874](http://arxiv.org/abs/2506.21874)|null|
@@ -3779,6 +3790,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
+|**2025-06-30**|**Oneta: Multi-Style Image Enhancement Using Eigentransformation Functions**|Jiwon Kim et.al.|[2506.23547](http://arxiv.org/abs/2506.23547)|null|
+|**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|
+|**2025-06-29**|**OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**|Yuanhao Cai et.al.|[2506.23361](http://arxiv.org/abs/2506.23361)|null|
+|**2025-06-29**|**Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement**|Siyuan Chai et.al.|[2506.23353](http://arxiv.org/abs/2506.23353)|null|
+|**2025-06-29**|**Causal-Entity Reflected Egocentric Traffic Accident Video Synthesis**|Lei-lei Li et.al.|[2506.23263](http://arxiv.org/abs/2506.23263)|null|
+|**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
+|**2025-06-29**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
+|**2025-06-28**|**Towards Explainable Bilingual Multimodal Misinformation Detection and Localization**|Yiwei He et.al.|[2506.22930](http://arxiv.org/abs/2506.22930)|null|
+|**2025-06-28**|**STR-Match: Matching SpatioTemporal Relevance Score for Training-Free Video Editing**|Junsung Lee et.al.|[2506.22868](http://arxiv.org/abs/2506.22868)|null|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
 |**2025-06-27**|**EAMamba: Efficient All-Around Vision State Space Model for Image Restoration**|Yu-Cheng Lin et.al.|[2506.22246](http://arxiv.org/abs/2506.22246)|null|
 |**2025-06-27**|**ReF-LLE: Personalized Low-Light Enhancement via Reference-Guided Deep Reinforcement Learning**|Ming Zhao et.al.|[2506.22216](http://arxiv.org/abs/2506.22216)|null|
