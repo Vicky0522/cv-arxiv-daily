@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**BoltzNCE: Learning Likelihoods for Boltzmann Generation with Stochastic Interpolants and Noise Contrastive Estimation**|Rishal Aggarwal et.al.|[2507.00846](http://arxiv.org/abs/2507.00846)|null|
 |**2025-06-29**|**Autoregressive Denoising Score Matching is a Good Video Anomaly Detector**|Hanwen Zhang et.al.|[2506.23282](http://arxiv.org/abs/2506.23282)|null|
 |**2025-06-27**|**Score-Based Model for Low-Rank Tensor Recovery**|Zhengyun Cheng et.al.|[2506.22295](http://arxiv.org/abs/2506.22295)|null|
 |**2025-06-24**|**Quantum Neural Networks for Propensity Score Estimation and Survival Analysis in Observational Biomedical Studies**|Vojtěch Novák et.al.|[2506.19973](http://arxiv.org/abs/2506.19973)|null|
@@ -284,6 +285,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957](http://arxiv.org/abs/2507.01957)|null|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
+|**2025-07-02**|**FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**|Peng Zheng et.al.|[2507.01792](http://arxiv.org/abs/2507.01792)|null|
+|**2025-07-02**|**Autoregressive Image Generation with Linear Complexity: A Spatial-Aware Decay Perspective**|Yuxin Mao et.al.|[2507.01652](http://arxiv.org/abs/2507.01652)|null|
+|**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467](http://arxiv.org/abs/2507.01467)|null|
+|**2025-07-02**|**DiffMark: Diffusion-based Robust Watermark Against Deepfakes**|Chen Sun et.al.|[2507.01428](http://arxiv.org/abs/2507.01428)|null|
+|**2025-07-02**|**SD-Acc: Accelerating Stable Diffusion through Phase-aware Sampling and Hardware Co-Optimizations**|Zhican Wang et.al.|[2507.01309](http://arxiv.org/abs/2507.01309)|null|
+|**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264](http://arxiv.org/abs/2507.01264)|null|
+|**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
@@ -3790,6 +3801,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices**|Hailong Yan et.al.|[2507.01838](http://arxiv.org/abs/2507.01838)|null|
+|**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
+|**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
+|**2025-07-02**|**DocShaDiffusion: Diffusion Model in Latent Space for Document Image Shadow Removal**|Wenjie Liu et.al.|[2507.01422](http://arxiv.org/abs/2507.01422)|null|
+|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
 |**2025-06-30**|**Oneta: Multi-Style Image Enhancement Using Eigentransformation Functions**|Jiwon Kim et.al.|[2506.23547](http://arxiv.org/abs/2506.23547)|null|
 |**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|
