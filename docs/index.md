@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Beyond Scores: Proximal Diffusion Models**|Zhenghan Fang et.al.|[2507.08956](http://arxiv.org/abs/2507.08956)|null|
 |**2025-07-10**|**Fisher Score Matching for Simulation-Based Forecasting and Inference**|Ce Sui et.al.|[2507.07833](http://arxiv.org/abs/2507.07833)|null|
 |**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895](http://arxiv.org/abs/2507.06895)|null|
 |**2025-07-11**|**A Malliavin calculus approach to score functions in diffusion generative models**|Ehsan Mirafzali et.al.|[2507.05550](http://arxiv.org/abs/2507.05550)|null|
@@ -284,6 +285,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
+|**2025-07-14**|**Latent Diffusion Models with Masked AutoEncoders**|Junho Lee et.al.|[2507.09984](http://arxiv.org/abs/2507.09984)|null|
+|**2025-07-14**|**Counterfactual Visual Explanation via Causally-Guided Adversarial Steering**|Yiran Qiao et.al.|[2507.09881](http://arxiv.org/abs/2507.09881)|null|
+|**2025-07-13**|**Brain Stroke Detection and Classification Using CT Imaging with Transformer Models and Explainable AI**|Shomukh Qari et.al.|[2507.09630](http://arxiv.org/abs/2507.09630)|null|
+|**2025-07-13**|**Demystifying Flux Architecture**|Or Greenberg et.al.|[2507.09595](http://arxiv.org/abs/2507.09595)|null|
+|**2025-07-13**|**MENTOR: Efficient Multimodal-Conditioned Tuning for Autoregressive Vision Generation Models**|Haozhe Zhao et.al.|[2507.09574](http://arxiv.org/abs/2507.09574)|null|
+|**2025-07-12**|**AlphaVAE: Unified End-to-End RGBA Image Reconstruction and Generation with Alpha-Aware Representation Learning**|Zile Wang et.al.|[2507.09308](http://arxiv.org/abs/2507.09308)|null|
+|**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
+|**2025-07-12**|**Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning**|Yiyang Chen et.al.|[2507.09102](http://arxiv.org/abs/2507.09102)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation**|Liu He et.al.|[2507.08513](http://arxiv.org/abs/2507.08513)|null|
 |**2025-07-11**|**Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation**|Anlin Zheng et.al.|[2507.08441](http://arxiv.org/abs/2507.08441)|null|
@@ -3850,6 +3861,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction**|Zhicun Yin et.al.|[2507.10470](http://arxiv.org/abs/2507.10470)|null|
+|**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
+|**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
+|**2025-07-13**|**A New Wireless Image Transmission System Using Code Index Modulation and Image Enhancement for High-Rate Next Generation Networks**|Burak Ahmet Ozden et.al.|[2507.09713](http://arxiv.org/abs/2507.09713)|null|
 |**2025-07-11**|**FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields**|Gwanhyeong Koo et.al.|[2507.08285](http://arxiv.org/abs/2507.08285)|null|
 |**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**|Thanh Nguyen Canh et.al.|[2507.07752](http://arxiv.org/abs/2507.07752)|null|
