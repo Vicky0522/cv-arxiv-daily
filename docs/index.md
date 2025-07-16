@@ -285,6 +285,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**CharaConsist: Fine-Grained Consistent Character Generation**|Mengyu Wang et.al.|[2507.11533](http://arxiv.org/abs/2507.11533)|null|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**MFGDiffusion: Mask-Guided Smoke Synthesis for Enhanced Forest Fire Detection**|Guanghao Wu et.al.|[2507.11252](http://arxiv.org/abs/2507.11252)|null|
+|**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
+|**2025-07-14**|**Spatial Reasoners for Continuous Variables in Any Domain**|Bart Pogodzinski et.al.|[2507.10768](http://arxiv.org/abs/2507.10768)|null|
 |**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
 |**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
 |**2025-07-14**|**Latent Diffusion Models with Masked AutoEncoders**|Junho Lee et.al.|[2507.09984](http://arxiv.org/abs/2507.09984)|null|
@@ -3861,6 +3867,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
+|**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855](http://arxiv.org/abs/2507.10855)|null|
+|**2025-07-14**|**CWNet: Causal Wavelet Network for Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2507.10689](http://arxiv.org/abs/2507.10689)|null|
 |**2025-07-14**|**RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction**|Zhicun Yin et.al.|[2507.10470](http://arxiv.org/abs/2507.10470)|null|
 |**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
 |**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
