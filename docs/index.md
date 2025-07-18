@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## diffusion
@@ -285,7 +285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
 |**2025-07-16**|**DeepShade: Enable Shade Simulation by Text-conditioned Image Generation**|Longchao Da et.al.|[2507.12103](http://arxiv.org/abs/2507.12103)|null|
 |**2025-07-16**|**ID-EA: Identity-driven Text Enhancement and Adaptation with Textual Inversion for Personalized Text-to-Image Generation**|Hyun-Jun Jin et.al.|[2507.11990](http://arxiv.org/abs/2507.11990)|null|
