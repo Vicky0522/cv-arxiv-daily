@@ -293,6 +293,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling**|Boheng Li et.al.|[2507.16329](http://arxiv.org/abs/2507.16329)|null|
+|**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
+|**2025-07-22**|**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**|Boheng Li et.al.|[2507.16302](http://arxiv.org/abs/2507.16302)|null|
+|**2025-07-22**|**Edge-case Synthesis for Fisheye Object Detection: A Data-centric Perspective**|Seunghyeon Kim et.al.|[2507.16254](http://arxiv.org/abs/2507.16254)|null|
+|**2025-07-22**|**Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling**|Chao Zhou et.al.|[2507.16240](http://arxiv.org/abs/2507.16240)|null|
+|**2025-07-22**|**A Human-Centered Approach to Identifying Promises, Risks, & Challenges of Text-to-Image Generative AI in Radiology**|Katelyn Morrison et.al.|[2507.16207](http://arxiv.org/abs/2507.16207)|null|
+|**2025-07-22**|**LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text to Image Generation**|Jyun-Ze Tang et.al.|[2507.16154](http://arxiv.org/abs/2507.16154)|null|
+|**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
+|**2025-07-21**|**Improving Personalized Image Generation through Social Context Feedback**|Parul Gupta et.al.|[2507.16095](http://arxiv.org/abs/2507.16095)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
 |**2025-07-21**|**A Practical Investigation of Spatially-Controlled Image Generation with Transformers**|Guoxuan Xia et.al.|[2507.15724](http://arxiv.org/abs/2507.15724)|null|
@@ -3906,6 +3915,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement**|Kahim Wong et.al.|[2507.16397](http://arxiv.org/abs/2507.16397)|null|
+|**2025-07-22**|**Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling**|Chao Zhou et.al.|[2507.16240](http://arxiv.org/abs/2507.16240)|null|
+|**2025-07-22**|**LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs**|Zitong Xu et.al.|[2507.16193](http://arxiv.org/abs/2507.16193)|null|
 |**2025-07-21**|**SAIGFormer: A Spatially-Adaptive Illumination-Guided Network for Low-Light Image Enhancement**|Hanting Li et.al.|[2507.15520](http://arxiv.org/abs/2507.15520)|null|
 |**2025-07-20**|**EBA-AI: Ethics-Guided Bias-Aware AI for Efficient Underwater Image Enhancement and Coral Reef Monitoring**|Lyes Saad Saoud et.al.|[2507.15036](http://arxiv.org/abs/2507.15036)|null|
 |**2025-07-20**|**Light Future: Multimodal Action Frame Prediction via InstructPix2Pix**|Zesen Zhong et.al.|[2507.14809](http://arxiv.org/abs/2507.14809)|null|
