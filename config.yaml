@@ -22,11 +22,20 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "diffusion": 
-        filters: ["diffusion", "score matching"]
-    "generation":
-        filters: ["video generation", "image generation"]
-    "enhancement & editing":
-        filters: ["Video enhancement","image enhancement",
-                  "image restoration","image editing",
-                  "video editing","image retouching"]
+    "world model":
+        filters: ["world model", "video world model",
+                  "video generation model", "generative world model",
+                  "latent world model"]
+    "embodied AI":
+        filters: ["embodied AI", "embodied agent",
+                  "embodied world model", "VLM robot",
+                  "vision language model robot"]
+    "image generation":
+        filters: ["image generation", "text-to-image",
+                  "image synthesis", "diffusion model",
+                  "image editing"]
+    "LLM training":
+        filters: ["LLM training", "LLM fine-tuning",
+                  "RLHF", "reinforcement learning from human feedback",
+                  "instruction tuning", "continual pretraining",
+                  "LLM alignment", "preference optimization"]

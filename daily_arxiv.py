@@ -242,11 +242,12 @@ def update_json_file(filename,data_dict):
     
 def json_to_md(filename,md_filename,
                task = '',
-               to_web = False, 
-               use_title = True, 
+               to_web = False,
+               use_title = True,
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               max_show = 500):
     """
     @param filename: str
     @param md_filename: str
@@ -333,7 +334,8 @@ def json_to_md(filename,md_filename,
 
             # sort papers by date
             day_content = sort_papers(day_content)
-        
+            day_content = dict(list(day_content.items())[:max_show])
+
             for _,v in day_content.items():
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
