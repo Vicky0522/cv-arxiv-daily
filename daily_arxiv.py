@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import time
 import arxiv
 import yaml
 import logging
@@ -155,6 +156,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
+            # still save the paper even if code link fetch fails
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})\n".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url)
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -392,6 +398,7 @@ def demo(**config):
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
+            time.sleep(5)  # avoid arXiv API rate limit (HTTP 429)
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file
