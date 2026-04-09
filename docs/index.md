@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**How Much LLM Does a Self-Revising Agent Actually Need?**|Seongwoo Jeong et.al.|[2604.07236](http://arxiv.org/abs/2604.07236)|null|
+|**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
+|**2026-04-08**|**INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling**|InSpatio Team et.al.|[2604.07209](http://arxiv.org/abs/2604.07209)|null|
+|**2026-04-08**|**Radio-Frequency Inverse Rendering for Wireless Environment Modeling**|Fuhai Wang et.al.|[2604.07086](http://arxiv.org/abs/2604.07086)|null|
+|**2026-04-08**|**Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G**|Hang Zou et.al.|[2604.06882](http://arxiv.org/abs/2604.06882)|null|
+|**2026-04-08**|**The Rhetoric of Machine Learning**|Robert C. Williamson et.al.|[2604.06754](http://arxiv.org/abs/2604.06754)|null|
+|**2026-04-08**|**Controllable Generative Video Compression**|Ding Ding et.al.|[2604.06655](http://arxiv.org/abs/2604.06655)|null|
+|**2026-04-07**|**Neural Computers**|Mingchen Zhuge et.al.|[2604.06425](http://arxiv.org/abs/2604.06425)|null|
+|**2026-04-07**|**Evolution of Video Generative Foundations**|Teng Hu et.al.|[2604.06339](http://arxiv.org/abs/2604.06339)|null|
 |**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168](http://arxiv.org/abs/2604.06168)|null|
 |**2026-04-07**|**Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement**|Qimin Zhong et.al.|[2604.06155](http://arxiv.org/abs/2604.06155)|null|
 |**2026-04-07**|**SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation**|Hiba Dahmani et.al.|[2604.06113](http://arxiv.org/abs/2604.06113)|null|
@@ -34,6 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Infrastructure First: Enabling Embodied AI for Science in the Global South**|Shaoshan Liu et.al.|[2604.06722](http://arxiv.org/abs/2604.06722)|null|
 |**2026-04-07**|**Hazard Management in Robot-Assisted Mammography Support**|Ioannis Stefanakos et.al.|[2604.05749](http://arxiv.org/abs/2604.05749)|null|
 |**2026-04-07**|**Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation**|Wuyang Luan et.al.|[2604.05673](http://arxiv.org/abs/2604.05673)|null|
 |**2026-04-07**|**Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming**|Baoshun Tong et.al.|[2604.05595](http://arxiv.org/abs/2604.05595)|null|
@@ -54,6 +64,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
+|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
+|**2026-04-08**|**SurFITR: A Dataset for Surveillance Image Forgery Detection and Localisation**|Qizhou Wang et.al.|[2604.07101](http://arxiv.org/abs/2604.07101)|null|
+|**2026-04-08**|**Granular mixing and flow dynamics in horizontal stirred bed reactors**|Sahar Pourandi et.al.|[2604.07082](http://arxiv.org/abs/2604.07082)|null|
+|**2026-04-08**|**Not all tokens contribute equally to diffusion learning**|Guoqing Zhang et.al.|[2604.07026](http://arxiv.org/abs/2604.07026)|null|
+|**2026-04-08**|**MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation**|Xiaoxiao Ma et.al.|[2604.06966](http://arxiv.org/abs/2604.06966)|null|
+|**2026-04-08**|**FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling**|Yitong Li et.al.|[2604.06916](http://arxiv.org/abs/2604.06916)|null|
+|**2026-04-08**|**RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details**|Dewei Zhou et.al.|[2604.06870](http://arxiv.org/abs/2604.06870)|null|
+|**2026-04-08**|**FVD: Inference-Time Alignment of Diffusion Models via Fleming-Viot Resampling**|Shivanshu Shekhar et.al.|[2604.06779](http://arxiv.org/abs/2604.06779)|null|
+|**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|null|
 |**2026-04-07**|**DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models**|Zhengming Yu et.al.|[2604.06161](http://arxiv.org/abs/2604.06161)|null|
 |**2026-04-07**|**Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring**|Krzysztof Wojciechowski et.al.|[2604.06133](http://arxiv.org/abs/2604.06133)|null|
 |**2026-04-07**|**PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer**|David Picard et.al.|[2604.06129](http://arxiv.org/abs/2604.06129)|null|
@@ -79,6 +99,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
+|**2026-04-08**|**Gemma 4, Phi-4, and Qwen3: Accuracy-Efficiency Tradeoffs in Dense and MoE Reasoning Language Models**|Md Motaleb Hossen Manik et.al.|[2604.07035](http://arxiv.org/abs/2604.07035)|null|
+|**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
+|**2026-04-08**|**Beyond Accuracy: Diagnosing Algebraic Reasoning Failures in LLMs Across Nine Complexity Dimensions**|Parth Patil et.al.|[2604.06799](http://arxiv.org/abs/2604.06799)|null|
+|**2026-04-08**|**Multi-Faceted Self-Consistent Preference Alignment for Query Rewriting in Conversational Search**|Zhiyu Cao et.al.|[2604.06771](http://arxiv.org/abs/2604.06771)|null|
+|**2026-04-08**|**The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence**|Napoleon Paxton et.al.|[2604.06621](http://arxiv.org/abs/2604.06621)|null|
+|**2026-04-07**|**Limits of Difficulty Scaling: Hard Samples Yield Diminishing Returns in GRPO-Tuned SLMs**|Suraj Yadav et.al.|[2604.06298](http://arxiv.org/abs/2604.06298)|null|
 |**2026-04-07**|**Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles**|Ben Wigler et.al.|[2604.06071](http://arxiv.org/abs/2604.06071)|null|
 |**2026-04-07**|**How LLMs Follow Instructions: Skillful Coordination, Not a Universal Mechanism**|Elisabetta Rocchetti et.al.|[2604.06015](http://arxiv.org/abs/2604.06015)|null|
 |**2026-04-07**|**Beyond Compromise: Pareto-Lenient Consensus for Efficient Multi-Preference LLM Alignment**|Renxuan Tan et.al.|[2604.05965](http://arxiv.org/abs/2604.05965)|null|
