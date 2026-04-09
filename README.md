@@ -74,6 +74,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
+|**2026-04-08**|**GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos**|Yiqian Wu et.al.|[2604.07273](http://arxiv.org/abs/2604.07273)|null|
 |**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
 |**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
 |**2026-04-08**|**SurFITR: A Dataset for Surveillance Image Forgery Detection and Localisation**|Qizhou Wang et.al.|[2604.07101](http://arxiv.org/abs/2604.07101)|null|
