@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics**|Ying Shen et.al.|[2604.08503](http://arxiv.org/abs/2604.08503)|null|
+|**2026-04-09**|**Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**|Seyed Amir Ahmad Safavi-Naini et.al.|[2604.08226](http://arxiv.org/abs/2604.08226)|null|
+|**2026-04-09**|**Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation**|Xiaoqian Qi et.al.|[2604.08199](http://arxiv.org/abs/2604.08199)|null|
+|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168](http://arxiv.org/abs/2604.08168)|null|
+|**2026-04-09**|**MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models**|Zile Guo et.al.|[2604.07991](http://arxiv.org/abs/2604.07991)|null|
+|**2026-04-09**|**WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models**|Hongjin Chen et.al.|[2604.07957](http://arxiv.org/abs/2604.07957)|null|
+|**2026-04-09**|**DailyArt: Discovering Articulation from Single Static Images via Latent Dynamics**|Hang Zhang et.al.|[2604.07758](http://arxiv.org/abs/2604.07758)|null|
+|**2026-04-09**|**CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics**|Ziyi Ding et.al.|[2604.07712](http://arxiv.org/abs/2604.07712)|null|
+|**2026-04-08**|**Grasp as You Dream: Imitating Functional Grasping from Generated Human Demonstrations**|Chao Tang et.al.|[2604.07517](http://arxiv.org/abs/2604.07517)|null|
+|**2026-04-08**|**GIRL: Generative Imagination Reinforcement Learning via Information-Theoretic Hallucination Control**|Prakul Sunil Hiremath et.al.|[2604.07426](http://arxiv.org/abs/2604.07426)|null|
 |**2026-04-08**|**How Much LLM Does a Self-Revising Agent Actually Need?**|Seongwoo Jeong et.al.|[2604.07236](http://arxiv.org/abs/2604.07236)|null|
 |**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
 |**2026-04-08**|**INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling**|InSpatio Team et.al.|[2604.07209](http://arxiv.org/abs/2604.07209)|null|
@@ -43,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Visually-grounded Humanoid Agents**|Hang Ye et.al.|[2604.08509](http://arxiv.org/abs/2604.08509)|null|
+|**2026-04-09**|**PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction**|Zhi-Yi Lin et.al.|[2604.08125](http://arxiv.org/abs/2604.08125)|null|
+|**2026-04-09**|**Governed Capability Evolution for Embodied Agents: Safe Upgrade, Compatibility Checking, and Runtime Rollback for Embodied Capability Modules**|Xue Qin et.al.|[2604.08059](http://arxiv.org/abs/2604.08059)|null|
+|**2026-04-09**|**DP-DeGauss: Dynamic Probabilistic Gaussian Decomposition for Egocentric 4D Scene Reconstruction**|Tingxi Chen et.al.|[2604.07986](http://arxiv.org/abs/2604.07986)|null|
+|**2026-04-09**|**PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation**|Dingwen Xiao et.al.|[2604.07901](http://arxiv.org/abs/2604.07901)|null|
+|**2026-04-09**|**Object-Attribute-Relation Model Driven Adaptive Hierarchical Transmission for Multimodal Semantic Communication**|Chenxing Li et.al.|[2604.07859](http://arxiv.org/abs/2604.07859)|null|
+|**2026-04-09**|**Harnessing Embodied Agents: Runtime Governance for Policy-Constrained Execution**|Xue Qin et.al.|[2604.07833](http://arxiv.org/abs/2604.07833)|null|
+|**2026-04-09**|**Learning Without Losing Identity: Capability Evolution for Embodied Agents**|Xue Qin et.al.|[2604.07799](http://arxiv.org/abs/2604.07799)|null|
+|**2026-04-09**|**DailyArt: Discovering Articulation from Single Static Images via Latent Dynamics**|Hang Zhang et.al.|[2604.07758](http://arxiv.org/abs/2604.07758)|null|
+|**2026-04-08**|**Spatio-Temporal Grounding of Large Language Models from Perception Streams**|Jacob Anderson et.al.|[2604.07592](http://arxiv.org/abs/2604.07592)|null|
 |**2026-04-08**|**Infrastructure First: Enabling Embodied AI for Science in the Global South**|Shaoshan Liu et.al.|[2604.06722](http://arxiv.org/abs/2604.06722)|null|
 |**2026-04-07**|**Hazard Management in Robot-Assisted Mammography Support**|Ioannis Stefanakos et.al.|[2604.05749](http://arxiv.org/abs/2604.05749)|null|
 |**2026-04-07**|**Rectified Schrödinger Bridge Matching for Few-Step Visual Navigation**|Wuyang Luan et.al.|[2604.05673](http://arxiv.org/abs/2604.05673)|null|
@@ -64,6 +84,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
+|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
+|**2026-04-09**|**Novel View Synthesis as Video Completion**|Qi Wu et.al.|[2604.08500](http://arxiv.org/abs/2604.08500)|null|
+|**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475](http://arxiv.org/abs/2604.08475)|null|
+|**2026-04-09**|**Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training**|Constantin Le Cleï et.al.|[2604.08357](http://arxiv.org/abs/2604.08357)|null|
+|**2026-04-09**|**Controlling the rain fall statistics using Mean-Reverting Jump Diffusion model**|Joya GhoshDastider et.al.|[2604.08338](http://arxiv.org/abs/2604.08338)|null|
+|**2026-04-09**|**DiV-INR: Extreme Low-Bitrate Diffusion Video Compression with INR Conditioning**|Eren Çetin et.al.|[2604.08329](http://arxiv.org/abs/2604.08329)|null|
+|**2026-04-09**|**HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology**|Aasim Bin Saleem et.al.|[2604.08305](http://arxiv.org/abs/2604.08305)|null|
+|**2026-04-09**|**GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis**|Yishen Liu et.al.|[2604.08301](http://arxiv.org/abs/2604.08301)|null|
+|**2026-04-09**|**EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**|Xiangyuan Wang et.al.|[2604.08213](http://arxiv.org/abs/2604.08213)|null|
 |**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
 |**2026-04-08**|**GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos**|Yiqian Wu et.al.|[2604.07273](http://arxiv.org/abs/2604.07273)|null|
 |**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
@@ -101,6 +131,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
+|**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
+|**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|null|
+|**2026-04-09**|**Self-Debias: Self-correcting for Debiasing Large Language Models**|Xuan Feng et.al.|[2604.08243](http://arxiv.org/abs/2604.08243)|null|
+|**2026-04-09**|**EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**|Xiangyuan Wang et.al.|[2604.08213](http://arxiv.org/abs/2604.08213)|null|
+|**2026-04-09**|**Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment**|Blessing Agyei Kyem et.al.|[2604.08212](http://arxiv.org/abs/2604.08212)|null|
+|**2026-04-09**|**Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling**|Jiaxuan Wang et.al.|[2604.08178](http://arxiv.org/abs/2604.08178)|null|
+|**2026-04-09**|**DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing**|Gyanendra Das et.al.|[2604.07965](http://arxiv.org/abs/2604.07965)|null|
+|**2026-04-09**|**Rethinking Data Mixing from the Perspective of Large Language Models**|Yuanjian Xu et.al.|[2604.07963](http://arxiv.org/abs/2604.07963)|null|
+|**2026-04-09**|**Large Language Model Post-Training: A Unified View of Off-Policy and On-Policy Learning**|Shiwan Zhao et.al.|[2604.07941](http://arxiv.org/abs/2604.07941)|null|
 |**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
 |**2026-04-08**|**Gemma 4, Phi-4, and Qwen3: Accuracy-Efficiency Tradeoffs in Dense and MoE Reasoning Language Models**|Md Motaleb Hossen Manik et.al.|[2604.07035](http://arxiv.org/abs/2604.07035)|null|
 |**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
