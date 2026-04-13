@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.12
+## Updated on 2026.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks**|Lulin Liu et.al.|[2604.09535](http://arxiv.org/abs/2604.09535)|null|
+|**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
+|**2026-04-10**|**PhysInOne: Visual Physics Learning and Reasoning in One Suite**|Siyuan Zhou et.al.|[2604.09415](http://arxiv.org/abs/2604.09415)|null|
+|**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
+|**2026-04-10**|**Learning Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2604.09059](http://arxiv.org/abs/2604.09059)|null|
+|**2026-04-10**|**Advantage-Guided Diffusion for Model-Based Reinforcement Learning**|Daniele Foffano et.al.|[2604.09035](http://arxiv.org/abs/2604.09035)|null|
+|**2026-04-10**|**Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory**|Zile Wang et.al.|[2604.08995](http://arxiv.org/abs/2604.08995)|null|
+|**2026-04-10**|**WOMBET: World Model-based Experience Transfer for Robust and Sample-efficient Reinforcement Learning**|Mintae Kim et.al.|[2604.08958](http://arxiv.org/abs/2604.08958)|null|
+|**2026-04-10**|**Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication**|Benjamin Amoh et.al.|[2604.08944](http://arxiv.org/abs/2604.08944)|null|
+|**2026-04-09**|**Toward Hardware-Agnostic Quadrupedal World Models via Morphology Conditioning**|Mohamad H. Danesh et.al.|[2604.08780](http://arxiv.org/abs/2604.08780)|null|
 |**2026-04-09**|**Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics**|Ying Shen et.al.|[2604.08503](http://arxiv.org/abs/2604.08503)|null|
 |**2026-04-09**|**Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**|Seyed Amir Ahmad Safavi-Naini et.al.|[2604.08226](http://arxiv.org/abs/2604.08226)|null|
 |**2026-04-09**|**Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation**|Xiaoqian Qi et.al.|[2604.08199](http://arxiv.org/abs/2604.08199)|null|
@@ -53,9 +63,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**PhysInOne: Visual Physics Learning and Reasoning in One Suite**|Siyuan Zhou et.al.|[2604.09415](http://arxiv.org/abs/2604.09415)|null|
+|**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Yaru Liu et.al.|[2604.09036](http://arxiv.org/abs/2604.09036)|null|
+|**2026-04-10**|**PilotBench: A Benchmark for General Aviation Agents with Safety Constraints**|Yalun Wu et.al.|[2604.08987](http://arxiv.org/abs/2604.08987)|null|
+|**2026-04-10**|**AssemLM: Spatial Reasoning Multimodal Large Language Models for Robotic Assembly**|Zhi Jing et.al.|[2604.08983](http://arxiv.org/abs/2604.08983)|null|
+|**2026-04-09**|**AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation**|Yi-Hua Huang et.al.|[2604.08746](http://arxiv.org/abs/2604.08746)|null|
+|**2026-04-09**|**3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding**|Makanjuola Ogunleye et.al.|[2604.08645](http://arxiv.org/abs/2604.08645)|null|
 |**2026-04-09**|**Visually-grounded Humanoid Agents**|Hang Ye et.al.|[2604.08509](http://arxiv.org/abs/2604.08509)|null|
-|**2026-04-09**|**PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction**|Zhi-Yi Lin et.al.|[2604.08125](http://arxiv.org/abs/2604.08125)|null|
-|**2026-04-09**|**Governed Capability Evolution for Embodied Agents: Safe Upgrade, Compatibility Checking, and Runtime Rollback for Embodied Capability Modules**|Xue Qin et.al.|[2604.08059](http://arxiv.org/abs/2604.08059)|null|
+|**2026-04-10**|**PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction**|Zhi-Yi Lin et.al.|[2604.08125](http://arxiv.org/abs/2604.08125)|null|
+|**2026-04-10**|**Governed Capability Evolution for Embodied Agents: Safe Upgrade, Compatibility Checking, and Runtime Rollback for Embodied Capability Modules**|Xue Qin et.al.|[2604.08059](http://arxiv.org/abs/2604.08059)|null|
 |**2026-04-09**|**DP-DeGauss: Dynamic Probabilistic Gaussian Decomposition for Egocentric 4D Scene Reconstruction**|Tingxi Chen et.al.|[2604.07986](http://arxiv.org/abs/2604.07986)|null|
 |**2026-04-09**|**PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation**|Dingwen Xiao et.al.|[2604.07901](http://arxiv.org/abs/2604.07901)|null|
 |**2026-04-09**|**Object-Attribute-Relation Model Driven Adaptive Hierarchical Transmission for Multimodal Semantic Communication**|Chenxing Li et.al.|[2604.07859](http://arxiv.org/abs/2604.07859)|null|
@@ -84,6 +100,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Envisioning the Future, One Step at a Time**|Stefan Andreas Baumann et.al.|[2604.09527](http://arxiv.org/abs/2604.09527)|null|
+|**2026-04-10**|**Gardening on the Moon: An Advection-Diffusion Model to Guide the Search for Supernova Debris in the Lunar Regolith**|Emily S. Costello et.al.|[2604.09524](http://arxiv.org/abs/2604.09524)|null|
+|**2026-04-10**|**SCoRe: Clean Image Generation from Diffusion Models Trained on Noisy Images**|Yuta Matsuzaki et.al.|[2604.09436](http://arxiv.org/abs/2604.09436)|null|
+|**2026-04-10**|**Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories**|Wonbong Jang et.al.|[2604.09429](http://arxiv.org/abs/2604.09429)|null|
+|**2026-04-10**|**EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure**|Junyeong Ahn et.al.|[2604.09405](http://arxiv.org/abs/2604.09405)|null|
+|**2026-04-10**|**Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing**|Zhuohan Ouyang et.al.|[2604.09386](http://arxiv.org/abs/2604.09386)|null|
+|**2026-04-10**|**Hitem3D 2.0: Multi-View Guided Native 3D Texture Generation**|Huiang He et.al.|[2604.09231](http://arxiv.org/abs/2604.09231)|null|
+|**2026-04-10**|**Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models**|Wongi Jeong et.al.|[2604.09227](http://arxiv.org/abs/2604.09227)|null|
+|**2026-04-10**|**SHIFT: Steering Hidden Intermediates in Flow Transformers**|Nina Konovalova et.al.|[2604.09213](http://arxiv.org/abs/2604.09213)|null|
+|**2026-04-10**|**CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation**|Haoyu Zhao et.al.|[2604.09201](http://arxiv.org/abs/2604.09201)|null|
 |**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
 |**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
 |**2026-04-09**|**Novel View Synthesis as Video Completion**|Qi Wu et.al.|[2604.08500](http://arxiv.org/abs/2604.08500)|null|
@@ -131,6 +157,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning**|Yi Sui et.al.|[2604.09150](http://arxiv.org/abs/2604.09150)|null|
+|**2026-04-10**|**NyayaMind- A Framework for Transparent Legal Reasoning and Judgment Prediction in the Indian Legal System**|Parjanya Aditya Shukla et.al.|[2604.09069](http://arxiv.org/abs/2604.09069)|null|
+|**2026-04-10**|**TaxPraBen: A Scalable Benchmark for Structured Evaluation of LLMs in Chinese Real-World Tax Practice**|Gang Hu et.al.|[2604.08948](http://arxiv.org/abs/2604.08948)|null|
+|**2026-04-09**|**Cards Against LLMs: Benchmarking Humor Alignment in Large Language Models**|Yousra Fettach et.al.|[2604.08757](http://arxiv.org/abs/2604.08757)|null|
+|**2026-04-09**|**Decomposing the Delta: What Do Models Actually Learn from Preference Pairs?**|Chia-Hsuan Lee et.al.|[2604.08723](http://arxiv.org/abs/2604.08723)|null|
 |**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
 |**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|null|
 |**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|null|
