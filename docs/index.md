@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics**|Nassir Navab et.al.|[2604.11423](http://arxiv.org/abs/2604.11423)|null|
+|**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|null|
+|**2026-04-13**|**WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models**|Anlan Yu et.al.|[2604.11351](http://arxiv.org/abs/2604.11351)|null|
+|**2026-04-13**|**3D-Anchored Lookahead Planning for Persistent Robotic Scene Memory via World-Model-Based MCTS**|Bronislav Sidik et.al.|[2604.11302](http://arxiv.org/abs/2604.11302)|null|
+|**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Liaoyuan Fan et.al.|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
+|**2026-04-13**|**From Topology to Trajectory: LLM-Driven World Models For Supply Chain Resilience**|Jia Luo et.al.|[2604.11041](http://arxiv.org/abs/2604.11041)|null|
+|**2026-04-13**|**OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models**|Xiaomeng Hu et.al.|[2604.10866](http://arxiv.org/abs/2604.10866)|null|
+|**2026-04-12**|**Do LLMs Build Spatial World Models? Evidence from Grid-World Maze Tasks**|Weijiang Li et.al.|[2604.10690](http://arxiv.org/abs/2604.10690)|null|
+|**2026-04-11**|**Zero-shot World Models Are Developmentally Efficient Learners**|Khai Loong Aw et.al.|[2604.10333](http://arxiv.org/abs/2604.10333)|null|
+|**2026-04-11**|**VGA-Bench: A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation**|Longteng Jiang et.al.|[2604.10127](http://arxiv.org/abs/2604.10127)|null|
 |**2026-04-10**|**EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks**|Lulin Liu et.al.|[2604.09535](http://arxiv.org/abs/2604.09535)|null|
 |**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
 |**2026-04-10**|**PhysInOne: Visual Physics Learning and Reasoning in One Suite**|Siyuan Zhou et.al.|[2604.09415](http://arxiv.org/abs/2604.09415)|null|
@@ -63,6 +73,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|null|
+|**2026-04-13**|**DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models**|Siyuan Xu et.al.|[2604.11572](http://arxiv.org/abs/2604.11572)|null|
+|**2026-04-13**|**Efficient Emotion-Aware Iconic Gesture Prediction for Robot Co-Speech**|Edwin C. Montiel-Vazquez et.al.|[2604.11417](http://arxiv.org/abs/2604.11417)|null|
+|**2026-04-13**|**EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems**|Xue Qin et.al.|[2604.11174](http://arxiv.org/abs/2604.11174)|null|
+|**2026-04-13**|**EgoFun3D: Modeling Interactive Objects from Egocentric Videos using Function Templates**|Weikun Peng et.al.|[2604.11038](http://arxiv.org/abs/2604.11038)|null|
+|**2026-04-13**|**Federated Single-Agent Robotics: Multi-Robot Coordination Without Intra-Robot Multi-Agent Fragmentation**|Xue Qin et.al.|[2604.11028](http://arxiv.org/abs/2604.11028)|null|
+|**2026-04-13**|**ArtiCAD: Articulated CAD Assembly Design via Multi-Agent Code Generation**|Yuan Shui et.al.|[2604.10992](http://arxiv.org/abs/2604.10992)|null|
+|**2026-04-13**|**ScoRe-Flow: Complete Distributional Control via Score-Based Reinforcement Learning for Flow Matching**|Xiaotian Qiu et.al.|[2604.10962](http://arxiv.org/abs/2604.10962)|null|
+|**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|null|
+|**2026-04-12**|**HOG-Layout: Hierarchical 3D Scene Generation, Optimization and Editing via Vision-Language Models**|Haiyan Jiang et.al.|[2604.10772](http://arxiv.org/abs/2604.10772)|null|
 |**2026-04-10**|**PhysInOne: Visual Physics Learning and Reasoning in One Suite**|Siyuan Zhou et.al.|[2604.09415](http://arxiv.org/abs/2604.09415)|null|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Yaru Liu et.al.|[2604.09036](http://arxiv.org/abs/2604.09036)|null|
 |**2026-04-10**|**PilotBench: A Benchmark for General Aviation Agents with Safety Constraints**|Yalun Wu et.al.|[2604.08987](http://arxiv.org/abs/2604.08987)|null|
@@ -100,6 +120,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Progressively Texture-Aware Diffusion for Contrast-Enhanced Sparse-View CT**|Tianqi Wang et.al.|[2604.11559](http://arxiv.org/abs/2604.11559)|null|
+|**2026-04-13**|**Continuous Adversarial Flow Models**|Shanchuan Lin et.al.|[2604.11521](http://arxiv.org/abs/2604.11521)|null|
+|**2026-04-13**|**Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**|Samuel Cahyawijaya et.al.|[2604.11490](http://arxiv.org/abs/2604.11490)|null|
+|**2026-04-13**|**Degradation-Aware and Structure-Preserving Diffusion for Real-World Image Super-Resolution**|Yang Ji et.al.|[2604.11470](http://arxiv.org/abs/2604.11470)|null|
+|**2026-04-13**|**One Scale at a Time: Scale-Autoregressive Modeling for Fluid Flow Distributions**|Mario Lino et.al.|[2604.11403](http://arxiv.org/abs/2604.11403)|null|
+|**2026-04-13**|**DiLO: Decoupling Generative Priors and Neural Operators via Diffusion Latent Optimization for Inverse Problems**|Haibo Liu et.al.|[2604.11375](http://arxiv.org/abs/2604.11375)|null|
+|**2026-04-13**|**Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale**|Dongxu Wei et.al.|[2604.11331](http://arxiv.org/abs/2604.11331)|null|
+|**2026-04-13**|**Learning Discrete Diffusion of Graphs via Free-Energy Gradient Flows**|Dario Rancati et.al.|[2604.11311](http://arxiv.org/abs/2604.11311)|null|
+|**2026-04-13**|**Structured State-Space Regularization for Compact and Generation-Friendly Image Tokenization**|Jinsung Lee et.al.|[2604.11089](http://arxiv.org/abs/2604.11089)|null|
+|**2026-04-13**|**LaDA-Band: Language Diffusion Models for Vocal-to-Accompaniment Generation**|Qi Wang et.al.|[2604.11052](http://arxiv.org/abs/2604.11052)|null|
 |**2026-04-10**|**Envisioning the Future, One Step at a Time**|Stefan Andreas Baumann et.al.|[2604.09527](http://arxiv.org/abs/2604.09527)|null|
 |**2026-04-10**|**Gardening on the Moon: An Advection-Diffusion Model to Guide the Search for Supernova Debris in the Lunar Regolith**|Emily S. Costello et.al.|[2604.09524](http://arxiv.org/abs/2604.09524)|null|
 |**2026-04-10**|**SCoRe: Clean Image Generation from Diffusion Models Trained on Noisy Images**|Yuta Matsuzaki et.al.|[2604.09436](http://arxiv.org/abs/2604.09436)|null|
@@ -157,6 +187,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**MLLM-as-a-Judge Exhibits Model Preference Bias**|Shuitsu Koyama et.al.|[2604.11589](http://arxiv.org/abs/2604.11589)|null|
+|**2026-04-13**|**OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems**|Kun Liu et.al.|[2604.11477](http://arxiv.org/abs/2604.11477)|null|
+|**2026-04-13**|**Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization**|Zhixin Lin et.al.|[2604.11259](http://arxiv.org/abs/2604.11259)|null|
+|**2026-04-13**|**BITS Pilani at SemEval-2026 Task 9: Structured Supervised Fine-Tuning with DPO Refinement for Polarization Detection**|Atharva Gupta et.al.|[2604.11121](http://arxiv.org/abs/2604.11121)|null|
+|**2026-04-13**|**DDO-RM for LLM Preference Optimization: A Minimal Held-Out Benchmark against DPO**|Tiantian Zhang et.al.|[2604.11119](http://arxiv.org/abs/2604.11119)|null|
+|**2026-04-12**|**Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series**|Krzysztof Ociepa et.al.|[2604.10799](http://arxiv.org/abs/2604.10799)|null|
+|**2026-04-12**|**Teaching Language Models How to Code Like Learners: Conversational Serialization for Student Simulation**|Charles Koutcheme et.al.|[2604.10720](http://arxiv.org/abs/2604.10720)|null|
+|**2026-04-12**|**ProUIE: A Macro-to-Micro Progressive Learning Method for LLM-based Universal Information Extraction**|Wenda Liu et.al.|[2604.10633](http://arxiv.org/abs/2604.10633)|null|
+|**2026-04-12**|**CogInstrument: Modeling Cognitive Processes for Bidirectional Human-LLM Alignment in Planning Tasks**|Anqi Wang et.al.|[2604.10587](http://arxiv.org/abs/2604.10587)|null|
+|**2026-04-12**|**Calibration Collapse Under Sycophancy Fine-Tuning: How Reward Hacking Breaks Uncertainty Quantification in LLMs**|Subramanyam Sahoo et.al.|[2604.10585](http://arxiv.org/abs/2604.10585)|null|
 |**2026-04-10**|**Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning**|Yi Sui et.al.|[2604.09150](http://arxiv.org/abs/2604.09150)|null|
 |**2026-04-10**|**NyayaMind- A Framework for Transparent Legal Reasoning and Judgment Prediction in the Indian Legal System**|Parjanya Aditya Shukla et.al.|[2604.09069](http://arxiv.org/abs/2604.09069)|null|
 |**2026-04-10**|**TaxPraBen: A Scalable Benchmark for Structured Evaluation of LLMs in Chinese Real-World Tax Practice**|Gang Hu et.al.|[2604.08948](http://arxiv.org/abs/2604.08948)|null|
