@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Grounded World Model for Semantically Generalizable Planning**|Quanyi Li et.al.|[2604.11751](http://arxiv.org/abs/2604.11751)|null|
 |**2026-04-13**|**Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics**|Nassir Navab et.al.|[2604.11423](http://arxiv.org/abs/2604.11423)|null|
 |**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|null|
 |**2026-04-13**|**WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models**|Anlan Yu et.al.|[2604.11351](http://arxiv.org/abs/2604.11351)|null|
@@ -130,6 +131,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Diffusing diffusivity model with dichotomous noise**|Dongho Lee et.al.|[2604.11800](http://arxiv.org/abs/2604.11800)|null|
+|**2026-04-13**|**LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling**|Yuxin Chen et.al.|[2604.11748](http://arxiv.org/abs/2604.11748)|null|
+|**2026-04-13**|**On the Robustness of Watermarking for Autoregressive Image Generation**|Andreas Müller et.al.|[2604.11720](http://arxiv.org/abs/2604.11720)|null|
+|**2026-04-13**|**Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction**|Efstathios Karypidis et.al.|[2604.11707](http://arxiv.org/abs/2604.11707)|null|
+|**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|null|
+|**2026-04-13**|**RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time**|Haozhe Wang et.al.|[2604.11626](http://arxiv.org/abs/2604.11626)|null|
 |**2026-04-13**|**Progressively Texture-Aware Diffusion for Contrast-Enhanced Sparse-View CT**|Tianqi Wang et.al.|[2604.11559](http://arxiv.org/abs/2604.11559)|null|
 |**2026-04-13**|**Continuous Adversarial Flow Models**|Shanchuan Lin et.al.|[2604.11521](http://arxiv.org/abs/2604.11521)|null|
 |**2026-04-13**|**Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**|Samuel Cahyawijaya et.al.|[2604.11490](http://arxiv.org/abs/2604.11490)|null|
@@ -199,6 +206,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation**|WonJin Yoon et.al.|[2604.11801](http://arxiv.org/abs/2604.11801)|null|
+|**2026-04-13**|**RPA-Check: A Multi-Stage Automated Framework for Evaluating Dynamic LLM-based Role-Playing Agents**|Riccardo Rosati et.al.|[2604.11655](http://arxiv.org/abs/2604.11655)|null|
 |**2026-04-13**|**MLLM-as-a-Judge Exhibits Model Preference Bias**|Shuitsu Koyama et.al.|[2604.11589](http://arxiv.org/abs/2604.11589)|null|
 |**2026-04-13**|**OOM-RL: Out-of-Money Reinforcement Learning Market-Driven Alignment for LLM-Based Multi-Agent Systems**|Kun Liu et.al.|[2604.11477](http://arxiv.org/abs/2604.11477)|null|
 |**2026-04-13**|**Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization**|Zhixin Lin et.al.|[2604.11259](http://arxiv.org/abs/2604.11259)|null|
