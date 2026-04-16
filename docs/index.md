@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
+|**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|null|
+|**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
+|**2026-04-15**|**DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**|Hengye Lyu et.al.|[2604.13509](http://arxiv.org/abs/2604.13509)|null|
+|**2026-04-15**|**VibeFlow: Versatile Video Chroma-Lux Editing through Self-Supervised Learning**|Yifan Li et.al.|[2604.13425](http://arxiv.org/abs/2604.13425)|null|
 |**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Zijian Song et.al.|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
 |**2026-04-14**|**ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models**|Xinliang Wang et.al.|[2604.12251](http://arxiv.org/abs/2604.12251)|null|
 |**2026-04-13**|**Grounded World Model for Semantically Generalizable Planning**|Quanyi Li et.al.|[2604.11751](http://arxiv.org/abs/2604.11751)|null|
@@ -76,8 +82,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI**|You Rim Choi et.al.|[2604.13959](http://arxiv.org/abs/2604.13959)|null|
+|**2026-04-15**|**EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development**|Xueyang Zhou et.al.|[2604.13800](http://arxiv.org/abs/2604.13800)|null|
+|**2026-04-15**|**ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation**|Jingjing Qian et.al.|[2604.13633](http://arxiv.org/abs/2604.13633)|null|
+|**2026-04-15**|**VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation**|Yulu Gao et.al.|[2604.13596](http://arxiv.org/abs/2604.13596)|null|
+|**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558](http://arxiv.org/abs/2604.13558)|null|
+|**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Jianzong Wang et.al.|[2604.13533](http://arxiv.org/abs/2604.13533)|null|
+|**2026-04-14**|**Exploration and Exploitation Errors Are Measurable for Language Model Agents**|Jaden Park et.al.|[2604.13151](http://arxiv.org/abs/2604.13151)|null|
 |**2026-04-14**|**Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting**|Ziyuan Xia et.al.|[2604.12626](http://arxiv.org/abs/2604.12626)|null|
-|**2026-04-14**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371](http://arxiv.org/abs/2604.12371)|null|
+|**2026-04-15**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371](http://arxiv.org/abs/2604.12371)|null|
 |**2026-04-13**|**Human-Inspired Context-Selective Multimodal Memory for Social Robots**|Hangyeol Kang et.al.|[2604.12081](http://arxiv.org/abs/2604.12081)|null|
 |**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|null|
 |**2026-04-13**|**DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models**|Siyuan Xu et.al.|[2604.11572](http://arxiv.org/abs/2604.11572)|null|
@@ -126,6 +139,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|
+|**2026-04-15**|**Creo: From One-Shot Image Generation to Progressive, Co-Creative Ideation**|Zoe De Simone et.al.|[2604.13956](http://arxiv.org/abs/2604.13956)|null|
+|**2026-04-15**|**ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding**|Tianze Xia et.al.|[2604.13938](http://arxiv.org/abs/2604.13938)|null|
+|**2026-04-15**|**Three-dimensional photon transport in spinodal photocatalytic aerogels: how bicontinuous morphology controls kinetic rate constants**|Renaud A. L. Vallée et.al.|[2604.13929](http://arxiv.org/abs/2604.13929)|null|
+|**2026-04-15**|**Blind Bitstream-corrupted Video Recovery via Metadata-guided Diffusion Model**|Shuyun Wang et.al.|[2604.13906](http://arxiv.org/abs/2604.13906)|null|
+|**2026-04-15**|**PostureObjectstitch: Anomaly Image Generation Considering Assembly Relationships in Industrial Scenarios**|Zebei Tong et.al.|[2604.13863](http://arxiv.org/abs/2604.13863)|null|
+|**2026-04-15**|**DiffMagicFace: Identity Consistent Facial Editing of Real Videos**|Huanghao Yin et.al.|[2604.13841](http://arxiv.org/abs/2604.13841)|null|
+|**2026-04-15**|**EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching**|Boxuan Jiang et.al.|[2604.13685](http://arxiv.org/abs/2604.13685)|null|
+|**2026-04-15**|**Reconstruction of a 3D wireframe from a single line drawing via generative depth estimation**|Elton Cao et.al.|[2604.13549](http://arxiv.org/abs/2604.13549)|null|
+|**2026-04-15**|**LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design**|Chaoran Zhang et.al.|[2604.13520](http://arxiv.org/abs/2604.13520)|null|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-14**|**Causal Diffusion Models for Counterfactual Outcome Distributions in Longitudinal Data**|Farbod Alinezhad et.al.|[2604.12992](http://arxiv.org/abs/2604.12992)|null|
 |**2026-04-14**|**Turbulent pair dispersion with Stochastic Generative Diffusion Models**|Andrei Pantea et.al.|[2604.12932](http://arxiv.org/abs/2604.12932)|null|
@@ -209,6 +232,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-Visual Language Models**|Ami Baid et.al.|[2604.14129](http://arxiv.org/abs/2604.14129)|null|
+|**2026-04-15**|**TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration**|Zerun Ma et.al.|[2604.14116](http://arxiv.org/abs/2604.14116)|null|
+|**2026-04-15**|**MAny: Merge Anything for Multimodal Continual Instruction Tuning**|Zijian Gao et.al.|[2604.14016](http://arxiv.org/abs/2604.14016)|null|
+|**2026-04-15**|**Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection**|Ahmad Dawar Hakimi et.al.|[2604.13899](http://arxiv.org/abs/2604.13899)|null|
+|**2026-04-15**|**SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention**|Hongtao Xu et.al.|[2604.13847](http://arxiv.org/abs/2604.13847)|null|
+|**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)|null|
+|**2026-04-15**|**SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment**|Fumikazu Konishi et.al.|[2604.13600](http://arxiv.org/abs/2604.13600)|null|
+|**2026-04-15**|**Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate**|Cunda Wang et.al.|[2604.13551](http://arxiv.org/abs/2604.13551)|null|
+|**2026-04-15**|**Synthesizing Instruction-Tuning Datasets with Contrastive Decoding**|Tatsuya Ichinose et.al.|[2604.13538](http://arxiv.org/abs/2604.13538)|null|
+|**2026-04-14**|**Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization**|Aadyot Bhatnagar et.al.|[2604.13175](http://arxiv.org/abs/2604.13175)|null|
 |**2026-04-14**|**Visual Preference Optimization with Rubric Rewards**|Ya-Qi Yu et.al.|[2604.13029](http://arxiv.org/abs/2604.13029)|null|
 |**2026-04-14**|**One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness**|Erfan Baghaei Potraghloo et.al.|[2604.13006](http://arxiv.org/abs/2604.13006)|null|
 |**2026-04-14**|**Boosting Visual Instruction Tuning with Self-Supervised Guidance**|Sophia Sirko-Galouchenko et.al.|[2604.12966](http://arxiv.org/abs/2604.12966)|null|
