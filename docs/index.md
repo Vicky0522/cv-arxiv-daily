@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**POMDP-based Object Search with Growing State Space and Hybrid Action Domain**|Yongbo Chen et.al.|[2604.14965](http://arxiv.org/abs/2604.14965)|null|
+|**2026-04-16**|**Learning Ad Hoc Network Dynamics via Graph-Structured World Models**|Can Karacelebi et.al.|[2604.14811](http://arxiv.org/abs/2604.14811)|null|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
+|**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)|null|
 |**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
 |**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|null|
 |**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
@@ -82,10 +86,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints**|Pei-An Chen et.al.|[2604.14902](http://arxiv.org/abs/2604.14902)|null|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
+|**2026-04-16**|**Model-Based Reinforcement Learning Exploits Passive Body Dynamics for High-Performance Biped Robot Locomotion**|Tomoya Kamimura et.al.|[2604.14565](http://arxiv.org/abs/2604.14565)|null|
+|**2026-04-15**|**SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing**|Aodi Wu et.al.|[2604.14399](http://arxiv.org/abs/2604.14399)|null|
 |**2026-04-15**|**[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI**|You Rim Choi et.al.|[2604.13959](http://arxiv.org/abs/2604.13959)|null|
 |**2026-04-15**|**EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development**|Xueyang Zhou et.al.|[2604.13800](http://arxiv.org/abs/2604.13800)|null|
 |**2026-04-15**|**ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation**|Jingjing Qian et.al.|[2604.13633](http://arxiv.org/abs/2604.13633)|null|
-|**2026-04-15**|**VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation**|Yulu Gao et.al.|[2604.13596](http://arxiv.org/abs/2604.13596)|null|
+|**2026-04-16**|**VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation**|Yulu Gao et.al.|[2604.13596](http://arxiv.org/abs/2604.13596)|null|
 |**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558](http://arxiv.org/abs/2604.13558)|null|
 |**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Jianzong Wang et.al.|[2604.13533](http://arxiv.org/abs/2604.13533)|null|
 |**2026-04-14**|**Exploration and Exploitation Errors Are Measurable for Language Model Agents**|Jaden Park et.al.|[2604.13151](http://arxiv.org/abs/2604.13151)|null|
@@ -139,6 +147,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|null|
+|**2026-04-16**|**An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation**|Onno Niemann et.al.|[2604.15171](http://arxiv.org/abs/2604.15171)|null|
+|**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
+|**2026-04-16**|**Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation**|Chisatao Kumada et.al.|[2604.14790](http://arxiv.org/abs/2604.14790)|null|
+|**2026-04-16**|**Constraint-based Pre-training: From Structured Constraints to Scalable Model Initialization**|Fu Feng et.al.|[2604.14769](http://arxiv.org/abs/2604.14769)|null|
+|**2026-04-16**|**SynHAT: A Two-stage Coarse-to-Fine Diffusion Framework for Synthesizing Human Activity Traces**|Rongchao Xu et.al.|[2604.14705](http://arxiv.org/abs/2604.14705)|null|
+|**2026-04-16**|**Mean Flow Policy Optimization**|Xiaoyi Dong et.al.|[2604.14698](http://arxiv.org/abs/2604.14698)|null|
+|**2026-04-16**|**Seen-to-Scene: Keep the Seen, Generate the Unseen for Video Outpainting**|Inseok Jeon et.al.|[2604.14648](http://arxiv.org/abs/2604.14648)|null|
+|**2026-04-16**|**Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion**|Xiangrui Xiong et.al.|[2604.14613](http://arxiv.org/abs/2604.14613)|null|
+|**2026-04-16**|**Prompt-Guided Image Editing with Masked Logit Nudging in Visual Autoregressive Models**|Amir El-Ghoussani et.al.|[2604.14591](http://arxiv.org/abs/2604.14591)|null|
 |**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|
 |**2026-04-15**|**Creo: From One-Shot Image Generation to Progressive, Co-Creative Ideation**|Zoe De Simone et.al.|[2604.13956](http://arxiv.org/abs/2604.13956)|null|
 |**2026-04-15**|**ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding**|Tianze Xia et.al.|[2604.13938](http://arxiv.org/abs/2604.13938)|null|
@@ -232,6 +250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)|null|
+|**2026-04-16**|**RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models**|Gabriele Mattioli et.al.|[2604.14951](http://arxiv.org/abs/2604.14951)|null|
+|**2026-04-16**|**WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training**|Yifu Chen et.al.|[2604.14932](http://arxiv.org/abs/2604.14932)|null|
+|**2026-04-16**|**Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models**|Danae Sánchez Villegas et.al.|[2604.14888](http://arxiv.org/abs/2604.14888)|null|
+|**2026-04-16**|**CoTEvol: Self-Evolving Chain-of-Thoughts for Data Synthesis in Mathematical Reasoning**|Zhuo Wang et.al.|[2604.14768](http://arxiv.org/abs/2604.14768)|null|
+|**2026-04-16**|**Switching Efficiency: A Novel Framework for Dissecting AI Data Center Network Efficiency**|Niangen Ye et.al.|[2604.14690](http://arxiv.org/abs/2604.14690)|null|
+|**2026-04-16**|**SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models**|Binxian Su et.al.|[2604.14672](http://arxiv.org/abs/2604.14672)|null|
+|**2026-04-15**|**FoodSense: A Multisensory Food Dataset and Benchmark for Predicting Taste, Smell, Texture, and Sound from Images**|Sabab Ishraq et.al.|[2604.14388](http://arxiv.org/abs/2604.14388)|null|
+|**2026-04-15**|**The Cost of Language: Centroid Erasure Exposes and Exploits Modal Competition in Multimodal Language Models**|Akshay Paruchuri et.al.|[2604.14363](http://arxiv.org/abs/2604.14363)|null|
+|**2026-04-15**|**DharmaOCR: Specialized Small Language Models for Structured OCR that outperform Open-Source and Commercial Baselines**|Gabriel Pimenta de Freitas Cardoso et.al.|[2604.14314](http://arxiv.org/abs/2604.14314)|null|
 |**2026-04-15**|**Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-Visual Language Models**|Ami Baid et.al.|[2604.14129](http://arxiv.org/abs/2604.14129)|null|
 |**2026-04-15**|**TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration**|Zerun Ma et.al.|[2604.14116](http://arxiv.org/abs/2604.14116)|null|
 |**2026-04-15**|**MAny: Merge Anything for Multimodal Continual Instruction Tuning**|Zijian Gao et.al.|[2604.14016](http://arxiv.org/abs/2604.14016)|null|
