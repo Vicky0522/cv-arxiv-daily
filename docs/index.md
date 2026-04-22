@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
+|**2026-04-21**|**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**|Boyu Chen et.al.|[2604.19734](http://arxiv.org/abs/2604.19734)|null|
+|**2026-04-21**|**Mask World Model: Predicting What Matters for Robust Robot Policy Learning**|Yunfan Lou et.al.|[2604.19683](http://arxiv.org/abs/2604.19683)|null|
+|**2026-04-21**|**Safety-Critical Contextual Control via Online Riemannian Optimization with World Models**|Tongxin Li et.al.|[2604.19639](http://arxiv.org/abs/2604.19639)|null|
+|**2026-04-21**|**LASER: Learning Active Sensing for Continuum Field Reconstruction**|Huayu Deng et.al.|[2604.19355](http://arxiv.org/abs/2604.19355)|null|
+|**2026-04-21**|**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**|Feng Jiang et.al.|[2604.19092](http://arxiv.org/abs/2604.19092)|null|
+|**2026-04-20**|**Curiosity-Critic: Cumulative Prediction Error Improvement as a Tractable Intrinsic Reward for World Model Training**|Vin Bhaskara et.al.|[2604.18701](http://arxiv.org/abs/2604.18701)|null|
+|**2026-04-21**|**MultiWorld: Scalable Multi-Agent Multi-View Video World Models**|Haoyu Wu et.al.|[2604.18564](http://arxiv.org/abs/2604.18564)|null|
+|**2026-04-20**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
 |**2026-04-20**|**Sonata: A Hybrid World Model for Inertial Kinematics under Clinical Data Scarcity**|Blaise Delaney et.al.|[2604.18058](http://arxiv.org/abs/2604.18058)|null|
 |**2026-04-20**|**The Umwelt Representation Hypothesis: Rethinking Universality**|Victoria Bosch et.al.|[2604.17960](http://arxiv.org/abs/2604.17960)|null|
 |**2026-04-20**|**Scaling Human-AI Coding Collaboration Requires a Governable Consensus Layer**|Tianfu Wang et.al.|[2604.17883](http://arxiv.org/abs/2604.17883)|null|
@@ -96,6 +105,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
+|**2026-04-21**|**SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models**|Josue Torres-Fonseca et.al.|[2604.19638](http://arxiv.org/abs/2604.19638)|null|
+|**2026-04-21**|**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**|Feng Jiang et.al.|[2604.19092](http://arxiv.org/abs/2604.19092)|null|
+|**2026-04-21**|**Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents**|Xu Chen et.al.|[2604.19034](http://arxiv.org/abs/2604.19034)|null|
+|**2026-04-20**|**Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot**|Maximilian Du et.al.|[2604.18331](http://arxiv.org/abs/2604.18331)|null|
+|**2026-04-20**|**EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents**|Paolo Riva et.al.|[2604.18271](http://arxiv.org/abs/2604.18271)|null|
 |**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
 |**2026-04-20**|**StableIDM: Stabilizing Inverse Dynamics Model against Manipulator Truncation via Spatio-Temporal Refinement**|Kerui Li et.al.|[2604.17887](http://arxiv.org/abs/2604.17887)|null|
 |**2026-04-20**|**OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL**|Haoxiang Jie et.al.|[2604.17706](http://arxiv.org/abs/2604.17706)|null|
@@ -166,6 +181,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748](http://arxiv.org/abs/2604.19748)|null|
+|**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|null|
+|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](http://arxiv.org/abs/2604.19736)|null|
+|**2026-04-21**|**ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**|Zhengwentai Sun et.al.|[2604.19720](http://arxiv.org/abs/2604.19720)|null|
+|**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
+|**2026-04-21**|**Budgeted Online Influence Maximization**|Pierre Perrault et.al.|[2604.19672](http://arxiv.org/abs/2604.19672)|null|
+|**2026-04-21**|**Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming**|Alex Cuellar et.al.|[2604.19670](http://arxiv.org/abs/2604.19670)|null|
+|**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
+|**2026-04-21**|**SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing**|Ying Zeng et.al.|[2604.19587](http://arxiv.org/abs/2604.19587)|null|
 |**2026-04-20**|**PlankFormer: Robust Plankton Instance Segmentation via MAE-Pretrained Vision Transformers and Pseudo Community Image Generation**|Masaharu Miyazaki et.al.|[2604.17856](http://arxiv.org/abs/2604.17856)|null|
 |**2026-04-20**|**UniCSG: Unified High-Fidelity Content-Constrained Style-Driven Generation via Staged Semantic and Frequency Disentanglement**|Jingwei Yang et.al.|[2604.17850](http://arxiv.org/abs/2604.17850)|null|
 |**2026-04-20**|**Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing**|Kijung Jeon et.al.|[2604.17838](http://arxiv.org/abs/2604.17838)|null|
@@ -289,6 +314,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Exploring Language-Agnosticity in Function Vectors: A Case Study in Machine Translation**|Nurkhan Laiyk et.al.|[2604.19678](http://arxiv.org/abs/2604.19678)|null|
+|**2026-04-21**|**HP-Edit: A Human-Preference Post-Training Framework for Image Editing**|Fan Li et.al.|[2604.19406](http://arxiv.org/abs/2604.19406)|null|
+|**2026-04-21**|**Location Not Found: Exposing Implicit Local and Global Biases in Multilingual LLMs**|Guy Mor-Lan et.al.|[2604.19292](http://arxiv.org/abs/2604.19292)|null|
+|**2026-04-21**|**HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human-LLM Collaborative Writing**|Euntae Kim et.al.|[2604.19274](http://arxiv.org/abs/2604.19274)|null|
+|**2026-04-21**|**UniEP: Unified Expert-Parallel MoE MegaKernel for LLM Training**|Size Zheng et.al.|[2604.19241](http://arxiv.org/abs/2604.19241)|null|
+|**2026-04-21**|**The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models**|Shuai Wu et.al.|[2604.19139](http://arxiv.org/abs/2604.19139)|null|
+|**2026-04-21**|**SAHM: A Benchmark for Arabic Financial and Shari'ah-Compliant Reasoning**|Rania Elbadry et.al.|[2604.19098](http://arxiv.org/abs/2604.19098)|null|
+|**2026-04-21**|**STK-Adapter: Incorporating Evolving Graph and Event Chain for Temporal Knowledge Graph Extrapolation**|Shuyuan Zhao et.al.|[2604.19042](http://arxiv.org/abs/2604.19042)|null|
+|**2026-04-21**|**Policy Gradient Primal-Dual Method for Safe Reinforcement Learning from Human Feedback**|Qiang Liu et.al.|[2604.19024](http://arxiv.org/abs/2604.19024)|null|
+|**2026-04-21**|**Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control**|Julian Skifstad et.al.|[2604.19018](http://arxiv.org/abs/2604.19018)|null|
 |**2026-04-20**|**JudgeMeNot: Personalizing Large Language Models to Emulate Judicial Reasoning in Hebrew**|Itay Razumenko et.al.|[2604.18041](http://arxiv.org/abs/2604.18041)|null|
 |**2026-04-20**|**Architecture Matters More Than Scale: A Comparative Study of Retrieval and Memory Augmentation for Financial QA Under SME Compute Constraints**|Jianan Liu et.al.|[2604.17979](http://arxiv.org/abs/2604.17979)|null|
 |**2026-04-20**|**Efficient Federated RLHF via Zeroth-Order Policy Optimization**|Deyi Wang et.al.|[2604.17747](http://arxiv.org/abs/2604.17747)|null|
