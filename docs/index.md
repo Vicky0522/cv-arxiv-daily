@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
+|**2026-04-28**|**ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution**|Chuyao Fu et.al.|[2604.25329](http://arxiv.org/abs/2604.25329)|null|
 |**2026-04-27**|**Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales**|Haozhi Han et.al.|[2604.24091](http://arxiv.org/abs/2604.24091)|null|
 |**2026-04-26**|**From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation**|Jiafeng Wu et.al.|[2604.23629](http://arxiv.org/abs/2604.23629)|null|
 |**2026-04-26**|**Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling**|Zhen Ye et.al.|[2604.23586](http://arxiv.org/abs/2604.23586)|null|
@@ -132,6 +134,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning**|Yufei Jia et.al.|[2604.25459](http://arxiv.org/abs/2604.25459)|null|
+|**2026-04-28**|**Where Did It Go Wrong? Capability-Oriented Failure Attribution for Vision-and-Language Navigation Agents**|Jianming Chen et.al.|[2604.25161](http://arxiv.org/abs/2604.25161)|null|
 |**2026-04-27**|**Interoceptive machine framework: Toward interoception-inspired regulatory architectures in artificial intelligence**|Diego Candia-Rivera et.al.|[2604.24527](http://arxiv.org/abs/2604.24527)|null|
 |**2026-04-27**|**AgenticCache: Cache-Driven Asynchronous Planning for Embodied AI Agents**|Hojoon Kim et.al.|[2604.24039](http://arxiv.org/abs/2604.24039)|null|
 |**2026-04-26**|**From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation**|Jiafeng Wu et.al.|[2604.23629](http://arxiv.org/abs/2604.23629)|null|
@@ -221,6 +225,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing**|Hanqing Yang et.al.|[2604.25477](http://arxiv.org/abs/2604.25477)|null|
+|**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
+|**2026-04-28**|**Benchmarking Layout-Guided Diffusion Models through Unified Semantic-Spatial Evaluation in Closed and Open Settings**|Luca Parolari et.al.|[2604.25358](http://arxiv.org/abs/2604.25358)|null|
+|**2026-04-28**|**Edge-Cloud Collaborative Reconstruction via Structure-Aware Latent Diffusion for Downstream Remote Sensing Perception**|Yun Li et.al.|[2604.25319](http://arxiv.org/abs/2604.25319)|null|
+|**2026-04-28**|**Golden RPG: Confidence-Adaptive Region-Aware Noise for Compositional Text-to-Image Generation**|Hao Li et.al.|[2604.25314](http://arxiv.org/abs/2604.25314)|null|
+|**2026-04-28**|**The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents**|Yuwei Sun et.al.|[2604.25299](http://arxiv.org/abs/2604.25299)|null|
+|**2026-04-28**|**Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds**|Liuzhuozheng Li et.al.|[2604.25289](http://arxiv.org/abs/2604.25289)|null|
+|**2026-04-28**|**ResetEdit: Precise Text-guided Editing of Generated Image via Resettable Starting Latent**|Hanyi Wang et.al.|[2604.25128](http://arxiv.org/abs/2604.25128)|null|
+|**2026-04-27**|**Generative diffusion models for spatiotemporal influenza forecasting**|Joseph Lemaitre et.al.|[2604.24913](http://arxiv.org/abs/2604.24913)|null|
+|**2026-04-27**|**VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations**|Maitreya Patel et.al.|[2604.24885](http://arxiv.org/abs/2604.24885)|null|
 |**2026-04-27**|**DiffQEC: A versatile diffusion model for quantum error correction**|Tianyi Xu et.al.|[2604.24640](http://arxiv.org/abs/2604.24640)|null|
 |**2026-04-27**|**Meta-CoT: Enhancing Granularity and Generalization in Image Editing**|Shiyi Zhang et.al.|[2604.24625](http://arxiv.org/abs/2604.24625)|null|
 |**2026-04-27**|**Diffusion Model as a Generalist Segmentation Learner**|Haoxiao Wang et.al.|[2604.24575](http://arxiv.org/abs/2604.24575)|null|
@@ -394,6 +408,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**When Errors Can Be Beneficial: A Categorization of Imperfect Rewards for Policy Gradient**|Shuning Shang et.al.|[2604.25872](http://arxiv.org/abs/2604.25872)|null|
+|**2026-04-28**|**From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling**|Jianghao Lin et.al.|[2604.25847](http://arxiv.org/abs/2604.25847)|null|
+|**2026-04-28**|**Step-Audio-R1.5 Technical Report**|Yuxin Zhang et.al.|[2604.25719](http://arxiv.org/abs/2604.25719)|null|
+|**2026-04-28**|**Backtranslation Augmented Direct Preference Optimization for Neural Machine Translation**|Mehrdad Ghassabi et.al.|[2604.25702](http://arxiv.org/abs/2604.25702)|null|
+|**2026-04-28**|**Health System Scale Semantic Search Across Unstructured Clinical Notes**|Faith Wavinya Mutinda et.al.|[2604.25605](http://arxiv.org/abs/2604.25605)|null|
+|**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
+|**2026-04-28**|**FED-FSTQ: Fisher-Guided Token Quantization for Communication-Efficient Federated Fine-Tuning of LLMs on Edge Devices**|Changyu Li et.al.|[2604.25421](http://arxiv.org/abs/2604.25421)|null|
+|**2026-04-28**|**Below-Chance Blindness: Prompted Underperformance in Small LLMs Produces Positional Bias Rather than Answer Avoidance**|Jon-Paul Cacioli et.al.|[2604.25249](http://arxiv.org/abs/2604.25249)|null|
+|**2026-04-28**|**Frictive Policy Optimization for LLMs: Epistemic Intervention, Risk-Sensitive Control, and Reflective Alignment**|James Pustejovsky et.al.|[2604.25136](http://arxiv.org/abs/2604.25136)|null|
+|**2026-04-28**|**What Makes Good Instruction-Tuning Data? An In-Context Learning Perspective**|Guangzeng Han et.al.|[2604.25132](http://arxiv.org/abs/2604.25132)|null|
 |**2026-04-27**|**A Survey on Split Learning for LLM Fine-Tuning: Models, Systems, and Privacy Optimizations**|Zihan Liu et.al.|[2604.24468](http://arxiv.org/abs/2604.24468)|null|
 |**2026-04-27**|**A Multi-Dimensional Audit of Politically Aligned Large Language Models**|Lisa Korver et.al.|[2604.24429](http://arxiv.org/abs/2604.24429)|null|
 |**2026-04-27**|**Meta-Aligner: Bidirectional Preference-Policy Optimization for Multi-Objective LLMs Alignment**|Wenzhe Xu et.al.|[2604.24178](http://arxiv.org/abs/2604.24178)|null|
