@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models**|Hao Chen et.al.|[2604.28192](http://arxiv.org/abs/2604.28192)|null|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
+|**2026-04-30**|**Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces**|Andrew Bond et.al.|[2604.28122](http://arxiv.org/abs/2604.28122)|null|
+|**2026-04-30**|**Dreaming Across Towns: Semantic Rollout and Town-Adversarial Regularization for Zero-Shot Held-Out-Town Fixed-Route Driving in CARLA**|Feeza Khan Khanzada et.al.|[2604.27994](http://arxiv.org/abs/2604.27994)|null|
+|**2026-04-30**|**GUI Agents with Reinforcement Learning: Toward Digital Inhabitants**|Junan Hu et.al.|[2604.27955](http://arxiv.org/abs/2604.27955)|null|
+|**2026-04-30**|**Flying by Inference: Active Inference World Models for Adaptive UAV Swarms**|Kaleem Arshid et.al.|[2604.27935](http://arxiv.org/abs/2604.27935)|null|
+|**2026-04-30**|**Simulating clinical interventions with a generative multimodal model of human physiology**|Guy Lutsker et.al.|[2604.27899](http://arxiv.org/abs/2604.27899)|null|
+|**2026-04-30**|**Graph World Models: Concepts, Taxonomy, and Future Directions**|Jiawei Liu et.al.|[2604.27895](http://arxiv.org/abs/2604.27895)|null|
+|**2026-04-30**|**MotuBrain: An Advanced World Action Model for Robot Control**|MotuBrain Team et.al.|[2604.27792](http://arxiv.org/abs/2604.27792)|null|
 |**2026-04-29**|**World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning**|Wanyue Zhang et.al.|[2604.26934](http://arxiv.org/abs/2604.26934)|null|
 |**2026-04-29**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
 |**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|null|
@@ -140,6 +150,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents**|Chunhui Zhang et.al.|[2604.27699](http://arxiv.org/abs/2604.27699)|null|
+|**2026-04-30**|**Robot Learning from Human Videos: A Survey**|Junyi Ma et.al.|[2604.27621](http://arxiv.org/abs/2604.27621)|null|
+|**2026-04-30**|**SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation**|Pengna Li et.al.|[2604.27620](http://arxiv.org/abs/2604.27620)|null|
+|**2026-04-30**|**World2Minecraft: Occupancy-Driven Simulated Scenes Construction**|Lechao Zhang et.al.|[2604.27578](http://arxiv.org/abs/2604.27578)|null|
+|**2026-04-30**|**SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation**|Song Tang et.al.|[2604.27555](http://arxiv.org/abs/2604.27555)|null|
+|**2026-04-30**|**Context as Prior: Bayesian-Inspired Intent Inference for Non-Speaking Agents with a Household Cat Testbed**|Wenqian Zhang et.al.|[2604.27445](http://arxiv.org/abs/2604.27445)|null|
 |**2026-04-29**|**3D Generation for Embodied AI and Robotic Simulation: A Survey**|Tianwei Ye et.al.|[2604.26509](http://arxiv.org/abs/2604.26509)|null|
 |**2026-04-29**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al.|[2604.26261](http://arxiv.org/abs/2604.26261)|null|
 |**2026-04-28**|**Lifting Embodied World Models for Planning and Control**|Alex N. Wang et.al.|[2604.26182](http://arxiv.org/abs/2604.26182)|null|
@@ -234,6 +250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
+|**2026-04-29**|**AdvDMD: Adversarial Reward Meets DMD For High-Quality Few-Step Generation**|Xu Wang et.al.|[2604.28126](http://arxiv.org/abs/2604.28126)|null|
+|**2026-04-30**|**From LLM-Driven Trading Card Generation to Procedural Relatedness: A Pokémon Case Study**|Johannes Pfau et.al.|[2604.27972](http://arxiv.org/abs/2604.27972)|null|
+|**2026-04-30**|**Diffusion-OAMP for Joint Image Compression and Wireless Transmission**|Wentao Hou et.al.|[2604.27952](http://arxiv.org/abs/2604.27952)|null|
+|**2026-04-30**|**Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection**|Ali Shibli et.al.|[2604.27889](http://arxiv.org/abs/2604.27889)|null|
+|**2026-04-30**|**Machine Unlearning for Class Removal through SISA-based Deep Neural Network Architectures**|Ishrak Hamim Mahi et.al.|[2604.27804](http://arxiv.org/abs/2604.27804)|null|
+|**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
+|**2026-04-30**|**Electrothermal Dynamics of Cold Front in Impure Tokamak Plasmas**|S. Oshiro et.al.|[2604.27444](http://arxiv.org/abs/2604.27444)|null|
+|**2026-04-30**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|
+|**2026-04-30**|**Sparse-View 3D Gaussian Splatting in the Wild**|Wongi Park et.al.|[2604.27422](http://arxiv.org/abs/2604.27422)|null|
 |**2026-04-29**|**SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset**|Changhyun Roh et.al.|[2604.26883](http://arxiv.org/abs/2604.26883)|null|
 |**2026-04-29**|**Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data**|Bao Pham et.al.|[2604.26841](http://arxiv.org/abs/2604.26841)|null|
 |**2026-04-29**|**Conditional diffusion denoising probabilistic model for super-resolution of atmospheric boundary layer large eddy simulation**|Omar Sallam et.al.|[2604.26776](http://arxiv.org/abs/2604.26776)|null|
@@ -427,6 +453,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**FiLMMeD: Feature-wise Linear Modulation for Cross-Problem Multi-Depot Vehicle Routing**|Arthur Corrêa et.al.|[2604.28102](http://arxiv.org/abs/2604.28102)|null|
+|**2026-04-30**|**Learning from Disagreement: Clinician Overrides as Implicit Preference Signals for Clinical AI in Value-Based Care**|Prabhjot Singh et.al.|[2604.28010](http://arxiv.org/abs/2604.28010)|null|
+|**2026-04-30**|**ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training**|Wenxiang Lin et.al.|[2604.27844](http://arxiv.org/abs/2604.27844)|null|
+|**2026-04-30**|**Mind the Gap: Structure-Aware Consistency in Preference Learning**|Mehryar Mohri et.al.|[2604.27733](http://arxiv.org/abs/2604.27733)|null|
+|**2026-04-30**|**Language Ideologies in a Multilingual Society: An LLM-based Analysis of Luxembourgish News Comments**|Emilia Milano et.al.|[2604.27661](http://arxiv.org/abs/2604.27661)|null|
+|**2026-04-30**|**HAVEN: Hybrid Automated Verification ENgine for UVM Testbench Synthesis with LLMs**|Chang-Chih Meng et.al.|[2604.27643](http://arxiv.org/abs/2604.27643)|null|
+|**2026-04-30**|**SecGoal: A Benchmark for Security Goal Extraction and Formalization from Protocol Documents**|Dawei Huang et.al.|[2604.27601](http://arxiv.org/abs/2604.27601)|null|
+|**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
+|**2026-04-30**|**Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors**|Zi Li et.al.|[2604.27426](http://arxiv.org/abs/2604.27426)|null|
+|**2026-04-29**|**Instruction Complexity Induces Positional Collapse in Adversarial LLM Evaluation**|Jon-Paul Cacioli et.al.|[2604.27249](http://arxiv.org/abs/2604.27249)|null|
 |**2026-04-29**|**Zero-Shot to Full-Resource: Cross-lingual Transfer Strategies for Aspect-Based Sentiment Analysis**|Jakob Fehle et.al.|[2604.26619](http://arxiv.org/abs/2604.26619)|null|
 |**2026-04-29**|**Translating Under Pressure: Domain-Aware LLMs for Crisis Communication**|Antonio Castaldo et.al.|[2604.26597](http://arxiv.org/abs/2604.26597)|null|
 |**2026-04-29**|**SplitFT: An Adaptive Federated Split Learning System For LLMs Fine-Tuning**|Yimeng Shan et.al.|[2604.26388](http://arxiv.org/abs/2604.26388)|null|
