@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Implementing True MPI Sessions and Evaluating MPI Initialization Scalability**|Hui Zhou et.al.|[2605.03983](http://arxiv.org/abs/2605.03983)|null|
+|**2026-05-05**|**A Benchmark for Interactive World Models with a Unified Action Generation Framework**|Jianjie Fang et.al.|[2605.03941](http://arxiv.org/abs/2605.03941)|null|
+|**2026-05-05**|**RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**|Hao Wu et.al.|[2605.03821](http://arxiv.org/abs/2605.03821)|null|
+|**2026-05-05**|**What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity**|Haoxi Li et.al.|[2605.03782](http://arxiv.org/abs/2605.03782)|null|
+|**2026-05-05**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
+|**2026-05-05**|**Learning to Theorize the World from Observation**|Doojin Baek et.al.|[2605.03413](http://arxiv.org/abs/2605.03413)|null|
 |**2026-05-04**|**Existence, Asymptotic Behavior, and Numerical Analysis of a Generalized Abel Differential Equation with Applications in Financial Modeling**|Dragos-Patru Covei et.al.|[2605.02831](http://arxiv.org/abs/2605.02831)|null|
 |**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](http://arxiv.org/abs/2605.02759)|null|
 |**2026-05-04**|**Shadow-Loom: Causal Reasoning over Graphical World Model of Narratives**|David Wilmot et.al.|[2605.02475](http://arxiv.org/abs/2605.02475)|null|
@@ -270,6 +276,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Large Language Models are Universal Reasoners for Visual Generation**|Sucheng Ren et.al.|[2605.04040](http://arxiv.org/abs/2605.04040)|null|
+|**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
+|**2026-05-05**|**DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models**|Qichao Wang et.al.|[2605.03877](http://arxiv.org/abs/2605.03877)|null|
+|**2026-05-05**|**Phase-Corrected Near-Field Microwave Imaging via Inverse Source Reconstruction with Modulated Signals**|Quanfeng Wang et.al.|[2605.03875](http://arxiv.org/abs/2605.03875)|null|
+|**2026-05-05**|**Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation**|Bin Wu et.al.|[2605.03849](http://arxiv.org/abs/2605.03849)|null|
+|**2026-05-05**|**Towards accurate extreme event likelihoods from diffusion model climate emulators**|Peter Manshausen et.al.|[2605.03802](http://arxiv.org/abs/2605.03802)|null|
+|**2026-05-05**|**GeoTopoDiff: Learning Geometry--Topology Graph Priors through Boundary-Constrained Mixed Diffusion for Sparse-Slice 3D Porous Reconstruction**|Yue Shi et.al.|[2605.03764](http://arxiv.org/abs/2605.03764)|null|
+|**2026-05-05**|**Agent-Based Modeling of Low-Emission Fertilizer Adoption for Dairy Farm Decarbonisation using Empirical Farm Data**|Surya Jayakumar et.al.|[2605.03648](http://arxiv.org/abs/2605.03648)|null|
+|**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
+|**2026-05-05**|**Bridging the Embodiment Gap: Disentangled Cross-Embodiment Video Editing**|Zhiyuan Li et.al.|[2605.03637](http://arxiv.org/abs/2605.03637)|null|
 |**2026-05-04**|**Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion**|Amirhosein Javadi et.al.|[2605.02849](http://arxiv.org/abs/2605.02849)|null|
 |**2026-05-04**|**TOC-SR: Task-Optimal Compact diffusion for Image Super Resolution**|Sowmya Vajrala et.al.|[2605.02767](http://arxiv.org/abs/2605.02767)|null|
 |**2026-05-04**|**SIAM: Head and Brain MRI Segmentation from Few High-Quality Templates via Synthetic Training**|Romain Valabregue et.al.|[2605.02737](http://arxiv.org/abs/2605.02737)|null|
@@ -493,6 +509,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
+|**2026-05-05**|**Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data**|Simret Araya Gebreegziabher et.al.|[2605.04029](http://arxiv.org/abs/2605.04029)|null|
+|**2026-05-05**|**On Adaptivity in Zeroth-Order Optimization**|Hassan Dbouk et.al.|[2605.03869](http://arxiv.org/abs/2605.03869)|null|
+|**2026-05-05**|**Natural Language Processing: A Comprehensive Practical Guide from Tokenisation to RLHF**|Mullosharaf K. Arabov et.al.|[2605.03799](http://arxiv.org/abs/2605.03799)|null|
+|**2026-05-05**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
+|**2026-05-05**|**Revisiting Graph-Tokenizing Large Language Models: A Systematic Evaluation of Graph Token Understanding**|Zhongjian Zhang et.al.|[2605.03514](http://arxiv.org/abs/2605.03514)|null|
+|**2026-05-04**|**Moral Sensitivity in LLMs: A Tiered Evaluation of Contextual Bias via Behavioral Profiling and Mechanistic Interpretability**|Yash Aggarwal et.al.|[2605.03217](http://arxiv.org/abs/2605.03217)|null|
+|**2026-05-04**|**Enwar 3.0: An Agentic Multi-Modal LLM Orchestrator for Situation-Aware Beamforming, Blockage Prediction, and Handover Management**|Ahmad M. Nazar et.al.|[2605.03215](http://arxiv.org/abs/2605.03215)|null|
+|**2026-05-04**|**Geometric Deviation as an Unsupervised Pre-Generation Reliability Signal: Probing LLM Representations for Answerability**|Yucheng Du et.al.|[2605.03196](http://arxiv.org/abs/2605.03196)|null|
 |**2026-05-04**|**Bolek: A Multimodal Language Model for Molecular Reasoning**|Frederic Grabowski et.al.|[2605.02745](http://arxiv.org/abs/2605.02745)|null|
 |**2026-05-04**|**Gradient-Gated DPO: Stabilizing Preference Optimization in Language Models**|Inoussa Mouiche et.al.|[2605.02626](http://arxiv.org/abs/2605.02626)|null|
 |**2026-05-04**|**Efficient Preference Poisoning Attack on Offline RLHF**|Chenye Yang et.al.|[2605.02495](http://arxiv.org/abs/2605.02495)|null|
