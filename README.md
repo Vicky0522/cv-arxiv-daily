@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Beyond Object-Level Alignment: Do Brains and DNNs Preserve the Same Transformations?**|Yukiyasu Kamitani et.al.|[2605.06420](http://arxiv.org/abs/2605.06420)|null|
+|**2026-05-07**|**Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models**|Nilaksh et.al.|[2605.06388](http://arxiv.org/abs/2605.06388)|null|
+|**2026-05-07**|**Earth-o1: A Grid-free Observation-native Atmospheric World Model**|Junchao Gong et.al.|[2605.06337](http://arxiv.org/abs/2605.06337)|null|
+|**2026-05-07**|**MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents**|Ashwani Anand et.al.|[2605.06334](http://arxiv.org/abs/2605.06334)|null|
+|**2026-05-07**|**Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement**|Roussel Desmond Nzoyem et.al.|[2605.06298](http://arxiv.org/abs/2605.06298)|null|
+|**2026-05-07**|**EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields**|Zhaoyang Yang et.al.|[2605.06192](http://arxiv.org/abs/2605.06192)|null|
+|**2026-05-07**|**Causal Reinforcement Learning for Complex Card Games: A Magic The Gathering Benchmark**|Cristiano da Costa Cunha et.al.|[2605.06066](http://arxiv.org/abs/2605.06066)|null|
+|**2026-05-07**|**HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning**|Haoyun Tang et.al.|[2605.05951](http://arxiv.org/abs/2605.05951)|null|
 |**2026-05-06**|**LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)**|Wei Luo et.al.|[2605.05187](http://arxiv.org/abs/2605.05187)|null|
 |**2026-05-06**|**Executable World Models for ARC-AGI-3 in the Era of Coding Agents**|Sergey Rodionov et.al.|[2605.05138](http://arxiv.org/abs/2605.05138)|null|
 |**2026-05-06**|**Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior**|Daniel Wurgaft et.al.|[2605.05115](http://arxiv.org/abs/2605.05115)|null|
@@ -180,12 +188,15 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|null|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI**|Kuofei Fang et.al.|[2605.06234](http://arxiv.org/abs/2605.06234)|null|
+|**2026-05-07**|**MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation**|Hao Wang et.al.|[2605.05756](http://arxiv.org/abs/2605.05756)|null|
+|**2026-05-06**|**PRISM: Perception Reasoning Interleaved for Sequential Decision Making**|Mohamed Salim Aissi et.al.|[2605.05407](http://arxiv.org/abs/2605.05407)|null|
 |**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163](http://arxiv.org/abs/2605.05163)|null|
 |**2026-05-06**|**Position: Embodied AI Requires a Privacy-Utility Trade-off**|Xiaoliang Fan et.al.|[2605.05017](http://arxiv.org/abs/2605.05017)|null|
 |**2026-05-04**|**Channel-Level Relation to Attentive Aggregation with Neighborhood-Homogeneity Constraint for Point Cloud Analysis**|Jiaqi Shi et.al.|[2605.02357](http://arxiv.org/abs/2605.02357)|null|
@@ -291,12 +302,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation**|Ziyu Zhai et.al.|[2605.06641](http://arxiv.org/abs/2605.06641)|null|
+|**2026-05-07**|**LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation**|Dan Jacobellis et.al.|[2605.06628](http://arxiv.org/abs/2605.06628)|null|
+|**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
+|**2026-05-07**|**DCR: Counterfactual Attractor Guidance for Rare Compositional Generation**|Taewon Kang et.al.|[2605.06512](http://arxiv.org/abs/2605.06512)|null|
+|**2026-05-07**|**FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction**|Fangda Chen et.al.|[2605.06509](http://arxiv.org/abs/2605.06509)|null|
+|**2026-05-07**|**MARBLE: Multi-Aspect Reward Balance for Diffusion RL**|Canyu Zhao et.al.|[2605.06507](http://arxiv.org/abs/2605.06507)|null|
+|**2026-05-07**|**FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation**|Mingfeng Lin et.al.|[2605.06421](http://arxiv.org/abs/2605.06421)|null|
+|**2026-05-07**|**Photonic-Implemented Efficient Deep Quantum Neural Network via Virtual-Driven Hilbert Space Expansion**|Haoran Ma et.al.|[2605.06397](http://arxiv.org/abs/2605.06397)|null|
 |**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](http://arxiv.org/abs/2605.05206)|null|
 |**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|null|
 |**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163](http://arxiv.org/abs/2605.05163)|null|
@@ -536,12 +557,22 @@
 |**2026-04-06**|**Training-Free Image Editing with Visual Context Integration and Concept Alignment**|Rui Song et.al.|[2604.04487](http://arxiv.org/abs/2604.04487)|null|
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
+|**2026-05-07**|**FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning**|Su Zhang et.al.|[2605.06596](http://arxiv.org/abs/2605.06596)|null|
+|**2026-05-07**|**A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment**|Hao Yu et.al.|[2605.06375](http://arxiv.org/abs/2605.06375)|null|
+|**2026-05-07**|**ResiHP: Taming LLM Training Failures with Dynamic Hybrid**|Tenghui Ma et.al.|[2605.06374](http://arxiv.org/abs/2605.06374)|null|
+|**2026-05-07**|**Measuring Evaluation-Context Divergence in Open-Weight LLMs: A Paired-Prompt Protocol with Pilot Evidence of Alignment-Pipeline-Specific Heterogeneity**|Florian A. D. Burnat et.al.|[2605.06327](http://arxiv.org/abs/2605.06327)|null|
+|**2026-05-07**|**Attributions All the Way Down? The Metagame of Interpretability**|Hubert Baniecki et.al.|[2605.06295](http://arxiv.org/abs/2605.06295)|null|
+|**2026-05-07**|**Teaching LLMs Program Semantics via Symbolic Execution Traces**|Jonas Bayer et.al.|[2605.06184](http://arxiv.org/abs/2605.06184)|null|
+|**2026-05-07**|**One Algorithm, Two Goals: Dual Scoring for Parameter and Data Selection in LLM Fine-Tuning**|Xinrui Chen et.al.|[2605.06166](http://arxiv.org/abs/2605.06166)|null|
+|**2026-05-07**|**Post Reasoning: Improving the Performance of Non-Thinking Models at No Cost**|Richmond Sin Jing Xuan et.al.|[2605.06165](http://arxiv.org/abs/2605.06165)|null|
+|**2026-05-07**|**BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification**|Yi-Siang Wang et.al.|[2605.06117](http://arxiv.org/abs/2605.06117)|null|
 |**2026-05-06**|**The First Token Knows: Single-Decode Confidence for Hallucination Detection**|Mina Gabriel et.al.|[2605.05166](http://arxiv.org/abs/2605.05166)|null|
 |**2026-05-06**|**On the Hardness of Junking LLMs**|Marco Rando et.al.|[2605.05116](http://arxiv.org/abs/2605.05116)|null|
 |**2026-05-06**|**Misaligned by Reward: Socially Undesirable Preferences in LLMs**|Gayane Ghazaryan et.al.|[2605.05003](http://arxiv.org/abs/2605.05003)|null|
@@ -751,7 +782,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
