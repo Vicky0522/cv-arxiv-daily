@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942](http://arxiv.org/abs/2605.10942)|null|
+|**2026-05-11**|**Is Your Driving World Model an All-Around Player?**|Lingdong Kong et.al.|[2605.10858](http://arxiv.org/abs/2605.10858)|null|
+|**2026-05-11**|**PhyGround: Benchmarking Physical Reasoning in Generative World Models**|Juyi Lin et.al.|[2605.10806](http://arxiv.org/abs/2605.10806)|null|
+|**2026-05-11**|**DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving**|Lingjun Zhang et.al.|[2605.10564](http://arxiv.org/abs/2605.10564)|null|
+|**2026-05-11**|**CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving**|Minqing Huang et.al.|[2605.10426](http://arxiv.org/abs/2605.10426)|null|
+|**2026-05-11**|**Progressive Photorealistic Simplification**|Adi Rosenthal et.al.|[2605.10409](http://arxiv.org/abs/2605.10409)|null|
+|**2026-05-11**|**Position: Life-Logging Video Streams Make the Privacy-Utility Trade-off Inevitable**|Tianyuan Zou et.al.|[2605.10404](http://arxiv.org/abs/2605.10404)|null|
+|**2026-05-11**|**How Mobile World Model Guides GUI Agents?**|Weikai Xu et.al.|[2605.10347](http://arxiv.org/abs/2605.10347)|null|
 |**2026-05-11**|**Data-Asymmetric Latent Imagination and Reranking for 3D Robotic Imitation Learning**|Lianghao Luo et.al.|[2605.10166](http://arxiv.org/abs/2605.10166)|null|
 |**2026-05-11**|**SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation**|Liangyang Ouyang et.al.|[2605.10079](http://arxiv.org/abs/2605.10079)|null|
 |**2026-05-11**|**Network-Efficient World Model Token Streaming**|Shatadal Mishra et.al.|[2605.09886](http://arxiv.org/abs/2605.09886)|null|
@@ -214,6 +222,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**Embodied AI in Action: Insights from SAE World Congress 2026 on Safety, Trust, Robotics, and Real-World Deployment**|Jan-Mou Li et.al.|[2605.10653](http://arxiv.org/abs/2605.10653)|null|
+|**2026-05-11**|**EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents**|Ruofei Ju et.al.|[2605.10332](http://arxiv.org/abs/2605.10332)|null|
 |**2026-05-11**|**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**|Seth Karten et.al.|[2605.09998](http://arxiv.org/abs/2605.09998)|null|
 |**2026-05-11**|**JODA: Composable Joint Dynamics for Articulated Objects**|Tianhong Gao et.al.|[2605.09954](http://arxiv.org/abs/2605.09954)|null|
 |**2026-05-11**|**EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding**|Ziyang Wang et.al.|[2605.09874](http://arxiv.org/abs/2605.09874)|null|
@@ -342,6 +352,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**ELF: Embedded Language Flows**|Keya Hu et.al.|[2605.10938](http://arxiv.org/abs/2605.10938)|null|
+|**2026-05-11**|**Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition**|Md. Sultan Al Rayhan et.al.|[2605.10916](http://arxiv.org/abs/2605.10916)|null|
+|**2026-05-11**|**How Creatives Approach GenAI Image Generation: Tensions Between Structured Guidance, Self-Experimentation, and Creative Autonomy**|Haidan Liu et.al.|[2605.10898](http://arxiv.org/abs/2605.10898)|null|
+|**2026-05-11**|**Count Anything at Any Granularity**|Chang Liu et.al.|[2605.10887](http://arxiv.org/abs/2605.10887)|null|
+|**2026-05-11**|**Masked Generative Transformer Is What You Need for Image Editing**|Wei Chow et.al.|[2605.10859](http://arxiv.org/abs/2605.10859)|null|
+|**2026-05-11**|**Predicting 3D structure by latent posterior sampling**|Azmi Haider et.al.|[2605.10830](http://arxiv.org/abs/2605.10830)|null|
+|**2026-05-11**|**Elucidating Representation Degradation Problem in Diffusion Model Training**|Zhipeng Yao et.al.|[2605.10790](http://arxiv.org/abs/2605.10790)|null|
+|**2026-05-11**|**Beyond the Last Layer: Multi-Layer Representation Fusion for Visual Tokenizatio**|Xuanyu Zhu et.al.|[2605.10780](http://arxiv.org/abs/2605.10780)|null|
+|**2026-05-11**|**Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow-Matching Models**|Andreas Bergmeister et.al.|[2605.10759](http://arxiv.org/abs/2605.10759)|null|
+|**2026-05-11**|**Joint probabilistic inference of galaxy redshifts and rest-frame spectra from photometric fluxes with latent diffusion**|Han-Yue Guo et.al.|[2605.10753](http://arxiv.org/abs/2605.10753)|null|
 |**2026-05-11**|**Empty SPACE: Cross-Attention Sparsity for Concept Erasure in Diffusion Models**|Nicola Novello et.al.|[2605.10198](http://arxiv.org/abs/2605.10198)|null|
 |**2026-05-11**|**What Concepts Lie Within? Detecting and Suppressing Risky Content in Diffusion Transformers**|Chenyu Zhang et.al.|[2605.10180](http://arxiv.org/abs/2605.10180)|null|
 |**2026-05-11**|**PoDAR: Power-Disentangled Audio Representation for Generative Modeling**|Alejandro Luebs et.al.|[2605.10084](http://arxiv.org/abs/2605.10084)|null|
@@ -617,6 +637,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**DGPO: Beyond Pairwise Preferences with Directional Consistent Groupwise Optimization**|Mengyi Deng et.al.|[2605.10863](http://arxiv.org/abs/2605.10863)|null|
+|**2026-05-11**|**Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding**|Jianzhu Bao et.al.|[2605.10855](http://arxiv.org/abs/2605.10855)|null|
+|**2026-05-11**|**MASS-DPO: Multi-negative Active Sample Selection for Direct Policy Optimization**|Rohan Surana et.al.|[2605.10784](http://arxiv.org/abs/2605.10784)|null|
+|**2026-05-11**|**Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR**|Jeonghye Kim et.al.|[2605.10781](http://arxiv.org/abs/2605.10781)|null|
+|**2026-05-11**|**Dynamic Cross-Modal Prompt Generation for Multimodal Continual Instruction Tuning**|Tao Hu et.al.|[2605.10765](http://arxiv.org/abs/2605.10765)|null|
+|**2026-05-11**|**Intrinsic Guardrails: How Semantic Geometry of Personality Interacts with Emergent Misalignment in LLMs**|Krishak Aneja et.al.|[2605.10633](http://arxiv.org/abs/2605.10633)|null|
+|**2026-05-11**|**Accelerating Compound LLM Training Workloads with Maestro**|Xiulong Yuan et.al.|[2605.10501](http://arxiv.org/abs/2605.10501)|null|
+|**2026-05-11**|**Phoenix-VL 1.5 Medium Technical Report**|Team Phoenix et.al.|[2605.10391](http://arxiv.org/abs/2605.10391)|null|
+|**2026-05-11**|**EvoStreaming: Your Offline Video Model Is a Natively Streaming Assistant**|Zichen Wen et.al.|[2605.10343](http://arxiv.org/abs/2605.10343)|null|
 |**2026-05-11**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318](http://arxiv.org/abs/2605.10318)|null|
 |**2026-05-11**|**Cross-Family Universality of Behavioral Axes via Anchor-Projected Representations**|Su-Hyeon Kim et.al.|[2605.09875](http://arxiv.org/abs/2605.09875)|null|
 |**2026-05-11**|**Exploration-Driven Optimization for Test-Time Large Language Model Reasoning**|Changhao Li et.al.|[2605.09853](http://arxiv.org/abs/2605.09853)|null|
