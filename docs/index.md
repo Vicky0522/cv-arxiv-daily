@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Data-Asymmetric Latent Imagination and Reranking for 3D Robotic Imitation Learning**|Lianghao Luo et.al.|[2605.10166](http://arxiv.org/abs/2605.10166)|null|
+|**2026-05-11**|**SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation**|Liangyang Ouyang et.al.|[2605.10079](http://arxiv.org/abs/2605.10079)|null|
+|**2026-05-11**|**Network-Efficient World Model Token Streaming**|Shatadal Mishra et.al.|[2605.09886](http://arxiv.org/abs/2605.09886)|null|
+|**2026-05-10**|**Multi-Tier Labeling and Physics-Informed Learning for Orbital Anomaly Detection at Scale**|Yong Fu et.al.|[2605.09790](http://arxiv.org/abs/2605.09790)|null|
+|**2026-05-10**|**DriveFuture: Future-Aware Latent World Models for Autonomous Driving**|Yufeng Hong et.al.|[2605.09701](http://arxiv.org/abs/2605.09701)|null|
+|**2026-05-10**|**Do multimodal models imagine electric sheep?**|Santhosh Kumar Ramakrishnan et.al.|[2605.09693](http://arxiv.org/abs/2605.09693)|null|
+|**2026-05-10**|**Absurd World: A Simple Yet Powerful Method to Absurdify the Real-world for Probing LLM Reasoning Capabilities**|Ryan Albright et.al.|[2605.09678](http://arxiv.org/abs/2605.09678)|null|
+|**2026-05-10**|**Workspace Optimization: How to Train Your Agent**|Elad Sarafian et.al.|[2605.09650](http://arxiv.org/abs/2605.09650)|null|
+|**2026-05-10**|**DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos**|Can Li et.al.|[2605.09586](http://arxiv.org/abs/2605.09586)|null|
+|**2026-05-10**|**FLAME: Adaptive Mixture-of-Experts for Continual Multimodal Multi-Task Learning**|Xing Han et.al.|[2605.09355](http://arxiv.org/abs/2605.09355)|null|
 |**2026-05-08**|**One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**|Zuojin Tang et.al.|[2605.07931](http://arxiv.org/abs/2605.07931)|null|
 |**2026-05-08**|**Synchronizing Minds through Collective Predictive Coding: A Computational Model of Parent-Infant Homeostatic Co-Regulation**|Yushi Tsubamoto et.al.|[2605.07524](http://arxiv.org/abs/2605.07524)|null|
 |**2026-05-08**|**ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation**|Haonan Wang et.al.|[2605.07390](http://arxiv.org/abs/2605.07390)|null|
@@ -196,6 +206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Continual Harness: Online Adaptation for Self-Improving Foundation Agents**|Seth Karten et.al.|[2605.09998](http://arxiv.org/abs/2605.09998)|null|
+|**2026-05-11**|**JODA: Composable Joint Dynamics for Articulated Objects**|Tianhong Gao et.al.|[2605.09954](http://arxiv.org/abs/2605.09954)|null|
+|**2026-05-11**|**EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding**|Ziyang Wang et.al.|[2605.09874](http://arxiv.org/abs/2605.09874)|null|
+|**2026-05-11**|**EnactToM: An Evolving Benchmark for Functional Theory of Mind in Embodied Agents**|Gurusha Juneja et.al.|[2605.09826](http://arxiv.org/abs/2605.09826)|null|
+|**2026-05-10**|**Emergent Communication for Co-constructed Emotion Between Embodied Agents via Collective Predictive Coding**|Zehang Zhang et.al.|[2605.09522](http://arxiv.org/abs/2605.09522)|null|
+|**2026-05-10**|**Kintsugi: Learning Policies by Repairing Executable Knowledge Bases**|Teng Cao et.al.|[2605.09487](http://arxiv.org/abs/2605.09487)|null|
+|**2026-05-10**|**Beyond Isolation: A Unified Benchmark for General-Purpose Navigation**|Samson Sun et.al.|[2605.09441](http://arxiv.org/abs/2605.09441)|null|
+|**2026-05-10**|**SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning**|Haoqiang Kang et.al.|[2605.09423](http://arxiv.org/abs/2605.09423)|null|
+|**2026-05-10**|**NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning**|Tiehan Cui et.al.|[2605.09387](http://arxiv.org/abs/2605.09387)|null|
+|**2026-05-10**|**HOME-KGQA: A Benchmark Dataset for Multimodal Knowledge Graph Question Answering on Household Daily Activities**|Shusaku Egami et.al.|[2605.09348](http://arxiv.org/abs/2605.09348)|null|
 |**2026-05-08**|**MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents**|Xin Ding et.al.|[2605.07594](http://arxiv.org/abs/2605.07594)|null|
 |**2026-05-08**|**CSR: Infinite-Horizon Real-Time Policies with Massive Cached State Representations**|Robin Karlsson et.al.|[2605.07325](http://arxiv.org/abs/2605.07325)|null|
 |**2026-05-08**|**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**|Zhaohui Du et.al.|[2605.07306](http://arxiv.org/abs/2605.07306)|null|
@@ -312,6 +332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Empty SPACE: Cross-Attention Sparsity for Concept Erasure in Diffusion Models**|Nicola Novello et.al.|[2605.10198](http://arxiv.org/abs/2605.10198)|null|
+|**2026-05-11**|**What Concepts Lie Within? Detecting and Suppressing Risky Content in Diffusion Transformers**|Chenyu Zhang et.al.|[2605.10180](http://arxiv.org/abs/2605.10180)|null|
+|**2026-05-11**|**PoDAR: Power-Disentangled Audio Representation for Generative Modeling**|Alejandro Luebs et.al.|[2605.10084](http://arxiv.org/abs/2605.10084)|null|
+|**2026-05-11**|**ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models**|Feihong Yan et.al.|[2605.10045](http://arxiv.org/abs/2605.10045)|null|
+|**2026-05-11**|**Only Train Once: Uncertainty-Aware One-Class Learning for Face Authenticity Detection**|Qingchao Jiang et.al.|[2605.10040](http://arxiv.org/abs/2605.10040)|null|
+|**2026-05-11**|**Muninn: Your Trajectory Diffusion Model But Faster**|Gokul Puthumanaillam et.al.|[2605.09999](http://arxiv.org/abs/2605.09999)|null|
+|**2026-05-11**|**HapticLDM: A Diffusion Model for Text-to-Vibrotactile Generation**|Jiahao Xiong et.al.|[2605.09971](http://arxiv.org/abs/2605.09971)|null|
+|**2026-05-11**|**RADAR: Redundancy-Aware Diffusion for Multi-Agent Communication Structure Generation**|Zhen Zhang et.al.|[2605.09907](http://arxiv.org/abs/2605.09907)|null|
+|**2026-05-10**|**TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation**|Hanqun Cao et.al.|[2605.09810](http://arxiv.org/abs/2605.09810)|null|
+|**2026-05-10**|**Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning**|Ziquan Wei et.al.|[2605.09771](http://arxiv.org/abs/2605.09771)|null|
 |**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|null|
 |**2026-05-08**|**SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation**|Tianfei Ren et.al.|[2605.08043](http://arxiv.org/abs/2605.08043)|null|
 |**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
@@ -575,6 +605,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318](http://arxiv.org/abs/2605.10318)|null|
+|**2026-05-11**|**Cross-Family Universality of Behavioral Axes via Anchor-Projected Representations**|Su-Hyeon Kim et.al.|[2605.09875](http://arxiv.org/abs/2605.09875)|null|
+|**2026-05-11**|**Exploration-Driven Optimization for Test-Time Large Language Model Reasoning**|Changhao Li et.al.|[2605.09853](http://arxiv.org/abs/2605.09853)|null|
+|**2026-05-10**|**EvoPref: Multi-Objective Evolutionary Optimization Discovers Diverse LLM Alignments Beyond Gradient Descent**|Dongxin Guo et.al.|[2605.09777](http://arxiv.org/abs/2605.09777)|null|
+|**2026-05-10**|**Learning Multi-Indicator Weights for Data Selection: A Joint Task-Model Adaptation Framework with Efficient Proxies**|Jingze Song et.al.|[2605.09665](http://arxiv.org/abs/2605.09665)|null|
+|**2026-05-10**|**K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs**|Hao Liang et.al.|[2605.09635](http://arxiv.org/abs/2605.09635)|null|
+|**2026-05-10**|**Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs**|Yunhong Lu et.al.|[2605.09433](http://arxiv.org/abs/2605.09433)|null|
+|**2026-05-10**|**Let the Target Select for Itself: Data Selection via Target-Aligned Paths**|Huitao Yang et.al.|[2605.09404](http://arxiv.org/abs/2605.09404)|null|
+|**2026-05-10**|**Dimension-Free Saddle-Point Escape in Muon**|Yanlin Long et.al.|[2605.09331](http://arxiv.org/abs/2605.09331)|null|
+|**2026-05-09**|**The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring**|Ismail Hossain et.al.|[2605.09225](http://arxiv.org/abs/2605.09225)|null|
 |**2026-05-08**|**Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph**|Ning Liu et.al.|[2605.08037](http://arxiv.org/abs/2605.08037)|null|
 |**2026-05-08**|**Tool Calling is Linearly Readable and Steerable in Language Models**|Zekun Wu et.al.|[2605.07990](http://arxiv.org/abs/2605.07990)|null|
 |**2026-05-08**|**Self-Play Enhancement via Advantage-Weighted Refinement in Online Federated LLM Fine-Tuning with Real-Time Feedback**|Seohyun Lee et.al.|[2605.07977](http://arxiv.org/abs/2605.07977)|null|
