@@ -42,6 +42,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run daily arxiv
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python daily_arxiv.py
 
