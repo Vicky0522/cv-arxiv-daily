@@ -20,14 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
+|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|**[link](https://github.com/zyshan0929/DVG-WM)**|
 |**2026-06-30**|**AdaJEPA: An Adaptive Latent World Model**|Ying Wang et.al.|[2606.32026](http://arxiv.org/abs/2606.32026)|null|
 |**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
 |**2026-06-30**|**ScratchWorld: Evaluating If World Models Compute Executable Consequences**|Yufeng Lin et.al.|[2606.31689](http://arxiv.org/abs/2606.31689)|null|
 |**2026-06-30**|**WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models**|Ting-Bing Xu et.al.|[2606.31672](http://arxiv.org/abs/2606.31672)|null|
 |**2026-06-30**|**Ask the World Before Acting: Budgeted Environment Probing for World-Model Calibration**|Xinyuan Song et.al.|[2606.31422](http://arxiv.org/abs/2606.31422)|null|
 |**2026-06-30**|**World-Model Collapse as a Phase Transition**|Xinyuan Song et.al.|[2606.31399](http://arxiv.org/abs/2606.31399)|null|
-|**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|null|
+|**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|**[link](https://github.com/yisuanwang/OVOW)**|
 |**2026-06-30**|**Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding**|Zhenghao Zhang et.al.|[2606.31232](http://arxiv.org/abs/2606.31232)|null|
 |**2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Xuchang Zhong et.al.|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
 |**2026-05-14**|**Quantitative Video World Model Evaluation for Geometric-Consistency**|Jiaxin Wu et.al.|[2605.15185](http://arxiv.org/abs/2605.15185)|null|
@@ -257,11 +257,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
-|**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966](http://arxiv.org/abs/2606.31966)|null|
+|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|**[link](https://github.com/zyshan0929/DVG-WM)**|
+|**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966](http://arxiv.org/abs/2606.31966)|**[link](https://github.com/q-i-n-g/MECoBench)**|
 |**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919](http://arxiv.org/abs/2606.31919)|null|
 |**2026-06-30**|**Autonomous UAV Navigation for Individual Wildlife Re-Identification**|Claire Sun et.al.|[2606.31772](http://arxiv.org/abs/2606.31772)|null|
-|**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|null|
+|**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|**[link](https://github.com/yisuanwang/OVOW)**|
 |**2026-06-30**|**Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors**|Zixing Wang et.al.|[2606.31101](http://arxiv.org/abs/2606.31101)|null|
 |**2026-06-30**|**CasaMaestro: Multi-View Panoramas for House-Scale 3D Reconstruction**|Yuzhou Ji et.al.|[2606.31086](http://arxiv.org/abs/2606.31086)|null|
 |**2026-06-30**|**Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation**|Bing Wu et.al.|[2606.31071](http://arxiv.org/abs/2606.31071)|null|
