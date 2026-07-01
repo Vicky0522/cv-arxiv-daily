@@ -407,10 +407,10 @@ layout: default
 |**2026-06-30**|**Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers**|Anh Nguyen et.al.|[2606.32020](http://arxiv.org/abs/2606.32020)|null|
 |**2026-06-30**|**Joint inference of weak lensing convergence map and cosmology with diffusion models**|Benjamin Remy et.al.|[2606.31988](http://arxiv.org/abs/2606.31988)|null|
 |**2026-06-30**|**InstanceControl: Controllable Complex Image Generation without Instance Labeling**|Xiaoyu Liu et.al.|[2606.31924](http://arxiv.org/abs/2606.31924)|null|
-|**2026-06-30**|**Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation**|Gaochao Song et.al.|[2606.31777](http://arxiv.org/abs/2606.31777)|null|
+|**2026-06-30**|**Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation**|Gaochao Song et.al.|[2606.31777](http://arxiv.org/abs/2606.31777)|**[link](https://github.com/gaochao-s/MeshBDF)**|
 |**2026-06-30**|**Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models**|Enrico Cassano et.al.|[2606.31699](http://arxiv.org/abs/2606.31699)|null|
 |**2026-06-30**|**Histogram-constrained Image Generation**|Haoming Liu et.al.|[2606.31683](http://arxiv.org/abs/2606.31683)|null|
-|**2026-06-30**|**Intrinsic decomposition and editing of 3D Gaussian splats**|Alexandre Lanvin et.al.|[2606.31637](http://arxiv.org/abs/2606.31637)|null|
+|**2026-06-30**|**Intrinsic decomposition and editing of 3D Gaussian splats**|Alexandre Lanvin et.al.|[2606.31637](http://arxiv.org/abs/2606.31637)|**[link](https://github.com/graphdeco-inria/intr_decomp_3dgs)**|
 |**2026-06-30**|**Preserve the Hard, Regenerate the Rest: Uncertainty-Guided Synthetic Training Data Augmentation with Diffusion Models**|Nikolai Röhrich et.al.|[2606.31603](http://arxiv.org/abs/2606.31603)|null|
 |**2026-06-30**|**Introduction to Stochastic Differential Equations for Generative Machine Learning: A Variational Perspective**|Ole Winther et.al.|[2606.31576](http://arxiv.org/abs/2606.31576)|null|
 |**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
@@ -726,7 +726,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|null|
+|**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|**[link](https://github.com/yale-nlp/RLMF)**|
 |**2026-06-30**|**Do Machines Struggle Where Humans Do? LLM and Human Comprehension of Obfuscated Code**|Jack Le et.al.|[2606.31725](http://arxiv.org/abs/2606.31725)|null|
 |**2026-06-30**|**On the Convergence of Self-Improving Online LLM Alignment**|Xudong Wu et.al.|[2606.31524](http://arxiv.org/abs/2606.31524)|null|
 |**2026-06-30**|**Probing Stylistic Appropriation using Large Language Models: An Evaluation Framework for Copyright Infringement under EU Law**|Noah Scharrenberg et.al.|[2606.31250](http://arxiv.org/abs/2606.31250)|null|
