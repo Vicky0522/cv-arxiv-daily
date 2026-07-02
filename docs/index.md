@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models**|Yue Han et.al.|[2607.01222](http://arxiv.org/abs/2607.01222)|**[link](https://github.com/YueHan99/Ink3D-TextureGen)**|
+|**2026-07-01**|**RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation**|Byeongguk Jeon et.al.|[2607.01060](http://arxiv.org/abs/2607.01060)|null|
+|**2026-07-01**|**Valdi: Value Diffusion World Models**|Christopher Lindenberg et.al.|[2607.00917](http://arxiv.org/abs/2607.00917)|null|
+|**2026-07-01**|**DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors**|Seok-Young Kim et.al.|[2607.00889](http://arxiv.org/abs/2607.00889)|null|
+|**2026-07-01**|**From World Models to World Action Models: A Concise Tutorial for Robotics**|Xiaoxiong Zhang et.al.|[2607.00836](http://arxiv.org/abs/2607.00836)|null|
+|**2026-07-01**|**Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences**|Zhenjia Li et.al.|[2607.00832](http://arxiv.org/abs/2607.00832)|null|
+|**2026-07-01**|**ABot-M0.5: Unified Mobility-and-Manipulation World Action Model**|Ronghan Chen et.al.|[2607.00678](http://arxiv.org/abs/2607.00678)|null|
+|**2026-07-01**|**Path Planning in Physically Viable World Models**|Su Ann Low et.al.|[2607.00673](http://arxiv.org/abs/2607.00673)|null|
+|**2026-07-01**|**AGI Maze as a Benchmark Framework for World-Modeling Agents**|Alexey Potapov et.al.|[2607.00627](http://arxiv.org/abs/2607.00627)|null|
+|**2026-07-01**|**Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments**|Jinwoo Jang et.al.|[2607.00457](http://arxiv.org/abs/2607.00457)|null|
 |**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|**[link](https://github.com/zyshan0929/DVG-WM)**|
 |**2026-06-30**|**AdaJEPA: An Adaptive Latent World Model**|Ying Wang et.al.|[2606.32026](http://arxiv.org/abs/2606.32026)|null|
 |**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
@@ -249,11 +259,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|**[link](https://github.com/zyshan0929/DVG-WM)**|
-|**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966](http://arxiv.org/abs/2606.31966)|**[link](https://github.com/q-i-n-g/MECoBench)**|
+|**2026-07-01**|**B2X Networks: Joint Design of Communication and Control for Embodied Intelligence**|Yuanwei Liu et.al.|[2607.00537](http://arxiv.org/abs/2607.00537)|null|
+|**2026-07-01**|**Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments**|Jinwoo Jang et.al.|[2607.00457](http://arxiv.org/abs/2607.00457)|null|
+|**2026-07-01**|**Evolving Intelligent Complex Systems via Intellicise Networks: Architecture, Technologies, and Pathways**|Ping Zhang et.al.|[2607.00316](http://arxiv.org/abs/2607.00316)|null|
+|**2026-07-01**|**RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail**|Amirreza Rouhi et.al.|[2607.00310](http://arxiv.org/abs/2607.00310)|null|
+|**2026-06-30**|**EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards**|Siddhant Panpatil et.al.|[2607.00218](http://arxiv.org/abs/2607.00218)|null|
+|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|null|
+|**2026-06-30**|**MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments**|Qingyun Liu et.al.|[2606.31966](http://arxiv.org/abs/2606.31966)|null|
 |**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919](http://arxiv.org/abs/2606.31919)|null|
 |**2026-06-30**|**Autonomous UAV Navigation for Individual Wildlife Re-Identification**|Claire Sun et.al.|[2606.31772](http://arxiv.org/abs/2606.31772)|null|
-|**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|**[link](https://github.com/yisuanwang/OVOW)**|
+|**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|null|
 |**2026-06-30**|**Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors**|Zixing Wang et.al.|[2606.31101](http://arxiv.org/abs/2606.31101)|null|
 |**2026-06-30**|**CasaMaestro: Multi-View Panoramas for House-Scale 3D Reconstruction**|Yuzhou Ji et.al.|[2606.31086](http://arxiv.org/abs/2606.31086)|null|
 |**2026-06-30**|**Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation**|Bing Wu et.al.|[2606.31071](http://arxiv.org/abs/2606.31071)|null|
@@ -403,6 +418,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction**|Yu Guan et.al.|[2607.01176](http://arxiv.org/abs/2607.01176)|null|
+|**2026-07-01**|**Diffusion-GR2: Diffusion Generative Reasoning Re-ranker**|Zhuoxuan Zhang et.al.|[2607.01170](http://arxiv.org/abs/2607.01170)|null|
+|**2026-07-01**|**EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation**|Tatiana Gaintseva et.al.|[2607.01147](http://arxiv.org/abs/2607.01147)|null|
+|**2026-07-01**|**SAGE: Structured Agentic Graph Editing for Software Diagrams**|Tyler Sivertsen et.al.|[2607.01102](http://arxiv.org/abs/2607.01102)|null|
+|**2026-07-01**|**AVSR-Diff: Scale-Agnostic Diffusion Priors for Temporally Consistent Arbitrary-Scale Video Super-Resolution**|Geunhyuk Youk et.al.|[2607.00987](http://arxiv.org/abs/2607.00987)|null|
+|**2026-07-01**|**TRCGL-Net: A Long-Tailed Multi-Label Chest X-Ray Classification Framework with Generative Data Augmentation and Label Co-Occurrence Modeling**|Tong Shao et.al.|[2607.00975](http://arxiv.org/abs/2607.00975)|null|
+|**2026-07-01**|**Influence of Routing and Speed Limits on Optimal Solutions in Traffic Emission Modeling**|Marc-André Bach et.al.|[2607.00944](http://arxiv.org/abs/2607.00944)|null|
+|**2026-07-01**|**Post-Training Pruning for Diffusion Transformers**|Chengzhi Hu et.al.|[2607.00927](http://arxiv.org/abs/2607.00927)|null|
+|**2026-07-01**|**GMO-E $^2$ DIT: Grounded Multi-Operation Editing for E-Commerce Images**|Zipeng Guo et.al.|[2607.00920](http://arxiv.org/abs/2607.00920)|null|
+|**2026-07-01**|**Valdi: Value Diffusion World Models**|Christopher Lindenberg et.al.|[2607.00917](http://arxiv.org/abs/2607.00917)|null|
 |**2026-06-30**|**GEAR: Guided End-to-End AutoRegression for Image Synthesis**|Bin Lin et.al.|[2606.32039](http://arxiv.org/abs/2606.32039)|null|
 |**2026-06-30**|**Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers**|Anh Nguyen et.al.|[2606.32020](http://arxiv.org/abs/2606.32020)|null|
 |**2026-06-30**|**Joint inference of weak lensing convergence map and cosmology with diffusion models**|Benjamin Remy et.al.|[2606.31988](http://arxiv.org/abs/2606.31988)|null|
@@ -726,6 +751,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**ZO-Act: Efficient Zeroth-Order Fine-Tuning via One-Shot Activation-Informed Low-Rank Subspaces**|Xun Dong et.al.|[2607.01125](http://arxiv.org/abs/2607.01125)|null|
+|**2026-07-01**|**CausalMix: Data Mixture as Causal Inference for Language Model Training**|Zinan Tang et.al.|[2607.01104](http://arxiv.org/abs/2607.01104)|null|
+|**2026-07-01**|**GenAU: Language-Grounded Industrial Anomaly Understanding with Vision-Language Models**|Hongkuan Zhou et.al.|[2607.01049](http://arxiv.org/abs/2607.01049)|null|
+|**2026-07-01**|**Understanding Large Language Models**|Yannik Keller et.al.|[2607.01006](http://arxiv.org/abs/2607.01006)|**[link](https://github.com/X-PLUG/mPLUG-DocOwl)**|
+|**2026-07-01**|**MultiSynt/MT: Trillion-Token Multi-Parallel Pre-Training Data Translated Across 36 Languages**|Maximilian Idahl et.al.|[2607.00890](http://arxiv.org/abs/2607.00890)|null|
+|**2026-07-01**|**CAT: Confidence-Adaptive Thinking for Efficient Reasoning of Large Reasoning Models**|Qizhi Jiang et.al.|[2607.00862](http://arxiv.org/abs/2607.00862)|null|
+|**2026-07-01**|**Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization**|Mengjingcheng Mo et.al.|[2607.00622](http://arxiv.org/abs/2607.00622)|null|
+|**2026-07-01**|**Multi-Turn Agentic Scientific Literature Search via Workflow Induction**|Jisen Li et.al.|[2607.00597](http://arxiv.org/abs/2607.00597)|null|
+|**2026-07-01**|**StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning**|Yuan Qing et.al.|[2607.00465](http://arxiv.org/abs/2607.00465)|null|
+|**2026-07-01**|**Information-Regularized Attention for Visual-Centric Reasoning**|Guohao Sun et.al.|[2607.00434](http://arxiv.org/abs/2607.00434)|null|
 |**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|**[link](https://github.com/yale-nlp/RLMF)**|
 |**2026-06-30**|**Do Machines Struggle Where Humans Do? LLM and Human Comprehension of Obfuscated Code**|Jack Le et.al.|[2606.31725](http://arxiv.org/abs/2606.31725)|null|
 |**2026-06-30**|**On the Convergence of Self-Improving Online LLM Alignment**|Xudong Wu et.al.|[2606.31524](http://arxiv.org/abs/2606.31524)|null|
