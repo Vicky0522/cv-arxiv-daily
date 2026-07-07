@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models**|Hongyu Li et.al.|[2607.05390](http://arxiv.org/abs/2607.05390)|null|
+|**2026-07-06**|**Multiplayer Interactive World Models with Representation Autoencoders**|Anthony Hu et.al.|[2607.05352](http://arxiv.org/abs/2607.05352)|**[link](https://github.com/mira-wm/mira)**|
+|**2026-07-06**|**MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models**|Zhi Song et.al.|[2607.05238](http://arxiv.org/abs/2607.05238)|null|
+|**2026-07-06**|**InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization**|Haoxiang Ma et.al.|[2607.04988](http://arxiv.org/abs/2607.04988)|null|
+|**2026-07-06**|**Qantara: Bridge-Flow Training for Multi-Paradigm JEPA Control**|Ruslan Rakhimov et.al.|[2607.04978](http://arxiv.org/abs/2607.04978)|null|
+|**2026-07-06**|**DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation**|Jian Zhu et.al.|[2607.04927](http://arxiv.org/abs/2607.04927)|null|
+|**2026-07-06**|**Video Generation Models Are Inherent Lighting Estimators**|Ziqi Cai et.al.|[2607.04674](http://arxiv.org/abs/2607.04674)|null|
+|**2026-07-06**|**KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation**|Xinyu Shao et.al.|[2607.04652](http://arxiv.org/abs/2607.04652)|null|
+|**2026-07-05**|**Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models**|Riccardo O. Feingold et.al.|[2607.04546](http://arxiv.org/abs/2607.04546)|null|
+|**2026-07-05**|**CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining**|Jingyu Song et.al.|[2607.04541](http://arxiv.org/abs/2607.04541)|null|
 |**2026-07-02**|**WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory**|Hanlin Wang et.al.|[2607.02517](http://arxiv.org/abs/2607.02517)|null|
 |**2026-07-02**|**WorldSample: Closed-loop Real-robot RL with World Modelling**|Yuquan Xue et.al.|[2607.02431](http://arxiv.org/abs/2607.02431)|null|
 |**2026-07-02**|**ACID: Action Consistency via Inverse Dynamics for Planning with World Models**|Gawon Seo et.al.|[2607.02403](http://arxiv.org/abs/2607.02403)|null|
@@ -269,10 +279,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-02**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501](http://arxiv.org/abs/2607.02501)|null|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377](http://arxiv.org/abs/2607.05377)|**[link](https://github.com/steinate/Cortex)**|
+|**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|ACE-Brain Team et.al.|[2607.04426](http://arxiv.org/abs/2607.04426)|null|
+|**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Jiahao Jiang et.al.|[2607.03941](http://arxiv.org/abs/2607.03941)|null|
+|**2026-07-03**|**PhysMirror: Physics-Aware Mirror Object Generation**|Xuan-Bach Mai et.al.|[2607.03470](http://arxiv.org/abs/2607.03470)|null|
+|**2026-07-03**|**Overloading Large Vision-Language Models for Jailbreaking**|Haoyu Zhang et.al.|[2607.02961](http://arxiv.org/abs/2607.02961)|null|
+|**2026-07-03**|**Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots**|Ling Xu et.al.|[2607.02501](http://arxiv.org/abs/2607.02501)|null|
 |**2026-07-02**|**Seek to Segment: Active Perception for Panoramic Referring Segmentation**|Song Tang et.al.|[2607.02497](http://arxiv.org/abs/2607.02497)|null|
-|**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Junhao Shi et.al.|[2607.02466](http://arxiv.org/abs/2607.02466)|**[link](https://github.com/sjh0354/Task-Agnostic-Pretrain)**|
-|**2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Francesca Pistilli et.al.|[2607.02425](http://arxiv.org/abs/2607.02425)|**[link](https://github.com/francescapistilli/GLEN)**|
+|**2026-07-02**|**Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs**|Junhao Shi et.al.|[2607.02466](http://arxiv.org/abs/2607.02466)|null|
+|**2026-07-02**|**Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs**|Francesca Pistilli et.al.|[2607.02425](http://arxiv.org/abs/2607.02425)|null|
 |**2026-07-02**|**PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation**|Peng Yun et.al.|[2607.01938](http://arxiv.org/abs/2607.01938)|null|
 |**2026-07-02**|**SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation**|Chunjiang Liu et.al.|[2607.01766](http://arxiv.org/abs/2607.01766)|null|
 |**2026-07-02**|**Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation**|Sung June Kim et.al.|[2607.01754](http://arxiv.org/abs/2607.01754)|null|
@@ -435,6 +450,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**What Does a Discrete Diffusion Model Learn?**|Rodrigo Casado Noguerales et.al.|[2607.05381](http://arxiv.org/abs/2607.05381)|null|
+|**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](http://arxiv.org/abs/2607.05376)|null|
+|**2026-07-06**|**Multiplayer Interactive World Models with Representation Autoencoders**|Anthony Hu et.al.|[2607.05352](http://arxiv.org/abs/2607.05352)|**[link](https://github.com/mira-wm/mira)**|
+|**2026-07-06**|**Erasing Without Collateral Damage: Precise Concept Removal in Diffusion Models**|Parth Upman et.al.|[2607.05274](http://arxiv.org/abs/2607.05274)|null|
+|**2026-07-06**|**Geminga and Monogem in the CTAO Era: Probing TeV Halos and Cosmic-Ray Transport**|Youyou Li et.al.|[2607.05245](http://arxiv.org/abs/2607.05245)|null|
+|**2026-07-06**|**Biophysics of the Pyrenoid**|Charley Schaefer et.al.|[2607.05154](http://arxiv.org/abs/2607.05154)|null|
+|**2026-07-06**|**RADIANCE: Relative Adaptive Denoising with IP-Adapter for Novel Concept Enhancement**|Zi-Xiang Ni et.al.|[2607.05088](http://arxiv.org/abs/2607.05088)|null|
+|**2026-07-06**|**Diffusion-Guided Uncertainty-Aware Delayed Policy Optimization**|Junqi Tu et.al.|[2607.05064](http://arxiv.org/abs/2607.05064)|null|
+|**2026-07-06**|**Consistent and Editable: A Balanced Framework for Text-Guided Video Editing**|Tao Jin et.al.|[2607.05056](http://arxiv.org/abs/2607.05056)|null|
+|**2026-07-06**|**UniSpine-GS: An Efficient Physics-Aware Gaussian Framework for Cross-Modality Multi-view Spine Image Synthesis**|Qiuhua Chen et.al.|[2607.04923](http://arxiv.org/abs/2607.04923)|**[link](https://github.com/orangeisland66/UniSpine-GS)**|
 |**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|**[link](https://github.com/MiaoQiaowei/Align4D)**|
 |**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|null|
 |**2026-07-02**|**From SRA to Self-Flow: Data Augmentation or Self-Supervision?**|Dengyang Jiang et.al.|[2607.02508](http://arxiv.org/abs/2607.02508)|null|
@@ -778,6 +803,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
+|**2026-07-06**|**Rethinking On-Policy Self-Distillation for Thinking Models**|Simran Kaur et.al.|[2607.05184](http://arxiv.org/abs/2607.05184)|null|
+|**2026-07-06**|**Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training**|Jingwei Zuo et.al.|[2607.04969](http://arxiv.org/abs/2607.04969)|null|
+|**2026-07-06**|**Direct Model State Migration for Elastic Training of Large Language Models**|Weijian Liu et.al.|[2607.04749](http://arxiv.org/abs/2607.04749)|null|
+|**2026-07-06**|**Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment**|Yu Li et.al.|[2607.04728](http://arxiv.org/abs/2607.04728)|null|
+|**2026-07-05**|**Covert Trait Propagation Is Representation Alignment: Mechanistic Evidence from Hidden-Channel Distillation**|Kargi Chauhan et.al.|[2607.04432](http://arxiv.org/abs/2607.04432)|null|
+|**2026-07-05**|**IRIS: An Intelligent Vision-Language System for Ocular Surface Diseases via Topic Tree and Scene-Driven VQA Generation**|Hao Wei et.al.|[2607.04344](http://arxiv.org/abs/2607.04344)|null|
+|**2026-07-05**|**Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)**|Mohamed Aly Bouke et.al.|[2607.04223](http://arxiv.org/abs/2607.04223)|null|
+|**2026-07-04**|**Self-Improving Diffusion Classifiers with Minority Preference Optimization**|Hyunsoo Kim et.al.|[2607.03770](http://arxiv.org/abs/2607.03770)|null|
+|**2026-07-04**|**FedACT: Federated Adaptive Coordinate Trust Modulation for Robust Transformer Training under Data Heterogeneity**|Shuai Li et.al.|[2607.03763](http://arxiv.org/abs/2607.03763)|null|
 |**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
 |**2026-07-02**|**Personality Without Persons? A Psychometric Critique of Big Five Testing in Large Language Models**|Kim Zierahn et.al.|[2607.02325](http://arxiv.org/abs/2607.02325)|null|
 |**2026-07-02**|**Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning**|Congrui Du et.al.|[2607.02214](http://arxiv.org/abs/2607.02214)|null|
