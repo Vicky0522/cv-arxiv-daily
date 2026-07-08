@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)**|
+|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)**|
+|**2026-07-07**|**Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning**|Anxing Xiao et.al.|[2607.06501](http://arxiv.org/abs/2607.06501)|**[link](https://github.com/open-world-planning/open-world-planning.github.io)**|
+|**2026-07-07**|**A Definition and Roadmap for World Models**|Xinyuan Chen et.al.|[2607.06401](http://arxiv.org/abs/2607.06401)|null|
+|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**| AlayaWorld Team et.al.|[2607.06291](http://arxiv.org/abs/2607.06291)|null|
+|**2026-07-07**|**MoWorld: A Flash World Model**|Team Moxin et.al.|[2607.06216](http://arxiv.org/abs/2607.06216)|null|
+|**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018](http://arxiv.org/abs/2607.06018)|**[link](https://github.com/hananshafi/RoboTALES)**|
+|**2026-07-07**|**Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure**|Finn Rasmus Schäfer et.al.|[2607.05966](http://arxiv.org/abs/2607.05966)|null|
+|**2026-07-06**|**Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction**|Mohammad Saifullah et.al.|[2607.05577](http://arxiv.org/abs/2607.05577)|null|
 |**2026-07-06**|**Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models**|Hongyu Li et.al.|[2607.05390](http://arxiv.org/abs/2607.05390)|null|
 |**2026-07-06**|**Multiplayer Interactive World Models with Representation Autoencoders**|Anthony Hu et.al.|[2607.05352](http://arxiv.org/abs/2607.05352)|**[link](https://github.com/mira-wm/mira)**|
 |**2026-07-06**|**MoP-JEPA: Hard-Assigned Predictor Mixtures for Stochastic JEPA World Models**|Zhi Song et.al.|[2607.05238](http://arxiv.org/abs/2607.05238)|null|
@@ -279,6 +288,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)**|
+|**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
+|**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482](http://arxiv.org/abs/2607.05482)|null|
+|**2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Xue Qin et.al.|[2607.05463](http://arxiv.org/abs/2607.05463)|null|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377](http://arxiv.org/abs/2607.05377)|**[link](https://github.com/steinate/Cortex)**|
 |**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|ACE-Brain Team et.al.|[2607.04426](http://arxiv.org/abs/2607.04426)|null|
 |**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Jiahao Jiang et.al.|[2607.03941](http://arxiv.org/abs/2607.03941)|null|
@@ -450,6 +463,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560](http://arxiv.org/abs/2607.06560)|**[link](https://github.com/gsavla6-hue/multimodal-ai-assistant)**|
+|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555](http://arxiv.org/abs/2607.06555)|**[link](https://github.com/ruihangzhang97/proxypose)**|
+|**2026-07-07**|**Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion**|Shervin Khalafi et.al.|[2607.06546](http://arxiv.org/abs/2607.06546)|null|
+|**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Yoav Baron et.al.|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
+|**2026-07-07**|**PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation**|Yuhang Wu et.al.|[2607.06440](http://arxiv.org/abs/2607.06440)|**[link](https://github.com/wuyuhang05/PIPBench)**|
+|**2026-07-07**|**TILDE: TILt-based Distributional Erasure for Concept Unlearning**|Naveen George et.al.|[2607.06432](http://arxiv.org/abs/2607.06432)|null|
+|**2026-07-07**|**Gradient-Based Inverse Design of Free-Energy Landscapes with Diffusion Models**|Eli Zick et.al.|[2607.06421](http://arxiv.org/abs/2607.06421)|null|
+|**2026-07-07**|**FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration**|Jin Jiang et.al.|[2607.06389](http://arxiv.org/abs/2607.06389)|null|
+|**2026-07-07**|**Bridging Diffusion Pruning and Step Distillation with Teacher-Aligned Repair**|Jincheng Ying et.al.|[2607.06335](http://arxiv.org/abs/2607.06335)|null|
+|**2026-07-07**|**Straight-Path Flow Matching for Incomplete Multi-View Clustering**|Yiteng Yuan et.al.|[2607.06281](http://arxiv.org/abs/2607.06281)|null|
 |**2026-07-06**|**What Does a Discrete Diffusion Model Learn?**|Rodrigo Casado Noguerales et.al.|[2607.05381](http://arxiv.org/abs/2607.05381)|null|
 |**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](http://arxiv.org/abs/2607.05376)|null|
 |**2026-07-06**|**Multiplayer Interactive World Models with Representation Autoencoders**|Anthony Hu et.al.|[2607.05352](http://arxiv.org/abs/2607.05352)|**[link](https://github.com/mira-wm/mira)**|
@@ -803,7 +826,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-06**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
+|**2026-07-07**|**MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation**|Jiaju Han et.al.|[2607.06552](http://arxiv.org/abs/2607.06552)|null|
+|**2026-07-07**|**DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail**|He Liu et.al.|[2607.06326](http://arxiv.org/abs/2607.06326)|null|
+|**2026-07-07**|**Prompting Complexity: Shortest Prompts for Texts and Behaviors in LLMs**|Adrian Cosma et.al.|[2607.06145](http://arxiv.org/abs/2607.06145)|null|
+|**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|null|
+|**2026-07-07**|**When Should LLMs Search? Counterfactual Supervision for Search Routing**|Minho Kim et.al.|[2607.05752](http://arxiv.org/abs/2607.05752)|null|
+|**2026-07-06**|**Foundation Models for Automatic CAD Generation**|J de Curtò et.al.|[2607.05573](http://arxiv.org/abs/2607.05573)|**[link](https://github.com/drdecurto/LLMforge)**|
+|**2026-07-06**|**CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming**|H. Chad Lane et.al.|[2607.05571](http://arxiv.org/abs/2607.05571)|null|
+|**2026-07-06**|**Prompt Robustness Is Task-Dependent: Comparing Objective and Belief-Style Questions in LLM Evaluation**|Sadia Kamal et.al.|[2607.05554](http://arxiv.org/abs/2607.05554)|null|
+|**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
 |**2026-07-06**|**Rethinking On-Policy Self-Distillation for Thinking Models**|Simran Kaur et.al.|[2607.05184](http://arxiv.org/abs/2607.05184)|null|
 |**2026-07-06**|**Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training**|Jingwei Zuo et.al.|[2607.04969](http://arxiv.org/abs/2607.04969)|null|
 |**2026-07-06**|**Direct Model State Migration for Elastic Training of Large Language Models**|Weijian Liu et.al.|[2607.04749](http://arxiv.org/abs/2607.04749)|null|
