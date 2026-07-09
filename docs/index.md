@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Shuailei Ma et.al.|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://github.com/Robbyant/lingbot-video)**|
+|**2026-07-08**|**Infinite Worlds with Versatile Interactions**|Zelin Gao et.al.|[2607.07534](http://arxiv.org/abs/2607.07534)|**[link](https://github.com/Robbyant/lingbot-world-v2)**|
+|**2026-07-08**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
+|**2026-07-08**|**Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators**|Christian Oefinger et.al.|[2607.07196](http://arxiv.org/abs/2607.07196)|null|
+|**2026-07-08**|**Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix**|Yufeng Wang et.al.|[2607.06925](http://arxiv.org/abs/2607.06925)|null|
+|**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706](http://arxiv.org/abs/2607.06706)|null|
 |**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)**|
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)**|
 |**2026-07-07**|**Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning**|Anxing Xiao et.al.|[2607.06501](http://arxiv.org/abs/2607.06501)|**[link](https://github.com/open-world-planning/open-world-planning.github.io)**|
@@ -288,6 +294,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI**|Xinjie Wang et.al.|[2607.07459](http://arxiv.org/abs/2607.07459)|null|
+|**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Yujin Bae et.al.|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
+|**2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Mike Roberts et.al.|[2607.06701](http://arxiv.org/abs/2607.06701)|**[link](https://github.com/spear-sim/spear)**|
 |**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)**|
 |**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482](http://arxiv.org/abs/2607.05482)|null|
@@ -463,6 +472,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF**|Eric Zhu et.al.|[2607.07693](http://arxiv.org/abs/2607.07693)|null|
+|**2026-07-08**|**DiPhon: Diffusion on Graphons for Scalable Graph Generation**|Sergio Rozada et.al.|[2607.07232](http://arxiv.org/abs/2607.07232)|null|
+|**2026-07-08**|**DiffCVE: Diffusion-based Compressed Video Enhancement**|Wenqiang Xiao et.al.|[2607.07195](http://arxiv.org/abs/2607.07195)|null|
+|**2026-07-08**|**Stage-Aware Adaptation and Distribution Calibration for Subject-Driven Personalized Text-to-Image Generation**|Wenyan Xu et.al.|[2607.07173](http://arxiv.org/abs/2607.07173)|null|
+|**2026-07-08**|**Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning**|Stepanida Alekseeva et.al.|[2607.07117](http://arxiv.org/abs/2607.07117)|**[link](https://github.com/Pandastep/ToT-T2I-ICL)**|
+|**2026-07-08**|**An Hybrid Quantum-Classical Diffusion Model for Image Generation**|Qipeng Qian et.al.|[2607.07072](http://arxiv.org/abs/2607.07072)|null|
+|**2026-07-08**|**Making Implicit Preservation Intent Explicit in Conversational Image Editing**|Soomin Han et.al.|[2607.07051](http://arxiv.org/abs/2607.07051)|**[link](https://github.com/anonymous745961852-cloud/implicit-preservation-editing)**|
+|**2026-07-08**|**Latent graph encoding of multimodal neuroimaging features with generative AI architectures**|Ishaan Batta et.al.|[2607.07027](http://arxiv.org/abs/2607.07027)|null|
+|**2026-07-08**|**EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments**|Ziyu Luo et.al.|[2607.07015](http://arxiv.org/abs/2607.07015)|null|
+|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856](http://arxiv.org/abs/2607.06856)|null|
 |**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560](http://arxiv.org/abs/2607.06560)|**[link](https://github.com/gsavla6-hue/multimodal-ai-assistant)**|
 |**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555](http://arxiv.org/abs/2607.06555)|**[link](https://github.com/ruihangzhang97/proxypose)**|
 |**2026-07-07**|**Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion**|Shervin Khalafi et.al.|[2607.06546](http://arxiv.org/abs/2607.06546)|null|
@@ -826,6 +845,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF**|Eric Zhu et.al.|[2607.07693](http://arxiv.org/abs/2607.07693)|null|
+|**2026-07-08**|**DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation**|Jordan Painter et.al.|[2607.07669](http://arxiv.org/abs/2607.07669)|null|
+|**2026-07-08**|**Decoupling Conversational Dynamics in Full-Duplex Spoken Models through Reinforcement Learning**|Yuxin Li et.al.|[2607.07148](http://arxiv.org/abs/2607.07148)|null|
+|**2026-07-08**|**Distributed Sparse Interventions in Language Models**|Maximilian S. Ernst et.al.|[2607.07128](http://arxiv.org/abs/2607.07128)|null|
+|**2026-07-08**|**Online Data Selection Is Implicit Alignment**|Aoxiong Zeng et.al.|[2607.07023](http://arxiv.org/abs/2607.07023)|null|
+|**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Yujin Bae et.al.|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
+|**2026-07-07**|**LLMs Silently Correct African American English: Auditing and Mitigating Dialect Bias via Activation Steering**|Huan Wu et.al.|[2607.06845](http://arxiv.org/abs/2607.06845)|null|
+|**2026-07-07**|**LEMUR 2: Unlocking Neural Network Diversity for AI**|Tolgay Atinc Uzun et.al.|[2607.06839](http://arxiv.org/abs/2607.06839)|null|
 |**2026-07-07**|**MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation**|Jiaju Han et.al.|[2607.06552](http://arxiv.org/abs/2607.06552)|null|
 |**2026-07-07**|**DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail**|He Liu et.al.|[2607.06326](http://arxiv.org/abs/2607.06326)|null|
 |**2026-07-07**|**Prompting Complexity: Shortest Prompts for Texts and Behaviors in LLMs**|Adrian Cosma et.al.|[2607.06145](http://arxiv.org/abs/2607.06145)|null|
