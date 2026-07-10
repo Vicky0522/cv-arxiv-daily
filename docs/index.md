@@ -7,16 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|**[link](https://github.com/xinyan-cxy/OpenCoF)**|
+|**2026-07-09**|**Native Video-Action Pretraining for Generalizable Robot Control**|Qihang Zhang et.al.|[2607.08639](http://arxiv.org/abs/2607.08639)|null|
+|**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
+|**2026-07-09**|**Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix**|Jiayi Fang et.al.|[2607.08312](http://arxiv.org/abs/2607.08312)|null|
+|**2026-07-09**|**LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting**|Zixin Guo et.al.|[2607.08016](http://arxiv.org/abs/2607.08016)|null|
+|**2026-07-08**|**Unlocking Temporal Generalization in Hamiltonian Video Dynamics Models**|Eli Laird et.al.|[2607.07763](http://arxiv.org/abs/2607.07763)|null|
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Shuailei Ma et.al.|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://github.com/Robbyant/lingbot-video)**|
 |**2026-07-08**|**Infinite Worlds with Versatile Interactions**|Zelin Gao et.al.|[2607.07534](http://arxiv.org/abs/2607.07534)|**[link](https://github.com/Robbyant/lingbot-world-v2)**|
-|**2026-07-08**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
+|**2026-07-09**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
 |**2026-07-08**|**Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators**|Christian Oefinger et.al.|[2607.07196](http://arxiv.org/abs/2607.07196)|null|
 |**2026-07-08**|**Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix**|Yufeng Wang et.al.|[2607.06925](http://arxiv.org/abs/2607.06925)|null|
 |**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706](http://arxiv.org/abs/2607.06706)|null|
@@ -294,6 +300,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN**|Arav Gupta et.al.|[2607.08504](http://arxiv.org/abs/2607.08504)|null|
+|**2026-07-08**|**GIRAF: Towards Generalizable Human Interactions with Articulated Objects**|Xiaohan Zhang et.al.|[2607.07880](http://arxiv.org/abs/2607.07880)|null|
 |**2026-07-08**|**EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI**|Xinjie Wang et.al.|[2607.07459](http://arxiv.org/abs/2607.07459)|null|
 |**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Yujin Bae et.al.|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
 |**2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Mike Roberts et.al.|[2607.06701](http://arxiv.org/abs/2607.06701)|**[link](https://github.com/spear-sim/spear)**|
@@ -301,7 +309,7 @@ layout: default
 |**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482](http://arxiv.org/abs/2607.05482)|null|
 |**2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Xue Qin et.al.|[2607.05463](http://arxiv.org/abs/2607.05463)|null|
-|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377](http://arxiv.org/abs/2607.05377)|**[link](https://github.com/InternRobotics/Cortex)**|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377](http://arxiv.org/abs/2607.05377)|null|
 |**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|ACE-Brain Team et.al.|[2607.04426](http://arxiv.org/abs/2607.04426)|null|
 |**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Jiahao Jiang et.al.|[2607.03941](http://arxiv.org/abs/2607.03941)|null|
 |**2026-07-03**|**PhysMirror: Physics-Aware Mirror Object Generation**|Xuan-Bach Mai et.al.|[2607.03470](http://arxiv.org/abs/2607.03470)|null|
@@ -472,6 +480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|**[link](https://github.com/cdfan0627/LongE2V)**|
+|**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
+|**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
+|**2026-07-09**|**Diffusion Models for Sampling Near Criticality in Lattice Field Theories**|Yang-yang Tan et.al.|[2607.08505](http://arxiv.org/abs/2607.08505)|null|
+|**2026-07-09**|**Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing**|Feng Wang et.al.|[2607.08497](http://arxiv.org/abs/2607.08497)|**[link](https://github.com/caseclose/cma-harness)**|
+|**2026-07-09**|**DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models**|Pengjie Wang et.al.|[2607.08434](http://arxiv.org/abs/2607.08434)|null|
+|**2026-07-09**|**Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models**|Matteo Santelmo et.al.|[2607.08317](http://arxiv.org/abs/2607.08317)|null|
+|**2026-07-09**|**Closing the Null Space: Guidance-Aware Quantization for Classifier-Free Diffusion**|Abdullah Al Shafi et.al.|[2607.08241](http://arxiv.org/abs/2607.08241)|null|
+|**2026-07-09**|**Reinforcing the Generation Order of Multimodal Masked Diffusion Models**|Yidong Ouyang et.al.|[2607.08056](http://arxiv.org/abs/2607.08056)|null|
+|**2026-07-09**|**An exact information theory of generalization phase transitions in Bayesian diffusion models**|Henry Hunt et.al.|[2607.08041](http://arxiv.org/abs/2607.08041)|null|
 |**2026-07-08**|**Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF**|Eric Zhu et.al.|[2607.07693](http://arxiv.org/abs/2607.07693)|null|
 |**2026-07-08**|**DiPhon: Diffusion on Graphons for Scalable Graph Generation**|Sergio Rozada et.al.|[2607.07232](http://arxiv.org/abs/2607.07232)|null|
 |**2026-07-08**|**DiffCVE: Diffusion-based Compressed Video Enhancement**|Wenqiang Xiao et.al.|[2607.07195](http://arxiv.org/abs/2607.07195)|null|
@@ -845,6 +863,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Two Axes of LLM Abstention: Answer Correctness and Question Answerability**|Benedikt J. Wagner et.al.|[2607.08456](http://arxiv.org/abs/2607.08456)|null|
+|**2026-07-09**|**Echoes Across Vietnam's Highlands, Delta, and Coast: A Multilingual Corpus for Cham, Khmer, and Tay-Nung**|Anh Trac Duc Dinh et.al.|[2607.08362](http://arxiv.org/abs/2607.08362)|null|
+|**2026-07-09**|**Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix**|Jiayi Fang et.al.|[2607.08312](http://arxiv.org/abs/2607.08312)|null|
+|**2026-07-09**|**Hidden Decoding at Scale: Latent Computation Scaling for Large Language Models**|Aiwei Liu et.al.|[2607.08186](http://arxiv.org/abs/2607.08186)|null|
+|**2026-07-08**|**DreamCharacter-1: From 3D Generative Foundation Models to Product-Ready Character Generation**|Weizhe Liu et.al.|[2607.07817](http://arxiv.org/abs/2607.07817)|null|
 |**2026-07-08**|**Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF**|Eric Zhu et.al.|[2607.07693](http://arxiv.org/abs/2607.07693)|null|
 |**2026-07-08**|**DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation**|Jordan Painter et.al.|[2607.07669](http://arxiv.org/abs/2607.07669)|null|
 |**2026-07-08**|**Decoupling Conversational Dynamics in Full-Duplex Spoken Models through Reinforcement Learning**|Yuxin Li et.al.|[2607.07148](http://arxiv.org/abs/2607.07148)|null|
