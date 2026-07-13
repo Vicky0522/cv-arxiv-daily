@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|**[link](https://github.com/Insta360-Research-Team/PanoWorld)**|
+|**2026-07-10**|**Causally Debiased Latent Action Model for Embodied Action Conditioned World Models**|Yufan Wei et.al.|[2607.09185](http://arxiv.org/abs/2607.09185)|null|
+|**2026-07-10**|**Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method**|Tianpeng Liu et.al.|[2607.09078](http://arxiv.org/abs/2607.09078)|null|
+|**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
+|**2026-07-09**|**GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning**|Maureese Williams et.al.|[2607.08894](http://arxiv.org/abs/2607.08894)|null|
 |**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|**[link](https://github.com/xinyan-cxy/OpenCoF)**|
 |**2026-07-09**|**Native Video-Action Pretraining for Generalizable Robot Control**|Qihang Zhang et.al.|[2607.08639](http://arxiv.org/abs/2607.08639)|null|
 |**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
@@ -300,16 +305,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference**|Junfei Zhan et.al.|[2607.09520](http://arxiv.org/abs/2607.09520)|null|
+|**2026-07-10**|**Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks**|Nuocheng Yang et.al.|[2607.09330](http://arxiv.org/abs/2607.09330)|null|
 |**2026-07-09**|**Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN**|Arav Gupta et.al.|[2607.08504](http://arxiv.org/abs/2607.08504)|null|
 |**2026-07-08**|**GIRAF: Towards Generalizable Human Interactions with Articulated Objects**|Xiaohan Zhang et.al.|[2607.07880](http://arxiv.org/abs/2607.07880)|null|
 |**2026-07-08**|**EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI**|Xinjie Wang et.al.|[2607.07459](http://arxiv.org/abs/2607.07459)|null|
 |**2026-07-08**|**Ego-Human Motion Prediction with 3D-Aware LLM**|Yujin Bae et.al.|[2607.07001](http://arxiv.org/abs/2607.07001)|null|
-|**2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Mike Roberts et.al.|[2607.06701](http://arxiv.org/abs/2607.06701)|**[link](https://github.com/spear-sim/spear)**|
-|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)**|
+|**2026-07-07**|**SPEAR: A Simulator for Photorealistic Embodied AI Research**|Mike Roberts et.al.|[2607.06701](http://arxiv.org/abs/2607.06701)|null|
+|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559](http://arxiv.org/abs/2607.06559)|null|
 |**2026-07-07**|**EAGOR: Embodied Reasoning in Omni-direction**|Shriram Damodaran et.al.|[2607.06165](http://arxiv.org/abs/2607.06165)|null|
 |**2026-07-06**|**TypeGo: An OS Runtime for Embodied Agents**|Guojun Chen et.al.|[2607.05482](http://arxiv.org/abs/2607.05482)|null|
 |**2026-07-06**|**Governable Individuals: An Identity Layer for Embodied Agents That Keep Learning**|Xue Qin et.al.|[2607.05463](http://arxiv.org/abs/2607.05463)|null|
-|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377](http://arxiv.org/abs/2607.05377)|**[link](https://github.com/InternRobotics/Cortex)**|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377](http://arxiv.org/abs/2607.05377)|null|
 |**2026-07-05**|**ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI**|ACE-Brain Team et.al.|[2607.04426](http://arxiv.org/abs/2607.04426)|null|
 |**2026-07-04**|**WSA $_1$ : a 3D-Centric World-Spatial-Action Model for Generalizable Robot Control**|Jiahao Jiang et.al.|[2607.03941](http://arxiv.org/abs/2607.03941)|null|
 |**2026-07-03**|**PhysMirror: Physics-Aware Mirror Object Generation**|Xuan-Bach Mai et.al.|[2607.03470](http://arxiv.org/abs/2607.03470)|null|
@@ -480,6 +487,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
+|**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|**[link](https://github.com/nxnai/CtrlVTON)**|
+|**2026-07-10**|**Autoregressive latent diffusion for 3D molecule generation**|Federico Ottomano et.al.|[2607.09277](http://arxiv.org/abs/2607.09277)|null|
+|**2026-07-10**|**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**|Sang-Hoon Lee et.al.|[2607.09134](http://arxiv.org/abs/2607.09134)|null|
+|**2026-07-10**|**IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation**|Yiting Wang et.al.|[2607.09133](http://arxiv.org/abs/2607.09133)|null|
+|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|null|
+|**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|**[link](https://github.com/freak-jaeuk/quantum-diffusion-fair-comparison)**|
+|**2026-07-10**|**Probing Diffusion Denoising Dynamics for Contrastive Representation Learning**|Yasong Dai et.al.|[2607.09067](http://arxiv.org/abs/2607.09067)|null|
+|**2026-07-10**|**Central Tendency Bias in Human Selection of AI-Generated Design Variations**|Huiyang Chen et.al.|[2607.09018](http://arxiv.org/abs/2607.09018)|null|
+|**2026-07-09**|**Vision Transformers Learn Gestalt-Like Figure-Ground Cues from Natural Images**|Matthias Tangemann et.al.|[2607.08932](http://arxiv.org/abs/2607.08932)|**[link](https://github.com/mtangemann/mlvbench)**|
 |**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|**[link](https://github.com/cdfan0627/LongE2V)**|
 |**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
 |**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
@@ -863,6 +880,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works**|Miguel Arana-Catania et.al.|[2607.09316](http://arxiv.org/abs/2607.09316)|null|
 |**2026-07-09**|**Two Axes of LLM Abstention: Answer Correctness and Question Answerability**|Benedikt J. Wagner et.al.|[2607.08456](http://arxiv.org/abs/2607.08456)|null|
 |**2026-07-09**|**Echoes Across Vietnam's Highlands, Delta, and Coast: A Multilingual Corpus for Cham, Khmer, and Tay-Nung**|Anh Trac Duc Dinh et.al.|[2607.08362](http://arxiv.org/abs/2607.08362)|null|
 |**2026-07-09**|**Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix**|Jiayi Fang et.al.|[2607.08312](http://arxiv.org/abs/2607.08312)|null|
