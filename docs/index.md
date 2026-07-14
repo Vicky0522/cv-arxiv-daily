@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency**|Zihan Su et.al.|[2607.11836](http://arxiv.org/abs/2607.11836)|null|
+|**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
+|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
+|**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397](http://arxiv.org/abs/2607.11397)|**[link](https://github.com/liujiahao2077/WALA)**|
+|**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Peijun Tang et.al.|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
+|**2026-07-12**|**Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models**|Xiyan Su et.al.|[2607.10781](http://arxiv.org/abs/2607.10781)|null|
+|**2026-07-12**|**World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning**|Tong Nie et.al.|[2607.10630](http://arxiv.org/abs/2607.10630)|null|
+|**2026-07-11**|**Stateful Worlds, Stateless Elasticity: Exact-State Serving for Interactive World Models**|Jin Li et.al.|[2607.10389](http://arxiv.org/abs/2607.10389)|null|
+|**2026-07-11**|**A Control Theory of Predictability in Latent World Models**|Hanzhe You et.al.|[2607.10362](http://arxiv.org/abs/2607.10362)|null|
 |**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|**[link](https://github.com/Insta360-Research-Team/PanoWorld)**|
 |**2026-07-10**|**Causally Debiased Latent Action Model for Embodied Action Conditioned World Models**|Yufan Wei et.al.|[2607.09185](http://arxiv.org/abs/2607.09185)|null|
 |**2026-07-10**|**Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method**|Tianpeng Liu et.al.|[2607.09078](http://arxiv.org/abs/2607.09078)|null|
@@ -305,6 +315,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
+|**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
+|**2026-07-13**|**AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation**|Chenyang Li et.al.|[2607.11063](http://arxiv.org/abs/2607.11063)|null|
+|**2026-07-12**|**Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents**|Kai Yu et.al.|[2607.10811](http://arxiv.org/abs/2607.10811)|null|
+|**2026-07-12**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Changfei Fu et.al.|[2607.10744](http://arxiv.org/abs/2607.10744)|null|
+|**2026-07-11**|**ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory**|Jiayi Tian et.al.|[2607.10350](http://arxiv.org/abs/2607.10350)|null|
+|**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Shengzhuo Yang et.al.|[2607.09818](http://arxiv.org/abs/2607.09818)|null|
 |**2026-07-10**|**Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference**|Junfei Zhan et.al.|[2607.09520](http://arxiv.org/abs/2607.09520)|null|
 |**2026-07-10**|**Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks**|Nuocheng Yang et.al.|[2607.09330](http://arxiv.org/abs/2607.09330)|null|
 |**2026-07-09**|**Early to Share, Late to Save: Synchronisation-Driven Communication Gating in Bandwidth-Constrained Cooperative VLN**|Arav Gupta et.al.|[2607.08504](http://arxiv.org/abs/2607.08504)|null|
@@ -487,6 +504,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation**|Runhui Huang et.al.|[2607.11886](http://arxiv.org/abs/2607.11886)|null|
+|**2026-07-13**|**Latent-Identity Tuning in Text-to-Image Personalization Models**|Daniel Garibi et.al.|[2607.11885](http://arxiv.org/abs/2607.11885)|**[link](https://github.com/ProlificTeddy/latent-identity-tuning-in-text-to-image-personalization-models)**|
+|**2026-07-13**|**Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency**|Zihan Su et.al.|[2607.11836](http://arxiv.org/abs/2607.11836)|null|
+|**2026-07-13**|**From Global to Factor-Wise Expert Composition in Discrete Diffusion Models**|Haozhe Huang et.al.|[2607.11758](http://arxiv.org/abs/2607.11758)|null|
+|**2026-07-13**|**Feature-Space Guided Diffusion for Realistic Ultrasound Image Synthesis**|Marina Domínguez et.al.|[2607.11655](http://arxiv.org/abs/2607.11655)|null|
+|**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
+|**2026-07-13**|**DiffEEG: A Self-Supervised Denoising Diffusion Model for Learning EEG Generic Representations**|Abdulkader Helwan et.al.|[2607.11578](http://arxiv.org/abs/2607.11578)|null|
+|**2026-07-13**|**BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation**|Ajitesh Jamulkar et.al.|[2607.11364](http://arxiv.org/abs/2607.11364)|null|
+|**2026-07-13**|**Structure-Detail Decoupled Autoregressive Generation for Fast and High-Fidelity Virtual Try-On**|Lu Yang et.al.|[2607.11233](http://arxiv.org/abs/2607.11233)|null|
+|**2026-07-13**|**Slot-RAE: Streamlining Object-Centric Learning via Direct Representation Auto-Encoders**|Alexandre Chapin et.al.|[2607.11196](http://arxiv.org/abs/2607.11196)|null|
 |**2026-07-10**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
 |**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|**[link](https://github.com/nxnai/CtrlVTON)**|
 |**2026-07-10**|**Autoregressive latent diffusion for 3D molecule generation**|Federico Ottomano et.al.|[2607.09277](http://arxiv.org/abs/2607.09277)|null|
@@ -880,6 +907,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Production and Perception in LLMs: A Token Probability Approach**|Anna Marklová et.al.|[2607.11703](http://arxiv.org/abs/2607.11703)|null|
+|**2026-07-13**|**HermesHFL: Incentive-Compatible Hierarchical Federated Unlearning for Dynamic LLM Fine-Tuning**|Chenxi Sun et.al.|[2607.11528](http://arxiv.org/abs/2607.11528)|null|
+|**2026-07-13**|**Direct Image-to-Modern Vietnamese Translation of Han-Nom Manuscripts via Multimodal RLHF Preference Alignment**|Thi Kim Trang Vo et.al.|[2607.11434](http://arxiv.org/abs/2607.11434)|null|
+|**2026-07-13**|**DeepBias: Adaptive In-depth Probing of Social Biases in LVLMs**|Anqi Li et.al.|[2607.11228](http://arxiv.org/abs/2607.11228)|null|
+|**2026-07-13**|**CHARM: Charge Calibration and Acoustic Rescue for LLM-based Multimodal Sarcasm Detection**|Qiyang Sun et.al.|[2607.11102](http://arxiv.org/abs/2607.11102)|null|
+|**2026-07-12**|**Toward Contemplative LLM: A Modular Framework for Evaluating and Enhancing LLM Alignment in Mental Health**|Asher Sprigler et.al.|[2607.10871](http://arxiv.org/abs/2607.10871)|null|
+|**2026-07-12**|**Demographic Prompting at Scale: When More Attributes Hurt LLM--Human Agreement**|Mahammed Kamruzzaman et.al.|[2607.10590](http://arxiv.org/abs/2607.10590)|null|
+|**2026-07-11**|**Generalize LMMs to Versatile Visual Modalities via Fabricated Modality Synthesis**|Shihao Yuan et.al.|[2607.10308](http://arxiv.org/abs/2607.10308)|null|
+|**2026-07-11**|**Empowering Long-form Omni-modal Understanding with Robust Audio Perception**|Kaiying Yan et.al.|[2607.10299](http://arxiv.org/abs/2607.10299)|null|
+|**2026-07-11**|**Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge**|Lam D. Dao et.al.|[2607.10221](http://arxiv.org/abs/2607.10221)|null|
 |**2026-07-10**|**Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works**|Miguel Arana-Catania et.al.|[2607.09316](http://arxiv.org/abs/2607.09316)|null|
 |**2026-07-09**|**Two Axes of LLM Abstention: Answer Correctness and Question Answerability**|Benedikt J. Wagner et.al.|[2607.08456](http://arxiv.org/abs/2607.08456)|null|
 |**2026-07-09**|**Echoes Across Vietnam's Highlands, Delta, and Coast: A Multilingual Corpus for Cham, Khmer, and Tay-Nung**|Anh Trac Duc Dinh et.al.|[2607.08362](http://arxiv.org/abs/2607.08362)|null|
