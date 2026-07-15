@@ -115,6 +115,34 @@ def get_official_code_link(paper_id:str) -> str:
         logging.warning(f"paperswithcode lookup failed for {paper_id}: {e}")
     return None
   
+def get_arxiv_results(client, search_engine, topic, max_attempts=4):
+    """
+    Fetch results from arXiv, retrying with exponential backoff on HTTP 429.
+    arXiv aggressively throttles cloud/CI IPs (e.g. GitHub Actions runners),
+    and the arxiv library's own retries are only a few seconds apart, which is
+    often too short. If it still fails, return an empty list so the run keeps
+    going with the other keywords and preserves existing papers, instead of
+    crashing the whole job.
+    """
+    delay = 30
+    for attempt in range(1, max_attempts + 1):
+        try:
+            return list(client.results(search_engine))
+        except arxiv.HTTPError as e:
+            status = getattr(e, "status", "?")
+            if attempt == max_attempts:
+                logging.error(f"arXiv query for '{topic}' failed after "
+                              f"{max_attempts} attempts (HTTP {status}); skipping")
+                return []
+            logging.warning(f"arXiv HTTP {status} for '{topic}' "
+                            f"(attempt {attempt}/{max_attempts}), backing off {delay}s")
+            time.sleep(delay)
+            delay = min(delay * 2, 300)
+        except Exception as e:
+            logging.error(f"arXiv query for '{topic}' failed: {e}; skipping")
+            return []
+    return []
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
@@ -129,9 +157,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
-    client = arxiv.Client()
+    client = arxiv.Client(num_retries=5, delay_seconds=5.0)
 
-    for result in client.results(search_engine):
+    for result in get_arxiv_results(client, search_engine, topic):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
