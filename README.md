@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,9 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**FlowWAM: Optical Flow as a Unified Action Representation for World Action Models**|Yixiang Chen et.al.|[2607.13017](http://arxiv.org/abs/2607.13017)|**[link](https://github.com/YixiangChen515/FlowWAM)**|
+|**2026-07-14**|**TRACE: An Operational Reasoning Schema for Auditable Agentic Commitments**|Edward Y. Chang et.al.|[2607.12480](http://arxiv.org/abs/2607.12480)|null|
+|**2026-07-14**|**From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery**|Ingmar Posner et.al.|[2607.12474](http://arxiv.org/abs/2607.12474)|null|
+|**2026-07-14**|**The GEST-Engine: From Event Graphs to Synthetic Video. A Full Technical Report**|Nicolae Cudlenco et.al.|[2607.12231](http://arxiv.org/abs/2607.12231)|null|
 |**2026-07-13**|**Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency**|Zihan Su et.al.|[2607.11836](http://arxiv.org/abs/2607.11836)|null|
 |**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
-|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 |**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397](http://arxiv.org/abs/2607.11397)|**[link](https://github.com/liujiahao2077/WALA)**|
 |**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Peijun Tang et.al.|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
@@ -317,17 +321,20 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
 ## embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Hy-Embodied-VLM-1.0: Efficient Physical-World Agents**|Ziyi Wang et.al.|[2607.12894](http://arxiv.org/abs/2607.12894)|null|
+|**2026-07-14**|**Instance-Enriched Semantic Maps for Visual Language Navigation**|Jiho Hong et.al.|[2607.12630](http://arxiv.org/abs/2607.12630)|**[link](https://github.com/devtechproject123-collab/iesm_vln)**|
+|**2026-07-14**|**MobileSAM2: Lightweight Segment Anything for Spatial Intelligence**|Kai Jiang et.al.|[2607.12297](http://arxiv.org/abs/2607.12297)|null|
 |**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 |**2026-07-13**|**AdvNav: Behavior-Guided Black-Box Adversarial Attacks on Vision-Language Navigation**|Chenyang Li et.al.|[2607.11063](http://arxiv.org/abs/2607.11063)|null|
 |**2026-07-12**|**Distributed Agent System: Fault-Tolerant Collaboration Among Embodied Agents**|Kai Yu et.al.|[2607.10811](http://arxiv.org/abs/2607.10811)|null|
-|**2026-07-12**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Changfei Fu et.al.|[2607.10744](http://arxiv.org/abs/2607.10744)|null|
+|**2026-07-14**|**Traj-VLN: Learning Pixel-Space Interaction via Autoregressive Trajectory Generation**|Changfei Fu et.al.|[2607.10744](http://arxiv.org/abs/2607.10744)|null|
 |**2026-07-11**|**ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory**|Jiayi Tian et.al.|[2607.10350](http://arxiv.org/abs/2607.10350)|null|
 |**2026-07-10**|**TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging**|Shengzhuo Yang et.al.|[2607.09818](http://arxiv.org/abs/2607.09818)|null|
 |**2026-07-10**|**Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference**|Junfei Zhan et.al.|[2607.09520](http://arxiv.org/abs/2607.09520)|null|
@@ -508,12 +515,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**The Seriality Gap in Video Diffusion Models**|Jorge Diaz Chao et.al.|[2607.13031](http://arxiv.org/abs/2607.13031)|null|
+|**2026-07-14**|**A new model for runaway electron transport based on chaotic Hamiltonian systems**|Dániel Jánosi et.al.|[2607.12905](http://arxiv.org/abs/2607.12905)|null|
+|**2026-07-14**|**ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting**|Cheng-Tai Hsieh et.al.|[2607.12785](http://arxiv.org/abs/2607.12785)|null|
+|**2026-07-14**|**RFMSR: Residual Flow Matching for Image Super-Resolution**|Shuwei Huang et.al.|[2607.12753](http://arxiv.org/abs/2607.12753)|null|
+|**2026-07-14**|**Lattice Configuration Generation with a Self-Learning Diffusion Model**|Akio Tomiya et.al.|[2607.12587](http://arxiv.org/abs/2607.12587)|null|
+|**2026-07-14**|**Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models**|Qianpiao Ma et.al.|[2607.12583](http://arxiv.org/abs/2607.12583)|null|
+|**2026-07-14**|**UD-ASD: A Unified Diffusion Model for Anomalous Sound Detection**|Pengxiang Gao et.al.|[2607.12576](http://arxiv.org/abs/2607.12576)|null|
+|**2026-07-14**|**DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models**|Francesco Taioli et.al.|[2607.12539](http://arxiv.org/abs/2607.12539)|null|
+|**2026-07-14**|**Steering Diffusion Models via Class-Contrastive Influence for Few-Shot Medical Classification**|Jeeyung Kim et.al.|[2607.12464](http://arxiv.org/abs/2607.12464)|null|
+|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450](http://arxiv.org/abs/2607.12450)|**[link](https://github.com/yangtiming/RINO)**|
 |**2026-07-13**|**Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation**|Runhui Huang et.al.|[2607.11886](http://arxiv.org/abs/2607.11886)|null|
 |**2026-07-13**|**Latent-Identity Tuning in Text-to-Image Personalization Models**|Daniel Garibi et.al.|[2607.11885](http://arxiv.org/abs/2607.11885)|**[link](https://github.com/ProlificTeddy/latent-identity-tuning-in-text-to-image-personalization-models)**|
 |**2026-07-13**|**Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency**|Zihan Su et.al.|[2607.11836](http://arxiv.org/abs/2607.11836)|null|
@@ -913,12 +930,14 @@
 |**2026-04-06**|**Training-Free Image Editing with Visual Context Integration and Concept Alignment**|Rui Song et.al.|[2604.04487](http://arxiv.org/abs/2604.04487)|null|
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Antiproof: Synthesizing Vulnerability Detectors and Proofs of Exploitability**|Alon Shakevsky et.al.|[2607.12316](http://arxiv.org/abs/2607.12316)|null|
+|**2026-07-11**|**Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study**|Thanh Luong Tuan et.al.|[2607.11948](http://arxiv.org/abs/2607.11948)|null|
 |**2026-07-13**|**Production and Perception in LLMs: A Token Probability Approach**|Anna Marklová et.al.|[2607.11703](http://arxiv.org/abs/2607.11703)|null|
 |**2026-07-13**|**HermesHFL: Incentive-Compatible Hierarchical Federated Unlearning for Dynamic LLM Fine-Tuning**|Chenxi Sun et.al.|[2607.11528](http://arxiv.org/abs/2607.11528)|null|
 |**2026-07-13**|**Direct Image-to-Modern Vietnamese Translation of Han-Nom Manuscripts via Multimodal RLHF Preference Alignment**|Thi Kim Trang Vo et.al.|[2607.11434](http://arxiv.org/abs/2607.11434)|null|
@@ -1265,7 +1284,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
