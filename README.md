@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -321,7 +321,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
 
 ## embodied AI
 
@@ -515,12 +515,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|**[link](https://github.com/ntaquan0125/weather-cyclone)**|
+|**2026-07-15**|**Rearranged Stochastic Heat Equations with an Entropy Gradient Structure**|Francois Delarue et.al.|[2607.13849](http://arxiv.org/abs/2607.13849)|null|
+|**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](http://arxiv.org/abs/2607.13812)|**[link](https://github.com/Fredy-Zhang/TCAM-Diff)**|
+|**2026-07-15**|**DNA: Dual-stage Native Attribution for Generated Image Source Tracing**|Chao Wang et.al.|[2607.13685](http://arxiv.org/abs/2607.13685)|null|
+|**2026-07-15**|**Nexus: Native Mesh Generation with Diffusion**|Hanxiao Wang et.al.|[2607.13563](http://arxiv.org/abs/2607.13563)|null|
+|**2026-07-15**|**Exploring the Alignment of Generation and Understanding in Protein Structure Modeling**|Junde Xu et.al.|[2607.13503](http://arxiv.org/abs/2607.13503)|null|
+|**2026-07-15**|**Discrete Diffusion Models: A Unified Framework from Tokenization to Generation**|Ye Yuan et.al.|[2607.13431](http://arxiv.org/abs/2607.13431)|null|
+|**2026-07-15**|**RoughNet: Mapping Arctic Sea Ice Roughness Using Diffusion-Based Super-Resolution of Satellite Imagery**|Tessa Cannon et.al.|[2607.13371](http://arxiv.org/abs/2607.13371)|null|
+|**2026-07-15**|**DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation**|Eungjune Shim et.al.|[2607.13365](http://arxiv.org/abs/2607.13365)|null|
+|**2026-07-14**|**Delving into the Temporal Challenges of Unified Video Protection Against Image-to-Video and Fine-Tuning-based Customization**|Yuxin Huang et.al.|[2607.13336](http://arxiv.org/abs/2607.13336)|**[link](https://github.com/saythe17/TC-UAP)**|
 |**2026-07-14**|**The Seriality Gap in Video Diffusion Models**|Jorge Diaz Chao et.al.|[2607.13031](http://arxiv.org/abs/2607.13031)|null|
 |**2026-07-14**|**A new model for runaway electron transport based on chaotic Hamiltonian systems**|Dániel Jánosi et.al.|[2607.12905](http://arxiv.org/abs/2607.12905)|null|
 |**2026-07-14**|**ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting**|Cheng-Tai Hsieh et.al.|[2607.12785](http://arxiv.org/abs/2607.12785)|null|
@@ -930,12 +940,20 @@
 |**2026-04-06**|**Training-Free Image Editing with Visual Context Integration and Concept Alignment**|Rui Song et.al.|[2604.04487](http://arxiv.org/abs/2604.04487)|null|
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 
-<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models**|Zhuoyuan Fu et.al.|[2607.13860](http://arxiv.org/abs/2607.13860)|null|
+|**2026-07-15**|**Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs**|Zhixiao Zheng et.al.|[2607.13712](http://arxiv.org/abs/2607.13712)|null|
+|**2026-07-15**|**Graded Entity-Familiarity Readouts in Language Models: Polish Adaptation, Cross-Language Robustness, and Refusal Steering**|Grzegorz Brzezinka et.al.|[2607.13568](http://arxiv.org/abs/2607.13568)|null|
+|**2026-07-15**|**When Rubrics Change: Cross-Rubric Generalization for Critical Thinking Essay Scoring**|Nischal Ashok Kumar et.al.|[2607.13433](http://arxiv.org/abs/2607.13433)|**[link](https://github.com/umass-ml4ed/generalization-in-essay-scoring)**|
+|**2026-07-15**|**Exploring Post-Training Alignment of Small Language Models for Biomedical Data-to-Text Generation: A Case Study of Medication Leaflet**|Xi Yang et.al.|[2607.13430](http://arxiv.org/abs/2607.13430)|null|
+|**2026-07-15**|**Improving Text-to-Audio Instruction Following via Fine-Grained Feedback from Audio-Aware Large Language Models**|Chun-Yi Kuan et.al.|[2607.13408](http://arxiv.org/abs/2607.13408)|null|
+|**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](http://arxiv.org/abs/2607.13323)|**[link](https://github.com/tbwa233/SARFA)**|
+|**2026-07-14**|**Meta-Learning Preferences for Multilingual LLM Alignment**|Jiaying Lin et.al.|[2607.13315](http://arxiv.org/abs/2607.13315)|null|
 |**2026-07-14**|**Antiproof: Synthesizing Vulnerability Detectors and Proofs of Exploitability**|Alon Shakevsky et.al.|[2607.12316](http://arxiv.org/abs/2607.12316)|null|
 |**2026-07-11**|**Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study**|Thanh Luong Tuan et.al.|[2607.11948](http://arxiv.org/abs/2607.11948)|null|
 |**2026-07-13**|**Production and Perception in LLMs: A Token Probability Approach**|Anna Marklová et.al.|[2607.11703](http://arxiv.org/abs/2607.11703)|null|
@@ -1284,7 +1302,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
