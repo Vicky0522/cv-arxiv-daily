@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|**[link](https://github.com/zhxie0117/VideoRAE)**|
+|**2026-07-15**|**From Pixels to States: Rethinking Interactive World Models as Game Engines**|Zhen Li et.al.|[2607.14076](http://arxiv.org/abs/2607.14076)|null|
+|**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](http://arxiv.org/abs/2607.14005)|null|
+|**2026-07-15**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**| GigaWorld Team et.al.|[2607.13960](http://arxiv.org/abs/2607.13960)|null|
+|**2026-07-15**|**Towards Spatial Supersensing in the Wild**|Tianjun Gu et.al.|[2607.13681](http://arxiv.org/abs/2607.13681)|**[link](https://github.com/THUSI-Lab/VSI-Super-Wild)**|
+|**2026-07-15**|**Equilibrium Information Aggregation under Machine Learning**|Andrew Ellis et.al.|[2607.13670](http://arxiv.org/abs/2607.13670)|null|
+|**2026-07-15**|**From Surface Forecasting to Observability Forecasting: A Latent World Model for Cloud-Aware EO Monitoring**|Mohanad Albughdadi et.al.|[2607.13651](http://arxiv.org/abs/2607.13651)|null|
+|**2026-07-15**|**The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models**|Fabio Arnez et.al.|[2607.13612](http://arxiv.org/abs/2607.13612)|null|
+|**2026-07-15**|**Grounded world models in biological organisms and future embodied AI**|Giovanni Pezzulo et.al.|[2607.13560](http://arxiv.org/abs/2607.13560)|null|
+|**2026-07-15**|**VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation**|Songyu Xu et.al.|[2607.13527](http://arxiv.org/abs/2607.13527)|null|
 |**2026-07-14**|**FlowWAM: Optical Flow as a Unified Action Representation for World Action Models**|Yixiang Chen et.al.|[2607.13017](http://arxiv.org/abs/2607.13017)|**[link](https://github.com/YixiangChen515/FlowWAM)**|
 |**2026-07-14**|**TRACE: An Operational Reasoning Schema for Auditable Agentic Commitments**|Edward Y. Chang et.al.|[2607.12480](http://arxiv.org/abs/2607.12480)|null|
 |**2026-07-14**|**From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery**|Ingmar Posner et.al.|[2607.12474](http://arxiv.org/abs/2607.12474)|null|
@@ -327,6 +337,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653](http://arxiv.org/abs/2607.13653)|**[link](https://github.com/InternRobotics/REAL)**|
+|**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Kun Yu et.al.|[2607.13621](http://arxiv.org/abs/2607.13621)|null|
+|**2026-07-15**|**Active Trust Management for Successful Human-Robot Teaming: Moving from a Trust Repair to a Trust Satisficing Perspective**|Nicola Webb et.al.|[2607.13595](http://arxiv.org/abs/2607.13595)|null|
+|**2026-07-15**|**UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets**|Xian Li et.al.|[2607.13586](http://arxiv.org/abs/2607.13586)|null|
+|**2026-07-15**|**Grounded world models in biological organisms and future embodied AI**|Giovanni Pezzulo et.al.|[2607.13560](http://arxiv.org/abs/2607.13560)|null|
+|**2026-07-15**|**Joint On-and-Off Policy Learning for Vision-and-Language Navigation**|Qingrong He et.al.|[2607.13461](http://arxiv.org/abs/2607.13461)|null|
+|**2026-07-14**|**Just-In-Time Scene Graph Growth: Combating Perceptual Saturation in Long-Horizon Robotics**|Yue Chang et.al.|[2607.13245](http://arxiv.org/abs/2607.13245)|null|
 |**2026-07-14**|**Hy-Embodied-VLM-1.0: Efficient Physical-World Agents**|Ziyi Wang et.al.|[2607.12894](http://arxiv.org/abs/2607.12894)|null|
 |**2026-07-14**|**Instance-Enriched Semantic Maps for Visual Language Navigation**|Jiho Hong et.al.|[2607.12630](http://arxiv.org/abs/2607.12630)|**[link](https://github.com/devtechproject123-collab/iesm_vln)**|
 |**2026-07-14**|**MobileSAM2: Lightweight Segment Anything for Spatial Intelligence**|Kai Jiang et.al.|[2607.12297](http://arxiv.org/abs/2607.12297)|null|
@@ -952,7 +969,7 @@
 |**2026-07-15**|**When Rubrics Change: Cross-Rubric Generalization for Critical Thinking Essay Scoring**|Nischal Ashok Kumar et.al.|[2607.13433](http://arxiv.org/abs/2607.13433)|**[link](https://github.com/umass-ml4ed/generalization-in-essay-scoring)**|
 |**2026-07-15**|**Exploring Post-Training Alignment of Small Language Models for Biomedical Data-to-Text Generation: A Case Study of Medication Leaflet**|Xi Yang et.al.|[2607.13430](http://arxiv.org/abs/2607.13430)|null|
 |**2026-07-15**|**Improving Text-to-Audio Instruction Following via Fine-Grained Feedback from Audio-Aware Large Language Models**|Chun-Yi Kuan et.al.|[2607.13408](http://arxiv.org/abs/2607.13408)|null|
-|**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](http://arxiv.org/abs/2607.13323)|**[link](https://github.com/tbwa233/SARFA)**|
+|**2026-07-14**|**SARFA: Segment Anything with Radiomic Feature Alignment**|Tyler Ward et.al.|[2607.13323](http://arxiv.org/abs/2607.13323)|null|
 |**2026-07-14**|**Meta-Learning Preferences for Multilingual LLM Alignment**|Jiaying Lin et.al.|[2607.13315](http://arxiv.org/abs/2607.13315)|null|
 |**2026-07-14**|**Antiproof: Synthesizing Vulnerability Detectors and Proofs of Exploitability**|Alon Shakevsky et.al.|[2607.12316](http://arxiv.org/abs/2607.12316)|null|
 |**2026-07-11**|**Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study**|Thanh Luong Tuan et.al.|[2607.11948](http://arxiv.org/abs/2607.11948)|null|
