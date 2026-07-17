@@ -7,17 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
+|**2026-07-16**|**Concept-Guided Spatial Regularization for World Models in Atari Pong**|Yukuan Lu et.al.|[2607.15142](http://arxiv.org/abs/2607.15142)|null|
+|**2026-07-16**|**DriftWorld: Fast World Modeling through Drifting**|Susie Lu et.al.|[2607.15065](http://arxiv.org/abs/2607.15065)|null|
+|**2026-07-16**|**From Draft to Draft-Free: One-Step Video Object Removal via Privileged Distillation and Fast Planting**|Zizhao Chen et.al.|[2607.14976](http://arxiv.org/abs/2607.14976)|null|
+|**2026-07-16**|**ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships**|Xinyu Liu et.al.|[2607.14681](http://arxiv.org/abs/2607.14681)|null|
+|**2026-07-16**|**World-Model-Aware Responsibility Allocation in Heterogeneous Logistics Systems**|Artan Markaj et.al.|[2607.14550](http://arxiv.org/abs/2607.14550)|null|
 |**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|**[link](https://github.com/zhxie0117/VideoRAE)**|
 |**2026-07-15**|**From Pixels to States: Rethinking Interactive World Models as Game Engines**|Zhen Li et.al.|[2607.14076](http://arxiv.org/abs/2607.14076)|null|
 |**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](http://arxiv.org/abs/2607.14005)|null|
-|**2026-07-15**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**| GigaWorld Team et.al.|[2607.13960](http://arxiv.org/abs/2607.13960)|null|
+|**2026-07-16**|**GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch**| GigaWorld Team et.al.|[2607.13960](http://arxiv.org/abs/2607.13960)|null|
 |**2026-07-15**|**Towards Spatial Supersensing in the Wild**|Tianjun Gu et.al.|[2607.13681](http://arxiv.org/abs/2607.13681)|**[link](https://github.com/THUSI-Lab/VSI-Super-Wild)**|
 |**2026-07-15**|**Equilibrium Information Aggregation under Machine Learning**|Andrew Ellis et.al.|[2607.13670](http://arxiv.org/abs/2607.13670)|null|
 |**2026-07-15**|**From Surface Forecasting to Observability Forecasting: A Latent World Model for Cloud-Aware EO Monitoring**|Mohanad Albughdadi et.al.|[2607.13651](http://arxiv.org/abs/2607.13651)|null|
@@ -528,6 +534,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
+|**2026-07-16**|**Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion**|Wenqi Si et.al.|[2607.15041](http://arxiv.org/abs/2607.15041)|null|
+|**2026-07-16**|**Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation**|Ku Onoda et.al.|[2607.14962](http://arxiv.org/abs/2607.14962)|null|
+|**2026-07-16**|**Introspective Attention Modulation for Safe Text-to-Image Generation**|Basim Azam et.al.|[2607.14945](http://arxiv.org/abs/2607.14945)|**[link](https://github.com/basim-azam/iam)**|
+|**2026-07-16**|**CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation**|Yuanpeng Zhang et.al.|[2607.14908](http://arxiv.org/abs/2607.14908)|null|
+|**2026-07-16**|**FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers**|Minguk Kang et.al.|[2607.14898](http://arxiv.org/abs/2607.14898)|null|
+|**2026-07-16**|**Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation**|Emanuele Colonna et.al.|[2607.14836](http://arxiv.org/abs/2607.14836)|null|
+|**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
+|**2026-07-16**|**Conditional Generative Learning Enabled Wireless UAV Sensing and Tracking via Point Cloud Imaging**|Xinhong Dai et.al.|[2607.14778](http://arxiv.org/abs/2607.14778)|null|
+|**2026-07-16**|**Rare Concept Generation via Counterfactual Inference in Diffusion Models**|Zhengyuan Jiang et.al.|[2607.14765](http://arxiv.org/abs/2607.14765)|null|
 |**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|**[link](https://github.com/ntaquan0125/weather-cyclone)**|
 |**2026-07-15**|**Rearranged Stochastic Heat Equations with an Entropy Gradient Structure**|Francois Delarue et.al.|[2607.13849](http://arxiv.org/abs/2607.13849)|null|
 |**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](http://arxiv.org/abs/2607.13812)|**[link](https://github.com/Fredy-Zhang/TCAM-Diff)**|
