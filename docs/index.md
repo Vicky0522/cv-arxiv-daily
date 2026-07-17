@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
 |**2026-07-16**|**Concept-Guided Spatial Regularization for World Models in Atari Pong**|Yukuan Lu et.al.|[2607.15142](http://arxiv.org/abs/2607.15142)|null|
-|**2026-07-16**|**DriftWorld: Fast World Modeling through Drifting**|Susie Lu et.al.|[2607.15065](http://arxiv.org/abs/2607.15065)|null|
+|**2026-07-16**|**DriftWorld: Fast World Modeling through Drifting**|Susie Lu et.al.|[2607.15065](http://arxiv.org/abs/2607.15065)|**[link](https://github.com/Susie-Lu/driftworld)**|
 |**2026-07-16**|**From Draft to Draft-Free: One-Step Video Object Removal via Privileged Distillation and Fast Planting**|Zizhao Chen et.al.|[2607.14976](http://arxiv.org/abs/2607.14976)|null|
 |**2026-07-16**|**ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships**|Xinyu Liu et.al.|[2607.14681](http://arxiv.org/abs/2607.14681)|null|
 |**2026-07-16**|**World-Model-Aware Responsibility Allocation in Heterogeneous Logistics Systems**|Artan Markaj et.al.|[2607.14550](http://arxiv.org/abs/2607.14550)|null|
@@ -335,6 +335,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
+|**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163](http://arxiv.org/abs/2607.15163)|**[link](https://github.com/zengweishuai/ScaleBFM)**|
+|**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Shuhuan Chen et.al.|[2607.14631](http://arxiv.org/abs/2607.14631)|**[link](https://github.com/MrHuan3/GlanceFace)**|
+|**2026-07-16**|**SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents**|Huaigang Yang et.al.|[2607.14543](http://arxiv.org/abs/2607.14543)|null|
+|**2026-07-16**|**VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation**|Xiaoran Xu et.al.|[2607.14514](http://arxiv.org/abs/2607.14514)|null|
 |**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653](http://arxiv.org/abs/2607.13653)|**[link](https://github.com/InternRobotics/REAL)**|
 |**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Kun Yu et.al.|[2607.13621](http://arxiv.org/abs/2607.13621)|null|
 |**2026-07-15**|**Active Trust Management for Successful Human-Robot Teaming: Moving from a Trust Repair to a Trust Satisficing Perspective**|Nicola Webb et.al.|[2607.13595](http://arxiv.org/abs/2607.13595)|null|
@@ -967,6 +972,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
+|**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|null|
+|**2026-07-16**|**Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents**|Dylan Van Mulders et.al.|[2607.15095](http://arxiv.org/abs/2607.15095)|null|
+|**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Ruilong Ren et.al.|[2607.15004](http://arxiv.org/abs/2607.15004)|null|
+|**2026-07-16**|**Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation**|Yu-Du Feng et.al.|[2607.14895](http://arxiv.org/abs/2607.14895)|**[link](https://github.com/eth-sri/rlm-training-merging)**|
+|**2026-07-16**|**Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays**|John Maurice Gayed et.al.|[2607.14605](http://arxiv.org/abs/2607.14605)|null|
+|**2026-07-16**|**Multi-LLM Collaborative MRI Report Generation for Visual Instruction Tuning in Brain Oncology**|Sinyoung Ra et.al.|[2607.14581](http://arxiv.org/abs/2607.14581)|null|
+|**2026-07-16**|**Answer-Conditioned Chains of Thought Degrade Verifiable-Reasoning Distillation in Large Language Models**|Jungseob Lee et.al.|[2607.14552](http://arxiv.org/abs/2607.14552)|null|
+|**2026-07-16**|**Step-Level Preference Learning for Generative Agents in Social Simulations**|Wenchang Gao et.al.|[2607.14485](http://arxiv.org/abs/2607.14485)|null|
+|**2026-07-15**|**Implicit Reasoning Steering via Concept Chaining**|Xiao Ye et.al.|[2607.14242](http://arxiv.org/abs/2607.14242)|null|
 |**2026-07-15**|**Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models**|Zhuoyuan Fu et.al.|[2607.13860](http://arxiv.org/abs/2607.13860)|null|
 |**2026-07-15**|**Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs**|Zhixiao Zheng et.al.|[2607.13712](http://arxiv.org/abs/2607.13712)|null|
 |**2026-07-15**|**Graded Entity-Familiarity Readouts in Language Models: Polish Adaptation, Cross-Language Robustness, and Refusal Steering**|Grzegorz Brzezinka et.al.|[2607.13568](http://arxiv.org/abs/2607.13568)|null|
