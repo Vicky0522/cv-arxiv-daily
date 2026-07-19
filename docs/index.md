@@ -973,7 +973,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
-|**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|null|
+|**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|**[link](https://github.com/rehaanahmad2013/on-policy-delta-distillation)**|
 |**2026-07-16**|**Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents**|Dylan Van Mulders et.al.|[2607.15095](http://arxiv.org/abs/2607.15095)|null|
 |**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Ruilong Ren et.al.|[2607.15004](http://arxiv.org/abs/2607.15004)|null|
 |**2026-07-16**|**Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation**|Yu-Du Feng et.al.|[2607.14895](http://arxiv.org/abs/2607.14895)|**[link](https://github.com/eth-sri/rlm-training-merging)**|
