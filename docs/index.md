@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**DSWorld: A Data Science World Model for Efficient Autonomous Agents**|Zherui Yang et.al.|[2607.15901](http://arxiv.org/abs/2607.15901)|null|
+|**2026-07-17**|**Orbis 2: A Hierarchical World Model for Driving**|Sudhanshu Mittal et.al.|[2607.15898](http://arxiv.org/abs/2607.15898)|null|
+|**2026-07-17**|**In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing**|Qunying Song et.al.|[2607.15820](http://arxiv.org/abs/2607.15820)|null|
+|**2026-07-17**|**PE-Field 4D: Video Generation Models as Canvas**|Yunpeng Bai et.al.|[2607.15667](http://arxiv.org/abs/2607.15667)|**[link](https://github.com/cppan-packages/a3b15667afb6900358554d343c5b488181dd080231880d7e1e779a83a260733c)**|
+|**2026-07-17**|**ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning**|Shuaiyu Zhou et.al.|[2607.15660](http://arxiv.org/abs/2607.15660)|null|
+|**2026-07-17**|**AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots**|Priyanka V. Setty et.al.|[2607.15620](http://arxiv.org/abs/2607.15620)|null|
+|**2026-07-17**|**SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction**|Xue Yu et.al.|[2607.15550](http://arxiv.org/abs/2607.15550)|null|
+|**2026-07-17**|**E3DGS: Unified Geometric-Photometric Equivariance for 3D Gaussian Splatting via Color-as-Geometry Embedding**|Chankyo Kim et.al.|[2607.15536](http://arxiv.org/abs/2607.15536)|null|
+|**2026-07-16**|**Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?**|Sergey Rodionov et.al.|[2607.15439](http://arxiv.org/abs/2607.15439)|null|
 |**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
 |**2026-07-16**|**Concept-Guided Spatial Regularization for World Models in Atari Pong**|Yukuan Lu et.al.|[2607.15142](http://arxiv.org/abs/2607.15142)|null|
 |**2026-07-16**|**DriftWorld: Fast World Modeling through Drifting**|Susie Lu et.al.|[2607.15065](http://arxiv.org/abs/2607.15065)|**[link](https://github.com/Susie-Lu/driftworld)**|
@@ -335,12 +344,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|null|
 |**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
 |**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163](http://arxiv.org/abs/2607.15163)|**[link](https://github.com/zengweishuai/ScaleBFM)**|
 |**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Shuhuan Chen et.al.|[2607.14631](http://arxiv.org/abs/2607.14631)|**[link](https://github.com/MrHuan3/GlanceFace)**|
 |**2026-07-16**|**SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents**|Huaigang Yang et.al.|[2607.14543](http://arxiv.org/abs/2607.14543)|null|
 |**2026-07-16**|**VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation**|Xiaoran Xu et.al.|[2607.14514](http://arxiv.org/abs/2607.14514)|null|
-|**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653](http://arxiv.org/abs/2607.13653)|**[link](https://github.com/InternRobotics/REAL)**|
+|**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653](http://arxiv.org/abs/2607.13653)|null|
 |**2026-07-15**|**UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following**|Kun Yu et.al.|[2607.13621](http://arxiv.org/abs/2607.13621)|null|
 |**2026-07-15**|**Active Trust Management for Successful Human-Robot Teaming: Moving from a Trust Repair to a Trust Satisficing Perspective**|Nicola Webb et.al.|[2607.13595](http://arxiv.org/abs/2607.13595)|null|
 |**2026-07-15**|**UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets**|Xian Li et.al.|[2607.13586](http://arxiv.org/abs/2607.13586)|null|
@@ -539,6 +549,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering**|Meijia Huang et.al.|[2607.16060](http://arxiv.org/abs/2607.16060)|null|
+|**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|null|
+|**2026-07-17**|**DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction**|Chi Zhang et.al.|[2607.15846](http://arxiv.org/abs/2607.15846)|null|
+|**2026-07-17**|**Toward a mechanistic understanding of inference in visual cortex and diffusion models**|Zeyu Yun et.al.|[2607.15693](http://arxiv.org/abs/2607.15693)|null|
+|**2026-07-17**|**Constructing far-from-equilibrium patterns in a cross-diffusion vegetation-autotoxicity model**|Annalisa Iuorio et.al.|[2607.15692](http://arxiv.org/abs/2607.15692)|null|
+|**2026-07-17**|**S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation**|Jiahao Zhao et.al.|[2607.15686](http://arxiv.org/abs/2607.15686)|null|
+|**2026-07-17**|**PE-Field 4D: Video Generation Models as Canvas**|Yunpeng Bai et.al.|[2607.15667](http://arxiv.org/abs/2607.15667)|**[link](https://github.com/cppan-packages/a3b15667afb6900358554d343c5b488181dd080231880d7e1e779a83a260733c)**|
+|**2026-07-17**|**DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse**|Yuyang Chen et.al.|[2607.15650](http://arxiv.org/abs/2607.15650)|null|
+|**2026-07-17**|**StructGen: Disambiguating Multi-Reference Image Generation via Structured Context Modeling**|Jianing Peng et.al.|[2607.15619](http://arxiv.org/abs/2607.15619)|**[link](https://github.com/jianingPeng0382/StructGenCode)**|
+|**2026-07-17**|**SPEED: One-Step Pixel Diffusion for High-quality Video Frame Interpolation**|Zihao Zhang et.al.|[2607.15585](http://arxiv.org/abs/2607.15585)|**[link](https://github.com/bbldCVer/SPEED)**|
 |**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
 |**2026-07-16**|**Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion**|Wenqi Si et.al.|[2607.15041](http://arxiv.org/abs/2607.15041)|null|
 |**2026-07-16**|**Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation**|Ku Onoda et.al.|[2607.14962](http://arxiv.org/abs/2607.14962)|null|
@@ -972,9 +992,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Understanding Reasoning from Pretraining to Post-Training**|Jingyan Shen et.al.|[2607.16097](http://arxiv.org/abs/2607.16097)|null|
+|**2026-07-17**|**GeoChrono: Benchmarking and Rethinking Long-Term Temporal Understanding in Remote Sensing**|Yujie Li et.al.|[2607.15768](http://arxiv.org/abs/2607.15768)|**[link](https://github.com/IntelliSensing/GeoChrono)**|
+|**2026-07-17**|**Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling**|Bo-An Chang et.al.|[2607.15740](http://arxiv.org/abs/2607.15740)|null|
+|**2026-07-17**|**LLMs Encode Relevance as a Layer-Wise Cross-Lingual Signal**|Pietro Bernardelle et.al.|[2607.15555](http://arxiv.org/abs/2607.15555)|null|
 |**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
-|**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|**[link](https://github.com/rehaanahmad2013/on-policy-delta-distillation)**|
-|**2026-07-16**|**Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents**|Dylan Van Mulders et.al.|[2607.15095](http://arxiv.org/abs/2607.15095)|null|
+|**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|null|
+|**2026-07-17**|**Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents**|Dylan Van Mulders et.al.|[2607.15095](http://arxiv.org/abs/2607.15095)|null|
 |**2026-07-16**|**CosFly-VLA: A Spatially Aware Vision-Language-Action Model for UAV Tracking**|Ruilong Ren et.al.|[2607.15004](http://arxiv.org/abs/2607.15004)|null|
 |**2026-07-16**|**Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation**|Yu-Du Feng et.al.|[2607.14895](http://arxiv.org/abs/2607.14895)|**[link](https://github.com/eth-sri/rlm-training-merging)**|
 |**2026-07-16**|**Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays**|John Maurice Gayed et.al.|[2607.14605](http://arxiv.org/abs/2607.14605)|null|
