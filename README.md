@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -346,12 +346,17 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 ## embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|**[link](https://github.com/azizbek-coderdev/auto-repo-2607-1780649409237-yd2w)**|
+|**2026-07-19**|**HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2607.17097](http://arxiv.org/abs/2607.17097)|null|
+|**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896](http://arxiv.org/abs/2607.16896)|null|
+|**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Yang Liu et.al.|[2607.16636](http://arxiv.org/abs/2607.16636)|null|
+|**2026-07-18**|**PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**|Han Wang et.al.|[2607.16602](http://arxiv.org/abs/2607.16602)|**[link](https://github.com/Social-AI-Studio/PAVXploreRL)**|
 |**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|null|
 |**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
 |**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163](http://arxiv.org/abs/2607.15163)|**[link](https://github.com/zengweishuai/ScaleBFM)**|
@@ -553,12 +558,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|null|
+|**2026-07-20**|**FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry**|Dingyun Zhang et.al.|[2607.18227](http://arxiv.org/abs/2607.18227)|null|
+|**2026-07-20**|**Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints**|Thomas MacDougall et.al.|[2607.18144](http://arxiv.org/abs/2607.18144)|**[link](https://github.com/insilicomedicine/bench-3d-fit)**|
+|**2026-07-20**|**Importance Sampling and PCA for Finding Failures in Commercial Autonomous Vehicles**|Hailey Warner et.al.|[2607.18106](http://arxiv.org/abs/2607.18106)|null|
+|**2026-07-20**|**Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation**|Zhenjie Liu et.al.|[2607.17985](http://arxiv.org/abs/2607.17985)|null|
+|**2026-07-20**|**DiFA: Inference-Time Forward-Process Alignment for Diffusion Models**|Shigui Li et.al.|[2607.17972](http://arxiv.org/abs/2607.17972)|null|
+|**2026-07-20**|**Chemical filters for ultra-high-throughput materials screening and generation**|Kinga O. Mastej et.al.|[2607.17910](http://arxiv.org/abs/2607.17910)|null|
+|**2026-07-20**|**Consistent Feature Transport for Image Relighting**|Bohan Zhang et.al.|[2607.17833](http://arxiv.org/abs/2607.17833)|null|
+|**2026-07-20**|**To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations**|Wenzhuang Wang et.al.|[2607.17768](http://arxiv.org/abs/2607.17768)|null|
+|**2026-07-20**|**Reviving Ancient Paintings via Poem: A Colorization Framework for Aligning Cultural Semantics**|Junming Gao et.al.|[2607.17638](http://arxiv.org/abs/2607.17638)|null|
 |**2026-07-17**|**ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering**|Meijia Huang et.al.|[2607.16060](http://arxiv.org/abs/2607.16060)|null|
 |**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|null|
 |**2026-07-17**|**DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction**|Chi Zhang et.al.|[2607.15846](http://arxiv.org/abs/2607.15846)|null|
@@ -998,12 +1013,22 @@
 |**2026-04-06**|**Training-Free Image Editing with Visual Context Integration and Concept Alignment**|Rui Song et.al.|[2604.04487](http://arxiv.org/abs/2604.04487)|null|
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**SciForma: Structure-Faithful Generation of Scientific Diagrams**|Yuxuan Luo et.al.|[2607.18091](http://arxiv.org/abs/2607.18091)|null|
+|**2026-07-20**|**A Geometric Perspective on Stabilizing Value Conflict Resolution**|Saket Reddy et.al.|[2607.17946](http://arxiv.org/abs/2607.17946)|null|
+|**2026-07-20**|**From Blind Search to Memory-Aware Evolution: Efficient DBMS Tuning via Collaborative Diagnosis and Utility-Aware Retrieval**|Zhaoyan Hong et.al.|[2607.17841](http://arxiv.org/abs/2607.17841)|null|
+|**2026-07-20**|**PoLoRA: A Preconditioned Orthogonalized LoRA Optimizer**|Nikhil Ghosh et.al.|[2607.17620](http://arxiv.org/abs/2607.17620)|null|
+|**2026-07-19**|**Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics reveals context-dependent generalisation**|Sally Chen et.al.|[2607.17227](http://arxiv.org/abs/2607.17227)|null|
+|**2026-07-19**|**Auditing Question-Order Effects in Large Language Models with the QQ Equality: Mechanism Characterization and a Saturation Caveat**|Pilsung Kang et.al.|[2607.17219](http://arxiv.org/abs/2607.17219)|null|
+|**2026-07-19**|**Learning from Synthetic Data without Model Collapse in Iterative Instruction Tuning**|Xiaonan Luo et.al.|[2607.17043](http://arxiv.org/abs/2607.17043)|null|
+|**2026-07-18**|**When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation**|Siwei Meng et.al.|[2607.16947](http://arxiv.org/abs/2607.16947)|null|
+|**2026-07-18**|**Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning**|Roberto Pietrantuono et.al.|[2607.16808](http://arxiv.org/abs/2607.16808)|**[link](https://github.com/pouyasattari/EAE)**|
+|**2026-07-18**|**Diagnosing Correctness Probes under Self-Judgement Confounding**|Yi-Long Lu et.al.|[2607.16799](http://arxiv.org/abs/2607.16799)|**[link](https://github.com/Yilong-Lu/Diagnosing_Correctness)**|
 |**2026-07-17**|**Understanding Reasoning from Pretraining to Post-Training**|Jingyan Shen et.al.|[2607.16097](http://arxiv.org/abs/2607.16097)|null|
 |**2026-07-17**|**GeoChrono: Benchmarking and Rethinking Long-Term Temporal Understanding in Remote Sensing**|Yujie Li et.al.|[2607.15768](http://arxiv.org/abs/2607.15768)|**[link](https://github.com/IntelliSensing/GeoChrono)**|
 |**2026-07-17**|**Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling**|Bo-An Chang et.al.|[2607.15740](http://arxiv.org/abs/2607.15740)|null|
@@ -1374,7 +1399,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
