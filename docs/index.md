@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications**|Krish Agarwal et.al.|[2607.18171](http://arxiv.org/abs/2607.18171)|null|
+|**2026-07-20**|**SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning**|Letian Cheng et.al.|[2607.17973](http://arxiv.org/abs/2607.17973)|null|
+|**2026-07-20**|**Mobile Network Control with a World Model**|Maxime Bouton et.al.|[2607.17747](http://arxiv.org/abs/2607.17747)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-07-20**|**Planning with Transformers: Chain of Computation and Structured Context Windows**|Ehsan Futuhi et.al.|[2607.17710](http://arxiv.org/abs/2607.17710)|null|
+|**2026-07-20**|**ShotPlan: Cinematic Video Generation with Learnable Planning Token**|Su Guo et.al.|[2607.17675](http://arxiv.org/abs/2607.17675)|**[link](https://github.com/Pensioner-11/ShotPlan)**|
+|**2026-07-20**|**Attention from Above: A Multimodal Model for Drone-Based Object Localization**|Hyun-Ki Jung et.al.|[2607.17669](http://arxiv.org/abs/2607.17669)|null|
+|**2026-07-20**|**Reinforcement Learning: From Algorithms To Foundation Models**|Zihan Ding et.al.|[2607.17560](http://arxiv.org/abs/2607.17560)|**[link](https://github.com/abusufyanvu/6S191_MIT_DeepLearning)**|
+|**2026-07-20**|**Thinking in Video: Can Video Generators Really Reason About the Real World?**|Yongheng Zhang et.al.|[2607.17523](http://arxiv.org/abs/2607.17523)|null|
+|**2026-07-20**|**GeoWorldAD: Geometry World Action Model for Autonomous Driving**|Songyan Zhang et.al.|[2607.17521](http://arxiv.org/abs/2607.17521)|null|
+|**2026-07-19**|**Between Safe Boundaries: Exploiting Temporal Consistency for Jailbreaking Text-To-Video Generation Models**|Xingkai Peng et.al.|[2607.17279](http://arxiv.org/abs/2607.17279)|null|
 |**2026-07-17**|**DSWorld: A Data Science World Model for Efficient Autonomous Agents**|Zherui Yang et.al.|[2607.15901](http://arxiv.org/abs/2607.15901)|null|
 |**2026-07-17**|**Orbis 2: A Hierarchical World Model for Driving**|Sudhanshu Mittal et.al.|[2607.15898](http://arxiv.org/abs/2607.15898)|null|
 |**2026-07-17**|**In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing**|Qunying Song et.al.|[2607.15820](http://arxiv.org/abs/2607.15820)|null|
@@ -351,8 +361,8 @@ layout: default
 |**2026-07-18**|**PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**|Han Wang et.al.|[2607.16602](http://arxiv.org/abs/2607.16602)|**[link](https://github.com/Social-AI-Studio/PAVXploreRL)**|
 |**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|null|
 |**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
-|**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163](http://arxiv.org/abs/2607.15163)|**[link](https://github.com/zengweishuai/ScaleBFM)**|
-|**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Shuhuan Chen et.al.|[2607.14631](http://arxiv.org/abs/2607.14631)|**[link](https://github.com/MrHuan3/GlanceFace)**|
+|**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163](http://arxiv.org/abs/2607.15163)|null|
+|**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Shuhuan Chen et.al.|[2607.14631](http://arxiv.org/abs/2607.14631)|null|
 |**2026-07-16**|**SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents**|Huaigang Yang et.al.|[2607.14543](http://arxiv.org/abs/2607.14543)|null|
 |**2026-07-16**|**VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation**|Xiaoran Xu et.al.|[2607.14514](http://arxiv.org/abs/2607.14514)|null|
 |**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653](http://arxiv.org/abs/2607.13653)|null|
@@ -554,15 +564,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|null|
+|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|**[link](https://github.com/VILA-Lab/PIXAR-DG)**|
 |**2026-07-20**|**FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry**|Dingyun Zhang et.al.|[2607.18227](http://arxiv.org/abs/2607.18227)|null|
 |**2026-07-20**|**Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints**|Thomas MacDougall et.al.|[2607.18144](http://arxiv.org/abs/2607.18144)|**[link](https://github.com/insilicomedicine/bench-3d-fit)**|
 |**2026-07-20**|**Importance Sampling and PCA for Finding Failures in Commercial Autonomous Vehicles**|Hailey Warner et.al.|[2607.18106](http://arxiv.org/abs/2607.18106)|null|
 |**2026-07-20**|**Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation**|Zhenjie Liu et.al.|[2607.17985](http://arxiv.org/abs/2607.17985)|null|
 |**2026-07-20**|**DiFA: Inference-Time Forward-Process Alignment for Diffusion Models**|Shigui Li et.al.|[2607.17972](http://arxiv.org/abs/2607.17972)|null|
 |**2026-07-20**|**Chemical filters for ultra-high-throughput materials screening and generation**|Kinga O. Mastej et.al.|[2607.17910](http://arxiv.org/abs/2607.17910)|null|
-|**2026-07-20**|**Consistent Feature Transport for Image Relighting**|Bohan Zhang et.al.|[2607.17833](http://arxiv.org/abs/2607.17833)|null|
-|**2026-07-20**|**To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations**|Wenzhuang Wang et.al.|[2607.17768](http://arxiv.org/abs/2607.17768)|null|
+|**2026-07-20**|**Consistent Feature Transport for Image Relighting**|Bohan Zhang et.al.|[2607.17833](http://arxiv.org/abs/2607.17833)|**[link](https://github.com/Dixin-Lab/CFT)**|
+|**2026-07-20**|**To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations**|Wenzhuang Wang et.al.|[2607.17768](http://arxiv.org/abs/2607.17768)|**[link](https://github.com/fayewong666999/CamoDreamer)**|
 |**2026-07-20**|**Reviving Ancient Paintings via Poem: A Colorization Framework for Aligning Cultural Semantics**|Junming Gao et.al.|[2607.17638](http://arxiv.org/abs/2607.17638)|null|
 |**2026-07-17**|**ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering**|Meijia Huang et.al.|[2607.16060](http://arxiv.org/abs/2607.16060)|null|
 |**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|null|
@@ -1015,7 +1025,7 @@ layout: default
 |**2026-07-19**|**Auditing Question-Order Effects in Large Language Models with the QQ Equality: Mechanism Characterization and a Saturation Caveat**|Pilsung Kang et.al.|[2607.17219](http://arxiv.org/abs/2607.17219)|null|
 |**2026-07-19**|**Learning from Synthetic Data without Model Collapse in Iterative Instruction Tuning**|Xiaonan Luo et.al.|[2607.17043](http://arxiv.org/abs/2607.17043)|null|
 |**2026-07-18**|**When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation**|Siwei Meng et.al.|[2607.16947](http://arxiv.org/abs/2607.16947)|null|
-|**2026-07-18**|**Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning**|Roberto Pietrantuono et.al.|[2607.16808](http://arxiv.org/abs/2607.16808)|**[link](https://github.com/pouyasattari/EAE)**|
+|**2026-07-18**|**Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning**|Roberto Pietrantuono et.al.|[2607.16808](http://arxiv.org/abs/2607.16808)|null|
 |**2026-07-18**|**Diagnosing Correctness Probes under Self-Judgement Confounding**|Yi-Long Lu et.al.|[2607.16799](http://arxiv.org/abs/2607.16799)|**[link](https://github.com/Yilong-Lu/Diagnosing_Correctness)**|
 |**2026-07-17**|**Understanding Reasoning from Pretraining to Post-Training**|Jingyan Shen et.al.|[2607.16097](http://arxiv.org/abs/2607.16097)|null|
 |**2026-07-17**|**GeoChrono: Benchmarking and Rethinking Long-Term Temporal Understanding in Remote Sensing**|Yujie Li et.al.|[2607.15768](http://arxiv.org/abs/2607.15768)|**[link](https://github.com/IntelliSensing/GeoChrono)**|
