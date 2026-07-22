@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -356,7 +356,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260722>back to top</a>)</p>
 
 ## embodied AI
 
@@ -568,12 +568,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260722>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**Appearance Pointers -- Multimodal Region Control of Diffusion Transformers**|Rahul Sajnani et.al.|[2607.19344](http://arxiv.org/abs/2607.19344)|null|
+|**2026-07-21**|**ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis**|Yuan Wang et.al.|[2607.19341](http://arxiv.org/abs/2607.19341)|null|
+|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
+|**2026-07-21**|**Denoising Subordinated Probabilistic Models: Diffusion with a Tempered-Stable Volatility Clock, and What the Noise Mechanism Actually Controls**|Junchi Shen et.al.|[2607.19218](http://arxiv.org/abs/2607.19218)|null|
+|**2026-07-21**|**Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing**|Xinjie Zhang et.al.|[2607.19064](http://arxiv.org/abs/2607.19064)|null|
+|**2026-07-21**|**Pricing options on illiquid assets using liquid market benchmarks: an application to energy markets**|Federico Aluigi et.al.|[2607.19030](http://arxiv.org/abs/2607.19030)|null|
+|**2026-07-21**|**Learning Explicit Physical Parameter Control and Benchmarking for Video Generation**|Yanxun Li et.al.|[2607.18924](http://arxiv.org/abs/2607.18924)|null|
+|**2026-07-21**|**Image Editing Models are Numerical Solvers**|Ulysse Mizrahi et.al.|[2607.18787](http://arxiv.org/abs/2607.18787)|null|
+|**2026-07-20**|**AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation**|Yen-Chi Cheng et.al.|[2607.18539](http://arxiv.org/abs/2607.18539)|null|
+|**2026-07-20**|**D $e^+e^-$ffusion: Capturing the Beam-Beam Physics of $e^+e^-$ Collisions with Diffusion Models**|Antonio Chahine et.al.|[2607.18512](http://arxiv.org/abs/2607.18512)|null|
 |**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|**[link](https://github.com/VILA-Lab/PIXAR-DG)**|
 |**2026-07-20**|**FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry**|Dingyun Zhang et.al.|[2607.18227](http://arxiv.org/abs/2607.18227)|null|
 |**2026-07-20**|**Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints**|Thomas MacDougall et.al.|[2607.18144](http://arxiv.org/abs/2607.18144)|**[link](https://github.com/insilicomedicine/bench-3d-fit)**|
@@ -1023,12 +1033,19 @@
 |**2026-04-06**|**Training-Free Image Editing with Visual Context Integration and Concept Alignment**|Rui Song et.al.|[2604.04487](http://arxiv.org/abs/2604.04487)|null|
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 
-<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260722>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243](http://arxiv.org/abs/2607.19243)|**[link](https://github.com/alexandermanev/cross-lingual-llm-consistency)**|
+|**2026-07-21**|**SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation**|Weifeng Sun et.al.|[2607.19104](http://arxiv.org/abs/2607.19104)|null|
+|**2026-07-21**|**Semantic Primes as Explanans for Emotion in Large Language Models**|Frank Xing et.al.|[2607.18691](http://arxiv.org/abs/2607.18691)|null|
+|**2026-07-20**|**For What Reason? Interpreting Models' Encoding of Causation and Antithesis**|Abhidip Bhattacharyya et.al.|[2607.18570](http://arxiv.org/abs/2607.18570)|null|
+|**2026-07-20**|**Semantic Drift in Bug Resolution: How Behavioral Signals Propagate from Reports to Tests and Patches**|Wendkûuni C. Ouédraogo et.al.|[2607.18550](http://arxiv.org/abs/2607.18550)|null|
+|**2026-07-20**|**ChainMark: Model-Free LLM Watermarking with Closed-Form Calibration**|Chengheng Li-Chen et.al.|[2607.18445](http://arxiv.org/abs/2607.18445)|null|
+|**2026-07-20**|**An Analysis of Residual-Stream Geometry Across Transformer Depth**|Sunit Bhattacharya et.al.|[2607.18348](http://arxiv.org/abs/2607.18348)|null|
 |**2026-07-20**|**SciForma: Structure-Faithful Generation of Scientific Diagrams**|Yuxuan Luo et.al.|[2607.18091](http://arxiv.org/abs/2607.18091)|null|
 |**2026-07-20**|**A Geometric Perspective on Stabilizing Value Conflict Resolution**|Saket Reddy et.al.|[2607.17946](http://arxiv.org/abs/2607.17946)|null|
 |**2026-07-20**|**From Blind Search to Memory-Aware Evolution: Efficient DBMS Tuning via Collaborative Diagnosis and Utility-Aware Retrieval**|Zhaoyan Hong et.al.|[2607.17841](http://arxiv.org/abs/2607.17841)|null|
@@ -1409,7 +1426,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
