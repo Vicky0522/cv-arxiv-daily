@@ -1027,6 +1027,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|null|
+|**2026-07-22**|**Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study**|Andrei Chetvergov et.al.|[2607.20270](http://arxiv.org/abs/2607.20270)|null|
+|**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|**[link](https://github.com/SLAI-AITP/SLAI-T-Rex)**|
+|**2026-07-22**|**Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design**|Xiaoliang Shi et.al.|[2607.20057](http://arxiv.org/abs/2607.20057)|null|
+|**2026-07-22**|**EvoThink: Evolving Thinking in Large Reasoning Models via Self-Pruning and Aha-Moment Preference Optimization**|Xinbang Dai et.al.|[2607.19962](http://arxiv.org/abs/2607.19962)|null|
+|**2026-07-22**|**D2VBench: Benchmarking Large Language Models with Value Dilemmas in Daily Scenarios**|Siyi Hao et.al.|[2607.19834](http://arxiv.org/abs/2607.19834)|null|
+|**2026-07-21**|**Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models**|Mahdiyeh Farajidizaji et.al.|[2607.19608](http://arxiv.org/abs/2607.19608)|**[link](https://github.com/farajimahdieh/language-model-task-competence-vs-instruction-following)**|
 |**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243](http://arxiv.org/abs/2607.19243)|**[link](https://github.com/alexandermanev/cross-lingual-llm-consistency)**|
 |**2026-07-21**|**SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation**|Weifeng Sun et.al.|[2607.19104](http://arxiv.org/abs/2607.19104)|null|
 |**2026-07-21**|**Semantic Primes as Explanans for Emotion in Large Language Models**|Frank Xing et.al.|[2607.18691](http://arxiv.org/abs/2607.18691)|null|
