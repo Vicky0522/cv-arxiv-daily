@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -356,7 +356,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260724>back to top</a>)</p>
 
 ## embodied AI
 
@@ -568,12 +568,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260724>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
+|**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
+|**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|**[link](https://github.com/rogerioagjr/PSP)**|
+|**2026-07-23**|**ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing**|Yueyi Liu et.al.|[2607.21529](http://arxiv.org/abs/2607.21529)|null|
+|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|**[link](https://github.com/ChengyiLIU-cs/DLMRec)**|
+|**2026-07-23**|**Texture++: Elevating 3D Asset Texture Resolution with a Region-Aware Diffusion Model**|Shuaiwei Wang et.al.|[2607.21504](http://arxiv.org/abs/2607.21504)|null|
+|**2026-07-23**|**Bridging the Gap Between Plausibility and Admissibility: Constraint-Aware Flow Maps for Dynamic Graph Systems**|Michael Romei de Socio et.al.|[2607.21421](http://arxiv.org/abs/2607.21421)|null|
+|**2026-07-23**|**A Diffusion-Model Subpopulation Digital Twin for Mobile Health Deployment: A Case Study on the HeartSteps Intervention**|Ziping Xu et.al.|[2607.21403](http://arxiv.org/abs/2607.21403)|null|
+|**2026-07-23**|**Grasp, Handover, Rotate: Bimanual Object Reorientation via Compositional Diffusion and Energy-Based Optimization**|Wun Lam Yeung et.al.|[2607.21341](http://arxiv.org/abs/2607.21341)|null|
+|**2026-07-23**|**SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion**|Wenbin Duan et.al.|[2607.21326](http://arxiv.org/abs/2607.21326)|null|
 |**2026-07-21**|**Appearance Pointers -- Multimodal Region Control of Diffusion Transformers**|Rahul Sajnani et.al.|[2607.19344](http://arxiv.org/abs/2607.19344)|null|
 |**2026-07-21**|**ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis**|Yuan Wang et.al.|[2607.19341](http://arxiv.org/abs/2607.19341)|null|
 |**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
@@ -1033,12 +1043,17 @@
 |**2026-04-06**|**Training-Free Image Editing with Visual Context Integration and Concept Alignment**|Rui Song et.al.|[2604.04487](http://arxiv.org/abs/2604.04487)|null|
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 
-<p align=right>(<a href=#Updated-on-20260723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260724>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](http://arxiv.org/abs/2607.21588)|null|
+|**2026-07-23**|**Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it**|Federico Boggia et.al.|[2607.21498](http://arxiv.org/abs/2607.21498)|null|
+|**2026-07-23**|**Emergent Misalignment Recruits a Pre-existing Persona Subspace**|Mohammed Suhail B Nadaf et.al.|[2607.21356](http://arxiv.org/abs/2607.21356)|null|
+|**2026-07-23**|**A Unified Moral-Value Dataset for Instruction Tuning**|Zhaohui Zeng et.al.|[2607.21279](http://arxiv.org/abs/2607.21279)|null|
+|**2026-07-22**|**Demonstrating GenDB: Instance-Optimized and Customized Query Processing Code Generation via LLM Agents**|Jiale Lao et.al.|[2607.20630](http://arxiv.org/abs/2607.20630)|null|
 |**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|null|
 |**2026-07-22**|**Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study**|Andrei Chetvergov et.al.|[2607.20270](http://arxiv.org/abs/2607.20270)|null|
 |**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|**[link](https://github.com/SLAI-AITP/SLAI-T-Rex)**|
@@ -1433,7 +1448,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
