@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
+|**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
+|**2026-07-23**|**HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving**|Quanfu Yu et.al.|[2607.20988](http://arxiv.org/abs/2607.20988)|null|
+|**2026-07-22**|**PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics**|Haocheng Yin et.al.|[2607.20653](http://arxiv.org/abs/2607.20653)|null|
+|**2026-07-22**|**Active Inference as a Convex Markov Decision Process**|Nikola Milosevic et.al.|[2607.20152](http://arxiv.org/abs/2607.20152)|null|
+|**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
+|**2026-07-22**|**LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition**|Jiajun Cheng et.al.|[2607.19889](http://arxiv.org/abs/2607.19889)|null|
+|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
+|**2026-07-22**|**Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning**|Taisuke Takayama et.al.|[2607.19809](http://arxiv.org/abs/2607.19809)|null|
+|**2026-07-22**|**The World Model Remembers, the Actor Forgets: Dream Rehearsal for Continual Model-Based RL**|Gurp Nijjer et.al.|[2607.19749](http://arxiv.org/abs/2607.19749)|**[link](https://github.com/gurpnijjer/dream-rehearsal)**|
 |**2026-07-20**|**FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications**|Krish Agarwal et.al.|[2607.18171](http://arxiv.org/abs/2607.18171)|null|
 |**2026-07-20**|**SAGE: Subgoal-Conditioned Action Generation for Latent World Model Planning**|Letian Cheng et.al.|[2607.17973](http://arxiv.org/abs/2607.17973)|null|
 |**2026-07-20**|**Mobile Network Control with a World Model**|Maxime Bouton et.al.|[2607.17747](http://arxiv.org/abs/2607.17747)|**[link](https://github.com/jettbrains/-L-)**|
@@ -359,7 +369,7 @@ layout: default
 |**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
 |**2026-07-22**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Ziqin Wang et.al.|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
-|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|**[link](https://github.com/azizbek-coderdev/auto-repo-2607-1780649409237-yd2w)**|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|null|
 |**2026-07-19**|**HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2607.17097](http://arxiv.org/abs/2607.17097)|null|
 |**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896](http://arxiv.org/abs/2607.16896)|null|
 |**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Yang Liu et.al.|[2607.16636](http://arxiv.org/abs/2607.16636)|null|
@@ -572,7 +582,7 @@ layout: default
 |**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
 |**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
 |**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|**[link](https://github.com/rogerioagjr/PSP)**|
-|**2026-07-23**|**ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing**|Yueyi Liu et.al.|[2607.21529](http://arxiv.org/abs/2607.21529)|null|
+|**2026-07-23**|**ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing**|Yueyi Liu et.al.|[2607.21529](http://arxiv.org/abs/2607.21529)|**[link](https://github.com/liuyueyi-del/ElasticTTT-for-video-editing)**|
 |**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|**[link](https://github.com/ChengyiLIU-cs/DLMRec)**|
 |**2026-07-23**|**Texture++: Elevating 3D Asset Texture Resolution with a Region-Aware Diffusion Model**|Shuaiwei Wang et.al.|[2607.21504](http://arxiv.org/abs/2607.21504)|null|
 |**2026-07-23**|**Bridging the Gap Between Plausibility and Admissibility: Constraint-Aware Flow Maps for Dynamic Graph Systems**|Michael Romei de Socio et.al.|[2607.21421](http://arxiv.org/abs/2607.21421)|null|
@@ -1044,12 +1054,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](http://arxiv.org/abs/2607.21588)|null|
 |**2026-07-23**|**Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it**|Federico Boggia et.al.|[2607.21498](http://arxiv.org/abs/2607.21498)|null|
-|**2026-07-23**|**Emergent Misalignment Recruits a Pre-existing Persona Subspace**|Mohammed Suhail B Nadaf et.al.|[2607.21356](http://arxiv.org/abs/2607.21356)|null|
+|**2026-07-23**|**Emergent Misalignment Recruits a Pre-existing Persona Subspace**|Mohammed Suhail B Nadaf et.al.|[2607.21356](http://arxiv.org/abs/2607.21356)|**[link](https://github.com/suhailnadaf509/emergent-misalignment-persona-subspace)**|
 |**2026-07-23**|**A Unified Moral-Value Dataset for Instruction Tuning**|Zhaohui Zeng et.al.|[2607.21279](http://arxiv.org/abs/2607.21279)|null|
 |**2026-07-22**|**Demonstrating GenDB: Instance-Optimized and Customized Query Processing Code Generation via LLM Agents**|Jiale Lao et.al.|[2607.20630](http://arxiv.org/abs/2607.20630)|null|
 |**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|null|
 |**2026-07-22**|**Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study**|Andrei Chetvergov et.al.|[2607.20270](http://arxiv.org/abs/2607.20270)|null|
-|**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|**[link](https://github.com/SLAI-AITP/SLAI-T-Rex)**|
+|**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|null|
 |**2026-07-22**|**Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design**|Xiaoliang Shi et.al.|[2607.20057](http://arxiv.org/abs/2607.20057)|null|
 |**2026-07-22**|**EvoThink: Evolving Thinking in Large Reasoning Models via Self-Pruning and Aha-Moment Preference Optimization**|Xinbang Dai et.al.|[2607.19962](http://arxiv.org/abs/2607.19962)|null|
 |**2026-07-22**|**D2VBench: Benchmarking Large Language Models with Value Dilemmas in Daily Scenarios**|Siyi Hao et.al.|[2607.19834](http://arxiv.org/abs/2607.19834)|null|
