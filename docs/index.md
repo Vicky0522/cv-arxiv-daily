@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.25
+## Updated on 2026.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1059,7 +1059,7 @@ layout: default
 |**2026-07-22**|**Demonstrating GenDB: Instance-Optimized and Customized Query Processing Code Generation via LLM Agents**|Jiale Lao et.al.|[2607.20630](http://arxiv.org/abs/2607.20630)|null|
 |**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|null|
 |**2026-07-22**|**Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study**|Andrei Chetvergov et.al.|[2607.20270](http://arxiv.org/abs/2607.20270)|null|
-|**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|null|
+|**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|**[link](https://github.com/SLAI-AITP/SLAI-T-Rex)**|
 |**2026-07-22**|**Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design**|Xiaoliang Shi et.al.|[2607.20057](http://arxiv.org/abs/2607.20057)|null|
 |**2026-07-22**|**EvoThink: Evolving Thinking in Large Reasoning Models via Self-Pruning and Aha-Moment Preference Optimization**|Xinbang Dai et.al.|[2607.19962](http://arxiv.org/abs/2607.19962)|null|
 |**2026-07-22**|**D2VBench: Benchmarking Large Language Models with Value Dilemmas in Daily Scenarios**|Siyi Hao et.al.|[2607.19834](http://arxiv.org/abs/2607.19834)|null|
