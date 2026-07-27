@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Robot-Factored World Models via Robot Rendering**|Byungjun Kim et.al.|[2607.22535](http://arxiv.org/abs/2607.22535)|null|
+|**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530](http://arxiv.org/abs/2607.22530)|null|
+|**2026-07-24**|**On the Identifiability of Controlled World Models**|Xiangteng Zhang et.al.|[2607.22430](http://arxiv.org/abs/2607.22430)|null|
+|**2026-07-24**|**Music-JEPA: Learning a World Model of Sound from Action**|Ziyu Wang et.al.|[2607.22000](http://arxiv.org/abs/2607.22000)|null|
+|**2026-07-24**|**Action-Conditioned World Model for Goal Plane Probe Guidance in Robotic Ultrasound**|Siqi Fan et.al.|[2607.21918](http://arxiv.org/abs/2607.21918)|null|
+|**2026-07-24**|**TRW: TRACE-RealWorld---An Auditable Consistency Contract for World Models as Materialized Views**|Edward Y. Chang et.al.|[2607.21910](http://arxiv.org/abs/2607.21910)|null|
+|**2026-07-23**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
+|**2026-07-23**|**Persistent Computational State: A Session-Centric Runtime for Generative World Models**|Zhen Lin et.al.|[2607.21686](http://arxiv.org/abs/2607.21686)|null|
 |**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
 |**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
 |**2026-07-23**|**HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving**|Quanfu Yu et.al.|[2607.20988](http://arxiv.org/abs/2607.20988)|null|
@@ -372,12 +380,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**SiPhy: Single-Image Physical Property Reasoning**|Hoang Le et.al.|[2607.22355](http://arxiv.org/abs/2607.22355)|null|
+|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|**[link](https://github.com/FraunhoferIVI/MissionBench)**|
 |**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://github.com/Admire-ljb/VoLN-UAV)**|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
 |**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
 |**2026-07-22**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Ziqin Wang et.al.|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
-|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|**[link](https://github.com/azizbek-coderdev/auto-repo-2607-1780649409237-yd2w)**|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|null|
 |**2026-07-19**|**HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2607.17097](http://arxiv.org/abs/2607.17097)|null|
 |**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896](http://arxiv.org/abs/2607.16896)|null|
 |**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Yang Liu et.al.|[2607.16636](http://arxiv.org/abs/2607.16636)|null|
@@ -1074,6 +1084,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills**|Siyuan Huang et.al.|[2607.22529](http://arxiv.org/abs/2607.22529)|**[link](https://github.com/Qwen-Applications/skill-self-play)**|
+|**2026-07-23**|**Data Quality over Capacity: Internalizing Documents into LoRA Adapters for Closed-Book QA**|Joan Figuerola Hurtado et.al.|[2607.21861](http://arxiv.org/abs/2607.21861)|null|
 |**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](http://arxiv.org/abs/2607.21588)|null|
 |**2026-07-23**|**Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it**|Federico Boggia et.al.|[2607.21498](http://arxiv.org/abs/2607.21498)|null|
 |**2026-07-23**|**Emergent Misalignment Recruits a Pre-existing Persona Subspace**|Mohammed Suhail B Nadaf et.al.|[2607.21356](http://arxiv.org/abs/2607.21356)|**[link](https://github.com/suhailnadaf509/emergent-misalignment-persona-subspace)**|
