@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.26
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -579,6 +579,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Twins: Learn to Predict Unified Representations with Focal Loss**|Kaixiong Gong et.al.|[2607.22531](http://arxiv.org/abs/2607.22531)|**[link](https://github.com/Tencent-Hunyuan/Twins)**|
+|**2026-07-24**|**Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability**|Ahmed M. Abuzuraiq et.al.|[2607.22428](http://arxiv.org/abs/2607.22428)|null|
+|**2026-07-24**|**Correlation-Aware and Gaussianity-Preserving Robust Latent Angular Watermarking for Diffusion Models**|Yebin Zheng et.al.|[2607.22386](http://arxiv.org/abs/2607.22386)|null|
+|**2026-07-24**|**Metrology of quantum imaging schemes**|Emma Brambila et.al.|[2607.22373](http://arxiv.org/abs/2607.22373)|null|
+|**2026-07-24**|**Time-Reversed Imaging: A Multimodal Benchmark and Framework for Reconstructing Past Human-Environment Interactions**|Jorge Bacca et.al.|[2607.22352](http://arxiv.org/abs/2607.22352)|null|
+|**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
+|**2026-07-24**|**TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution**|Sicheng Gao et.al.|[2607.22231](http://arxiv.org/abs/2607.22231)|null|
+|**2026-07-24**|**From Score Approximation to Distribution Approximation in Score-Based Diffusion Models**|Lan V. Truong et.al.|[2607.22199](http://arxiv.org/abs/2607.22199)|null|
+|**2026-07-24**|**InnoText: A Unified Model for Visual Text Generation and Editing**|Haowei Liu et.al.|[2607.22101](http://arxiv.org/abs/2607.22101)|null|
+|**2026-07-24**|**Spectral Prior for Reducing Exposure Bias in Diffusion Models**|Yuya Kobayashi et.al.|[2607.22091](http://arxiv.org/abs/2607.22091)|**[link](https://github.com/SonyResearch/SPA)**|
 |**2026-07-23**|**Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers**|Sicheng Mo et.al.|[2607.21594](http://arxiv.org/abs/2607.21594)|null|
 |**2026-07-23**|**Unified Video Dense Prediction from Disjoint Data**|Yihong Sun et.al.|[2607.21592](http://arxiv.org/abs/2607.21592)|null|
 |**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|**[link](https://github.com/rogerioagjr/PSP)**|
