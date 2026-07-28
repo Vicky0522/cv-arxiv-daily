@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation**|Tianyi Men et.al.|[2607.24720](http://arxiv.org/abs/2607.24720)|null|
+|**2026-07-27**|**ArmnetBench v0.1: Parallel Real-World Evaluation of Manipulation Policies on a Low-Cost Arm Farm**|Praveen Selvaraj et.al.|[2607.24481](http://arxiv.org/abs/2607.24481)|null|
+|**2026-07-27**|**Context Is King: How In-Context Specification Shapes the Geometry of Concepts**|Elad David et.al.|[2607.24425](http://arxiv.org/abs/2607.24425)|**[link](https://github.com/eladd-ai/context-is-king)**|
+|**2026-07-27**|**MXAttention: Data-Free Optimal Scaling and Pre-Normalization Quantization for MXFP4 Attention**|Jianlin Yu et.al.|[2607.24377](http://arxiv.org/abs/2607.24377)|null|
+|**2026-07-27**|**FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning**|Wenxuan Ma et.al.|[2607.24267](http://arxiv.org/abs/2607.24267)|null|
+|**2026-07-27**|**FilmBench: A Film-Grade Benchmark for Cinematic Video Generation**|Shengyi Wang et.al.|[2607.24241](http://arxiv.org/abs/2607.24241)|null|
+|**2026-07-27**|**DeVA: Decoupled Video-Action Model with physical guidance for robot policy learning**|Mengqi Zhang et.al.|[2607.24159](http://arxiv.org/abs/2607.24159)|**[link](https://github.com/Mq-Zhang1/deva)**|
+|**2026-07-27**|**Scaling GUI Agents with Visual State Transitions**|Xiangyan Liu et.al.|[2607.24112](http://arxiv.org/abs/2607.24112)|**[link](https://github.com/xyliugo/gui-state-transition-pretraining)**|
+|**2026-07-27**|**LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments**|Pei Liu et.al.|[2607.23969](http://arxiv.org/abs/2607.23969)|null|
+|**2026-07-27**|**WorldDiT: A Unified Diffusion Architecture for World and Action Modeling**|Sen Wang et.al.|[2607.23909](http://arxiv.org/abs/2607.23909)|null|
 |**2026-07-24**|**Robot-Factored World Models via Robot Rendering**|Byungjun Kim et.al.|[2607.22535](http://arxiv.org/abs/2607.22535)|null|
 |**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530](http://arxiv.org/abs/2607.22530)|null|
 |**2026-07-24**|**On the Identifiability of Controlled World Models**|Xiangteng Zhang et.al.|[2607.22430](http://arxiv.org/abs/2607.22430)|null|
@@ -372,6 +382,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://github.com/worldbench/awesome-embodied-data-pyramid)**|
+|**2026-07-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al.|[2607.24148](http://arxiv.org/abs/2607.24148)|null|
+|**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704](http://arxiv.org/abs/2607.23704)|null|
+|**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999](http://arxiv.org/abs/2607.22999)|null|
+|**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997](http://arxiv.org/abs/2607.22997)|null|
 |**2026-07-24**|**SiPhy: Single-Image Physical Property Reasoning**|Hoang Le et.al.|[2607.22355](http://arxiv.org/abs/2607.22355)|null|
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|**[link](https://github.com/FraunhoferIVI/MissionBench)**|
 |**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://github.com/Admire-ljb/VoLN-UAV)**|
@@ -589,6 +604,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation**|Bingnan Li et.al.|[2607.24731](http://arxiv.org/abs/2607.24731)|**[link](https://github.com/rethinking-cfg-opd/Rethinking-CFG-OPD)**|
+|**2026-07-27**|**MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale**|Huy Huynh et.al.|[2607.24729](http://arxiv.org/abs/2607.24729)|null|
+|**2026-07-27**|**Modest Algorithmic Mediation can Maximize Topical Diversity in Hybrid Human-AI Systems**|Dini Wang et.al.|[2607.24698](http://arxiv.org/abs/2607.24698)|null|
+|**2026-07-27**|**UNIFUSION: Adapting Autoregressive Language Models into Discrete Diffusion under a Unified Reverse-Rate Objective**|Xiaoyi Jiang et.al.|[2607.24507](http://arxiv.org/abs/2607.24507)|null|
+|**2026-07-27**|**Optimization of the total tumor population under Gompertz growth**|Iulia Martina Bulai et.al.|[2607.24468](http://arxiv.org/abs/2607.24468)|null|
+|**2026-07-27**|**Modeling Duelling Contagions of True and False Information in the Face of Inherent Individual biases**|Vaibhav Krishna et.al.|[2607.24360](http://arxiv.org/abs/2607.24360)|null|
+|**2026-07-27**|**PRISM: Prompt Refinement via Image-grounded Self-rewarding Mechanism for Text-to-Image Generation**|Guo Tang et.al.|[2607.24353](http://arxiv.org/abs/2607.24353)|null|
+|**2026-07-27**|**Rethinking the Generation Order of Block Diffusion Language Models**|Kai Syun Hou et.al.|[2607.24306](http://arxiv.org/abs/2607.24306)|null|
+|**2026-07-27**|**Physics-Guided Generative AI for Property-Targeted 3D Porous Media Design**|Peng Wang et.al.|[2607.24274](http://arxiv.org/abs/2607.24274)|null|
+|**2026-07-27**|**SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation**|Tarun R et.al.|[2607.24249](http://arxiv.org/abs/2607.24249)|**[link](https://github.com/rtarun1/Silica)**|
 |**2026-07-24**|**Twins: Learn to Predict Unified Representations with Focal Loss**|Kaixiong Gong et.al.|[2607.22531](http://arxiv.org/abs/2607.22531)|**[link](https://github.com/Tencent-Hunyuan/Twins)**|
 |**2026-07-24**|**Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability**|Ahmed M. Abuzuraiq et.al.|[2607.22428](http://arxiv.org/abs/2607.22428)|null|
 |**2026-07-24**|**Correlation-Aware and Gaussianity-Preserving Robust Latent Angular Watermarking for Diffusion Models**|Yebin Zheng et.al.|[2607.22386](http://arxiv.org/abs/2607.22386)|null|
@@ -1072,6 +1097,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data**|Zhen Huang et.al.|[2607.24717](http://arxiv.org/abs/2607.24717)|null|
+|**2026-07-27**|**Beyond Scale and Generation: Understanding Language Model-based Entity Matching**|Zeyu Zhang et.al.|[2607.24688](http://arxiv.org/abs/2607.24688)|null|
+|**2026-07-27**|**DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes**|Jiahao Xie et.al.|[2607.24516](http://arxiv.org/abs/2607.24516)|null|
+|**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|**[link](https://github.com/walker-hyf/FacialTalker)**|
+|**2026-07-27**|**DynaCalKV: Key-Value Cache Compression via Head Grouping and Adaptive Rank Allocation**|Tan T. Nguyen et.al.|[2607.24331](http://arxiv.org/abs/2607.24331)|null|
+|**2026-07-27**|**Scaling GUI Agents with Visual State Transitions**|Xiangyan Liu et.al.|[2607.24112](http://arxiv.org/abs/2607.24112)|**[link](https://github.com/xyliugo/gui-state-transition-pretraining)**|
+|**2026-07-27**|**Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention**|Sounak Mondal et.al.|[2607.23917](http://arxiv.org/abs/2607.23917)|**[link](https://github.com/cvlab-stonybrook/Gazette)**|
+|**2026-07-25**|**Inference-Time Consensus for Mitigating Hidden Behaviors from LLM Fine-Tuning**|Adhyyan Narang et.al.|[2607.23394](http://arxiv.org/abs/2607.23394)|null|
+|**2026-07-25**|**IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems**|Shwetha Singaravelu et.al.|[2607.23322](http://arxiv.org/abs/2607.23322)|null|
+|**2026-07-25**|**Libra: Taming Attention Workload Skew in Long-Context LLM Training with Bounded Sequence Pool**|Yan Wang et.al.|[2607.23250](http://arxiv.org/abs/2607.23250)|null|
 |**2026-07-24**|**Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills**|Siyuan Huang et.al.|[2607.22529](http://arxiv.org/abs/2607.22529)|**[link](https://github.com/Qwen-Applications/skill-self-play)**|
 |**2026-07-23**|**Data Quality over Capacity: Internalizing Documents into LoRA Adapters for Closed-Book QA**|Joan Figuerola Hurtado et.al.|[2607.21861](http://arxiv.org/abs/2607.21861)|null|
 |**2026-07-23**|**AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation**|Mengfei Zhao et.al.|[2607.21588](http://arxiv.org/abs/2607.21588)|null|
