@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models**|Junhan Sun et.al.|[2607.26056](http://arxiv.org/abs/2607.26056)|**[link](https://github.com/zju3dv/INTACT-JEPA)**|
+|**2026-07-28**|**Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance**|Gaspard Lambrechts et.al.|[2607.26040](http://arxiv.org/abs/2607.26040)|null|
+|**2026-07-28**|**Wonder: Video World Model Done Better**|Jiacong Xu et.al.|[2607.26037](http://arxiv.org/abs/2607.26037)|null|
+|**2026-07-28**|**Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics**|Timy Phan et.al.|[2607.25984](http://arxiv.org/abs/2607.25984)|**[link](https://github.com/CompVis/schroedingers_cat)**|
+|**2026-07-28**|**Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller**|Thomas Hickling et.al.|[2607.25728](http://arxiv.org/abs/2607.25728)|null|
+|**2026-07-28**|**I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models**|Yimao Guo et.al.|[2607.25522](http://arxiv.org/abs/2607.25522)|null|
+|**2026-07-28**|**Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control**|Jiaxin Bai et.al.|[2607.25337](http://arxiv.org/abs/2607.25337)|null|
+|**2026-07-28**|**Medical world models in healthcare: foundations, applications, and challenges for trustworthy clinical translation**|Zhaoyan Chen et.al.|[2607.25242](http://arxiv.org/abs/2607.25242)|null|
+|**2026-07-28**|**VisualPatchWorld: Code World Models as Latent Structured Representations for Planning**|Jiaxin Bai et.al.|[2607.25236](http://arxiv.org/abs/2607.25236)|null|
 |**2026-07-27**|**The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation**|Tianyi Men et.al.|[2607.24720](http://arxiv.org/abs/2607.24720)|null|
 |**2026-07-27**|**ArmnetBench v0.1: Parallel Real-World Evaluation of Manipulation Policies on a Low-Cost Arm Farm**|Praveen Selvaraj et.al.|[2607.24481](http://arxiv.org/abs/2607.24481)|null|
 |**2026-07-27**|**Context Is King: How In-Context Specification Shapes the Geometry of Concepts**|Elad David et.al.|[2607.24425](http://arxiv.org/abs/2607.24425)|**[link](https://github.com/eladd-ai/context-is-king)**|
@@ -382,14 +391,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Jelin Raphael Akkara et.al.|[2607.25106](http://arxiv.org/abs/2607.25106)|**[link](https://github.com/JelinR/IMPRINT)**|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://github.com/worldbench/awesome-embodied-data-pyramid)**|
 |**2026-07-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al.|[2607.24148](http://arxiv.org/abs/2607.24148)|null|
 |**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704](http://arxiv.org/abs/2607.23704)|null|
 |**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999](http://arxiv.org/abs/2607.22999)|null|
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997](http://arxiv.org/abs/2607.22997)|null|
 |**2026-07-24**|**SiPhy: Single-Image Physical Property Reasoning**|Hoang Le et.al.|[2607.22355](http://arxiv.org/abs/2607.22355)|null|
-|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|**[link](https://github.com/FraunhoferIVI/MissionBench)**|
-|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://github.com/Admire-ljb/VoLN-UAV)**|
+|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
+|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|null|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
 |**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
@@ -604,6 +614,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Parallel Decoding Distillation for Fast Image and Video Generation**|Neta Shaul et.al.|[2607.26004](http://arxiv.org/abs/2607.26004)|null|
+|**2026-07-28**|**An Investigation into the Effect of Mobile Ions on the Steady State Performance of Perovskite Solar Cells**|Matthew V. Cowley et.al.|[2607.25951](http://arxiv.org/abs/2607.25951)|null|
+|**2026-07-28**|**TIGA: Trajectory-Injected Generative Attack against Black-box AIGC Detectors**|Xia Du et.al.|[2607.25894](http://arxiv.org/abs/2607.25894)|null|
+|**2026-07-28**|**Adversarial Deepfake Generation and an Investigation of Purification-Based Adversarial Detection**|Junghyun Kim et.al.|[2607.25842](http://arxiv.org/abs/2607.25842)|null|
+|**2026-07-28**|**Detecting CSAM Text-to-Image LoRAs From Weights**|David Demitri Africa et.al.|[2607.25750](http://arxiv.org/abs/2607.25750)|null|
+|**2026-07-28**|**Mimicking diffusion processes with differential equations**|Rama Cont et.al.|[2607.25685](http://arxiv.org/abs/2607.25685)|null|
+|**2026-07-28**|**Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications**|Xianghao Zang et.al.|[2607.25642](http://arxiv.org/abs/2607.25642)|null|
+|**2026-07-28**|**OmniPhys: Knowledge-Graph-Driven Benchmarking and Collective Optimization for Physical Commonsense in Text-to-Image Generation**|Yajing Xu et.al.|[2607.25641](http://arxiv.org/abs/2607.25641)|null|
+|**2026-07-28**|**Beyond Facial Consistency: Personalized Person Image Generation with Holistic Identity Preservation**|Yuxuan Xiao et.al.|[2607.25622](http://arxiv.org/abs/2607.25622)|null|
+|**2026-07-28**|**Visual prompt engineering for video models**|Robert Geirhos et.al.|[2607.25537](http://arxiv.org/abs/2607.25537)|**[link](https://github.com/lhai36366/lhai36366)**|
 |**2026-07-27**|**Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation**|Bingnan Li et.al.|[2607.24731](http://arxiv.org/abs/2607.24731)|**[link](https://github.com/rethinking-cfg-opd/Rethinking-CFG-OPD)**|
 |**2026-07-27**|**MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale**|Huy Huynh et.al.|[2607.24729](http://arxiv.org/abs/2607.24729)|null|
 |**2026-07-27**|**Modest Algorithmic Mediation can Maximize Topical Diversity in Hybrid Human-AI Systems**|Dini Wang et.al.|[2607.24698](http://arxiv.org/abs/2607.24698)|null|
@@ -1101,7 +1121,7 @@ layout: default
 |**2026-07-28**|**Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation**|Jintao Xu et.al.|[2607.25956](http://arxiv.org/abs/2607.25956)|null|
 |**2026-07-28**|**A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series**|Frank Nie et.al.|[2607.25947](http://arxiv.org/abs/2607.25947)|null|
 |**2026-07-28**|**CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization**|Bo-Wen Zhang et.al.|[2607.25659](http://arxiv.org/abs/2607.25659)|null|
-|**2026-07-28**|**LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation**|Seungheon Doh et.al.|[2607.25640](http://arxiv.org/abs/2607.25640)|null|
+|**2026-07-28**|**LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation**|Seungheon Doh et.al.|[2607.25640](http://arxiv.org/abs/2607.25640)|**[link](https://github.com/nlp4musa/llm-as-a-judge-for-crs)**|
 |**2026-07-28**|**Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe**|Chaemin Jang et.al.|[2607.25292](http://arxiv.org/abs/2607.25292)|null|
 |**2026-07-28**|**Where Steering Signals Come From: Activation Source Selection in Activation Steering**|Jiaran Ye et.al.|[2607.25270](http://arxiv.org/abs/2607.25270)|null|
 |**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|
