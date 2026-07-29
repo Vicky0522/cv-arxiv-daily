@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1097,6 +1097,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do**|Zandi Eberstadt et.al.|[2607.26015](http://arxiv.org/abs/2607.26015)|null|
+|**2026-07-28**|**Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation**|Jintao Xu et.al.|[2607.25956](http://arxiv.org/abs/2607.25956)|null|
+|**2026-07-28**|**A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series**|Frank Nie et.al.|[2607.25947](http://arxiv.org/abs/2607.25947)|null|
+|**2026-07-28**|**CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization**|Bo-Wen Zhang et.al.|[2607.25659](http://arxiv.org/abs/2607.25659)|null|
+|**2026-07-28**|**LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation**|Seungheon Doh et.al.|[2607.25640](http://arxiv.org/abs/2607.25640)|null|
+|**2026-07-28**|**Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe**|Chaemin Jang et.al.|[2607.25292](http://arxiv.org/abs/2607.25292)|null|
+|**2026-07-28**|**Where Steering Signals Come From: Activation Source Selection in Activation Steering**|Jiaran Ye et.al.|[2607.25270](http://arxiv.org/abs/2607.25270)|null|
+|**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|
+|**2026-07-27**|**Less Data, Better Alignment: Data-Centric Multi-Evaluator Agreement for Preference Optimization**|Zhengtao Yao et.al.|[2607.25136](http://arxiv.org/abs/2607.25136)|null|
+|**2026-07-27**|**Towards Robust Reinforcement Learning for Small-Scale Language Model Agents**|Md Rezwanul Haque et.al.|[2607.25091](http://arxiv.org/abs/2607.25091)|null|
 |**2026-07-27**|**DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data**|Zhen Huang et.al.|[2607.24717](http://arxiv.org/abs/2607.24717)|null|
 |**2026-07-27**|**Beyond Scale and Generation: Understanding Language Model-based Entity Matching**|Zeyu Zhang et.al.|[2607.24688](http://arxiv.org/abs/2607.24688)|null|
 |**2026-07-27**|**DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes**|Jiahao Xie et.al.|[2607.24516](http://arxiv.org/abs/2607.24516)|null|

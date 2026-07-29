@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -384,7 +384,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
 
 ## embodied AI
 
@@ -608,7 +608,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
 
 ## image generation
 
@@ -1103,12 +1103,22 @@
 |**2026-04-06**|**Training-Free Image Editing with Visual Context Integration and Concept Alignment**|Rui Song et.al.|[2604.04487](http://arxiv.org/abs/2604.04487)|null|
 |**2026-04-06**|**Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse**|Hao Liu et.al.|[2604.04451](http://arxiv.org/abs/2604.04451)|null|
 
-<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-28**|**Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do**|Zandi Eberstadt et.al.|[2607.26015](http://arxiv.org/abs/2607.26015)|null|
+|**2026-07-28**|**Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation**|Jintao Xu et.al.|[2607.25956](http://arxiv.org/abs/2607.25956)|null|
+|**2026-07-28**|**A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series**|Frank Nie et.al.|[2607.25947](http://arxiv.org/abs/2607.25947)|null|
+|**2026-07-28**|**CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization**|Bo-Wen Zhang et.al.|[2607.25659](http://arxiv.org/abs/2607.25659)|null|
+|**2026-07-28**|**LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation**|Seungheon Doh et.al.|[2607.25640](http://arxiv.org/abs/2607.25640)|null|
+|**2026-07-28**|**Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe**|Chaemin Jang et.al.|[2607.25292](http://arxiv.org/abs/2607.25292)|null|
+|**2026-07-28**|**Where Steering Signals Come From: Activation Source Selection in Activation Steering**|Jiaran Ye et.al.|[2607.25270](http://arxiv.org/abs/2607.25270)|null|
+|**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|
+|**2026-07-27**|**Less Data, Better Alignment: Data-Centric Multi-Evaluator Agreement for Preference Optimization**|Zhengtao Yao et.al.|[2607.25136](http://arxiv.org/abs/2607.25136)|null|
+|**2026-07-27**|**Towards Robust Reinforcement Learning for Small-Scale Language Model Agents**|Md Rezwanul Haque et.al.|[2607.25091](http://arxiv.org/abs/2607.25091)|null|
 |**2026-07-27**|**DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data**|Zhen Huang et.al.|[2607.24717](http://arxiv.org/abs/2607.24717)|null|
 |**2026-07-27**|**Beyond Scale and Generation: Understanding Language Model-based Entity Matching**|Zeyu Zhang et.al.|[2607.24688](http://arxiv.org/abs/2607.24688)|null|
 |**2026-07-27**|**DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes**|Jiahao Xie et.al.|[2607.24516](http://arxiv.org/abs/2607.24516)|null|
@@ -1520,7 +1530,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260728>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
