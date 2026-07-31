@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
+|**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|**[link](https://github.com/yaoyao-jpg/PhiZero)**|
+|**2026-07-30**|**AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans**|Jingwen Yang et.al.|[2607.28487](http://arxiv.org/abs/2607.28487)|null|
+|**2026-07-30**|**QQWorld: Quantile-Quantile Matching for World Model Regularization**|Zhoushun Yu et.al.|[2607.28415](http://arxiv.org/abs/2607.28415)|null|
+|**2026-07-30**|**ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow**|Jin Cao et.al.|[2607.28362](http://arxiv.org/abs/2607.28362)|null|
+|**2026-07-30**|**Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3**|Jens Lehmann et.al.|[2607.28287](http://arxiv.org/abs/2607.28287)|null|
+|**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
+|**2026-07-30**|**ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow**|Dongxiu Liu et.al.|[2607.27924](http://arxiv.org/abs/2607.27924)|**[link](https://github.com/Dstate/ODEWorld)**|
+|**2026-07-30**|**Learning to Understand Body Language from Flight through Robust 3D Avatar Placing**|Dragos Costea et.al.|[2607.27865](http://arxiv.org/abs/2607.27865)|null|
+|**2026-07-30**|**World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models**|Xiangcheng Zhang et.al.|[2607.27599](http://arxiv.org/abs/2607.27599)|null|
 |**2026-07-29**|**Mental World Modeling**|Hao Fei et.al.|[2607.27201](http://arxiv.org/abs/2607.27201)|**[link](https://github.com/Aryia-Behroziuan/Other-sources)**|
 |**2026-07-29**|**Mitigating Compounding Error via Video Representation Regularization**|Taiye Chen et.al.|[2607.27036](http://arxiv.org/abs/2607.27036)|null|
 |**2026-07-29**|**What Can Latent World Models Know? Physical Parameter Identifiability in Multimodal Predictive Representations**|Kaizhen Tan et.al.|[2607.27017](http://arxiv.org/abs/2607.27017)|**[link](https://github.com/tantansir/latent-world-model-identifiability)**|
@@ -401,6 +411,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
+|**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
+|**2026-07-30**|**When Robots Exchange Meaning: A Demo of Goal-Oriented Semantic Communications for Collaborative Robotics**|Peizheng Li et.al.|[2607.28256](http://arxiv.org/abs/2607.28256)|null|
+|**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
+|**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Zexuan Yan et.al.|[2607.28243](http://arxiv.org/abs/2607.28243)|null|
+|**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
+|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|null|
+|**2026-07-30**|**MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**|Dawei Wang et.al.|[2607.27967](http://arxiv.org/abs/2607.27967)|null|
+|**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
+|**2026-07-29**|**Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems**|Xu Zheng et.al.|[2607.27443](http://arxiv.org/abs/2607.27443)|null|
 |**2026-07-29**|**Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications**|Piyush Jain et.al.|[2607.27145](http://arxiv.org/abs/2607.27145)|null|
 |**2026-07-29**|**From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence**|Jia Luo et.al.|[2607.26903](http://arxiv.org/abs/2607.26903)|null|
 |**2026-07-29**|**Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations**|Jialiang Li et.al.|[2607.26809](http://arxiv.org/abs/2607.26809)|null|
