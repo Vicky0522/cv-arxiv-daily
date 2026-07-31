@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -403,7 +403,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
 ## embodied AI
 
@@ -636,12 +636,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**Forecasting Land Art Under Climate Scenarios**|Alev Cinbarci et.al.|[2607.28489](http://arxiv.org/abs/2607.28489)|null|
+|**2026-07-30**|**Towards Autonomous Aircraft Surveillance from Nanosatellites through On-Board Inference and Generative Data Augmentation**|Antonio Delgado-Rosa et.al.|[2607.28470](http://arxiv.org/abs/2607.28470)|null|
+|**2026-07-30**|**Can Vision-Language Models Reason about AI Edits in Images?**|Darsha Udayanga et.al.|[2607.28464](http://arxiv.org/abs/2607.28464)|null|
+|**2026-07-30**|**Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer**|Weiquan Lin et.al.|[2607.28394](http://arxiv.org/abs/2607.28394)|null|
+|**2026-07-30**|**Reflected diffusion, no-flux continuity equations and confined Lagrangian flows in bounded domains**|Rama Cont et.al.|[2607.28344](http://arxiv.org/abs/2607.28344)|null|
+|**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
+|**2026-07-30**|**TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment**|MD Wahiduzzaman Khan et.al.|[2607.28039](http://arxiv.org/abs/2607.28039)|null|
+|**2026-07-30**|**EEG-EditBench: Probing Visual Information in EEG-Image Retrieval Models with Controlled Image Edits**|Kaifan Zhang et.al.|[2607.27857](http://arxiv.org/abs/2607.27857)|null|
+|**2026-07-30**|**FeatFix: Reuse What You Verify through Local Exact-Feature Correction for Faster Cached Diffusion Inference**|Hanshuai Cui et.al.|[2607.27842](http://arxiv.org/abs/2607.27842)|null|
+|**2026-07-30**|**VocalRender: Score-Native Singing Voice Synthesis for Real-World Composition**|Yukun Chen et.al.|[2607.27768](http://arxiv.org/abs/2607.27768)|null|
 |**2026-07-29**|**Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection**|Hao Tan et.al.|[2607.27113](http://arxiv.org/abs/2607.27113)|null|
 |**2026-07-29**|**FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring**|Jiatong Li et.al.|[2607.27110](http://arxiv.org/abs/2607.27110)|**[link](https://github.com/jiatongli2024/FreqForcing)**|
 |**2026-07-29**|**A New Paradigm for 3D Turbomachinery Design: Generative Diffusion Model Based Framework with Direct Geometry Encoding**|Yingfan Geng et.al.|[2607.27093](http://arxiv.org/abs/2607.27093)|null|
@@ -1132,23 +1142,20 @@
 |**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|**[link](https://github.com/CSU-JPG/FlowInOne)**|
 |**2026-04-07**|**DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models**|Zhengming Yu et.al.|[2604.06161](http://arxiv.org/abs/2604.06161)|**[link](https://github.com/erxuanli/diffhdr)**|
 |**2026-04-07**|**Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring**|Krzysztof Wojciechowski et.al.|[2604.06133](http://arxiv.org/abs/2604.06133)|null|
-|**2026-04-07**|**PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer**|David Picard et.al.|[2604.06129](http://arxiv.org/abs/2604.06129)|null|
-|**2026-04-07**|**SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation**|Hiba Dahmani et.al.|[2604.06113](http://arxiv.org/abs/2604.06113)|null|
-|**2026-04-07**|**Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors**|Junbin Zhang et.al.|[2604.06074](http://arxiv.org/abs/2604.06074)|null|
-|**2026-04-07**|**Beyond Black-Scholes: A Computational Framework for Option Pricing Using Heston, GARCH, and Jump Diffusion Models**|Karmanpartap Singh Sidhu et.al.|[2604.06068](http://arxiv.org/abs/2604.06068)|null|
-|**2026-04-07**|**Lipschitz regularity in Flow Matching and Diffusion Models: sharp sampling rates and functional inequalities**|Arthur Stéphanovitch et.al.|[2604.06065](http://arxiv.org/abs/2604.06065)|null|
-|**2026-04-07**|**HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation**|Tao Hu et.al.|[2604.05961](http://arxiv.org/abs/2604.05961)|null|
-|**2026-04-07**|**Leveraging Image Editing Foundation Models for Data-Efficient CT Metal Artifact Reduction**|Ahmet Rasim Emirdagi et.al.|[2604.05934](http://arxiv.org/abs/2604.05934)|**[link](https://github.com/ahmetemirdagi/CT-EditMAR)**|
-|**2026-04-07**|**Improving Controllable Generation: Faster Training and Better Performance via $x_0$ -Supervision**|Amadou S. Sangare et.al.|[2604.05761](http://arxiv.org/abs/2604.05761)|null|
-|**2026-04-06**|**Your Pre-trained Diffusion Model Secretly Knows Restoration**|Sudarshan Rajagopalan et.al.|[2604.04924](http://arxiv.org/abs/2604.04924)|**[link](https://github.com/sudraj2002/YPT)**|
-|**2026-04-06**|**Diffusion of PeV Cosmic Rays in the Turbulent and Multiphase Interstellar Medium**|Yue Hu et.al.|[2604.04814](http://arxiv.org/abs/2604.04814)|null|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion**|Henglin Liu et.al.|[2607.28058](http://arxiv.org/abs/2607.28058)|null|
+|**2026-07-30**|**Exact Action Values Are Not Enough: Rollout-Verified Reinforcement Fine-Tuning of a Reasoning Model for Multi-Zone VAV Control**|Takumi Shioda et.al.|[2607.27914](http://arxiv.org/abs/2607.27914)|null|
+|**2026-07-29**|**MedLLM: An Open Medical Language Model at the Sub-Billion Scale**|Maxx Richard Rahman et.al.|[2607.27490](http://arxiv.org/abs/2607.27490)|null|
+|**2026-07-29**|**Selecting Open-Weight Language Models for Zero-Shot Intent Classification: A Systematic Evaluation of 41 Models**|Parishruthi Ganesh et.al.|[2607.27421](http://arxiv.org/abs/2607.27421)|null|
+|**2026-07-29**|**Same Facts, Different Diagnosis: Measuring and Mitigating Narrative Anchoring in Clinical Language Models**|Prabhjot Singh et.al.|[2607.27384](http://arxiv.org/abs/2607.27384)|null|
+|**2026-07-29**|**HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs**|Ru Peng et.al.|[2607.27379](http://arxiv.org/abs/2607.27379)|**[link](https://github.com/pengr/HSS-Synth)**|
+|**2026-07-29**|**BridgeAlign: Bridging Preference Alignment for Humanities and Social Sciences**|Ru Peng et.al.|[2607.27366](http://arxiv.org/abs/2607.27366)|null|
 |**2026-07-29**|**Progressive Multimodal Alignment for Continual Instruction Tuning**|Duzhen Zhang et.al.|[2607.26947](http://arxiv.org/abs/2607.26947)|null|
 |**2026-07-29**|**DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models**|Yilei Wang et.al.|[2607.26891](http://arxiv.org/abs/2607.26891)|null|
 |**2026-07-29**|**Language Models are not Equally Robust to Non-Canonical Tokenization across Languages**|Poulami Ghosh et.al.|[2607.26831](http://arxiv.org/abs/2607.26831)|null|
@@ -1575,7 +1582,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
