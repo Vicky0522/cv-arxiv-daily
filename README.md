@@ -1174,7 +1174,7 @@
 |**2026-07-29**|**MedLLM: An Open Medical Language Model at the Sub-Billion Scale**|Maxx Richard Rahman et.al.|[2607.27490](http://arxiv.org/abs/2607.27490)|null|
 |**2026-07-29**|**Selecting Open-Weight Language Models for Zero-Shot Intent Classification: A Systematic Evaluation of 41 Models**|Parishruthi Ganesh et.al.|[2607.27421](http://arxiv.org/abs/2607.27421)|null|
 |**2026-07-29**|**Same Facts, Different Diagnosis: Measuring and Mitigating Narrative Anchoring in Clinical Language Models**|Prabhjot Singh et.al.|[2607.27384](http://arxiv.org/abs/2607.27384)|null|
-|**2026-07-29**|**HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs**|Ru Peng et.al.|[2607.27379](http://arxiv.org/abs/2607.27379)|**[link](https://github.com/pengr/HSS-Synth)**|
+|**2026-07-29**|**HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs**|Ru Peng et.al.|[2607.27379](http://arxiv.org/abs/2607.27379)|null|
 |**2026-07-29**|**BridgeAlign: Bridging Preference Alignment for Humanities and Social Sciences**|Ru Peng et.al.|[2607.27366](http://arxiv.org/abs/2607.27366)|null|
 |**2026-07-29**|**Progressive Multimodal Alignment for Continual Instruction Tuning**|Duzhen Zhang et.al.|[2607.26947](http://arxiv.org/abs/2607.26947)|null|
 |**2026-07-29**|**DIRECT: Direct Decoding for Efficient and Aligned Sequence Labeling with Large Language Models**|Yilei Wang et.al.|[2607.26891](http://arxiv.org/abs/2607.26891)|null|
