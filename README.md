@@ -74,7 +74,7 @@
 |**2026-07-22**|**Active Inference as a Convex Markov Decision Process**|Nikola Milosevic et.al.|[2607.20152](http://arxiv.org/abs/2607.20152)|null|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
 |**2026-07-22**|**LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition**|Jiajun Cheng et.al.|[2607.19889](http://arxiv.org/abs/2607.19889)|null|
-|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
+|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|**[link](https://github.com/minecraft-zzz/KineBench)**|
 |**2026-07-22**|**Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning**|Taisuke Takayama et.al.|[2607.19809](http://arxiv.org/abs/2607.19809)|null|
 |**2026-07-22**|**The World Model Remembers, the Actor Forgets: Dream Rehearsal for Continual Model-Based RL**|Gurp Nijjer et.al.|[2607.19749](http://arxiv.org/abs/2607.19749)|**[link](https://github.com/gurpnijjer/dream-rehearsal)**|
 |**2026-07-20**|**FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications**|Krish Agarwal et.al.|[2607.18171](http://arxiv.org/abs/2607.18171)|null|
@@ -425,7 +425,7 @@
 |**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
 |**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Zexuan Yan et.al.|[2607.28243](http://arxiv.org/abs/2607.28243)|null|
 |**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
-|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|null|
+|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|**[link](https://github.com/VAIXLNS/VAIXLNS)**|
 |**2026-07-30**|**MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**|Dawei Wang et.al.|[2607.27967](http://arxiv.org/abs/2607.27967)|null|
 |**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
 |**2026-07-29**|**Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems**|Xu Zheng et.al.|[2607.27443](http://arxiv.org/abs/2607.27443)|null|
@@ -437,7 +437,7 @@
 |**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402](http://arxiv.org/abs/2607.26402)|null|
 |**2026-07-28**|**Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation**|Jian Zhou et.al.|[2607.26148](http://arxiv.org/abs/2607.26148)|null|
 |**2026-07-28**|**Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels**|Xinyu Yang et.al.|[2607.26121](http://arxiv.org/abs/2607.26121)|null|
-|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Jelin Raphael Akkara et.al.|[2607.25106](http://arxiv.org/abs/2607.25106)|null|
+|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Jelin Raphael Akkara et.al.|[2607.25106](http://arxiv.org/abs/2607.25106)|**[link](https://github.com/JelinR/IMPRINT)**|
 |**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|null|
 |**2026-07-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al.|[2607.24148](http://arxiv.org/abs/2607.24148)|null|
 |**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704](http://arxiv.org/abs/2607.23704)|null|
@@ -445,12 +445,12 @@
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997](http://arxiv.org/abs/2607.22997)|null|
 |**2026-07-24**|**SiPhy: Single-Image Physical Property Reasoning**|Hoang Le et.al.|[2607.22355](http://arxiv.org/abs/2607.22355)|null|
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
-|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|null|
+|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://github.com/Admire-ljb/VoLN-UAV)**|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
-|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
+|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|**[link](https://github.com/minecraft-zzz/KineBench)**|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
 |**2026-07-22**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Ziqin Wang et.al.|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
-|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|null|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|**[link](https://github.com/azizbek-coderdev/auto-repo-2607-1780649409237-yd2w)**|
 |**2026-07-19**|**HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2607.17097](http://arxiv.org/abs/2607.17097)|null|
 |**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896](http://arxiv.org/abs/2607.16896)|null|
 |**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Yang Liu et.al.|[2607.16636](http://arxiv.org/abs/2607.16636)|null|
@@ -807,7 +807,7 @@
 |**2026-07-10**|**Autoregressive latent diffusion for 3D molecule generation**|Federico Ottomano et.al.|[2607.09277](http://arxiv.org/abs/2607.09277)|null|
 |**2026-07-10**|**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**|Sang-Hoon Lee et.al.|[2607.09134](http://arxiv.org/abs/2607.09134)|null|
 |**2026-07-10**|**IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation**|Yiting Wang et.al.|[2607.09133](http://arxiv.org/abs/2607.09133)|null|
-|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|null|
+|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|**[link](https://github.com/sisyphm/StudioRecon)**|
 |**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|**[link](https://github.com/freak-jaeuk/quantum-diffusion-fair-comparison)**|
 |**2026-07-10**|**Probing Diffusion Denoising Dynamics for Contrastive Representation Learning**|Yasong Dai et.al.|[2607.09067](http://arxiv.org/abs/2607.09067)|null|
 |**2026-07-10**|**Central Tendency Bias in Human Selection of AI-Generated Design Variations**|Huiyang Chen et.al.|[2607.09018](http://arxiv.org/abs/2607.09018)|null|
@@ -1146,7 +1146,7 @@
 |**2026-04-10**|**Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing**|Zhuohan Ouyang et.al.|[2604.09386](http://arxiv.org/abs/2604.09386)|null|
 |**2026-04-10**|**Hitem3D 2.0: Multi-View Guided Native 3D Texture Generation**|Huiang He et.al.|[2604.09231](http://arxiv.org/abs/2604.09231)|null|
 |**2026-04-10**|**Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models**|Wongi Jeong et.al.|[2604.09227](http://arxiv.org/abs/2604.09227)|null|
-|**2026-04-10**|**SHIFT: Steering Hidden Intermediates in Flow Transformers**|Nina Konovalova et.al.|[2604.09213](http://arxiv.org/abs/2604.09213)|null|
+|**2026-04-10**|**SHIFT: Steering Hidden Intermediates in Flow Transformers**|Nina Konovalova et.al.|[2604.09213](http://arxiv.org/abs/2604.09213)|**[link](https://github.com/shirikovn/flux-shift)**|
 |**2026-04-10**|**CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation**|Haoyu Zhao et.al.|[2604.09201](http://arxiv.org/abs/2604.09201)|null|
 |**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|**[link](https://github.com/H-EmbodVis/NUMINA)**|
 |**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
@@ -1268,7 +1268,7 @@
 |**2026-07-12**|**Demographic Prompting at Scale: When More Attributes Hurt LLM--Human Agreement**|Mahammed Kamruzzaman et.al.|[2607.10590](http://arxiv.org/abs/2607.10590)|null|
 |**2026-07-11**|**Generalize LMMs to Versatile Visual Modalities via Fabricated Modality Synthesis**|Shihao Yuan et.al.|[2607.10308](http://arxiv.org/abs/2607.10308)|null|
 |**2026-07-11**|**Empowering Long-form Omni-modal Understanding with Robust Audio Perception**|Kaiying Yan et.al.|[2607.10299](http://arxiv.org/abs/2607.10299)|null|
-|**2026-07-11**|**Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge**|Lam D. Dao et.al.|[2607.10221](http://arxiv.org/abs/2607.10221)|null|
+|**2026-07-11**|**Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge**|Lam D. Dao et.al.|[2607.10221](http://arxiv.org/abs/2607.10221)|**[link](https://github.com/ddl0620/esem-neuron-package)**|
 |**2026-07-10**|**Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works**|Miguel Arana-Catania et.al.|[2607.09316](http://arxiv.org/abs/2607.09316)|null|
 |**2026-07-09**|**Two Axes of LLM Abstention: Answer Correctness and Question Answerability**|Benedikt J. Wagner et.al.|[2607.08456](http://arxiv.org/abs/2607.08456)|null|
 |**2026-07-09**|**Echoes Across Vietnam's Highlands, Delta, and Coast: A Multilingual Corpus for Cham, Khmer, and Tay-Nung**|Anh Trac Duc Dinh et.al.|[2607.08362](http://arxiv.org/abs/2607.08362)|null|
@@ -1299,7 +1299,7 @@
 |**2026-07-05**|**Covert Trait Propagation Is Representation Alignment: Mechanistic Evidence from Hidden-Channel Distillation**|Kargi Chauhan et.al.|[2607.04432](http://arxiv.org/abs/2607.04432)|null|
 |**2026-07-05**|**IRIS: An Intelligent Vision-Language System for Ocular Surface Diseases via Topic Tree and Scene-Driven VQA Generation**|Hao Wei et.al.|[2607.04344](http://arxiv.org/abs/2607.04344)|**[link](https://github.com/hwei-hw/IRIS)**|
 |**2026-07-05**|**Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)**|Mohamed Aly Bouke et.al.|[2607.04223](http://arxiv.org/abs/2607.04223)|null|
-|**2026-07-04**|**Self-Improving Diffusion Classifiers with Minority Preference Optimization**|Hyunsoo Kim et.al.|[2607.03770](http://arxiv.org/abs/2607.03770)|null|
+|**2026-07-04**|**Self-Improving Diffusion Classifiers with Minority Preference Optimization**|Hyunsoo Kim et.al.|[2607.03770](http://arxiv.org/abs/2607.03770)|**[link](https://github.com/gustn9609/MiPO)**|
 |**2026-07-04**|**FedACT: Federated Adaptive Coordinate Trust Modulation for Robust Transformer Training under Data Heterogeneity**|Shuai Li et.al.|[2607.03763](http://arxiv.org/abs/2607.03763)|null|
 |**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
 |**2026-07-02**|**Personality Without Persons? A Psychometric Critique of Big Five Testing in Large Language Models**|Kim Zierahn et.al.|[2607.02325](http://arxiv.org/abs/2607.02325)|null|
@@ -1319,7 +1319,7 @@
 |**2026-07-01**|**CAT: Confidence-Adaptive Thinking for Efficient Reasoning of Large Reasoning Models**|Qizhi Jiang et.al.|[2607.00862](http://arxiv.org/abs/2607.00862)|null|
 |**2026-07-01**|**Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization**|Mengjingcheng Mo et.al.|[2607.00622](http://arxiv.org/abs/2607.00622)|null|
 |**2026-07-01**|**Multi-Turn Agentic Scientific Literature Search via Workflow Induction**|Jisen Li et.al.|[2607.00597](http://arxiv.org/abs/2607.00597)|null|
-|**2026-07-01**|**StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning**|Yuan Qing et.al.|[2607.00465](http://arxiv.org/abs/2607.00465)|null|
+|**2026-07-01**|**StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning**|Yuan Qing et.al.|[2607.00465](http://arxiv.org/abs/2607.00465)|**[link](https://github.com/yuanqing-ai/StochasT)**|
 |**2026-07-01**|**Information-Regularized Attention for Visual-Centric Reasoning**|Guohao Sun et.al.|[2607.00434](http://arxiv.org/abs/2607.00434)|null|
 |**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|**[link](https://github.com/yale-nlp/RLMF)**|
 |**2026-06-30**|**Do Machines Struggle Where Humans Do? LLM and Human Comprehension of Obfuscated Code**|Jack Le et.al.|[2606.31725](http://arxiv.org/abs/2606.31725)|null|
@@ -1538,7 +1538,7 @@
 |**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)|null|
 |**2026-04-15**|**SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment**|Fumikazu Konishi et.al.|[2604.13600](http://arxiv.org/abs/2604.13600)|null|
 |**2026-04-15**|**Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate**|Cunda Wang et.al.|[2604.13551](http://arxiv.org/abs/2604.13551)|null|
-|**2026-04-15**|**Synthesizing Instruction-Tuning Datasets with Contrastive Decoding**|Tatsuya Ichinose et.al.|[2604.13538](http://arxiv.org/abs/2604.13538)|null|
+|**2026-04-15**|**Synthesizing Instruction-Tuning Datasets with Contrastive Decoding**|Tatsuya Ichinose et.al.|[2604.13538](http://arxiv.org/abs/2604.13538)|**[link](https://github.com/Tatsuya736482/contrastive_decoding_public)**|
 |**2026-04-14**|**Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization**|Aadyot Bhatnagar et.al.|[2604.13175](http://arxiv.org/abs/2604.13175)|null|
 |**2026-04-14**|**Visual Preference Optimization with Rubric Rewards**|Ya-Qi Yu et.al.|[2604.13029](http://arxiv.org/abs/2604.13029)|null|
 |**2026-04-14**|**One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness**|Erfan Baghaei Potraghloo et.al.|[2604.13006](http://arxiv.org/abs/2604.13006)|null|

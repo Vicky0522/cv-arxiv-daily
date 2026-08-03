@@ -417,7 +417,7 @@ layout: default
 |**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
 |**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Zexuan Yan et.al.|[2607.28243](http://arxiv.org/abs/2607.28243)|null|
 |**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
-|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|null|
+|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|**[link](https://github.com/VAIXLNS/VAIXLNS)**|
 |**2026-07-30**|**MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**|Dawei Wang et.al.|[2607.27967](http://arxiv.org/abs/2607.27967)|null|
 |**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
 |**2026-07-29**|**Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems**|Xu Zheng et.al.|[2607.27443](http://arxiv.org/abs/2607.27443)|null|
@@ -429,20 +429,20 @@ layout: default
 |**2026-07-29**|**From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI**|Xiaohe Bie et.al.|[2607.26402](http://arxiv.org/abs/2607.26402)|null|
 |**2026-07-28**|**Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation**|Jian Zhou et.al.|[2607.26148](http://arxiv.org/abs/2607.26148)|null|
 |**2026-07-28**|**Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels**|Xinyu Yang et.al.|[2607.26121](http://arxiv.org/abs/2607.26121)|null|
-|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Jelin Raphael Akkara et.al.|[2607.25106](http://arxiv.org/abs/2607.25106)|null|
-|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|null|
+|**2026-07-27**|**IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation**|Jelin Raphael Akkara et.al.|[2607.25106](http://arxiv.org/abs/2607.25106)|**[link](https://github.com/JelinR/IMPRINT)**|
+|**2026-07-27**|**Data Pyramid for Embodied Manipulation**|Yifan Ye et.al.|[2607.24744](http://arxiv.org/abs/2607.24744)|**[link](https://github.com/worldbench/awesome-embodied-data-pyramid)**|
 |**2026-07-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al.|[2607.24148](http://arxiv.org/abs/2607.24148)|null|
 |**2026-07-26**|**LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories**|Haobo Wang et.al.|[2607.23704](http://arxiv.org/abs/2607.23704)|null|
 |**2026-07-25**|**WCM: World-Cognition Model for Generalizable Human-Robot Interaction**|Yuzhen Chen et.al.|[2607.22999](http://arxiv.org/abs/2607.22999)|null|
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997](http://arxiv.org/abs/2607.22997)|null|
 |**2026-07-24**|**SiPhy: Single-Image Physical Property Reasoning**|Hoang Le et.al.|[2607.22355](http://arxiv.org/abs/2607.22355)|null|
-|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|null|
-|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|null|
+|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|**[link](https://github.com/FraunhoferIVI/MissionBench)**|
+|**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://github.com/Admire-ljb/VoLN-UAV)**|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
 |**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
 |**2026-07-22**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Ziqin Wang et.al.|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
-|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|null|
+|**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|**[link](https://github.com/azizbek-coderdev/auto-repo-2607-1780649409237-yd2w)**|
 |**2026-07-19**|**HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis**|Lingwei Dang et.al.|[2607.17097](http://arxiv.org/abs/2607.17097)|null|
 |**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896](http://arxiv.org/abs/2607.16896)|null|
 |**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Yang Liu et.al.|[2607.16636](http://arxiv.org/abs/2607.16636)|null|
@@ -707,7 +707,7 @@ layout: default
 |**2026-07-24**|**Correlation-Aware and Gaussianity-Preserving Robust Latent Angular Watermarking for Diffusion Models**|Yebin Zheng et.al.|[2607.22386](http://arxiv.org/abs/2607.22386)|null|
 |**2026-07-24**|**Metrology of quantum imaging schemes**|Emma Brambila et.al.|[2607.22373](http://arxiv.org/abs/2607.22373)|null|
 |**2026-07-24**|**Time-Reversed Imaging: A Multimodal Benchmark and Framework for Reconstructing Past Human-Environment Interactions**|Jorge Bacca et.al.|[2607.22352](http://arxiv.org/abs/2607.22352)|null|
-|**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|null|
+|**2026-07-24**|**AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment**|Ziyao Huang et.al.|[2607.22241](http://arxiv.org/abs/2607.22241)|**[link](https://github.com/bone-11/agenthoi)**|
 |**2026-07-24**|**TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution**|Sicheng Gao et.al.|[2607.22231](http://arxiv.org/abs/2607.22231)|null|
 |**2026-07-24**|**From Score Approximation to Distribution Approximation in Score-Based Diffusion Models**|Lan V. Truong et.al.|[2607.22199](http://arxiv.org/abs/2607.22199)|null|
 |**2026-07-24**|**InnoText: A Unified Model for Visual Text Generation and Editing**|Haowei Liu et.al.|[2607.22101](http://arxiv.org/abs/2607.22101)|null|
@@ -743,7 +743,7 @@ layout: default
 |**2026-07-20**|**To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations**|Wenzhuang Wang et.al.|[2607.17768](http://arxiv.org/abs/2607.17768)|**[link](https://github.com/fayewong666999/CamoDreamer)**|
 |**2026-07-20**|**Reviving Ancient Paintings via Poem: A Colorization Framework for Aligning Cultural Semantics**|Junming Gao et.al.|[2607.17638](http://arxiv.org/abs/2607.17638)|null|
 |**2026-07-17**|**ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering**|Meijia Huang et.al.|[2607.16060](http://arxiv.org/abs/2607.16060)|null|
-|**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|null|
+|**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|**[link](https://github.com/mever-team/tango)**|
 |**2026-07-17**|**DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction**|Chi Zhang et.al.|[2607.15846](http://arxiv.org/abs/2607.15846)|null|
 |**2026-07-17**|**Toward a mechanistic understanding of inference in visual cortex and diffusion models**|Zeyu Yun et.al.|[2607.15693](http://arxiv.org/abs/2607.15693)|null|
 |**2026-07-17**|**Constructing far-from-equilibrium patterns in a cross-diffusion vegetation-autotoxicity model**|Annalisa Iuorio et.al.|[2607.15692](http://arxiv.org/abs/2607.15692)|null|
@@ -797,7 +797,7 @@ layout: default
 |**2026-07-10**|**Autoregressive latent diffusion for 3D molecule generation**|Federico Ottomano et.al.|[2607.09277](http://arxiv.org/abs/2607.09277)|null|
 |**2026-07-10**|**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**|Sang-Hoon Lee et.al.|[2607.09134](http://arxiv.org/abs/2607.09134)|null|
 |**2026-07-10**|**IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation**|Yiting Wang et.al.|[2607.09133](http://arxiv.org/abs/2607.09133)|null|
-|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|null|
+|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|**[link](https://github.com/sisyphm/StudioRecon)**|
 |**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|**[link](https://github.com/freak-jaeuk/quantum-diffusion-fair-comparison)**|
 |**2026-07-10**|**Probing Diffusion Denoising Dynamics for Contrastive Representation Learning**|Yasong Dai et.al.|[2607.09067](http://arxiv.org/abs/2607.09067)|null|
 |**2026-07-10**|**Central Tendency Bias in Human Selection of AI-Generated Design Variations**|Huiyang Chen et.al.|[2607.09018](http://arxiv.org/abs/2607.09018)|null|
@@ -950,7 +950,7 @@ layout: default
 |**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|null|
 |**2026-05-06**|**Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models**|Yifan F. Zhang et.al.|[2605.04830](http://arxiv.org/abs/2605.04830)|**[link](https://github.com/zsxqblz/symmetry_nonlocality_transition)**|
 |**2026-05-06**|**MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education**|Miguel Diaz Benito et.al.|[2605.04772](http://arxiv.org/abs/2605.04772)|null|
-|**2026-05-06**|**Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling**|Xuhai Chen et.al.|[2605.04662](http://arxiv.org/abs/2605.04662)|null|
+|**2026-05-06**|**Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling**|Xuhai Chen et.al.|[2605.04662](http://arxiv.org/abs/2605.04662)|**[link](https://github.com/ByChelsea/rcdiff)**|
 |**2026-05-06**|**Advancing Aesthetic Image Generation via Composition Transfer**|Kai Zou et.al.|[2605.04609](http://arxiv.org/abs/2605.04609)|null|
 |**2026-05-05**|**Large Language Models are Universal Reasoners for Visual Generation**|Sucheng Ren et.al.|[2605.04040](http://arxiv.org/abs/2605.04040)|null|
 |**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
@@ -1062,7 +1062,7 @@ layout: default
 |**2026-04-21**|**Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming**|Alex Cuellar et.al.|[2604.19670](http://arxiv.org/abs/2604.19670)|null|
 |**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
 |**2026-04-21**|**SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing**|Ying Zeng et.al.|[2604.19587](http://arxiv.org/abs/2604.19587)|**[link](https://github.com/vivoCameraResearch/SmartPhotoCrafter)**|
-|**2026-04-20**|**PlankFormer: Robust Plankton Instance Segmentation via MAE-Pretrained Vision Transformers and Pseudo Community Image Generation**|Masaharu Miyazaki et.al.|[2604.17856](http://arxiv.org/abs/2604.17856)|null|
+|**2026-04-20**|**PlankFormer: Robust Plankton Instance Segmentation via MAE-Pretrained Vision Transformers and Pseudo Community Image Generation**|Masaharu Miyazaki et.al.|[2604.17856](http://arxiv.org/abs/2604.17856)|**[link](https://github.com/60assigns-jumbos/repo_1785677571_26045)**|
 |**2026-04-20**|**UniCSG: Unified High-Fidelity Content-Constrained Style-Driven Generation via Staged Semantic and Frequency Disentanglement**|Jingwei Yang et.al.|[2604.17850](http://arxiv.org/abs/2604.17850)|null|
 |**2026-04-20**|**Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing**|Kijung Jeon et.al.|[2604.17838](http://arxiv.org/abs/2604.17838)|null|
 |**2026-04-20**|**AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion**|Hongjie Li et.al.|[2604.17818](http://arxiv.org/abs/2604.17818)|null|
@@ -1176,7 +1176,7 @@ layout: default
 |**2026-07-28**|**Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation**|Jintao Xu et.al.|[2607.25956](http://arxiv.org/abs/2607.25956)|null|
 |**2026-07-28**|**A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series**|Frank Nie et.al.|[2607.25947](http://arxiv.org/abs/2607.25947)|null|
 |**2026-07-28**|**CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization**|Bo-Wen Zhang et.al.|[2607.25659](http://arxiv.org/abs/2607.25659)|null|
-|**2026-07-28**|**LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation**|Seungheon Doh et.al.|[2607.25640](http://arxiv.org/abs/2607.25640)|null|
+|**2026-07-28**|**LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation**|Seungheon Doh et.al.|[2607.25640](http://arxiv.org/abs/2607.25640)|**[link](https://github.com/nlp4musa/llm-as-a-judge-for-crs)**|
 |**2026-07-28**|**Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe**|Chaemin Jang et.al.|[2607.25292](http://arxiv.org/abs/2607.25292)|null|
 |**2026-07-28**|**Where Steering Signals Come From: Activation Source Selection in Activation Steering**|Jiaran Ye et.al.|[2607.25270](http://arxiv.org/abs/2607.25270)|null|
 |**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|
@@ -1256,7 +1256,7 @@ layout: default
 |**2026-07-12**|**Demographic Prompting at Scale: When More Attributes Hurt LLM--Human Agreement**|Mahammed Kamruzzaman et.al.|[2607.10590](http://arxiv.org/abs/2607.10590)|null|
 |**2026-07-11**|**Generalize LMMs to Versatile Visual Modalities via Fabricated Modality Synthesis**|Shihao Yuan et.al.|[2607.10308](http://arxiv.org/abs/2607.10308)|null|
 |**2026-07-11**|**Empowering Long-form Omni-modal Understanding with Robust Audio Perception**|Kaiying Yan et.al.|[2607.10299](http://arxiv.org/abs/2607.10299)|null|
-|**2026-07-11**|**Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge**|Lam D. Dao et.al.|[2607.10221](http://arxiv.org/abs/2607.10221)|null|
+|**2026-07-11**|**Which Neurons Detect Malicious Code? A Probing Study of LLM Security Knowledge**|Lam D. Dao et.al.|[2607.10221](http://arxiv.org/abs/2607.10221)|**[link](https://github.com/ddl0620/esem-neuron-package)**|
 |**2026-07-10**|**Automatic Thematic Indexing of Large Literary Corpora: A Machine Learning Approach to Voltaire's Complete Works**|Miguel Arana-Catania et.al.|[2607.09316](http://arxiv.org/abs/2607.09316)|null|
 |**2026-07-09**|**Two Axes of LLM Abstention: Answer Correctness and Question Answerability**|Benedikt J. Wagner et.al.|[2607.08456](http://arxiv.org/abs/2607.08456)|null|
 |**2026-07-09**|**Echoes Across Vietnam's Highlands, Delta, and Coast: A Multilingual Corpus for Cham, Khmer, and Tay-Nung**|Anh Trac Duc Dinh et.al.|[2607.08362](http://arxiv.org/abs/2607.08362)|null|
