@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Senyu Fei et.al.|[2607.29613](http://arxiv.org/abs/2607.29613)|**[link](https://github.com/sylvestf/WCM)**|
+|**2026-07-31**|**DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search**|Jiayang Niu et.al.|[2607.29491](http://arxiv.org/abs/2607.29491)|null|
+|**2026-07-31**|**AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics**|Alan-Barsag Gazzaev et.al.|[2607.29393](http://arxiv.org/abs/2607.29393)|null|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**| BWM Team et.al.|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
+|**2026-07-31**|**Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving**|Jiwei Yang et.al.|[2607.29031](http://arxiv.org/abs/2607.29031)|null|
+|**2026-07-30**|**Mirror Learning**|Yunpeng Liu et.al.|[2607.28737](http://arxiv.org/abs/2607.28737)|**[link](https://github.com/VernonGrant/gnu-c-language-manual)**|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624](http://arxiv.org/abs/2607.28624)|**[link](https://github.com/yaoyao-jpg/PhiZero)**|
 |**2026-07-30**|**AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans**|Jingwen Yang et.al.|[2607.28487](http://arxiv.org/abs/2607.28487)|null|
@@ -419,13 +425,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Li Lin et.al.|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
 |**2026-07-30**|**When Robots Exchange Meaning: A Demo of Goal-Oriented Semantic Communications for Collaborative Robotics**|Peizheng Li et.al.|[2607.28256](http://arxiv.org/abs/2607.28256)|null|
 |**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
 |**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Zexuan Yan et.al.|[2607.28243](http://arxiv.org/abs/2607.28243)|null|
 |**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
-|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|**[link](https://github.com/VAIXLNS/VAIXLNS)**|
+|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|null|
 |**2026-07-30**|**MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**|Dawei Wang et.al.|[2607.27967](http://arxiv.org/abs/2607.27967)|null|
 |**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
 |**2026-07-29**|**Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems**|Xu Zheng et.al.|[2607.27443](http://arxiv.org/abs/2607.27443)|null|
