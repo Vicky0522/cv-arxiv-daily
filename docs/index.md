@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems**|Zuojun Max Shen et.al.|[2608.03413](http://arxiv.org/abs/2608.03413)|null|
+|**2026-08-04**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
+|**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244](http://arxiv.org/abs/2608.03244)|null|
+|**2026-08-04**|**CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction**|Wanhao Liu et.al.|[2608.03211](http://arxiv.org/abs/2608.03211)|null|
+|**2026-08-04**|**FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection**|Pei Li et.al.|[2608.03096](http://arxiv.org/abs/2608.03096)|**[link](https://github.com/CryptoAILab/FakeI2V-Bench)**|
+|**2026-08-04**|**EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation**|Jiayi Luo et.al.|[2608.02990](http://arxiv.org/abs/2608.02990)|**[link](https://github.com/Mutual-Luo/EmbodiedVAE)**|
+|**2026-08-03**|**RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models**|Yuwei Ning et.al.|[2608.02953](http://arxiv.org/abs/2608.02953)|null|
+|**2026-08-03**|**Quo Vadis, World Modeling?**|Yu Yang et.al.|[2608.02713](http://arxiv.org/abs/2608.02713)|**[link](https://github.com/worldbench/awesome-agentic-world-model)**|
+|**2026-08-03**|**WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity**|Yuxue Yang et.al.|[2608.02603](http://arxiv.org/abs/2608.02603)|**[link](https://github.com/YuxueYang1204/WorldExam)**|
+|**2026-08-03**|**DF $^3$ : World Modeling via Decoder-Free Feature Forecasting in Autonomous Navigation**|Jiaming Chen et.al.|[2608.02428](http://arxiv.org/abs/2608.02428)|null|
 |**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Senyu Fei et.al.|[2607.29613](http://arxiv.org/abs/2607.29613)|**[link](https://github.com/sylvestf/WCM)**|
 |**2026-07-31**|**DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search**|Jiayang Niu et.al.|[2607.29491](http://arxiv.org/abs/2607.29491)|null|
 |**2026-07-31**|**AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics**|Alan-Barsag Gazzaev et.al.|[2607.29393](http://arxiv.org/abs/2607.29393)|null|
@@ -417,6 +427,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244](http://arxiv.org/abs/2608.03244)|null|
+|**2026-08-04**|**What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents**|Yifan Guo et.al.|[2608.03099](http://arxiv.org/abs/2608.03099)|null|
+|**2026-08-03**|**DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views**|Fuzhen Jiang et.al.|[2608.02191](http://arxiv.org/abs/2608.02191)|null|
+|**2026-08-02**|**When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents**|Shuaijun Liu et.al.|[2608.01428](http://arxiv.org/abs/2608.01428)|**[link](https://github.com/NEBULIS-Lab/BRACE)**|
+|**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
+|**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
+|**2026-08-01**|**Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms**|Zongyuan Shen et.al.|[2608.00625](http://arxiv.org/abs/2608.00625)|null|
+|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|**[link](https://github.com/theeagleofthedesert/RF-HOI)**|
 |**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Li Lin et.al.|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
@@ -659,6 +677,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation**|Seyed Kahaki et.al.|[2608.03990](http://arxiv.org/abs/2608.03990)|null|
+|**2026-08-04**|**UniWorld-Design: From Pixel Generation to Layer-Native Design**|Zongjian Li et.al.|[2608.03971](http://arxiv.org/abs/2608.03971)|null|
+|**2026-08-04**|**Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints**|Noor Hussein et.al.|[2608.03937](http://arxiv.org/abs/2608.03937)|null|
+|**2026-08-04**|**Latent Reward Registers for Diffusion Preference Alignment**|Yuanshen Guan et.al.|[2608.03929](http://arxiv.org/abs/2608.03929)|null|
+|**2026-08-04**|**FlowForm: Synergizing Fluid Physics with Topological Consistency for Satellite Flood Synthesis**|Zhang Weihui et.al.|[2608.03822](http://arxiv.org/abs/2608.03822)|null|
+|**2026-08-04**|**On the Geometry of Music Bandwidth Extension in Latent Spaces of Audio Codecs**|Hendrik Vincent Koops et.al.|[2608.03721](http://arxiv.org/abs/2608.03721)|null|
+|**2026-08-04**|**MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding**|Ruirui Zhang et.al.|[2608.03708](http://arxiv.org/abs/2608.03708)|null|
+|**2026-08-04**|**Divide-and-Conquer: Towards Generalizable Amortized Bayesian Inference for the Drift Diffusion Model**|Yufei Wu et.al.|[2608.03566](http://arxiv.org/abs/2608.03566)|null|
+|**2026-08-04**|**S $^3$ -Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images**|Jiaming Liang et.al.|[2608.03540](http://arxiv.org/abs/2608.03540)|null|
+|**2026-08-04**|**HyperbolicDiffusion: Sharp & Scalable Tiled Generation on the Hyperbolic Plane**|Hugo Caselles-Dupré et.al.|[2608.03422](http://arxiv.org/abs/2608.03422)|null|
 |**2026-07-31**|**The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection**|Riccardo Raciti et.al.|[2607.29541](http://arxiv.org/abs/2607.29541)|null|
 |**2026-07-31**|**OnlineCache: Learning Dynamic Caching Policies with Error Correction for Efficient Diffusion Inference**|Zhikang Xie et.al.|[2607.29398](http://arxiv.org/abs/2607.29398)|null|
 |**2026-07-31**|**SatEdit: Mask-Conditioned Image Editing via VLM-Guided Segment Annotation**|Muhammad Talha et.al.|[2607.29367](http://arxiv.org/abs/2607.29367)|null|
@@ -1149,21 +1177,21 @@ layout: default
 |**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
 |**2026-04-09**|**Novel View Synthesis as Video Completion**|Qi Wu et.al.|[2604.08500](http://arxiv.org/abs/2604.08500)|**[link](https://github.com/szqwu/FrameCrafter)**|
 |**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475](http://arxiv.org/abs/2604.08475)|null|
-|**2026-04-09**|**Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training**|Constantin Le Cleï et.al.|[2604.08357](http://arxiv.org/abs/2604.08357)|null|
-|**2026-04-09**|**Controlling the rain fall statistics using Mean-Reverting Jump Diffusion model**|Joya GhoshDastider et.al.|[2604.08338](http://arxiv.org/abs/2604.08338)|null|
-|**2026-04-09**|**DiV-INR: Extreme Low-Bitrate Diffusion Video Compression with INR Conditioning**|Eren Çetin et.al.|[2604.08329](http://arxiv.org/abs/2604.08329)|null|
-|**2026-04-09**|**HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology**|Aasim Bin Saleem et.al.|[2604.08305](http://arxiv.org/abs/2604.08305)|null|
-|**2026-04-09**|**GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis**|Yishen Liu et.al.|[2604.08301](http://arxiv.org/abs/2604.08301)|**[link](https://github.com/Eeelyyy/GroundingAnomaly)**|
-|**2026-04-09**|**EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**|Xiangyuan Wang et.al.|[2604.08213](http://arxiv.org/abs/2604.08213)|null|
-|**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
-|**2026-04-08**|**GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos**|Yiqian Wu et.al.|[2604.07273](http://arxiv.org/abs/2604.07273)|null|
-|**2026-04-08**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|**[link](https://github.com/nenhang/PhyEdit)**|
-|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
 
 ## LLM training
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations**|Zizhao Hu et.al.|[2608.03970](http://arxiv.org/abs/2608.03970)|null|
+|**2026-08-04**|**Omega-S: A Functional Resilience Index for LLM Fine-Tuning**|Alberto Acedo et.al.|[2608.03887](http://arxiv.org/abs/2608.03887)|null|
+|**2026-08-04**|**Evaluating MFU as a Proxy for GPU Power for Energy-Aware Simulation of LLM Training**|Niklas Enskat et.al.|[2608.03880](http://arxiv.org/abs/2608.03880)|null|
+|**2026-08-04**|**Fovea: Physical-Implication-Aware Wafer-Scale DSE with Decision-Domain-Guided Cross-Fidelity Refinement**|Jinxi Li et.al.|[2608.03285](http://arxiv.org/abs/2608.03285)|null|
+|**2026-08-04**|**ANCHOR-RE: An Agentic Neuro-Symbolic Framework for Grounded Biomedical Relation Extraction**|Shufan Ming et.al.|[2608.03154](http://arxiv.org/abs/2608.03154)|null|
+|**2026-08-03**|**Confident but Unreliable: A Behavioral Safety Audit of Vision-Language Models on Brain MRI**|Amir Sabbaghziarani et.al.|[2608.02790](http://arxiv.org/abs/2608.02790)|null|
+|**2026-08-03**|**GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning**|Zhaoxin Yu et.al.|[2608.02585](http://arxiv.org/abs/2608.02585)|null|
+|**2026-08-03**|**Auditing Data Provenance in LLM Fine-tuning via Intrinsic Distributional Fingerprints**|Zirui Huang et.al.|[2608.02154](http://arxiv.org/abs/2608.02154)|null|
+|**2026-08-03**|**Same Semantics, Different Paths: Self-Improving Alignment for Vision-Text Compression**|Tianyu Liang et.al.|[2608.02109](http://arxiv.org/abs/2608.02109)|**[link](https://github.com/Tianyu-Liang-seu/SPIRAL)**|
+|**2026-08-03**|**Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning**|Qianlong Yang et.al.|[2608.01635](http://arxiv.org/abs/2608.01635)|null|
 |**2026-07-30**|**LLM-Based Generative Retrieval for Snapchat Content Recommendation**|Liam Collins et.al.|[2607.28895](http://arxiv.org/abs/2607.28895)|null|
 |**2026-07-30**|**Hypergradient-based Bilevel Reinforcement Learning with Improved Sample Complexity**|Naman Saxena et.al.|[2607.28849](http://arxiv.org/abs/2607.28849)|null|
 |**2026-07-30**|**Rolling With Resistance: Preference-Optimized LLM Counselors Can Trade Goal Persistence for Relational Attunement in Motivational Interviewing**|Weiying Chen et.al.|[2607.28814](http://arxiv.org/abs/2607.28814)|null|
