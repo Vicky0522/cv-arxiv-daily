@@ -20,8 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|**[link](https://github.com/AlayaLab/HelloWorld)**|
+|**2026-08-05**|**DreamWAM: Beyond RGB Future Prediction for World Action Models**|Shanglin Yuan et.al.|[2608.04996](http://arxiv.org/abs/2608.04996)|null|
+|**2026-08-05**|**WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models**|Bohai Gu et.al.|[2608.04964](http://arxiv.org/abs/2608.04964)|null|
+|**2026-08-05**|**Overcoming Statistical Bias in Action-Controllable World Models**|Yuhong Shi et.al.|[2608.04653](http://arxiv.org/abs/2608.04653)|null|
+|**2026-08-05**|**muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards**|Yang Chen et.al.|[2608.04412](http://arxiv.org/abs/2608.04412)|null|
+|**2026-08-05**|**Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation**|Scott H. Hawley et.al.|[2608.04378](http://arxiv.org/abs/2608.04378)|**[link](https://github.com/drscotthawley/midi-rae-jepa-son)**|
 |**2026-08-04**|**Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems**|Zuojun Max Shen et.al.|[2608.03413](http://arxiv.org/abs/2608.03413)|null|
-|**2026-08-04**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
+|**2026-08-05**|**RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation**|Shuliang He et.al.|[2608.03387](http://arxiv.org/abs/2608.03387)|null|
 |**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244](http://arxiv.org/abs/2608.03244)|null|
 |**2026-08-04**|**CrossScope: A Role-Asymmetric World Model for Joint Dual-Scope Surgical Video Prediction**|Wanhao Liu et.al.|[2608.03211](http://arxiv.org/abs/2608.03211)|null|
 |**2026-08-04**|**FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection**|Pei Li et.al.|[2608.03096](http://arxiv.org/abs/2608.03096)|**[link](https://github.com/CryptoAILab/FakeI2V-Bench)**|
@@ -435,6 +441,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Mimir: A Neuro-Symbolic Memory System with Dynamic Grounding for Embodied Agents in Interactive Environments**|Haoming Xu et.al.|[2608.04933](http://arxiv.org/abs/2608.04933)|null|
+|**2026-08-05**|**Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference**|Zheng Liu et.al.|[2608.04428](http://arxiv.org/abs/2608.04428)|null|
 |**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244](http://arxiv.org/abs/2608.03244)|null|
 |**2026-08-04**|**What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents**|Yifan Guo et.al.|[2608.03099](http://arxiv.org/abs/2608.03099)|null|
 |**2026-08-03**|**DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views**|Fuzhen Jiang et.al.|[2608.02191](http://arxiv.org/abs/2608.02191)|null|
@@ -442,7 +450,7 @@
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
 |**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
 |**2026-08-01**|**Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms**|Zongyuan Shen et.al.|[2608.00625](http://arxiv.org/abs/2608.00625)|null|
-|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|**[link](https://github.com/theeagleofthedesert/RF-HOI)**|
+|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|null|
 |**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Li Lin et.al.|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
@@ -687,6 +695,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection**|Narges Rashvand et.al.|[2608.05069](http://arxiv.org/abs/2608.05069)|null|
+|**2026-08-05**|**OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing**|Chenxuan Miao et.al.|[2608.05049](http://arxiv.org/abs/2608.05049)|null|
+|**2026-08-05**|**Towards Valid B-Rep Generation: Training-Free Wireframe Anomaly Detection and Repair**|Jingyu Wu et.al.|[2608.04955](http://arxiv.org/abs/2608.04955)|null|
+|**2026-08-05**|**Enhancing Low Back Pain Assessment with Diffusion Models for Lumbar Spine MRI Segmentation**|Maria Monzon et.al.|[2608.04906](http://arxiv.org/abs/2608.04906)|null|
+|**2026-08-05**|**STEP-OPD: Rethinking Output Targets and Internal Dynamics in On-Policy Distillation for Diffusion Models**|Qingyan Wei et.al.|[2608.04887](http://arxiv.org/abs/2608.04887)|**[link](https://github.com/turturturturtur/STEP-OPD)**|
+|**2026-08-05**|**Towards a satellite image manipulation and deepfake localization benchmark dataset**|Jacob Arndt et.al.|[2608.04840](http://arxiv.org/abs/2608.04840)|null|
+|**2026-08-05**|**Intrinsic-Hybrid Latent Diffusion Models for Generative Modeling on Unknown Manifolds**|Yizhu Wang et.al.|[2608.04827](http://arxiv.org/abs/2608.04827)|null|
+|**2026-08-05**|**When Diffusion Models Forget Who You Are: Identity Preservation in Face Inpainting under Large Occlusions**|Feng Ding et.al.|[2608.04820](http://arxiv.org/abs/2608.04820)|null|
+|**2026-08-05**|**A hybrid proper orthogonal decomposition and diffusion framework for reduced-order forecasting of turbulent flow dynamics**|Rodrigo Abadia-Heredia et.al.|[2608.04728](http://arxiv.org/abs/2608.04728)|null|
+|**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-04**|**Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation**|Seyed Kahaki et.al.|[2608.03990](http://arxiv.org/abs/2608.03990)|null|
 |**2026-08-04**|**UniWorld-Design: From Pixel Generation to Layer-Native Design**|Zongjian Li et.al.|[2608.03971](http://arxiv.org/abs/2608.03971)|null|
 |**2026-08-04**|**Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints**|Noor Hussein et.al.|[2608.03937](http://arxiv.org/abs/2608.03937)|null|
@@ -1177,16 +1195,6 @@
 |**2026-04-10**|**Gardening on the Moon: An Advection-Diffusion Model to Guide the Search for Supernova Debris in the Lunar Regolith**|Emily S. Costello et.al.|[2604.09524](http://arxiv.org/abs/2604.09524)|null|
 |**2026-04-10**|**SCoRe: Clean Image Generation from Diffusion Models Trained on Noisy Images**|Yuta Matsuzaki et.al.|[2604.09436](http://arxiv.org/abs/2604.09436)|null|
 |**2026-04-10**|**Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories**|Wonbong Jang et.al.|[2604.09429](http://arxiv.org/abs/2604.09429)|**[link](https://github.com/wbjang/raysaspixels)**|
-|**2026-04-10**|**EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure**|Junyeong Ahn et.al.|[2604.09405](http://arxiv.org/abs/2604.09405)|null|
-|**2026-04-10**|**Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing**|Zhuohan Ouyang et.al.|[2604.09386](http://arxiv.org/abs/2604.09386)|null|
-|**2026-04-10**|**Hitem3D 2.0: Multi-View Guided Native 3D Texture Generation**|Huiang He et.al.|[2604.09231](http://arxiv.org/abs/2604.09231)|null|
-|**2026-04-10**|**Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models**|Wongi Jeong et.al.|[2604.09227](http://arxiv.org/abs/2604.09227)|null|
-|**2026-04-10**|**SHIFT: Steering Hidden Intermediates in Flow Transformers**|Nina Konovalova et.al.|[2604.09213](http://arxiv.org/abs/2604.09213)|**[link](https://github.com/shirikovn/flux-shift)**|
-|**2026-04-10**|**CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation**|Haoyu Zhao et.al.|[2604.09201](http://arxiv.org/abs/2604.09201)|null|
-|**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|**[link](https://github.com/H-EmbodVis/NUMINA)**|
-|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
-|**2026-04-09**|**Novel View Synthesis as Video Completion**|Qi Wu et.al.|[2604.08500](http://arxiv.org/abs/2604.08500)|**[link](https://github.com/szqwu/FrameCrafter)**|
-|**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475](http://arxiv.org/abs/2604.08475)|null|
 
 <p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
@@ -1201,7 +1209,7 @@
 |**2026-08-05**|**What We Observe as LLM Behavior Can Be a Side-effect of Inference Backend**|Shahed Masoudian et.al.|[2608.04714](http://arxiv.org/abs/2608.04714)|null|
 |**2026-08-05**|**Evaluating Theory of Mind in Reasoning Models: Robustness over Reasoning**|Ian B. de Haan et.al.|[2608.04646](http://arxiv.org/abs/2608.04646)|null|
 |**2026-08-04**|**The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data**|Irina Proskurina et.al.|[2608.04268](http://arxiv.org/abs/2608.04268)|null|
-|**2026-08-04**|**SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization**|Boyao Wang et.al.|[2608.04084](http://arxiv.org/abs/2608.04084)|**[link](https://github.com/Beryex/SpecDrop)**|
+|**2026-08-04**|**SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization**|Boyao Wang et.al.|[2608.04084](http://arxiv.org/abs/2608.04084)|null|
 |**2026-08-04**|**Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations**|Zizhao Hu et.al.|[2608.03970](http://arxiv.org/abs/2608.03970)|null|
 |**2026-08-04**|**Omega-S: A Functional Resilience Index for LLM Fine-Tuning**|Alberto Acedo et.al.|[2608.03887](http://arxiv.org/abs/2608.03887)|null|
 |**2026-08-04**|**Evaluating MFU as a Proxy for GPU Power for Energy-Aware Simulation of LLM Training**|Niklas Enskat et.al.|[2608.03880](http://arxiv.org/abs/2608.03880)|null|
