@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -429,7 +429,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
 ## embodied AI
 
@@ -681,7 +681,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
 ## image generation
 
@@ -1188,12 +1188,20 @@
 |**2026-04-09**|**Novel View Synthesis as Video Completion**|Qi Wu et.al.|[2604.08500](http://arxiv.org/abs/2604.08500)|**[link](https://github.com/szqwu/FrameCrafter)**|
 |**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475](http://arxiv.org/abs/2604.08475)|null|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
+|**2026-08-05**|**Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models**|Jianru Shen et.al.|[2608.05064](http://arxiv.org/abs/2608.05064)|null|
+|**2026-08-05**|**Private Direct Preference Optimization for LLM Alignment**|Yangfan Jiang et.al.|[2608.05040](http://arxiv.org/abs/2608.05040)|null|
+|**2026-08-05**|**DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging**|Binglei Zhao et.al.|[2608.04809](http://arxiv.org/abs/2608.04809)|null|
+|**2026-08-05**|**What We Observe as LLM Behavior Can Be a Side-effect of Inference Backend**|Shahed Masoudian et.al.|[2608.04714](http://arxiv.org/abs/2608.04714)|null|
+|**2026-08-05**|**Evaluating Theory of Mind in Reasoning Models: Robustness over Reasoning**|Ian B. de Haan et.al.|[2608.04646](http://arxiv.org/abs/2608.04646)|null|
+|**2026-08-04**|**The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data**|Irina Proskurina et.al.|[2608.04268](http://arxiv.org/abs/2608.04268)|null|
+|**2026-08-04**|**SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization**|Boyao Wang et.al.|[2608.04084](http://arxiv.org/abs/2608.04084)|**[link](https://github.com/Beryex/SpecDrop)**|
 |**2026-08-04**|**Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations**|Zizhao Hu et.al.|[2608.03970](http://arxiv.org/abs/2608.03970)|null|
 |**2026-08-04**|**Omega-S: A Functional Resilience Index for LLM Fine-Tuning**|Alberto Acedo et.al.|[2608.03887](http://arxiv.org/abs/2608.03887)|null|
 |**2026-08-04**|**Evaluating MFU as a Proxy for GPU Power for Energy-Aware Simulation of LLM Training**|Niklas Enskat et.al.|[2608.03880](http://arxiv.org/abs/2608.03880)|null|
@@ -1640,7 +1648,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

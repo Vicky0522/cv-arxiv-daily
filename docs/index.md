@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1182,6 +1182,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
+|**2026-08-05**|**Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models**|Jianru Shen et.al.|[2608.05064](http://arxiv.org/abs/2608.05064)|null|
+|**2026-08-05**|**Private Direct Preference Optimization for LLM Alignment**|Yangfan Jiang et.al.|[2608.05040](http://arxiv.org/abs/2608.05040)|null|
+|**2026-08-05**|**DEGR: Dual Exploration-Driven Generative Re-Ranking for Adaptive Cross-Request Context Bridging**|Binglei Zhao et.al.|[2608.04809](http://arxiv.org/abs/2608.04809)|null|
+|**2026-08-05**|**What We Observe as LLM Behavior Can Be a Side-effect of Inference Backend**|Shahed Masoudian et.al.|[2608.04714](http://arxiv.org/abs/2608.04714)|null|
+|**2026-08-05**|**Evaluating Theory of Mind in Reasoning Models: Robustness over Reasoning**|Ian B. de Haan et.al.|[2608.04646](http://arxiv.org/abs/2608.04646)|null|
+|**2026-08-04**|**The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data**|Irina Proskurina et.al.|[2608.04268](http://arxiv.org/abs/2608.04268)|null|
+|**2026-08-04**|**SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization**|Boyao Wang et.al.|[2608.04084](http://arxiv.org/abs/2608.04084)|**[link](https://github.com/Beryex/SpecDrop)**|
 |**2026-08-04**|**Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations**|Zizhao Hu et.al.|[2608.03970](http://arxiv.org/abs/2608.03970)|null|
 |**2026-08-04**|**Omega-S: A Functional Resilience Index for LLM Fine-Tuning**|Alberto Acedo et.al.|[2608.03887](http://arxiv.org/abs/2608.03887)|null|
 |**2026-08-04**|**Evaluating MFU as a Proxy for GPU Power for Energy-Aware Simulation of LLM Training**|Niklas Enskat et.al.|[2608.03880](http://arxiv.org/abs/2608.03880)|null|
