@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
+|**2026-08-06**|**MASS: Multiplayer World Models with Authoritative Shared State**|Ziqi Cai et.al.|[2608.06257](http://arxiv.org/abs/2608.06257)|null|
+|**2026-08-06**|**From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks**|Christo Kurisummoottil Thomas et.al.|[2608.06227](http://arxiv.org/abs/2608.06227)|null|
+|**2026-08-06**|**EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning**|Zishan Xu et.al.|[2608.06197](http://arxiv.org/abs/2608.06197)|null|
+|**2026-08-06**|**From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models**|Jiale Han et.al.|[2608.06020](http://arxiv.org/abs/2608.06020)|null|
+|**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Sining Ang et.al.|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
+|**2026-08-06**|**GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models**|Shuai Wang et.al.|[2608.05948](http://arxiv.org/abs/2608.05948)|null|
+|**2026-08-06**|**Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models**|Haodong Yan et.al.|[2608.05903](http://arxiv.org/abs/2608.05903)|null|
+|**2026-08-06**|**AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents**|Weikai Xu et.al.|[2608.05891](http://arxiv.org/abs/2608.05891)|null|
+|**2026-08-06**|**XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?**|Yixiang Chen et.al.|[2608.05799](http://arxiv.org/abs/2608.05799)|null|
 |**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|**[link](https://github.com/AlayaLab/HelloWorld)**|
 |**2026-08-05**|**DreamWAM: Beyond RGB Future Prediction for World Action Models**|Shanglin Yuan et.al.|[2608.04996](http://arxiv.org/abs/2608.04996)|null|
 |**2026-08-05**|**WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models**|Bohai Gu et.al.|[2608.04964](http://arxiv.org/abs/2608.04964)|null|
@@ -441,6 +451,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Saugat Adhikari et.al.|[2608.06161](http://arxiv.org/abs/2608.06161)|null|
+|**2026-08-06**|**IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation**|Zhixiang Chen et.al.|[2608.06088](http://arxiv.org/abs/2608.06088)|null|
+|**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
+|**2026-08-06**|**GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?**|Qifeng Zhang et.al.|[2608.05747](http://arxiv.org/abs/2608.05747)|null|
+|**2026-08-06**|**SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries**|Xingyu Tan et.al.|[2608.05604](http://arxiv.org/abs/2608.05604)|null|
 |**2026-08-05**|**Mimir: A Neuro-Symbolic Memory System with Dynamic Grounding for Embodied Agents in Interactive Environments**|Haoming Xu et.al.|[2608.04933](http://arxiv.org/abs/2608.04933)|null|
 |**2026-08-05**|**Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference**|Zheng Liu et.al.|[2608.04428](http://arxiv.org/abs/2608.04428)|null|
 |**2026-08-04**|**UniNav: A Unified World-Action Diffusion Model for Visual Navigation**|Changqing Zhou et.al.|[2608.03244](http://arxiv.org/abs/2608.03244)|null|
@@ -1202,6 +1217,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|**[link](https://github.com/worldbench/SCOPE)**|
+|**2026-08-06**|**MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction**|Dohyun Ku et.al.|[2608.06253](http://arxiv.org/abs/2608.06253)|null|
+|**2026-08-06**|**A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance**|Fardin Afdideh et.al.|[2608.06246](http://arxiv.org/abs/2608.06246)|**[link](https://github.com/ki-smile/post-training-taxonomy)**|
+|**2026-08-06**|**Sensor-Level Fault Diagnosis for Automotive Software Validation Using Large Language Models**|Mohammad Abboush et.al.|[2608.05921](http://arxiv.org/abs/2608.05921)|null|
+|**2026-08-06**|**MameLoshnLM: Yiddish Language Model and Evaluation Benchmark**|Uri Katz et.al.|[2608.05850](http://arxiv.org/abs/2608.05850)|null|
+|**2026-08-06**|**Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration**|Hongrui Bao et.al.|[2608.05741](http://arxiv.org/abs/2608.05741)|null|
+|**2026-08-06**|**Mitigating Scoring Bias in LLM-as-a-Judge via Random Number Generation**|Yuma Asato et.al.|[2608.05726](http://arxiv.org/abs/2608.05726)|null|
+|**2026-08-06**|**SciQNet: Two-Stage Multimodal Adaptation for Scientific Image Quality Assessment**|Yin-Loon Khor et.al.|[2608.05691](http://arxiv.org/abs/2608.05691)|**[link](https://github.com/yinloonkhor/SciQNet-SIQA)**|
+|**2026-08-06**|**Detecting Safety Training Modification in Language Models via Activation Analysis**|Glen Messenger et.al.|[2608.05578](http://arxiv.org/abs/2608.05578)|null|
+|**2026-08-05**|**Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation**|Yuta Kobayashi et.al.|[2608.05341](http://arxiv.org/abs/2608.05341)|null|
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
 |**2026-08-05**|**Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models**|Jianru Shen et.al.|[2608.05064](http://arxiv.org/abs/2608.05064)|null|
 |**2026-08-05**|**Private Direct Preference Optimization for LLM Alignment**|Yangfan Jiang et.al.|[2608.05040](http://arxiv.org/abs/2608.05040)|null|
