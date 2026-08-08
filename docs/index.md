@@ -1212,7 +1212,7 @@ layout: default
 |**2026-08-06**|**MameLoshnLM: Yiddish Language Model and Evaluation Benchmark**|Uri Katz et.al.|[2608.05850](http://arxiv.org/abs/2608.05850)|null|
 |**2026-08-06**|**Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration**|Hongrui Bao et.al.|[2608.05741](http://arxiv.org/abs/2608.05741)|null|
 |**2026-08-06**|**Mitigating Scoring Bias in LLM-as-a-Judge via Random Number Generation**|Yuma Asato et.al.|[2608.05726](http://arxiv.org/abs/2608.05726)|null|
-|**2026-08-06**|**SciQNet: Two-Stage Multimodal Adaptation for Scientific Image Quality Assessment**|Yin-Loon Khor et.al.|[2608.05691](http://arxiv.org/abs/2608.05691)|**[link](https://github.com/yinloonkhor/SciQNet-SIQA)**|
+|**2026-08-06**|**SciQNet: Two-Stage Multimodal Adaptation for Scientific Image Quality Assessment**|Yin-Loon Khor et.al.|[2608.05691](http://arxiv.org/abs/2608.05691)|null|
 |**2026-08-06**|**Detecting Safety Training Modification in Language Models via Activation Analysis**|Glen Messenger et.al.|[2608.05578](http://arxiv.org/abs/2608.05578)|null|
 |**2026-08-05**|**Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation**|Yuta Kobayashi et.al.|[2608.05341](http://arxiv.org/abs/2608.05341)|null|
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
