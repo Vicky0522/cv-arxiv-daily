@@ -15,13 +15,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
-|**2026-08-06**|**MASS: Multiplayer World Models with Authoritative Shared State**|Ziqi Cai et.al.|[2608.06257](http://arxiv.org/abs/2608.06257)|null|
+|**2026-08-06**|**MASS: Multiplayer World Models with Authoritative Shared State**|Ziqi Cai et.al.|[2608.06257](http://arxiv.org/abs/2608.06257)|**[link](https://github.com/alaya-lab/MASS)**|
 |**2026-08-06**|**From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks**|Christo Kurisummoottil Thomas et.al.|[2608.06227](http://arxiv.org/abs/2608.06227)|null|
 |**2026-08-06**|**EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning**|Zishan Xu et.al.|[2608.06197](http://arxiv.org/abs/2608.06197)|null|
 |**2026-08-06**|**From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models**|Jiale Han et.al.|[2608.06020](http://arxiv.org/abs/2608.06020)|null|
 |**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Sining Ang et.al.|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
 |**2026-08-06**|**GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models**|Shuai Wang et.al.|[2608.05948](http://arxiv.org/abs/2608.05948)|null|
-|**2026-08-06**|**Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models**|Haodong Yan et.al.|[2608.05903](http://arxiv.org/abs/2608.05903)|null|
+|**2026-08-06**|**Robust-WAM: Bridging Generative Pretraining and Semantic Foresight in World-Action Models**|Haodong Yan et.al.|[2608.05903](http://arxiv.org/abs/2608.05903)|**[link](https://github.com/Haodong-Yan/Robust-WAM-release)**|
 |**2026-08-06**|**AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents**|Weikai Xu et.al.|[2608.05891](http://arxiv.org/abs/2608.05891)|null|
 |**2026-08-06**|**XEWorld: Can Action-Conditioned World Models Generalize to Unseen Robot Embodiments?**|Yixiang Chen et.al.|[2608.05799](http://arxiv.org/abs/2608.05799)|null|
 |**2026-08-05**|**HelloWorld: Enabling Socially Interactive Characters in Video World Models**|Liangyang Ouyang et.al.|[2608.05070](http://arxiv.org/abs/2608.05070)|**[link](https://github.com/AlayaLab/HelloWorld)**|
@@ -43,7 +43,7 @@ layout: default
 |**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Senyu Fei et.al.|[2607.29613](http://arxiv.org/abs/2607.29613)|**[link](https://github.com/sylvestf/WCM)**|
 |**2026-07-31**|**DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search**|Jiayang Niu et.al.|[2607.29491](http://arxiv.org/abs/2607.29491)|null|
 |**2026-07-31**|**AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics**|Alan-Barsag Gazzaev et.al.|[2607.29393](http://arxiv.org/abs/2607.29393)|null|
-|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**| BWM Team et.al.|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team et.al.|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
 |**2026-07-31**|**Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving**|Jiwei Yang et.al.|[2607.29031](http://arxiv.org/abs/2607.29031)|null|
 |**2026-07-30**|**Mirror Learning**|Yunpeng Liu et.al.|[2607.28737](http://arxiv.org/abs/2607.28737)|**[link](https://github.com/VernonGrant/gnu-c-language-manual)**|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
@@ -100,7 +100,7 @@ layout: default
 |**2026-07-22**|**Active Inference as a Convex Markov Decision Process**|Nikola Milosevic et.al.|[2607.20152](http://arxiv.org/abs/2607.20152)|null|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
 |**2026-07-22**|**LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition**|Jiajun Cheng et.al.|[2607.19889](http://arxiv.org/abs/2607.19889)|null|
-|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
+|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|**[link](https://github.com/minecraft-zzz/KineBench)**|
 |**2026-07-22**|**Dreamer-CPC: Message Learning with World Models for Decentralized Multi-agent Reinforcement Learning**|Taisuke Takayama et.al.|[2607.19809](http://arxiv.org/abs/2607.19809)|null|
 |**2026-07-22**|**The World Model Remembers, the Actor Forgets: Dream Rehearsal for Continual Model-Based RL**|Gurp Nijjer et.al.|[2607.19749](http://arxiv.org/abs/2607.19749)|**[link](https://github.com/gurpnijjer/dream-rehearsal)**|
 |**2026-07-20**|**FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications**|Krish Agarwal et.al.|[2607.18171](http://arxiv.org/abs/2607.18171)|null|
@@ -461,7 +461,7 @@ layout: default
 |**2026-08-02**|**InteracVid: Building a Real Interactive Audio-Visual Response Dataset from Live-Chat Videos**|Chi Zhang et.al.|[2608.01157](http://arxiv.org/abs/2608.01157)|null|
 |**2026-08-04**|**MiniWorld: Democratizing the Training of Video World Models from Scratch**|Yian Zhao et.al.|[2608.01127](http://arxiv.org/abs/2608.01127)|null|
 |**2026-08-01**|**Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms**|Zongyuan Shen et.al.|[2608.00625](http://arxiv.org/abs/2608.00625)|null|
-|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|null|
+|**2026-07-31**|**RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals**|Lihao Wang et.al.|[2608.00289](http://arxiv.org/abs/2608.00289)|**[link](https://github.com/theeagleofthedesert/RF-HOI)**|
 |**2026-07-31**|**FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling**|Li Lin et.al.|[2607.29596](http://arxiv.org/abs/2607.29596)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao et.al.|[2607.28625](http://arxiv.org/abs/2607.28625)|null|
 |**2026-07-30**|**ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA**|Ping-Kun Chiang et.al.|[2607.28442](http://arxiv.org/abs/2607.28442)|null|
@@ -469,7 +469,7 @@ layout: default
 |**2026-07-30**|**Self-Evolving Learning for Embodied AI with Criticality Model**|Linxuan He et.al.|[2607.28251](http://arxiv.org/abs/2607.28251)|null|
 |**2026-07-30**|**EgoGenesis: Egocentric World-Action Modeling with Online Anchored Projective Memory and Action-3D RoPE**|Zexuan Yan et.al.|[2607.28243](http://arxiv.org/abs/2607.28243)|null|
 |**2026-07-30**|**Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation**|Fazhong Liu et.al.|[2607.28226](http://arxiv.org/abs/2607.28226)|null|
-|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|null|
+|**2026-07-30**|**Layered Architecture for Mobile Intelligence**|Qingwen Liu et.al.|[2607.28083](http://arxiv.org/abs/2607.28083)|**[link](https://github.com/VAIXLNS/VAIXLNS)**|
 |**2026-07-30**|**MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**|Dawei Wang et.al.|[2607.27967](http://arxiv.org/abs/2607.27967)|null|
 |**2026-07-30**|**SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them**|Yang Zhou et.al.|[2607.27703](http://arxiv.org/abs/2607.27703)|null|
 |**2026-07-29**|**Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems**|Xu Zheng et.al.|[2607.27443](http://arxiv.org/abs/2607.27443)|null|
@@ -491,7 +491,7 @@ layout: default
 |**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014](http://arxiv.org/abs/2607.22014)|**[link](https://github.com/FraunhoferIVI/MissionBench)**|
 |**2026-07-23**|**VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method**|Jiabin Lou et.al.|[2607.21400](http://arxiv.org/abs/2607.21400)|**[link](https://github.com/Admire-ljb/VoLN-UAV)**|
 |**2026-07-22**|**Odin: Primitive-Level Synchronization for Distributed Point-Based Neural Rendering**|Zhenxiang Ma et.al.|[2607.19893](http://arxiv.org/abs/2607.19893)|null|
-|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|null|
+|**2026-07-22**|**KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding**|Zeyu Liu et.al.|[2607.19876](http://arxiv.org/abs/2607.19876)|**[link](https://github.com/minecraft-zzz/KineBench)**|
 |**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
 |**2026-07-22**|**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**|Ziqin Wang et.al.|[2607.18709](http://arxiv.org/abs/2607.18709)|null|
 |**2026-07-20**|**PGN: Design and Implementation of a Vision-Language Navigation System Based on Pangu Multimodal Foundation Model**|Li Xian et.al.|[2607.17806](http://arxiv.org/abs/2607.17806)|**[link](https://github.com/azizbek-coderdev/auto-repo-2607-1780649409237-yd2w)**|
@@ -1029,7 +1029,7 @@ layout: default
 |**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163](http://arxiv.org/abs/2605.05163)|**[link](https://github.com/HKU-MMLab/PhysForge)**|
 |**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|**[link](https://github.com/Picsart-AI-Research/FlowDIS)**|
 |**2026-05-06**|**Computer-Aided Design Generation by Cascaded Discrete Diffusion Model**|Honghu Pan et.al.|[2605.05031](http://arxiv.org/abs/2605.05031)|null|
-|**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|null|
+|**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|**[link](https://github.com/MonsterAzi/ComfyUI-Intrinsic-Quenching)**|
 |**2026-05-06**|**Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models**|Yifan F. Zhang et.al.|[2605.04830](http://arxiv.org/abs/2605.04830)|**[link](https://github.com/zsxqblz/symmetry_nonlocality_transition)**|
 |**2026-05-06**|**MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education**|Miguel Diaz Benito et.al.|[2605.04772](http://arxiv.org/abs/2605.04772)|null|
 |**2026-05-06**|**Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling**|Xuhai Chen et.al.|[2605.04662](http://arxiv.org/abs/2605.04662)|**[link](https://github.com/ByChelsea/rcdiff)**|
@@ -1147,7 +1147,7 @@ layout: default
 |**2026-04-20**|**PlankFormer: Robust Plankton Instance Segmentation via MAE-Pretrained Vision Transformers and Pseudo Community Image Generation**|Masaharu Miyazaki et.al.|[2604.17856](http://arxiv.org/abs/2604.17856)|**[link](https://github.com/60assigns-jumbos/repo_1785677571_26045)**|
 |**2026-04-20**|**UniCSG: Unified High-Fidelity Content-Constrained Style-Driven Generation via Staged Semantic and Frequency Disentanglement**|Jingwei Yang et.al.|[2604.17850](http://arxiv.org/abs/2604.17850)|null|
 |**2026-04-20**|**Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing**|Kijung Jeon et.al.|[2604.17838](http://arxiv.org/abs/2604.17838)|null|
-|**2026-04-20**|**AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion**|Hongjie Li et.al.|[2604.17818](http://arxiv.org/abs/2604.17818)|null|
+|**2026-04-20**|**AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion**|Hongjie Li et.al.|[2604.17818](http://arxiv.org/abs/2604.17818)|**[link](https://github.com/awfuact/anylift)**|
 |**2026-04-20**|**Optimally Bridging Semantics and Data: Generative Semantic Communication via Schrödinger Bridge**|Dahua Gao et.al.|[2604.17802](http://arxiv.org/abs/2604.17802)|**[link](https://github.com/azizbek-coderdev/auto-repo-2604-1780289547691-4gtu)**|
 |**2026-04-20**|**Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement**|Hongxu Jiang et.al.|[2604.17773](http://arxiv.org/abs/2604.17773)|null|
 |**2026-04-20**|**Grokking of Diffusion Models: Case Study on Modular Addition**|Joon Hyeok Kim et.al.|[2604.17673](http://arxiv.org/abs/2604.17673)|null|
@@ -1216,7 +1216,7 @@ layout: default
 |**2026-08-06**|**MameLoshnLM: Yiddish Language Model and Evaluation Benchmark**|Uri Katz et.al.|[2608.05850](http://arxiv.org/abs/2608.05850)|null|
 |**2026-08-06**|**Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration**|Hongrui Bao et.al.|[2608.05741](http://arxiv.org/abs/2608.05741)|null|
 |**2026-08-06**|**Mitigating Scoring Bias in LLM-as-a-Judge via Random Number Generation**|Yuma Asato et.al.|[2608.05726](http://arxiv.org/abs/2608.05726)|null|
-|**2026-08-06**|**SciQNet: Two-Stage Multimodal Adaptation for Scientific Image Quality Assessment**|Yin-Loon Khor et.al.|[2608.05691](http://arxiv.org/abs/2608.05691)|null|
+|**2026-08-06**|**SciQNet: Two-Stage Multimodal Adaptation for Scientific Image Quality Assessment**|Yin-Loon Khor et.al.|[2608.05691](http://arxiv.org/abs/2608.05691)|**[link](https://github.com/yinloonkhor/SciQNet-SIQA)**|
 |**2026-08-06**|**Detecting Safety Training Modification in Language Models via Activation Analysis**|Glen Messenger et.al.|[2608.05578](http://arxiv.org/abs/2608.05578)|null|
 |**2026-08-05**|**Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation**|Yuta Kobayashi et.al.|[2608.05341](http://arxiv.org/abs/2608.05341)|null|
 |**2026-08-05**|**OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling**|Indraneil Paul et.al.|[2608.05141](http://arxiv.org/abs/2608.05141)|null|
@@ -1226,7 +1226,7 @@ layout: default
 |**2026-08-05**|**What We Observe as LLM Behavior Can Be a Side-effect of Inference Backend**|Shahed Masoudian et.al.|[2608.04714](http://arxiv.org/abs/2608.04714)|null|
 |**2026-08-05**|**Evaluating Theory of Mind in Reasoning Models: Robustness over Reasoning**|Ian B. de Haan et.al.|[2608.04646](http://arxiv.org/abs/2608.04646)|null|
 |**2026-08-04**|**The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data**|Irina Proskurina et.al.|[2608.04268](http://arxiv.org/abs/2608.04268)|null|
-|**2026-08-04**|**SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization**|Boyao Wang et.al.|[2608.04084](http://arxiv.org/abs/2608.04084)|null|
+|**2026-08-04**|**SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization**|Boyao Wang et.al.|[2608.04084](http://arxiv.org/abs/2608.04084)|**[link](https://github.com/Beryex/SpecDrop)**|
 |**2026-08-04**|**Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations**|Zizhao Hu et.al.|[2608.03970](http://arxiv.org/abs/2608.03970)|null|
 |**2026-08-04**|**Omega-S: A Functional Resilience Index for LLM Fine-Tuning**|Alberto Acedo et.al.|[2608.03887](http://arxiv.org/abs/2608.03887)|null|
 |**2026-08-04**|**Evaluating MFU as a Proxy for GPU Power for Energy-Aware Simulation of LLM Training**|Niklas Enskat et.al.|[2608.03880](http://arxiv.org/abs/2608.03880)|null|
@@ -1263,7 +1263,7 @@ layout: default
 |**2026-07-27**|**Less Data, Better Alignment: Data-Centric Multi-Evaluator Agreement for Preference Optimization**|Zhengtao Yao et.al.|[2607.25136](http://arxiv.org/abs/2607.25136)|null|
 |**2026-07-27**|**Towards Robust Reinforcement Learning for Small-Scale Language Model Agents**|Md Rezwanul Haque et.al.|[2607.25091](http://arxiv.org/abs/2607.25091)|null|
 |**2026-07-27**|**DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data**|Zhen Huang et.al.|[2607.24717](http://arxiv.org/abs/2607.24717)|null|
-|**2026-07-27**|**Beyond Scale and Generation: Understanding Language Model-based Entity Matching**|Zeyu Zhang et.al.|[2607.24688](http://arxiv.org/abs/2607.24688)|null|
+|**2026-07-27**|**Beyond Scale and Generation: Understanding Language Model-based Entity Matching**|Zeyu Zhang et.al.|[2607.24688](http://arxiv.org/abs/2607.24688)|**[link](https://github.com/Jantory/llm-trained-matcher)**|
 |**2026-07-27**|**DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes**|Jiahao Xie et.al.|[2607.24516](http://arxiv.org/abs/2607.24516)|null|
 |**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|**[link](https://github.com/walker-hyf/FacialTalker)**|
 |**2026-07-27**|**DynaCalKV: Key-Value Cache Compression via Head Grouping and Adaptive Rank Allocation**|Tan T. Nguyen et.al.|[2607.24331](http://arxiv.org/abs/2607.24331)|null|
