@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -443,6 +443,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation**|Yang Shen et.al.|[2608.07154](http://arxiv.org/abs/2608.07154)|**[link](https://github.com/yshenfab/xEI)**|
+|**2026-08-07**|**Unordered Landmark Visual Navigation**|Hao Ren et.al.|[2608.06833](http://arxiv.org/abs/2608.06833)|null|
+|**2026-08-07**|**Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence**|Ying Chen et.al.|[2608.06756](http://arxiv.org/abs/2608.06756)|null|
+|**2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Guiyu Zhao et.al.|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
 |**2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Saugat Adhikari et.al.|[2608.06161](http://arxiv.org/abs/2608.06161)|**[link](https://github.com/thenaivekid/iARCS)**|
 |**2026-08-06**|**IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation**|Zhixiang Chen et.al.|[2608.06088](http://arxiv.org/abs/2608.06088)|null|
 |**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|

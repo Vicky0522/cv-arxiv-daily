@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -445,12 +445,16 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260810>back to top</a>)</p>
 
 ## embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-07**|**Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation**|Yang Shen et.al.|[2608.07154](http://arxiv.org/abs/2608.07154)|**[link](https://github.com/yshenfab/xEI)**|
+|**2026-08-07**|**Unordered Landmark Visual Navigation**|Hao Ren et.al.|[2608.06833](http://arxiv.org/abs/2608.06833)|null|
+|**2026-08-07**|**Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence**|Ying Chen et.al.|[2608.06756](http://arxiv.org/abs/2608.06756)|null|
+|**2026-08-07**|**AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models**|Guiyu Zhao et.al.|[2608.06729](http://arxiv.org/abs/2608.06729)|null|
 |**2026-08-06**|**iARCS: Iterative Agentic RL for Controllable 3D Scene Generation**|Saugat Adhikari et.al.|[2608.06161](http://arxiv.org/abs/2608.06161)|**[link](https://github.com/thenaivekid/iARCS)**|
 |**2026-08-06**|**IcFuzz: Fuzzing Isaac Sim with Semantic Stage Guidance and Multi-level Mutation**|Zhixiang Chen et.al.|[2608.06088](http://arxiv.org/abs/2608.06088)|null|
 |**2026-08-06**|**Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation**|He Kong et.al.|[2608.05999](http://arxiv.org/abs/2608.05999)|null|
@@ -704,7 +708,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260810>back to top</a>)</p>
 
 ## image generation
 
@@ -1211,7 +1215,7 @@
 |**2026-04-13**|**Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**|Samuel Cahyawijaya et.al.|[2604.11490](http://arxiv.org/abs/2604.11490)|null|
 |**2026-04-13**|**Degradation-Aware and Structure-Preserving Diffusion for Real-World Image Super-Resolution**|Yang Ji et.al.|[2604.11470](http://arxiv.org/abs/2604.11470)|**[link](https://github.com/jiyang0315/DASP-SR)**|
 
-<p align=right>(<a href=#Updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260810>back to top</a>)</p>
 
 ## LLM training
 
@@ -1681,7 +1685,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260810>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
