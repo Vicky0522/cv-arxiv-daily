@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|**[link](https://github.com/Lat-Dyn-Reason/Lat-Dyn-Reason)**|
+|**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
+|**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|null|
+|**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Qu Tang et.al.|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
+|**2026-08-10**|**Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models**|Kevin Murphy et.al.|[2608.09696](http://arxiv.org/abs/2608.09696)|null|
+|**2026-08-10**|**verdi: retrieval is not transfer for continual world model optimization**|Junyu Wu et.al.|[2608.09537](http://arxiv.org/abs/2608.09537)|null|
+|**2026-08-10**|**Sekai2: From World Exploration to Interactive World Modeling**|Kang He et.al.|[2608.09449](http://arxiv.org/abs/2608.09449)|**[link](https://github.com/kangverse/Sekai2-Dataset)**|
+|**2026-08-10**|**JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling**|Yihan Lin et.al.|[2608.09381](http://arxiv.org/abs/2608.09381)|null|
+|**2026-08-10**|**WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation**|Peterson Co et.al.|[2608.09298](http://arxiv.org/abs/2608.09298)|null|
+|**2026-08-10**|**Did the Grid Erase the Event? EndoClock for Auditing Medical World-Model Pipelines**|Yarin Udi et.al.|[2608.09266](http://arxiv.org/abs/2608.09266)|null|
 |**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332](http://arxiv.org/abs/2608.06332)|null|
 |**2026-08-06**|**MASS: Multiplayer World Models with Authoritative Shared State**|Ziqi Cai et.al.|[2608.06257](http://arxiv.org/abs/2608.06257)|**[link](https://github.com/alaya-lab/MASS)**|
 |**2026-08-06**|**From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks**|Christo Kurisummoottil Thomas et.al.|[2608.06227](http://arxiv.org/abs/2608.06227)|null|
@@ -443,6 +453,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
+|**2026-08-10**|**CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems**|Aimilios Hadjiliasi et.al.|[2608.09848](http://arxiv.org/abs/2608.09848)|null|
+|**2026-08-10**|**WorldSimProbe: Diagnosing Simulator Faithfulness in Action-Conditioned World Models for Embodied Manipulation**|Peterson Co et.al.|[2608.09298](http://arxiv.org/abs/2608.09298)|null|
+|**2026-08-10**|**SAIN: Structure-Aware Interactive Navigation with Active Dialogue Grounding for Mobile Robot**|Yuhao Cao et.al.|[2608.09196](http://arxiv.org/abs/2608.09196)|null|
+|**2026-08-09**|**360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents**|Kenta Watanabe et.al.|[2608.08814](http://arxiv.org/abs/2608.08814)|null|
+|**2026-08-09**|**Sensing-Induced Embodied Communication in the Near Field**|Jingreng Lei et.al.|[2608.08731](http://arxiv.org/abs/2608.08731)|null|
+|**2026-08-09**|**Discovering Diverse Planning Policies for Multimodal Embodied Agents with Quality-Diversity Optimization**|Pengfei Xu et.al.|[2608.08523](http://arxiv.org/abs/2608.08523)|null|
+|**2026-08-09**|**TrustRoboReward: Preference-Ordered Isotonic Score Editing for Multi-Paradigm Robot Reward Models**|Yidong Wang et.al.|[2608.08491](http://arxiv.org/abs/2608.08491)|null|
+|**2026-08-08**|**Action- and Language-Conditioned Video Assessment for Embodied Control**|Hwanhee Kim et.al.|[2608.08273](http://arxiv.org/abs/2608.08273)|null|
+|**2026-08-08**|**Multi-modal Interactive Control of Robotic Arm based on Offline Large Language Models**|Hanxiao Chen et.al.|[2608.08183](http://arxiv.org/abs/2608.08183)|**[link](https://github.com/2000222/Socratic-Models-ChatGLM)**|
 |**2026-08-07**|**Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation**|Yang Shen et.al.|[2608.07154](http://arxiv.org/abs/2608.07154)|**[link](https://github.com/yshenfab/xEI)**|
 |**2026-08-07**|**Unordered Landmark Visual Navigation**|Hao Ren et.al.|[2608.06833](http://arxiv.org/abs/2608.06833)|null|
 |**2026-08-07**|**Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence**|Ying Chen et.al.|[2608.06756](http://arxiv.org/abs/2608.06756)|null|
@@ -704,6 +724,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|**[link](https://github.com/Lat-Dyn-Reason/Lat-Dyn-Reason)**|
+|**2026-08-10**|**DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation**|Zian Li et.al.|[2608.09637](http://arxiv.org/abs/2608.09637)|null|
+|**2026-08-10**|**You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows**|Jonas Leo Mueller et.al.|[2608.09579](http://arxiv.org/abs/2608.09579)|null|
+|**2026-08-10**|**Towards Expressive and Faithful Audio-to-Image Generation: A Unified Multimodal Dataset and Synthesis Framework**|Dongxu Ge et.al.|[2608.09529](http://arxiv.org/abs/2608.09529)|null|
+|**2026-08-10**|**GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction**|Khang Minh Le et.al.|[2608.09493](http://arxiv.org/abs/2608.09493)|null|
+|**2026-08-10**|**Global boundedness and stabilization for a three-component reaction-diffusion model with dual-dependent motility**|Hai-Yang Jin et.al.|[2608.09491](http://arxiv.org/abs/2608.09491)|null|
+|**2026-08-10**|**Graph-Guided Safe Diffuser: Topological Graph Guidance for Safe Diffusion Planning**|Nakgyu Yang et.al.|[2608.09484](http://arxiv.org/abs/2608.09484)|null|
+|**2026-08-10**|**MixFormer: Linear Transformer with Mixture of Memory Experts**|Yu Guo et.al.|[2608.09468](http://arxiv.org/abs/2608.09468)|null|
+|**2026-08-10**|**DiffSafeMerge: Mitigating Backdoor Inheritance in Diffusion Model Merging**|Jiayang Zhang et.al.|[2608.09445](http://arxiv.org/abs/2608.09445)|null|
+|**2026-08-10**|**Unveiling the Secret of AdaLN-Zero in Diffusion Transformer**|Jie Zhu et.al.|[2608.09438](http://arxiv.org/abs/2608.09438)|null|
 |**2026-08-06**|**OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations**|Robin Trombetta et.al.|[2608.06264](http://arxiv.org/abs/2608.06264)|null|
 |**2026-08-06**|**Sample-Adaptive Latent Rewards for Uncertainty-Guided Diffusion Post-Training**|Rui Li et.al.|[2608.06125](http://arxiv.org/abs/2608.06125)|null|
 |**2026-08-06**|**Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case**|Shilin Hu et.al.|[2608.06075](http://arxiv.org/abs/2608.06075)|null|
@@ -1194,21 +1224,21 @@ layout: default
 |**2026-04-14**|**T2I-BiasBench: A Multi-Metric Framework for Auditing Demographic and Cultural Bias in Text-to-Image Models**|Nihal Jaiswal et.al.|[2604.12481](http://arxiv.org/abs/2604.12481)|null|
 |**2026-04-14**|**Scaling Exposes the Trigger: Input-Level Backdoor Detection in Text-to-Image Diffusion Models via Cross-Attention Scaling**|Zida Li et.al.|[2604.12446](http://arxiv.org/abs/2604.12446)|**[link](https://github.com/Ninja-Eric/SetT2I)**|
 |**2026-04-14**|**Bridging the Micro--Macro Gap: Frequency-Aware Semantic Alignment for Image Manipulation Localization**|Xiaojie Liang et.al.|[2604.12341](http://arxiv.org/abs/2604.12341)|null|
-|**2026-04-13**|**Diffusing diffusivity model with dichotomous noise**|Dongho Lee et.al.|[2604.11800](http://arxiv.org/abs/2604.11800)|null|
-|**2026-04-13**|**LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling**|Yuxin Chen et.al.|[2604.11748](http://arxiv.org/abs/2604.11748)|null|
-|**2026-04-13**|**On the Robustness of Watermarking for Autoregressive Image Generation**|Andreas Müller et.al.|[2604.11720](http://arxiv.org/abs/2604.11720)|null|
-|**2026-04-13**|**Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction**|Efstathios Karypidis et.al.|[2604.11707](http://arxiv.org/abs/2604.11707)|**[link](https://github.com/Sta8is/Re2Pix)**|
-|**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|null|
-|**2026-04-13**|**RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time**|Haozhe Wang et.al.|[2604.11626](http://arxiv.org/abs/2604.11626)|null|
-|**2026-04-13**|**Progressively Texture-Aware Diffusion for Contrast-Enhanced Sparse-View CT**|Tianqi Wang et.al.|[2604.11559](http://arxiv.org/abs/2604.11559)|**[link](https://github.com/Wenchao-Du/PTD)**|
-|**2026-04-13**|**Continuous Adversarial Flow Models**|Shanchuan Lin et.al.|[2604.11521](http://arxiv.org/abs/2604.11521)|null|
-|**2026-04-13**|**Anthropogenic Regional Adaptation in Multimodal Vision-Language Model**|Samuel Cahyawijaya et.al.|[2604.11490](http://arxiv.org/abs/2604.11490)|null|
-|**2026-04-13**|**Degradation-Aware and Structure-Preserving Diffusion for Real-World Image Super-Resolution**|Yang Ji et.al.|[2604.11470](http://arxiv.org/abs/2604.11470)|**[link](https://github.com/jiyang0315/DASP-SR)**|
 
 ## LLM training
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning**|Mainak Singha et.al.|[2608.09907](http://arxiv.org/abs/2608.09907)|null|
+|**2026-08-10**|**MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation**|Haoyu Yang et.al.|[2608.09818](http://arxiv.org/abs/2608.09818)|**[link](https://github.com/yhy-whu/Medpixel)**|
+|**2026-08-10**|**Open Evaluation Agent: Efficient and Promptable Evaluation of Visual Generative Models**|Shulin Tian et.al.|[2608.09666](http://arxiv.org/abs/2608.09666)|null|
+|**2026-08-10**|**Listwise Cross-Encoder Fine-Tuning vs. Agentic Instruction Tuning for LLM Rerankers: A Systematic Study in Medical Procedure Reranking**|Matan Fainzilber et.al.|[2608.09650](http://arxiv.org/abs/2608.09650)|null|
+|**2026-08-10**|**TSPORec: Token Selection via Preference Optimization for LLM-Based Sequential Recommendation**|Wenqiao Zhu et.al.|[2608.09605](http://arxiv.org/abs/2608.09605)|null|
+|**2026-08-10**|**FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving**|Guolei Huang et.al.|[2608.09591](http://arxiv.org/abs/2608.09591)|null|
+|**2026-08-10**|**Se-DPO: Self-Evolving Token Credit for Direct Preference Optimization**|Wenxiao Zhao et.al.|[2608.09568](http://arxiv.org/abs/2608.09568)|null|
+|**2026-08-10**|**ZetaGPT: A Reference Implementation of Positional--Encoding--Free State--Space--Attention Language Models**|Róisín Luo et.al.|[2608.09432](http://arxiv.org/abs/2608.09432)|null|
+|**2026-08-10**|**Reducing Pretraining-Generation Mismatch in Diffusion Language Models**|Xiaocheng Lu et.al.|[2608.09424](http://arxiv.org/abs/2608.09424)|null|
+|**2026-08-10**|**SoftmaxGRPO: Learning to Reason using Softmax Advantage Group Estimation**|Jefferson Hernandez et.al.|[2608.09271](http://arxiv.org/abs/2608.09271)|null|
 |**2026-08-06**|**Learning When to Trust via Selective Context Preference Optimization**|Xian Sun et.al.|[2608.06377](http://arxiv.org/abs/2608.06377)|**[link](https://github.com/worldbench/SCOPE)**|
 |**2026-08-06**|**MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction**|Dohyun Ku et.al.|[2608.06253](http://arxiv.org/abs/2608.06253)|null|
 |**2026-08-06**|**A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance**|Fardin Afdideh et.al.|[2608.06246](http://arxiv.org/abs/2608.06246)|**[link](https://github.com/ki-smile/post-training-taxonomy)**|
