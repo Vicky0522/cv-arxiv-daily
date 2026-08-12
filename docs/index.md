@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915](http://arxiv.org/abs/2608.10915)|null|
+|**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Zitong Shan et.al.|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
+|**2026-08-11**|**PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots**|Shuo Bao et.al.|[2608.10449](http://arxiv.org/abs/2608.10449)|null|
+|**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439](http://arxiv.org/abs/2608.10439)|null|
+|**2026-08-11**|**Dreamer-SAC: Off-Policy Learning in Latent World Models for Sample-Efficient Autonomous Driving**|Jiazhuo Li et.al.|[2608.10386](http://arxiv.org/abs/2608.10386)|null|
+|**2026-08-10**|**FACT: Failure-Aware Causal Training for World-Action Models**|Quanquan Peng et.al.|[2608.10232](http://arxiv.org/abs/2608.10232)|null|
+|**2026-08-10**|**A JEPA-Based Field-Layer World Model for Bridging Channel Prediction and Estimation**|Yuzhi Yang et.al.|[2608.10222](http://arxiv.org/abs/2608.10222)|null|
+|**2026-08-10**|**The Evaluation Protocol Determines the Result: An Independent Reproduction of LeWorldModel on TwoRoom**|Joyjeet Singh et.al.|[2608.10145](http://arxiv.org/abs/2608.10145)|null|
+|**2026-08-10**|**4D-WAM: 4D Consistent World Modeling for Autonomous Driving**|Jiacheng Fu et.al.|[2608.10107](http://arxiv.org/abs/2608.10107)|**[link](https://github.com/Quma233/4D-WAM)**|
 |**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|**[link](https://github.com/Lat-Dyn-Reason/Lat-Dyn-Reason)**|
 |**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
 |**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915](http://arxiv.org/abs/2608.10915)|null|
+|**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Zitong Shan et.al.|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
+|**2026-08-11**|**PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots**|Shuo Bao et.al.|[2608.10449](http://arxiv.org/abs/2608.10449)|null|
+|**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439](http://arxiv.org/abs/2608.10439)|null|
+|**2026-08-11**|**Dreamer-SAC: Off-Policy Learning in Latent World Models for Sample-Efficient Autonomous Driving**|Jiazhuo Li et.al.|[2608.10386](http://arxiv.org/abs/2608.10386)|null|
+|**2026-08-10**|**FACT: Failure-Aware Causal Training for World-Action Models**|Quanquan Peng et.al.|[2608.10232](http://arxiv.org/abs/2608.10232)|null|
+|**2026-08-10**|**A JEPA-Based Field-Layer World Model for Bridging Channel Prediction and Estimation**|Yuzhi Yang et.al.|[2608.10222](http://arxiv.org/abs/2608.10222)|null|
+|**2026-08-10**|**The Evaluation Protocol Determines the Result: An Independent Reproduction of LeWorldModel on TwoRoom**|Joyjeet Singh et.al.|[2608.10145](http://arxiv.org/abs/2608.10145)|null|
+|**2026-08-10**|**4D-WAM: 4D Consistent World Modeling for Autonomous Driving**|Jiacheng Fu et.al.|[2608.10107](http://arxiv.org/abs/2608.10107)|**[link](https://github.com/Quma233/4D-WAM)**|
 |**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|**[link](https://github.com/Lat-Dyn-Reason/Lat-Dyn-Reason)**|
 |**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
 |**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|null|
@@ -455,7 +464,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
 
 ## embodied AI
 
@@ -728,7 +737,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
 
 ## image generation
 
@@ -1235,7 +1244,7 @@
 |**2026-04-14**|**Scaling Exposes the Trigger: Input-Level Backdoor Detection in Text-to-Image Diffusion Models via Cross-Attention Scaling**|Zida Li et.al.|[2604.12446](http://arxiv.org/abs/2604.12446)|**[link](https://github.com/Ninja-Eric/SetT2I)**|
 |**2026-04-14**|**Bridging the Micro--Macro Gap: Frequency-Aware Semantic Alignment for Image Manipulation Localization**|Xiaojie Liang et.al.|[2604.12341](http://arxiv.org/abs/2604.12341)|null|
 
-<p align=right>(<a href=#Updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
 
 ## LLM training
 
@@ -1715,7 +1724,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260811>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
