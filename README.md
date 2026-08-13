@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -470,7 +470,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 
 ## embodied AI
 
@@ -747,7 +747,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 
 ## image generation
 
@@ -1254,12 +1254,20 @@
 |**2026-04-15**|**Reconstruction of a 3D wireframe from a single line drawing via generative depth estimation**|Elton Cao et.al.|[2604.13549](http://arxiv.org/abs/2604.13549)|null|
 |**2026-04-15**|**LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design**|Chaoran Zhang et.al.|[2604.13520](http://arxiv.org/abs/2604.13520)|null|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization**|Byungoh Ko et.al.|[2608.12158](http://arxiv.org/abs/2608.12158)|**[link](https://github.com/byungohko59/C2-DPO)**|
+|**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062](http://arxiv.org/abs/2608.12062)|null|
+|**2026-08-12**|**HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion**|Wenshuo Peng et.al.|[2608.11913](http://arxiv.org/abs/2608.11913)|null|
+|**2026-08-12**|**Reinforcing Step-level Reasoning for Effective Self-Correction in LLMs**|Vu Duc Anh et.al.|[2608.11573](http://arxiv.org/abs/2608.11573)|null|
+|**2026-08-11**|**From Prompting to Behavioral Alignment: Personalized LLM Judges for Recommendation Evaluation**|Alireza S. Ziabari et.al.|[2608.11493](http://arxiv.org/abs/2608.11493)|null|
+|**2026-08-11**|**The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark**|Jeremy Spence et.al.|[2608.11469](http://arxiv.org/abs/2608.11469)|null|
+|**2026-08-11**|**Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models**|Alexandrine Fortier et.al.|[2608.11426](http://arxiv.org/abs/2608.11426)|null|
+|**2026-08-11**|**When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs**|Utkarsh Bahuguna et.al.|[2608.11403](http://arxiv.org/abs/2608.11403)|null|
 |**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|null|
 |**2026-08-11**|**Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching**|Jian Zhang et.al.|[2608.11030](http://arxiv.org/abs/2608.11030)|null|
 |**2026-08-11**|**MVTrack: Ultrafast Appearance-Free Moving Object Tracking from Compressed Bitstreams**|Iñaki Erregue et.al.|[2608.10790](http://arxiv.org/abs/2608.10790)|null|
@@ -1741,7 +1749,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

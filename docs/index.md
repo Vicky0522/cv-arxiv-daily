@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1248,6 +1248,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization**|Byungoh Ko et.al.|[2608.12158](http://arxiv.org/abs/2608.12158)|**[link](https://github.com/byungohko59/C2-DPO)**|
+|**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062](http://arxiv.org/abs/2608.12062)|null|
+|**2026-08-12**|**HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion**|Wenshuo Peng et.al.|[2608.11913](http://arxiv.org/abs/2608.11913)|null|
+|**2026-08-12**|**Reinforcing Step-level Reasoning for Effective Self-Correction in LLMs**|Vu Duc Anh et.al.|[2608.11573](http://arxiv.org/abs/2608.11573)|null|
+|**2026-08-11**|**From Prompting to Behavioral Alignment: Personalized LLM Judges for Recommendation Evaluation**|Alireza S. Ziabari et.al.|[2608.11493](http://arxiv.org/abs/2608.11493)|null|
+|**2026-08-11**|**The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark**|Jeremy Spence et.al.|[2608.11469](http://arxiv.org/abs/2608.11469)|null|
+|**2026-08-11**|**Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models**|Alexandrine Fortier et.al.|[2608.11426](http://arxiv.org/abs/2608.11426)|null|
+|**2026-08-11**|**When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs**|Utkarsh Bahuguna et.al.|[2608.11403](http://arxiv.org/abs/2608.11403)|null|
 |**2026-08-11**|**Scheduling Mixed RL Rollouts Beyond Prefix Locality**|Zetao Hong et.al.|[2608.11152](http://arxiv.org/abs/2608.11152)|null|
 |**2026-08-11**|**Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching**|Jian Zhang et.al.|[2608.11030](http://arxiv.org/abs/2608.11030)|null|
 |**2026-08-11**|**MVTrack: Ultrafast Appearance-Free Moving Object Tracking from Compressed Bitstreams**|Iñaki Erregue et.al.|[2608.10790](http://arxiv.org/abs/2608.10790)|null|
