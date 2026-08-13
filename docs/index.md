@@ -14,13 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence**|Aman Tyagi et.al.|[2608.12290](http://arxiv.org/abs/2608.12290)|null|
+|**2026-08-12**|**Better Slots, Better Worlds: Representation Quality & Robustness in Object-Centric World Models**|Shukrullo Nazirjonov et.al.|[2608.12078](http://arxiv.org/abs/2608.12078)|null|
+|**2026-08-12**|**How Can Driving World Models Do Counterfactual Prediction?**|Jiaru Zhang et.al.|[2608.11601](http://arxiv.org/abs/2608.11601)|null|
 |**2026-08-11**|**Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning**|Wenrui Bao et.al.|[2608.11204](http://arxiv.org/abs/2608.11204)|null|
 |**2026-08-11**|**VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics**|Bowei Liu et.al.|[2608.11201](http://arxiv.org/abs/2608.11201)|null|
-|**2026-08-11**|**VIScore: Diagnosing Planning-Relevant Quality in Latent World Models**|Haiyu Wu et.al.|[2608.11174](http://arxiv.org/abs/2608.11174)|null|
+|**2026-08-12**|**VIScore: Diagnosing Planning-Relevant Quality in Latent World Models**|Haiyu Wu et.al.|[2608.11174](http://arxiv.org/abs/2608.11174)|null|
 |**2026-08-11**|**MAJEPPA: Morphing and Assessing in a Unified Piano Performance Space**|Jinwen Zhou et.al.|[2608.11026](http://arxiv.org/abs/2608.11026)|**[link](https://github.com/kkwsts/majeppa)**|
 |**2026-08-11**|**R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video**|Ke Ma et.al.|[2608.11017](http://arxiv.org/abs/2608.11017)|null|
 |**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013](http://arxiv.org/abs/2608.11013)|null|
-|**2026-08-11**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915](http://arxiv.org/abs/2608.10915)|null|
+|**2026-08-12**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915](http://arxiv.org/abs/2608.10915)|null|
 |**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Zitong Shan et.al.|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
 |**2026-08-11**|**PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots**|Shuo Bao et.al.|[2608.10449](http://arxiv.org/abs/2608.10449)|null|
 |**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439](http://arxiv.org/abs/2608.10439)|null|
@@ -468,8 +471,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308](http://arxiv.org/abs/2608.12308)|null|
+|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|**[link](https://github.com/cvg/Map-Det3D)**|
+|**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Zhenjie Yang et.al.|[2608.12122](http://arxiv.org/abs/2608.12122)|null|
+|**2026-08-12**|**D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics**|Anh Duc Do et.al.|[2608.11876](http://arxiv.org/abs/2608.11876)|null|
+|**2026-08-12**|**HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting**|Xikai Sun et.al.|[2608.11692](http://arxiv.org/abs/2608.11692)|null|
+|**2026-08-11**|**Language-Structured Relational Q-Learning for Threat-Aware Control in Safety-Critical Driving**|Aditya Humnabadkar et.al.|[2608.11498](http://arxiv.org/abs/2608.11498)|null|
+|**2026-08-11**|**Self-Evolving Embodied Agents via Skill-Harness Evolution**|Peidong Wang et.al.|[2608.11350](http://arxiv.org/abs/2608.11350)|null|
 |**2026-08-11**|**HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation**|Raphael Lorenzo-Louis et.al.|[2608.11051](http://arxiv.org/abs/2608.11051)|null|
-|**2026-08-11**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915](http://arxiv.org/abs/2608.10915)|null|
+|**2026-08-12**|**ComBodied Agents: a New Paradigm of Human-Centric Agentic AI**|Qianggang Ding et.al.|[2608.10915](http://arxiv.org/abs/2608.10915)|null|
 |**2026-08-11**|**Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models**|Kiet T. Nguyen et.al.|[2608.10864](http://arxiv.org/abs/2608.10864)|null|
 |**2026-08-11**|**Toward the Cognitive--Physical Limits of Embodied Intelligence through a World-Model-Centric Autonomous Racing Agent**|Zitong Shan et.al.|[2608.10618](http://arxiv.org/abs/2608.10618)|null|
 |**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
@@ -743,6 +753,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling**|Jinxiu Liu et.al.|[2608.12276](http://arxiv.org/abs/2608.12276)|null|
+|**2026-08-12**|**GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors**|Jiazheng Liu et.al.|[2608.12203](http://arxiv.org/abs/2608.12203)|null|
+|**2026-08-12**|**Understanding Why Foundation Models Work for Diffusion-Generated Image Detection**|Davide Cozzolino et.al.|[2608.12155](http://arxiv.org/abs/2608.12155)|null|
+|**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Zhenjie Yang et.al.|[2608.12122](http://arxiv.org/abs/2608.12122)|null|
+|**2026-08-12**|**RA-ClipScore: Making Generative Model Evaluation More Interpretable**|Yifan Lu et.al.|[2608.12088](http://arxiv.org/abs/2608.12088)|null|
+|**2026-08-12**|**Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion**|David Bechtoldt et.al.|[2608.12083](http://arxiv.org/abs/2608.12083)|null|
+|**2026-08-12**|**Evaluating and Calibrating Diffusion Model-derived Uncertainty for Quantitative MRI Mapping**|Shishuai Wang et.al.|[2608.11942](http://arxiv.org/abs/2608.11942)|null|
+|**2026-08-12**|**CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation**|Xue Yang et.al.|[2608.11884](http://arxiv.org/abs/2608.11884)|null|
+|**2026-08-12**|**CoDiR: Confidence-Guided Diffusion Refinement for Semi-Supervised Histopathology Segmentation**|Hoai Nhan Pham et.al.|[2608.11807](http://arxiv.org/abs/2608.11807)|null|
+|**2026-08-12**|**Dual Modality Prompted Diffusion Priors for Zero Shot Hyperspectral Pansharpening**|Pengwei Xie et.al.|[2608.11748](http://arxiv.org/abs/2608.11748)|null|
 |**2026-08-11**|**Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting**|Kiran Madhusudhanan et.al.|[2608.11114](http://arxiv.org/abs/2608.11114)|null|
 |**2026-08-11**|**Diffusion Quasi-Monte Carlo**|Jianlong Chen et.al.|[2608.11055](http://arxiv.org/abs/2608.11055)|**[link](https://github.com/ads2612/American-Option-LSM-Extension)**|
 |**2026-08-11**|**ReRound: Reconstructive Rounding to Resolve Midpoint Ambiguity in Calibration-Free LLM Quantization**|He-Yen Hsieh et.al.|[2608.11045](http://arxiv.org/abs/2608.11045)|**[link](https://github.com/louisYen/ReRound)**|
@@ -1233,16 +1253,6 @@ layout: default
 |**2026-04-16**|**Seen-to-Scene: Keep the Seen, Generate the Unseen for Video Outpainting**|Inseok Jeon et.al.|[2604.14648](http://arxiv.org/abs/2604.14648)|**[link](https://github.com/InSeokJeon/Seen_to_Scene)**|
 |**2026-04-16**|**Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion**|Xiangrui Xiong et.al.|[2604.14613](http://arxiv.org/abs/2604.14613)|null|
 |**2026-04-16**|**Prompt-Guided Image Editing with Masked Logit Nudging in Visual Autoregressive Models**|Amir El-Ghoussani et.al.|[2604.14591](http://arxiv.org/abs/2604.14591)|**[link](https://github.com/AmirMaEl/MLN)**|
-|**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|**[link](https://github.com/JeongHun0716/dllm-vsr)**|
-|**2026-04-15**|**Creo: From One-Shot Image Generation to Progressive, Co-Creative Ideation**|Zoe De Simone et.al.|[2604.13956](http://arxiv.org/abs/2604.13956)|null|
-|**2026-04-15**|**ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding**|Tianze Xia et.al.|[2604.13938](http://arxiv.org/abs/2604.13938)|null|
-|**2026-04-15**|**Three-dimensional photon transport in spinodal photocatalytic aerogels: how bicontinuous morphology controls kinetic rate constants**|Renaud A. L. Vallée et.al.|[2604.13929](http://arxiv.org/abs/2604.13929)|null|
-|**2026-04-15**|**Blind Bitstream-corrupted Video Recovery via Metadata-guided Diffusion Model**|Shuyun Wang et.al.|[2604.13906](http://arxiv.org/abs/2604.13906)|**[link](https://github.com/Shuyun-Wang/M-GDM)**|
-|**2026-04-15**|**PostureObjectstitch: Anomaly Image Generation Considering Assembly Relationships in Industrial Scenarios**|Zebei Tong et.al.|[2604.13863](http://arxiv.org/abs/2604.13863)|null|
-|**2026-04-15**|**DiffMagicFace: Identity Consistent Facial Editing of Real Videos**|Huanghao Yin et.al.|[2604.13841](http://arxiv.org/abs/2604.13841)|null|
-|**2026-04-15**|**EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching**|Boxuan Jiang et.al.|[2604.13685](http://arxiv.org/abs/2604.13685)|null|
-|**2026-04-15**|**Reconstruction of a 3D wireframe from a single line drawing via generative depth estimation**|Elton Cao et.al.|[2604.13549](http://arxiv.org/abs/2604.13549)|null|
-|**2026-04-15**|**LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design**|Chaoran Zhang et.al.|[2604.13520](http://arxiv.org/abs/2604.13520)|null|
 
 ## LLM training
 
