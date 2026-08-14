@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding et.al.|[2608.13552](http://arxiv.org/abs/2608.13552)|null|
+|**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
+|**2026-08-13**|**Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology**|Yunsung Chung et.al.|[2608.13518](http://arxiv.org/abs/2608.13518)|null|
+|**2026-08-13**|**AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)**| AlayaWorld Team et.al.|[2608.13492](http://arxiv.org/abs/2608.13492)|null|
+|**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**| DreamX Team et.al.|[2608.13489](http://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
+|**2026-08-13**|**A Unifying Perspective on Causal World Models: From Observations to Representations to Structure**|Avinash Kori et.al.|[2608.13456](http://arxiv.org/abs/2608.13456)|null|
+|**2026-08-13**|**ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models**|Gehan Zheng et.al.|[2608.13438](http://arxiv.org/abs/2608.13438)|null|
+|**2026-08-13**|**S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation**|Shuzhe Zhang et.al.|[2608.13103](http://arxiv.org/abs/2608.13103)|null|
+|**2026-08-13**|**H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models**|Dingyi Rong et.al.|[2608.13049](http://arxiv.org/abs/2608.13049)|null|
+|**2026-08-13**|**The Objective Is the Bottleneck: Latent World Models Encode What Their Planners Cannot Use**|Joyjeet Singh et.al.|[2608.12959](http://arxiv.org/abs/2608.12959)|null|
 |**2026-08-12**|**Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence**|Aman Tyagi et.al.|[2608.12290](http://arxiv.org/abs/2608.12290)|null|
 |**2026-08-12**|**Better Slots, Better Worlds: Representation Quality & Robustness in Object-Centric World Models**|Shukrullo Nazirjonov et.al.|[2608.12078](http://arxiv.org/abs/2608.12078)|null|
 |**2026-08-12**|**How Can Driving World Models Do Counterfactual Prediction?**|Jiaru Zhang et.al.|[2608.11601](http://arxiv.org/abs/2608.11601)|null|
@@ -471,6 +481,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Yukun Dai et.al.|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
+|**2026-08-13**|**Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes**|Aimilios Hadjiliasi et.al.|[2608.13420](http://arxiv.org/abs/2608.13420)|null|
+|**2026-08-13**|**Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes**|Nico Heider et.al.|[2608.13095](http://arxiv.org/abs/2608.13095)|null|
+|**2026-08-13**|**Energy Efficiency Maximization for FAS-Assisted Downlink Communication in Mobile Embodied AI Networks (MEAN) over Interference Channels**|Ruopeng Xu et.al.|[2608.12849](http://arxiv.org/abs/2608.12849)|null|
+|**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
+|**2026-08-13**|**FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition**|Zhou Chen et.al.|[2608.12683](http://arxiv.org/abs/2608.12683)|null|
 |**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308](http://arxiv.org/abs/2608.12308)|null|
 |**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|**[link](https://github.com/cvg/Map-Det3D)**|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Zhenjie Yang et.al.|[2608.12122](http://arxiv.org/abs/2608.12122)|null|
@@ -753,6 +769,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**SCULPT: Subtractive Composition for 3D Part Generation**|Sikuang Li et.al.|[2608.13541](http://arxiv.org/abs/2608.13541)|null|
+|**2026-08-13**|**SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation**|Jisoo Jeong et.al.|[2608.13460](http://arxiv.org/abs/2608.13460)|null|
+|**2026-08-13**|**Evaluation of Clinically Steerable Retinal Image Generation from Foundation Model Latent Spaces**|Zuzanna A. Wakefield-Skórniewska et.al.|[2608.13455](http://arxiv.org/abs/2608.13455)|null|
+|**2026-08-13**|**Wasserstein Filtering: A Sample Selection Method for Robust Distribution Learning**|Yikai Xu et.al.|[2608.13418](http://arxiv.org/abs/2608.13418)|null|
+|**2026-08-13**|**HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models**|Jiazi Bu et.al.|[2608.13205](http://arxiv.org/abs/2608.13205)|**[link](https://github.com/Bujiazi/HPSD)**|
+|**2026-08-13**|**Using Diffusion Models to Estimate Uncertainties in Analytic Continuation**|Sagi Meir et.al.|[2608.13123](http://arxiv.org/abs/2608.13123)|null|
+|**2026-08-13**|**Towards Physics-Faithful Generation of Scientific Diagrams**|Minghui Zhang et.al.|[2608.13112](http://arxiv.org/abs/2608.13112)|null|
+|**2026-08-13**|**FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching**|Zhuohan Wang et.al.|[2608.13096](http://arxiv.org/abs/2608.13096)|null|
+|**2026-08-13**|**Learning Discrete Decisions for MIPs with Constraint-Aware Diffusion**|Vincenzo Di Vito et.al.|[2608.13079](http://arxiv.org/abs/2608.13079)|null|
+|**2026-08-13**|**From Local Mismatch to Global Impact: Optimizing Cache Reuse Policy for Efficient Diffusion**|Xichen Ye et.al.|[2608.13043](http://arxiv.org/abs/2608.13043)|null|
 |**2026-08-12**|**XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling**|Jinxiu Liu et.al.|[2608.12276](http://arxiv.org/abs/2608.12276)|null|
 |**2026-08-12**|**GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors**|Jiazheng Liu et.al.|[2608.12203](http://arxiv.org/abs/2608.12203)|null|
 |**2026-08-12**|**Understanding Why Foundation Models Work for Diffusion-Generated Image Detection**|Davide Cozzolino et.al.|[2608.12155](http://arxiv.org/abs/2608.12155)|null|
@@ -1243,16 +1269,6 @@ layout: default
 |**2026-04-17**|**Beyond Text Prompts: Precise Concept Erasure through Text-Image Collaboration**|Jun Li et.al.|[2604.15829](http://arxiv.org/abs/2604.15829)|null|
 |**2026-04-17**|**Neural Continuous-Time Markov Chain: Discrete Diffusion via Decoupled Jump Timing and Direction**|Jingyuan Li et.al.|[2604.15694](http://arxiv.org/abs/2604.15694)|null|
 |**2026-04-17**|**CLIMB: Controllable Longitudinal Brain Image Generation using Mamba-based Latent Diffusion Model and Gaussian-aligned Autoencoder**|Duy-Phuong Dao et.al.|[2604.15611](http://arxiv.org/abs/2604.15611)|null|
-|**2026-04-16**|**TokenLight: Precise Lighting Control in Images using Attribute Tokens**|Sumit Chaturvedi et.al.|[2604.15310](http://arxiv.org/abs/2604.15310)|**[link](https://github.com/Vrroom/VisibleFixture-60)**|
-|**2026-04-16**|**An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation**|Onno Niemann et.al.|[2604.15171](http://arxiv.org/abs/2604.15171)|**[link](https://github.com/OnnoNiemann/fp_diffusion_analysis)**|
-|**2026-04-16**|**Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching**|Aihua Li et.al.|[2604.15009](http://arxiv.org/abs/2604.15009)|null|
-|**2026-04-16**|**Diffusion Crossover: Defining Evolutionary Recombination in Diffusion Models via Noise Sequence Interpolation**|Chisatao Kumada et.al.|[2604.14790](http://arxiv.org/abs/2604.14790)|null|
-|**2026-04-16**|**Constraint-based Pre-training: From Structured Constraints to Scalable Model Initialization**|Fu Feng et.al.|[2604.14769](http://arxiv.org/abs/2604.14769)|null|
-|**2026-04-16**|**SynHAT: A Two-stage Coarse-to-Fine Diffusion Framework for Synthesizing Human Activity Traces**|Rongchao Xu et.al.|[2604.14705](http://arxiv.org/abs/2604.14705)|null|
-|**2026-04-16**|**Mean Flow Policy Optimization**|Xiaoyi Dong et.al.|[2604.14698](http://arxiv.org/abs/2604.14698)|**[link](https://github.com/dongxiaoyi-xyz/MFPO)**|
-|**2026-04-16**|**Seen-to-Scene: Keep the Seen, Generate the Unseen for Video Outpainting**|Inseok Jeon et.al.|[2604.14648](http://arxiv.org/abs/2604.14648)|**[link](https://github.com/InSeokJeon/Seen_to_Scene)**|
-|**2026-04-16**|**Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion**|Xiangrui Xiong et.al.|[2604.14613](http://arxiv.org/abs/2604.14613)|null|
-|**2026-04-16**|**Prompt-Guided Image Editing with Masked Logit Nudging in Visual Autoregressive Models**|Amir El-Ghoussani et.al.|[2604.14591](http://arxiv.org/abs/2604.14591)|**[link](https://github.com/AmirMaEl/MLN)**|
 
 ## LLM training
 
