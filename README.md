@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -473,7 +473,7 @@
 |**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
 |**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
-<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260814>back to top</a>)</p>
 
 ## embodied AI
 
@@ -757,7 +757,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260814>back to top</a>)</p>
 
 ## image generation
 
@@ -1264,12 +1264,21 @@
 |**2026-04-16**|**Uncertainty-aware Generative Learning Path Recommendation with Cognition-Adaptive Diffusion**|Xiangrui Xiong et.al.|[2604.14613](http://arxiv.org/abs/2604.14613)|null|
 |**2026-04-16**|**Prompt-Guided Image Editing with Masked Logit Nudging in Visual Autoregressive Models**|Amir El-Ghoussani et.al.|[2604.14591](http://arxiv.org/abs/2604.14591)|**[link](https://github.com/AmirMaEl/MLN)**|
 
-<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260814>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity**|Irina Proskurina et.al.|[2608.13430](http://arxiv.org/abs/2608.13430)|null|
+|**2026-08-13**|**Rules or Character? Scaling Laws for AI Safety Design**|Satoshi Takahashi et.al.|[2608.13345](http://arxiv.org/abs/2608.13345)|null|
+|**2026-08-13**|**Refine After Generation: Toward Correct and Concise Patches in LLM-based Program Repair**|Wenqiang Luo et.al.|[2608.13292](http://arxiv.org/abs/2608.13292)|null|
+|**2026-08-13**|**EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding**|Shuailei Zhang et.al.|[2608.13072](http://arxiv.org/abs/2608.13072)|null|
+|**2026-08-13**|**Behavioral Reprogramming of Open-Weights Models: Cognitive Plasticity and Alignment Bounds**|Lucia Malíčková et.al.|[2608.13069](http://arxiv.org/abs/2608.13069)|null|
+|**2026-08-13**|**BavGround: A Benchmark for Regional Cultural Grounding and Dialect Competence in Bavarian**|Jophin John et.al.|[2608.12894](http://arxiv.org/abs/2608.12894)|null|
+|**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
+|**2026-08-12**|**Geometric and Behavioral Stratification in Transformer Residual Streams**|Nelson Guda et.al.|[2608.12447](http://arxiv.org/abs/2608.12447)|null|
+|**2026-08-12**|**SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization**|Yuanyu Li et.al.|[2608.12443](http://arxiv.org/abs/2608.12443)|null|
 |**2026-08-12**|**Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization**|Byungoh Ko et.al.|[2608.12158](http://arxiv.org/abs/2608.12158)|**[link](https://github.com/byungohko59/C2-DPO)**|
 |**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062](http://arxiv.org/abs/2608.12062)|null|
 |**2026-08-12**|**HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion**|Wenshuo Peng et.al.|[2608.11913](http://arxiv.org/abs/2608.11913)|null|
@@ -1759,7 +1768,7 @@
 |**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
 |**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
-<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260814>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

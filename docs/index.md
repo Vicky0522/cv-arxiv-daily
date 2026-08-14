@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1258,6 +1258,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity**|Irina Proskurina et.al.|[2608.13430](http://arxiv.org/abs/2608.13430)|null|
+|**2026-08-13**|**Rules or Character? Scaling Laws for AI Safety Design**|Satoshi Takahashi et.al.|[2608.13345](http://arxiv.org/abs/2608.13345)|null|
+|**2026-08-13**|**Refine After Generation: Toward Correct and Concise Patches in LLM-based Program Repair**|Wenqiang Luo et.al.|[2608.13292](http://arxiv.org/abs/2608.13292)|null|
+|**2026-08-13**|**EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding**|Shuailei Zhang et.al.|[2608.13072](http://arxiv.org/abs/2608.13072)|null|
+|**2026-08-13**|**Behavioral Reprogramming of Open-Weights Models: Cognitive Plasticity and Alignment Bounds**|Lucia Malíčková et.al.|[2608.13069](http://arxiv.org/abs/2608.13069)|null|
+|**2026-08-13**|**BavGround: A Benchmark for Regional Cultural Grounding and Dialect Competence in Bavarian**|Jophin John et.al.|[2608.12894](http://arxiv.org/abs/2608.12894)|null|
+|**2026-08-13**|**HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models**|Fangzhou Chen et.al.|[2608.12821](http://arxiv.org/abs/2608.12821)|null|
+|**2026-08-12**|**Geometric and Behavioral Stratification in Transformer Residual Streams**|Nelson Guda et.al.|[2608.12447](http://arxiv.org/abs/2608.12447)|null|
+|**2026-08-12**|**SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization**|Yuanyu Li et.al.|[2608.12443](http://arxiv.org/abs/2608.12443)|null|
 |**2026-08-12**|**Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization**|Byungoh Ko et.al.|[2608.12158](http://arxiv.org/abs/2608.12158)|**[link](https://github.com/byungohko59/C2-DPO)**|
 |**2026-08-12**|**Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations**|Lior Baruch et.al.|[2608.12062](http://arxiv.org/abs/2608.12062)|null|
 |**2026-08-12**|**HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion**|Wenshuo Peng et.al.|[2608.11913](http://arxiv.org/abs/2608.11913)|null|
