@@ -496,7 +496,7 @@
 |**2026-08-13**|**Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence**|Haokai Zhang et.al.|[2608.12743](http://arxiv.org/abs/2608.12743)|null|
 |**2026-08-13**|**FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition**|Zhou Chen et.al.|[2608.12683](http://arxiv.org/abs/2608.12683)|null|
 |**2026-08-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al.|[2608.12308](http://arxiv.org/abs/2608.12308)|null|
-|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|null|
+|**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|**[link](https://github.com/cvg/Map-Det3D)**|
 |**2026-08-12**|**HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing**|Zhenjie Yang et.al.|[2608.12122](http://arxiv.org/abs/2608.12122)|null|
 |**2026-08-12**|**D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics**|Anh Duc Do et.al.|[2608.11876](http://arxiv.org/abs/2608.11876)|null|
 |**2026-08-12**|**HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting**|Xikai Sun et.al.|[2608.11692](http://arxiv.org/abs/2608.11692)|null|
