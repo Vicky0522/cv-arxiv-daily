@@ -17,8 +17,8 @@ layout: default
 |**2026-08-13**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding et.al.|[2608.13552](http://arxiv.org/abs/2608.13552)|null|
 |**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
 |**2026-08-13**|**Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology**|Yunsung Chung et.al.|[2608.13518](http://arxiv.org/abs/2608.13518)|null|
-|**2026-08-13**|**AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)**| AlayaWorld Team et.al.|[2608.13492](http://arxiv.org/abs/2608.13492)|null|
-|**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**| DreamX Team et.al.|[2608.13489](http://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
+|**2026-08-13**|**AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)**|AlayaWorld Team et.al.|[2608.13492](http://arxiv.org/abs/2608.13492)|null|
+|**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**|DreamX Team et.al.|[2608.13489](http://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
 |**2026-08-13**|**A Unifying Perspective on Causal World Models: From Observations to Representations to Structure**|Avinash Kori et.al.|[2608.13456](http://arxiv.org/abs/2608.13456)|null|
 |**2026-08-13**|**ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models**|Gehan Zheng et.al.|[2608.13438](http://arxiv.org/abs/2608.13438)|null|
 |**2026-08-13**|**S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation**|Shuzhe Zhang et.al.|[2608.13103](http://arxiv.org/abs/2608.13103)|null|
@@ -38,7 +38,7 @@ layout: default
 |**2026-08-11**|**PBD-AG: Persistent Baseline-Delta Active Graphs with Uncertainty-Aware Inspection for Long-Horizon Service Robots**|Shuo Bao et.al.|[2608.10449](http://arxiv.org/abs/2608.10449)|null|
 |**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439](http://arxiv.org/abs/2608.10439)|null|
 |**2026-08-11**|**Dreamer-SAC: Off-Policy Learning in Latent World Models for Sample-Efficient Autonomous Driving**|Jiazhuo Li et.al.|[2608.10386](http://arxiv.org/abs/2608.10386)|null|
-|**2026-08-10**|**FACT: Failure-Aware Causal Training for World-Action Models**|Quanquan Peng et.al.|[2608.10232](http://arxiv.org/abs/2608.10232)|null|
+|**2026-08-10**|**FACT: Failure-Aware Causal Training for World-Action Models**|Quanquan Peng et.al.|[2608.10232](http://arxiv.org/abs/2608.10232)|**[link](https://github.com/Bariona/FACT)**|
 |**2026-08-10**|**A JEPA-Based Field-Layer World Model for Bridging Channel Prediction and Estimation**|Yuzhi Yang et.al.|[2608.10222](http://arxiv.org/abs/2608.10222)|null|
 |**2026-08-10**|**The Evaluation Protocol Determines the Result: An Independent Reproduction of LeWorldModel on TwoRoom**|Joyjeet Singh et.al.|[2608.10145](http://arxiv.org/abs/2608.10145)|null|
 |**2026-08-10**|**4D-WAM: 4D Consistent World Modeling for Autonomous Driving**|Jiacheng Fu et.al.|[2608.10107](http://arxiv.org/abs/2608.10107)|**[link](https://github.com/Quma233/4D-WAM)**|
@@ -564,7 +564,7 @@ layout: default
 |**2026-07-18**|**PERA: A Perceive-Reason-Act Interface Bridging Sensing, Cognitive Reasoning, and Trustworthy Agentic Response for 6G**|Mohammad Farzanullah et.al.|[2607.16896](http://arxiv.org/abs/2607.16896)|null|
 |**2026-07-18**|**PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution**|Yang Liu et.al.|[2607.16636](http://arxiv.org/abs/2607.16636)|null|
 |**2026-07-21**|**PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**|Han Wang et.al.|[2607.16602](http://arxiv.org/abs/2607.16602)|**[link](https://github.com/Social-AI-Studio/PAVXploreRL)**|
-|**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|null|
+|**2026-07-17**|**EgoExoMoCap: Distributed Ego-Exo Human Motion Capture**|Jiaxi Jiang et.al.|[2607.15868](http://arxiv.org/abs/2607.15868)|**[link](https://github.com/eth-siplab/EgoExoMoCap)**|
 |**2026-07-16**|**When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space**|Weimeng Wang et.al.|[2607.15218](http://arxiv.org/abs/2607.15218)|null|
 |**2026-07-16**|**Scaling Behavior Foundation Model for Humanoid Robots**|Weishuai Zeng et.al.|[2607.15163](http://arxiv.org/abs/2607.15163)|**[link](https://github.com/zengweishuai/ScaleBFM)**|
 |**2026-07-16**|**Knowing You at First Glance: Inferring Apparent Personality from Faces**|Shuhuan Chen et.al.|[2607.14631](http://arxiv.org/abs/2607.14631)|**[link](https://github.com/MrHuan3/GlanceFace)**|
@@ -802,7 +802,7 @@ layout: default
 |**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|**[link](https://github.com/Lat-Dyn-Reason/Lat-Dyn-Reason)**|
 |**2026-08-10**|**DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation**|Zian Li et.al.|[2608.09637](http://arxiv.org/abs/2608.09637)|null|
 |**2026-08-10**|**You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows**|Jonas Leo Mueller et.al.|[2608.09579](http://arxiv.org/abs/2608.09579)|null|
-|**2026-08-10**|**Towards Expressive and Faithful Audio-to-Image Generation: A Unified Multimodal Dataset and Synthesis Framework**|Dongxu Ge et.al.|[2608.09529](http://arxiv.org/abs/2608.09529)|null|
+|**2026-08-10**|**Towards Expressive and Faithful Audio-to-Image Generation: A Unified Multimodal Dataset and Synthesis Framework**|Dongxu Ge et.al.|[2608.09529](http://arxiv.org/abs/2608.09529)|**[link](https://github.com/gdx012/A2I-Generation)**|
 |**2026-08-10**|**GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction**|Khang Minh Le et.al.|[2608.09493](http://arxiv.org/abs/2608.09493)|null|
 |**2026-08-10**|**Global boundedness and stabilization for a three-component reaction-diffusion model with dual-dependent motility**|Hai-Yang Jin et.al.|[2608.09491](http://arxiv.org/abs/2608.09491)|null|
 |**2026-08-10**|**Graph-Guided Safe Diffuser: Topological Graph Guidance for Safe Diffusion Planning**|Nakgyu Yang et.al.|[2608.09484](http://arxiv.org/abs/2608.09484)|null|
@@ -1127,7 +1127,7 @@ layout: default
 |**2026-05-07**|**DCR: Counterfactual Attractor Guidance for Rare Compositional Generation**|Taewon Kang et.al.|[2605.06512](http://arxiv.org/abs/2605.06512)|null|
 |**2026-05-07**|**FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction**|Fangda Chen et.al.|[2605.06509](http://arxiv.org/abs/2605.06509)|null|
 |**2026-05-07**|**MARBLE: Multi-Aspect Reward Balance for Diffusion RL**|Canyu Zhao et.al.|[2605.06507](http://arxiv.org/abs/2605.06507)|null|
-|**2026-05-07**|**FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation**|Mingfeng Lin et.al.|[2605.06421](http://arxiv.org/abs/2605.06421)|null|
+|**2026-05-07**|**FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation**|Mingfeng Lin et.al.|[2605.06421](http://arxiv.org/abs/2605.06421)|**[link](https://github.com/sleepy1231/FREPix)**|
 |**2026-05-07**|**Photonic-Implemented Efficient Deep Quantum Neural Network via Virtual-Driven Hilbert Space Expansion**|Haoran Ma et.al.|[2605.06397](http://arxiv.org/abs/2605.06397)|null|
 |**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](http://arxiv.org/abs/2605.05206)|null|
 |**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|**[link](https://github.com/vvvvvjdy/D-OPSD)**|
@@ -1250,7 +1250,7 @@ layout: default
 |**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
 |**2026-04-21**|**SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing**|Ying Zeng et.al.|[2604.19587](http://arxiv.org/abs/2604.19587)|**[link](https://github.com/vivoCameraResearch/SmartPhotoCrafter)**|
 |**2026-04-20**|**PlankFormer: Robust Plankton Instance Segmentation via MAE-Pretrained Vision Transformers and Pseudo Community Image Generation**|Masaharu Miyazaki et.al.|[2604.17856](http://arxiv.org/abs/2604.17856)|**[link](https://github.com/60assigns-jumbos/repo_1785677571_26045)**|
-|**2026-04-20**|**UniCSG: Unified High-Fidelity Content-Constrained Style-Driven Generation via Staged Semantic and Frequency Disentanglement**|Jingwei Yang et.al.|[2604.17850](http://arxiv.org/abs/2604.17850)|null|
+|**2026-04-20**|**UniCSG: Unified High-Fidelity Content-Constrained Style-Driven Generation via Staged Semantic and Frequency Disentanglement**|Jingwei Yang et.al.|[2604.17850](http://arxiv.org/abs/2604.17850)|**[link](https://github.com/Jankinwei/UniCSG)**|
 |**2026-04-20**|**Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing**|Kijung Jeon et.al.|[2604.17838](http://arxiv.org/abs/2604.17838)|null|
 |**2026-04-20**|**AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion**|Hongjie Li et.al.|[2604.17818](http://arxiv.org/abs/2604.17818)|**[link](https://github.com/awfuact/anylift)**|
 |**2026-04-20**|**Optimally Bridging Semantics and Data: Generative Semantic Communication via Schrödinger Bridge**|Dahua Gao et.al.|[2604.17802](http://arxiv.org/abs/2604.17802)|**[link](https://github.com/azizbek-coderdev/auto-repo-2604-1780289547691-4gtu)**|
@@ -1299,7 +1299,7 @@ layout: default
 |**2026-08-10**|**ELMER: Evolutionary Language Model that Explores and Refines**|Matthew Siper et.al.|[2608.10196](http://arxiv.org/abs/2608.10196)|null|
 |**2026-08-10**|**Procedural Fairness Failures in RLHF from Preference Averaging**|M P V S Gopinadh et.al.|[2608.10126](http://arxiv.org/abs/2608.10126)|null|
 |**2026-08-10**|**DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning**|Mainak Singha et.al.|[2608.09907](http://arxiv.org/abs/2608.09907)|null|
-|**2026-08-10**|**MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation**|Haoyu Yang et.al.|[2608.09818](http://arxiv.org/abs/2608.09818)|null|
+|**2026-08-10**|**MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation**|Haoyu Yang et.al.|[2608.09818](http://arxiv.org/abs/2608.09818)|**[link](https://github.com/yhy-whu/Medpixel)**|
 |**2026-08-10**|**Open Evaluation Agent: Efficient and Promptable Evaluation of Visual Generative Models**|Shulin Tian et.al.|[2608.09666](http://arxiv.org/abs/2608.09666)|null|
 |**2026-08-10**|**Listwise Cross-Encoder Fine-Tuning vs. Agentic Instruction Tuning for LLM Rerankers: A Systematic Study in Medical Procedure Reranking**|Matan Fainzilber et.al.|[2608.09650](http://arxiv.org/abs/2608.09650)|null|
 |**2026-08-10**|**TSPORec: Token Selection via Preference Optimization for LLM-Based Sequential Recommendation**|Wenqiao Zhu et.al.|[2608.09605](http://arxiv.org/abs/2608.09605)|null|
@@ -1327,7 +1327,7 @@ layout: default
 |**2026-08-04**|**The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data**|Irina Proskurina et.al.|[2608.04268](http://arxiv.org/abs/2608.04268)|null|
 |**2026-08-04**|**SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization**|Boyao Wang et.al.|[2608.04084](http://arxiv.org/abs/2608.04084)|**[link](https://github.com/Beryex/SpecDrop)**|
 |**2026-08-04**|**Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations**|Zizhao Hu et.al.|[2608.03970](http://arxiv.org/abs/2608.03970)|null|
-|**2026-08-04**|**Omega-S: A Functional Resilience Index for LLM Fine-Tuning**|Alberto Acedo et.al.|[2608.03887](http://arxiv.org/abs/2608.03887)|null|
+|**2026-08-04**|**Omega-S: A Functional Resilience Index for LLM Fine-Tuning**|Alberto Acedo et.al.|[2608.03887](http://arxiv.org/abs/2608.03887)|**[link](https://github.com/BiomeMakers/OmegaS-fsri)**|
 |**2026-08-04**|**Evaluating MFU as a Proxy for GPU Power for Energy-Aware Simulation of LLM Training**|Niklas Enskat et.al.|[2608.03880](http://arxiv.org/abs/2608.03880)|null|
 |**2026-08-04**|**Fovea: Physical-Implication-Aware Wafer-Scale DSE with Decision-Domain-Guided Cross-Fidelity Refinement**|Jinxi Li et.al.|[2608.03285](http://arxiv.org/abs/2608.03285)|null|
 |**2026-08-04**|**ANCHOR-RE: An Agentic Neuro-Symbolic Framework for Grounded Biomedical Relation Extraction**|Shufan Ming et.al.|[2608.03154](http://arxiv.org/abs/2608.03154)|null|
@@ -1378,7 +1378,7 @@ layout: default
 |**2026-07-23**|**Emergent Misalignment Recruits a Pre-existing Persona Subspace**|Mohammed Suhail B Nadaf et.al.|[2607.21356](http://arxiv.org/abs/2607.21356)|**[link](https://github.com/suhailnadaf509/emergent-misalignment-persona-subspace)**|
 |**2026-07-23**|**A Unified Moral-Value Dataset for Instruction Tuning**|Zhaohui Zeng et.al.|[2607.21279](http://arxiv.org/abs/2607.21279)|null|
 |**2026-07-22**|**Demonstrating GenDB: Instance-Optimized and Customized Query Processing Code Generation via LLM Agents**|Jiale Lao et.al.|[2607.20630](http://arxiv.org/abs/2607.20630)|null|
-|**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|null|
+|**2026-07-22**|**The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability**|Abigail Woodring et.al.|[2607.20301](http://arxiv.org/abs/2607.20301)|**[link](https://github.com/awoodring29/TemporalPortLLM)**|
 |**2026-07-22**|**Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study**|Andrei Chetvergov et.al.|[2607.20270](http://arxiv.org/abs/2607.20270)|null|
 |**2026-07-22**|**SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD**|Dongfang Li et.al.|[2607.20145](http://arxiv.org/abs/2607.20145)|**[link](https://github.com/SLAI-AITP/SLAI-T-Rex)**|
 |**2026-07-22**|**Antigen-specific Antibody Multi-modal Foundation Model for Functional Antibody Design**|Xiaoliang Shi et.al.|[2607.20057](http://arxiv.org/abs/2607.20057)|null|
@@ -1584,7 +1584,7 @@ layout: default
 |**2026-05-04**|**Geometric Deviation as an Unsupervised Pre-Generation Reliability Signal: Probing LLM Representations for Answerability**|Yucheng Du et.al.|[2605.03196](http://arxiv.org/abs/2605.03196)|null|
 |**2026-05-04**|**Bolek: A Multimodal Language Model for Molecular Reasoning**|Frederic Grabowski et.al.|[2605.02745](http://arxiv.org/abs/2605.02745)|null|
 |**2026-05-04**|**Gradient-Gated DPO: Stabilizing Preference Optimization in Language Models**|Inoussa Mouiche et.al.|[2605.02626](http://arxiv.org/abs/2605.02626)|**[link](https://github.com/imouiche/Stabilizing-Preference-Optimization-in-LLMs)**|
-|**2026-05-04**|**Efficient Preference Poisoning Attack on Offline RLHF**|Chenye Yang et.al.|[2605.02495](http://arxiv.org/abs/2605.02495)|null|
+|**2026-05-04**|**Efficient Preference Poisoning Attack on Offline RLHF**|Chenye Yang et.al.|[2605.02495](http://arxiv.org/abs/2605.02495)|**[link](https://github.com/MachineLearning-Nerd/icml26-preference-poisoning-offline-rlhf)**|
 |**2026-05-04**|**Anomaly-Preference Image Generation**|Fuyun Wang et.al.|[2605.02439](http://arxiv.org/abs/2605.02439)|null|
 |**2026-05-04**|**Reliability-Oriented Multilingual Orthopedic Diagnosis: A Domain-Adaptive Modeling and a Conceptual Validation Framework**|Danish Ali et.al.|[2605.02266](http://arxiv.org/abs/2605.02266)|null|
 |**2026-05-03**|**Maistros: A Greek Large Language Model Adapted Through Knowledge Distillation From Large Reasoning Models**|Nikolaos Giarelis et.al.|[2605.01870](http://arxiv.org/abs/2605.01870)|null|
