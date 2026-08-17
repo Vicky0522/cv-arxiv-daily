@@ -20,7 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-13**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding et.al.|[2608.13552](http://arxiv.org/abs/2608.13552)|null|
+|**2026-08-14**|**Marionette: Predicting World States, Rendering Geometry, Painting Appearance**|Zian Meng et.al.|[2608.14530](http://arxiv.org/abs/2608.14530)|**[link](https://github.com/AlayaLab/Marionette)**|
+|**2026-08-14**|**Twin: Playing an Unknown Game with a Test-Time Digital Twin**|Alexy Skoutnev et.al.|[2608.14490](http://arxiv.org/abs/2608.14490)|null|
+|**2026-08-14**|**Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes**|Alexei Odinokov et.al.|[2608.14481](http://arxiv.org/abs/2608.14481)|null|
+|**2026-08-14**|**Traj-LeWM: Path-Aware World-Model Planning via Latent Trajectory Cost**|Xiaodi Huang et.al.|[2608.14125](http://arxiv.org/abs/2608.14125)|null|
+|**2026-08-14**|**ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models**|Xinye Li et.al.|[2608.14022](http://arxiv.org/abs/2608.14022)|null|
+|**2026-08-14**|**Ontology-Grounded World Models for Failure Diagnosis and Closed-Loop Repair in Physical AI Systems**|Kailin Wang et.al.|[2608.13901](http://arxiv.org/abs/2608.13901)|null|
+|**2026-08-13**|**hint $^2$ : Hierarchical World Models for Inference-Time Temporal Logic Guidance**|Moritz Zoellner et.al.|[2608.13678](http://arxiv.org/abs/2608.13678)|null|
+|**2026-08-14**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding et.al.|[2608.13552](http://arxiv.org/abs/2608.13552)|null|
 |**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin et.al.|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
 |**2026-08-13**|**Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology**|Yunsung Chung et.al.|[2608.13518](http://arxiv.org/abs/2608.13518)|null|
 |**2026-08-13**|**AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)**|AlayaWorld Team et.al.|[2608.13492](http://arxiv.org/abs/2608.13492)|null|
@@ -489,6 +496,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training**|Hanfeng Lu et.al.|[2608.14498](http://arxiv.org/abs/2608.14498)|null|
+|**2026-08-14**|**Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence**|James K. Wiles et.al.|[2608.13958](http://arxiv.org/abs/2608.13958)|null|
 |**2026-08-13**|**UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models**|Yukun Dai et.al.|[2608.13453](http://arxiv.org/abs/2608.13453)|null|
 |**2026-08-13**|**Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes**|Aimilios Hadjiliasi et.al.|[2608.13420](http://arxiv.org/abs/2608.13420)|null|
 |**2026-08-13**|**Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes**|Nico Heider et.al.|[2608.13095](http://arxiv.org/abs/2608.13095)|null|
@@ -779,6 +788,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing**|Qinye Zhou et.al.|[2608.14546](http://arxiv.org/abs/2608.14546)|null|
+|**2026-08-14**|**MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration**|Mahesh Reddy et.al.|[2608.14543](http://arxiv.org/abs/2608.14543)|null|
+|**2026-08-14**|**Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View**|Yixian Xu et.al.|[2608.14430](http://arxiv.org/abs/2608.14430)|null|
+|**2026-08-14**|**Offline Deep Q* Estimation with Diffusion Models**|Xiaohong Chen et.al.|[2608.14401](http://arxiv.org/abs/2608.14401)|null|
+|**2026-08-14**|**Program-space Diffusion for Morphology-to-Transcriptomics Prediction**|Ruyter Swann et.al.|[2608.14330](http://arxiv.org/abs/2608.14330)|null|
+|**2026-08-14**|**Information Spreading in Diffusion Models from Effective Field Theory**|Navonil Neogi et.al.|[2608.14308](http://arxiv.org/abs/2608.14308)|**[link](https://github.com/NavonilNeogi/MutualInfoEFTDiffusionModels)**|
+|**2026-08-14**|**Personalized Digital Semantic Communication for Image Transmission with Vision-Language Models**|Nan Li et.al.|[2608.14260](http://arxiv.org/abs/2608.14260)|null|
+|**2026-08-14**|**RankT2I: A Submodular Framework for Discovering Interpretable and Diverse Semantics in Text-to-Image Models**|Ritika Allada et.al.|[2608.14226](http://arxiv.org/abs/2608.14226)|null|
+|**2026-08-14**|**Concept Guidance: Precise, Training-Free Latent Control for Text-to-Image Generation**|Nikolai Röhrich et.al.|[2608.14172](http://arxiv.org/abs/2608.14172)|null|
+|**2026-08-14**|**Information-Calibrated Quantum Diffusion: Aligning Forward Noise with Reverse Recoverability**|Qipeng Qian et.al.|[2608.14083](http://arxiv.org/abs/2608.14083)|null|
 |**2026-08-13**|**SCULPT: Subtractive Composition for 3D Part Generation**|Sikuang Li et.al.|[2608.13541](http://arxiv.org/abs/2608.13541)|null|
 |**2026-08-13**|**SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation**|Jisoo Jeong et.al.|[2608.13460](http://arxiv.org/abs/2608.13460)|null|
 |**2026-08-13**|**Evaluation of Clinically Steerable Retinal Image Generation from Foundation Model Latent Spaces**|Zuzanna A. Wakefield-Skórniewska et.al.|[2608.13455](http://arxiv.org/abs/2608.13455)|null|
@@ -1269,16 +1288,6 @@
 |**2026-04-19**|**ViPS: Video-informed Pose Spaces for Auto-Rigged Meshes**|Honglin Chen et.al.|[2604.17623](http://arxiv.org/abs/2604.17623)|null|
 |**2026-04-19**|**DGSSM: Diffusion guided state-space models for multimodal salient object detection**|Suklav Ghosh et.al.|[2604.17585](http://arxiv.org/abs/2604.17585)|null|
 |**2026-04-19**|**Target Parameterization in Diffusion Models for Nonlinear Spatiotemporal System Identification**|Achraf El Messaoudi et.al.|[2604.17566](http://arxiv.org/abs/2604.17566)|null|
-|**2026-04-17**|**Repurposing 3D Generative Model for Autoregressive Layout Generation**|Haoran Feng et.al.|[2604.16299](http://arxiv.org/abs/2604.16299)|**[link](https://github.com/fenghora/LaviGen)**|
-|**2026-04-17**|**Enhancing Hazy Wildlife Imagery: AnimalHaze3k and IncepDehazeGan**|Shivarth Rai et.al.|[2604.16284](http://arxiv.org/abs/2604.16284)|null|
-|**2026-04-17**|**Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions**|Yue Jiang et.al.|[2604.16135](http://arxiv.org/abs/2604.16135)|null|
-|**2026-04-17**|**Elucidating the SNR-t Bias of Diffusion Probabilistic Models**|Meng Yu et.al.|[2604.16044](http://arxiv.org/abs/2604.16044)|**[link](https://github.com/AMAP-ML/DCW)**|
-|**2026-04-17**|**From Competition to Coopetition: Coopetitive Training-Free Image Editing Based on Text Guidance**|Jinhao Shen et.al.|[2604.15948](http://arxiv.org/abs/2604.15948)|**[link](https://github.com/JinhaoShen/CoEdit)**|
-|**2026-04-17**|**Making Image Editing Easier via Adaptive Task Reformulation with Agentic Executions**|Bo Zhao et.al.|[2604.15917](http://arxiv.org/abs/2604.15917)|**[link](https://github.com/KlingAIResearch/ATR)**|
-|**2026-04-17**|**Efficient Video Diffusion Models: Advancements and Challenges**|Shitong Shao et.al.|[2604.15911](http://arxiv.org/abs/2604.15911)|null|
-|**2026-04-17**|**Beyond Text Prompts: Precise Concept Erasure through Text-Image Collaboration**|Jun Li et.al.|[2604.15829](http://arxiv.org/abs/2604.15829)|null|
-|**2026-04-17**|**Neural Continuous-Time Markov Chain: Discrete Diffusion via Decoupled Jump Timing and Direction**|Jingyuan Li et.al.|[2604.15694](http://arxiv.org/abs/2604.15694)|null|
-|**2026-04-17**|**CLIMB: Controllable Longitudinal Brain Image Generation using Mamba-based Latent Diffusion Model and Gaussian-aligned Autoencoder**|Duy-Phuong Dao et.al.|[2604.15611](http://arxiv.org/abs/2604.15611)|null|
 
 <p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
 
@@ -1286,6 +1295,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning**|Kai Chen et.al.|[2608.14290](http://arxiv.org/abs/2608.14290)|null|
+|**2026-08-14**|**MINT: A Universal Zero-Shot Predictor for Transaction Data**|Parameswaran Kamalaruban et.al.|[2608.14198](http://arxiv.org/abs/2608.14198)|null|
+|**2026-08-14**|**BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control**|Ming Shang et.al.|[2608.13924](http://arxiv.org/abs/2608.13924)|null|
+|**2026-08-14**|**Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions**|Qinglin Yang et.al.|[2608.13844](http://arxiv.org/abs/2608.13844)|null|
+|**2026-08-13**|**Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT**|Pu Zhao et.al.|[2608.13681](http://arxiv.org/abs/2608.13681)|null|
 |**2026-08-13**|**Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity**|Irina Proskurina et.al.|[2608.13430](http://arxiv.org/abs/2608.13430)|null|
 |**2026-08-13**|**Rules or Character? Scaling Laws for AI Safety Design**|Satoshi Takahashi et.al.|[2608.13345](http://arxiv.org/abs/2608.13345)|null|
 |**2026-08-13**|**Refine After Generation: Toward Correct and Concise Patches in LLM-based Program Repair**|Wenqiang Luo et.al.|[2608.13292](http://arxiv.org/abs/2608.13292)|null|
@@ -1781,8 +1795,6 @@
 |**2026-04-05**|**A Semi-Automated Annotation Workflow for Paediatric Histopathology Reports Using Small Language Models**|Avish Vijayaraghavan et.al.|[2604.04168](http://arxiv.org/abs/2604.04168)|null|
 |**2026-04-05**|**Extracting and Steering Emotion Representations in Small Language Models: A Methodological Comparison**|Jihoon Jeong et.al.|[2604.04064](http://arxiv.org/abs/2604.04064)|null|
 |**2026-04-05**|**COBOL-Coder: Domain-Adapted Large Language Models for COBOL Code Generation and Translation**|Anh T. V. Dau et.al.|[2604.03986](http://arxiv.org/abs/2604.03986)|null|
-|**2026-04-05**|**SafeCtrl: Region-Aware Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress**|Lingyun Zhang et.al.|[2604.03941](http://arxiv.org/abs/2604.03941)|null|
-|**2026-04-04**|**Where to Steer: Input-Dependent Layer Selection for Steering Improves LLM Alignment**|Soham Gadgil et.al.|[2604.03867](http://arxiv.org/abs/2604.03867)|null|
 
 <p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
 
