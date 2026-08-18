@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1283,6 +1283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-16**|**An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria**|Everistus Ugochukwu Nwogo et.al.|[2608.15738](http://arxiv.org/abs/2608.15738)|null|
+|**2026-08-16**|**SubZero+: Efficient Zeroth-Order LLM Fine-Tuning via Large Learning Rates**|Ziming Yu et.al.|[2608.15665](http://arxiv.org/abs/2608.15665)|null|
+|**2026-08-16**|**Why Summaries Turn Neutral: Policy Attribution for Sentiment Drift in Reinforcement Learning from Human Feedback**|Mikhail Krasitskii et.al.|[2608.15530](http://arxiv.org/abs/2608.15530)|null|
+|**2026-08-16**|**UniFed-VLM: Federated Instruction Tuning for Vision-Language Models with Multiple Heterogeneity**|Pengyu Wang et.al.|[2608.15516](http://arxiv.org/abs/2608.15516)|null|
+|**2026-08-16**|**Do Language Models Consistently Encode the Current Year?**|Suze van Adrichem et.al.|[2608.15507](http://arxiv.org/abs/2608.15507)|**[link](https://github.com/Aryia-Behroziuan/References)**|
+|**2026-08-15**|**OTel: Building Domain-Specialized Telecom LLM Foundations for Intelligent Networks**|Farbod Tavakkoli et.al.|[2608.15436](http://arxiv.org/abs/2608.15436)|null|
+|**2026-08-15**|**Invariant Pretraining for Robust Code Representations**|Yifeng He et.al.|[2608.15412](http://arxiv.org/abs/2608.15412)|null|
+|**2026-08-15**|**MoE Router-Guided Clustering for Heterogeneous Federated Instruction Tuning**|Ankita Sharma et.al.|[2608.15311](http://arxiv.org/abs/2608.15311)|null|
+|**2026-08-15**|**The Distributional View of Knowledge Distillation**|Gordei Verbii et.al.|[2608.15215](http://arxiv.org/abs/2608.15215)|null|
+|**2026-08-15**|**Collective Communication for Distributed LLM Systems: Planning, Runtime Adaptation, and Computation Coordination**|Xuebin Song et.al.|[2608.15118](http://arxiv.org/abs/2608.15118)|null|
 |**2026-08-14**|**Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning**|Kai Chen et.al.|[2608.14290](http://arxiv.org/abs/2608.14290)|null|
 |**2026-08-14**|**MINT: A Universal Zero-Shot Predictor for Transaction Data**|Parameswaran Kamalaruban et.al.|[2608.14198](http://arxiv.org/abs/2608.14198)|null|
 |**2026-08-14**|**BICPO-VLA: Behavior-Identified Continuation Preference Optimization for Smooth Asynchronous Vision-Language-Action Control**|Ming Shang et.al.|[2608.13924](http://arxiv.org/abs/2608.13924)|null|
@@ -1773,16 +1783,6 @@ layout: default
 |**2026-04-07**|**Vision-Guided Iterative Refinement for Frontend Code Generation**|Hannah Sansford et.al.|[2604.05839](http://arxiv.org/abs/2604.05839)|null|
 |**2026-04-07**|**Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning**|Yanbei Jiang et.al.|[2604.05756](http://arxiv.org/abs/2604.05756)|**[link](https://github.com/YanbeiJiang/Distribution-Debias)**|
 |**2026-04-06**|**Instruction-Tuned LLMs for Parsing and Mining Unstructured Logs on Leadership HPC Systems**|Ahmad Maroof Karimi et.al.|[2604.05168](http://arxiv.org/abs/2604.05168)|null|
-|**2026-04-06**|**SenseAI: A Human-in-the-Loop Dataset for RLHF-Aligned Financial Sentiment Reasoning**|Berny Kabalisa et.al.|[2604.05135](http://arxiv.org/abs/2604.05135)|null|
-|**2026-04-06**|**Offline RL for Adaptive Policy Retrieval in Prior Authorization**|Ruslan Sharifullin et.al.|[2604.05125](http://arxiv.org/abs/2604.05125)|null|
-|**2026-04-06**|**One Model for All: Multi-Objective Controllable Language Models**|Qiang He et.al.|[2604.04497](http://arxiv.org/abs/2604.04497)|null|
-|**2026-04-06**|**MolDA: Molecular Understanding and Generation via Large Language Diffusion Model**|Seohyeon Shin et.al.|[2604.04403](http://arxiv.org/abs/2604.04403)|null|
-|**2026-04-06**|**Developing Authentic Simulated Learners for Mathematics Teacher Learning: Insights from Three Approaches with Large Language Models**|Jie Cao et.al.|[2604.04361](http://arxiv.org/abs/2604.04361)|null|
-|**2026-04-05**|**APPA: Adaptive Preference Pluralistic Alignment for Fair Federated RLHF of LLMs**|Mahmoud Srewa et.al.|[2604.04261](http://arxiv.org/abs/2604.04261)|null|
-|**2026-04-05**|**DARE: Diffusion Large Language Models Alignment and Reinforcement Executor**|Jingyi Yang et.al.|[2604.04215](http://arxiv.org/abs/2604.04215)|**[link](https://github.com/yjyddq/DARE)**|
-|**2026-04-05**|**A Semi-Automated Annotation Workflow for Paediatric Histopathology Reports Using Small Language Models**|Avish Vijayaraghavan et.al.|[2604.04168](http://arxiv.org/abs/2604.04168)|null|
-|**2026-04-05**|**Extracting and Steering Emotion Representations in Small Language Models: A Methodological Comparison**|Jihoon Jeong et.al.|[2604.04064](http://arxiv.org/abs/2604.04064)|null|
-|**2026-04-05**|**COBOL-Coder: Domain-Adapted Large Language Models for COBOL Code Generation and Translation**|Anh T. V. Dau et.al.|[2604.03986](http://arxiv.org/abs/2604.03986)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
