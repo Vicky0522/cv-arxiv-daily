@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077](http://arxiv.org/abs/2608.18077)|null|
+|**2026-08-18**|**Towards Zero-Shot Task Transfer with Neurosymbolic World Models**|Isidoro Tamassia et.al.|[2608.17959](http://arxiv.org/abs/2608.17959)|null|
+|**2026-08-18**|**An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models**|Javier Aguilar Martín et.al.|[2608.17956](http://arxiv.org/abs/2608.17956)|null|
+|**2026-08-18**|**Electromagnetic World Model for 6G: A Unified Framework for Joint Environment Reconstruction and Channel Prediction**|Yizhu Zhao et.al.|[2608.17769](http://arxiv.org/abs/2608.17769)|null|
+|**2026-08-18**|**Offline Multi-Agent Reinforcement Learning with a Physics-Informed World Model for Cooperative Mixed Traffic Control**|Lu Liu et.al.|[2608.17739](http://arxiv.org/abs/2608.17739)|null|
+|**2026-08-18**|**No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models**|Jack Boylan et.al.|[2608.17542](http://arxiv.org/abs/2608.17542)|**[link](https://github.com/jackboyla/action-contrastive-jepa)**|
+|**2026-08-18**|**Calibrated Predictive Safety for Heterogeneous Robots: An Action-Conditioned JEPA Framework with Model-Based Safety Shields**|Kaiming Zhong et.al.|[2608.17496](http://arxiv.org/abs/2608.17496)|null|
+|**2026-08-18**|**SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation**|Keyu Tu et.al.|[2608.17426](http://arxiv.org/abs/2608.17426)|null|
+|**2026-08-17**|**Q-Learning With World Models**|Perry Dong et.al.|[2608.17163](http://arxiv.org/abs/2608.17163)|**[link](https://github.com/AmarBhatt/Temporal_Difference_Learning_Path_Planning)**|
+|**2026-08-17**|**Inference-Time Attention Steering for Vision-Language-Action Driving Models**|Darshan Nagendra Prasad et.al.|[2608.17095](http://arxiv.org/abs/2608.17095)|null|
 |**2026-08-17**|**$τ_0$ -VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation**|Xiaowei Cai et.al.|[2608.16885](http://arxiv.org/abs/2608.16885)|null|
 |**2026-08-17**|**HarnessEval-W: Agentifying the Evaluation of Visual Worlds**|Weiliang Chen et.al.|[2608.16859](http://arxiv.org/abs/2608.16859)|**[link](https://github.com/MirroS-Lab/HarnessEval-W)**|
 |**2026-08-17**|**CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?**|Jonathan Sadeghi et.al.|[2608.16829](http://arxiv.org/abs/2608.16829)|null|
@@ -506,6 +516,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774](http://arxiv.org/abs/2608.17774)|null|
+|**2026-08-18**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Wang Warren Chen et.al.|[2608.17584](http://arxiv.org/abs/2608.17584)|null|
+|**2026-08-18**|**GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting**|Qijian Tian et.al.|[2608.17535](http://arxiv.org/abs/2608.17535)|null|
+|**2026-08-18**|**If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation**|Seoyoung Lee et.al.|[2608.17318](http://arxiv.org/abs/2608.17318)|null|
 |**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
 |**2026-08-17**|**When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents**|Jiawei Liu et.al.|[2608.16806](http://arxiv.org/abs/2608.16806)|null|
 |**2026-08-17**|**Neurosymbolic Embodied Agents**|Mohammad Albinhassan et.al.|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
@@ -808,6 +822,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
+|**2026-08-18**|**EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing**|Jiayi Song et.al.|[2608.18063](http://arxiv.org/abs/2608.18063)|null|
+|**2026-08-18**|**Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization**|Travis Zhang et.al.|[2608.18040](http://arxiv.org/abs/2608.18040)|null|
+|**2026-08-18**|**AViTS: Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation**|Haoran Qin et.al.|[2608.17995](http://arxiv.org/abs/2608.17995)|null|
+|**2026-08-18**|**LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**|Jinshan Liu et.al.|[2608.17973](http://arxiv.org/abs/2608.17973)|null|
+|**2026-08-18**|**Improving Complex Moiré Removal with Generative Supervision**|Xinyang Gu et.al.|[2608.17883](http://arxiv.org/abs/2608.17883)|null|
+|**2026-08-18**|**Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models**|Bilal Hussain et.al.|[2608.17796](http://arxiv.org/abs/2608.17796)|null|
+|**2026-08-18**|**TINA+: Probing Residual Visual Knowledge in Unlearned Diffusion Models via Diffusion-Consistent Text-Free Inversion**|Qianlong Xiang et.al.|[2608.17747](http://arxiv.org/abs/2608.17747)|null|
+|**2026-08-18**|**Picard Proximal Monte Carlo for Parallel Bayesian Imaging with Score-Based Generative Priors**|Deliang Wei et.al.|[2608.17666](http://arxiv.org/abs/2608.17666)|null|
+|**2026-08-18**|**Generative artificial intelligence for reconstructing neutron-star matter**|Julia Yu. Panteleeva et.al.|[2608.17457](http://arxiv.org/abs/2608.17457)|null|
 |**2026-08-17**|**An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models**|Dengyang Jiang et.al.|[2608.16887](http://arxiv.org/abs/2608.16887)|null|
 |**2026-08-17**|**Complete characterization of the sign of the wave speed in the symmetric Lotka-Volterra system under strong competition**|Cyrille Kenne et.al.|[2608.16845](http://arxiv.org/abs/2608.16845)|null|
 |**2026-08-17**|**When ratios fall: A dynamic approach to contingent convertibles**|Li Chen et.al.|[2608.16842](http://arxiv.org/abs/2608.16842)|null|
@@ -1298,16 +1322,6 @@
 |**2026-04-22**|**Conditional Monte Carlo Tree Diffusion for Designing Cell-Type-Specific and Biologically Faithful Regulatory DNA**|Animesh Awasthi et.al.|[2604.20488](http://arxiv.org/abs/2604.20488)|null|
 |**2026-04-22**|**Discrete Preference Learning for Personalized Multimodal Generation**|Yuting Zhang et.al.|[2604.20434](http://arxiv.org/abs/2604.20434)|null|
 |**2026-04-22**|**Cold-Start Forecasting of New Product Life-Cycles via Conditional Diffusion Models**|Ruihan Zhou et.al.|[2604.20370](http://arxiv.org/abs/2604.20370)|null|
-|**2026-04-21**|**Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items**|Mengting Chen et.al.|[2604.19748](http://arxiv.org/abs/2604.19748)|null|
-|**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|**[link](https://github.com/OpenImagingLab/AnyRecon)**|
-|**2026-04-21**|**Generative Drifting for Conditional Medical Image Generation**|Zirong Li et.al.|[2604.19736](http://arxiv.org/abs/2604.19736)|null|
-|**2026-04-21**|**ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis**|Zhengwentai Sun et.al.|[2604.19720](http://arxiv.org/abs/2604.19720)|null|
-|**2026-04-21**|**MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention**|Zhi Chen et.al.|[2604.19675](http://arxiv.org/abs/2604.19675)|null|
-|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|null|
-|**2026-04-21**|**Budgeted Online Influence Maximization**|Pierre Perrault et.al.|[2604.19672](http://arxiv.org/abs/2604.19672)|null|
-|**2026-04-21**|**Multi-Cycle Spatio-Temporal Adaptation in Human-Robot Teaming**|Alex Cuellar et.al.|[2604.19670](http://arxiv.org/abs/2604.19670)|null|
-|**2026-04-21**|**CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation**|Xiangyang Luo et.al.|[2604.19636](http://arxiv.org/abs/2604.19636)|null|
-|**2026-04-21**|**SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing**|Ying Zeng et.al.|[2604.19587](http://arxiv.org/abs/2604.19587)|**[link](https://github.com/vivoCameraResearch/SmartPhotoCrafter)**|
 
 <p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
 
@@ -1315,6 +1329,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Effects of Answer Format Variation on Gender Bias in Large Language Models**|Ksenia Merzlyakova et.al.|[2608.17516](http://arxiv.org/abs/2608.17516)|null|
+|**2026-08-18**|**Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning**|Xingrui Zhuo et.al.|[2608.17443](http://arxiv.org/abs/2608.17443)|null|
+|**2026-08-18**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|**[link](https://github.com/zz1358m/Agentic-ESOpt)**|
+|**2026-08-17**|**Task Specialization Fine-Tuning for Contextual Reinforcement Learning**|Jianan Zhou et.al.|[2608.17180](http://arxiv.org/abs/2608.17180)|null|
+|**2026-08-17**|**Polaris: Learning to Generate Table Descriptions from Retrieval Feedback**|Ting Cai et.al.|[2608.17171](http://arxiv.org/abs/2608.17171)|null|
+|**2026-08-17**|**OraclePhys: A Systematic Framework for LLM Fine-Tuning on Structural Mechanics**|Mingyu Li et.al.|[2608.17162](http://arxiv.org/abs/2608.17162)|null|
+|**2026-08-17**|**Structured Driving-State Narratives for Small Language Model-Based GNSS Spoofing Detection**|Abyad Enan et.al.|[2608.17092](http://arxiv.org/abs/2608.17092)|null|
 |**2026-08-17**|**The Ethical Decision Head: Operationalizing Normative Ethics in Autonomous Vehicles via Reinforcement Learning from Human Feedback**|Thomas Mbrice et.al.|[2608.16710](http://arxiv.org/abs/2608.16710)|null|
 |**2026-08-17**|**When Do Explanations Help In-Context Learning? A Comparative Study of Natural Language Explanation Types and Faithfulness**|Mahdi Dhaini et.al.|[2608.16627](http://arxiv.org/abs/2608.16627)|null|
 |**2026-08-17**|**STAGE: Controlled Objective Admission for Multi-Preference LLM Alignment**|Yongqi Tong et.al.|[2608.16553](http://arxiv.org/abs/2608.16553)|null|
@@ -1808,13 +1829,6 @@
 |**2026-04-09**|**DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing**|Gyanendra Das et.al.|[2604.07965](http://arxiv.org/abs/2604.07965)|null|
 |**2026-04-09**|**Rethinking Data Mixing from the Perspective of Large Language Models**|Yuanjian Xu et.al.|[2604.07963](http://arxiv.org/abs/2604.07963)|null|
 |**2026-04-09**|**Large Language Model Post-Training: A Unified View of Off-Policy and On-Policy Learning**|Shiwan Zhao et.al.|[2604.07941](http://arxiv.org/abs/2604.07941)|null|
-|**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
-|**2026-04-08**|**Gemma 4, Phi-4, and Qwen3: Accuracy-Efficiency Tradeoffs in Dense and MoE Reasoning Language Models**|Md Motaleb Hossen Manik et.al.|[2604.07035](http://arxiv.org/abs/2604.07035)|null|
-|**2026-04-08**|**MARS: Enabling Autoregressive Models Multi-Token Generation**|Ziqi Jin et.al.|[2604.07023](http://arxiv.org/abs/2604.07023)|null|
-|**2026-04-08**|**Beyond Accuracy: Diagnosing Algebraic Reasoning Failures in LLMs Across Nine Complexity Dimensions**|Parth Patil et.al.|[2604.06799](http://arxiv.org/abs/2604.06799)|null|
-|**2026-04-08**|**Multi-Faceted Self-Consistent Preference Alignment for Query Rewriting in Conversational Search**|Zhiyu Cao et.al.|[2604.06771](http://arxiv.org/abs/2604.06771)|null|
-|**2026-04-08**|**The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence**|Napoleon Paxton et.al.|[2604.06621](http://arxiv.org/abs/2604.06621)|null|
-|**2026-04-07**|**Limits of Difficulty Scaling: Hard Samples Yield Diminishing Returns in GRPO-Tuned SLMs**|Suraj Yadav et.al.|[2604.06298](http://arxiv.org/abs/2604.06298)|null|
 
 <p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
 
