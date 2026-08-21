@@ -7,14 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-19**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Ruiguo Zhong et.al.|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
+|**2026-08-20**|**RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control**|Xiucheng Wang et.al.|[2608.20126](http://arxiv.org/abs/2608.20126)|null|
+|**2026-08-20**|**Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms**|Yanchen Guan et.al.|[2608.20111](http://arxiv.org/abs/2608.20111)|null|
+|**2026-08-20**|**Orthogonal JEPA: Factorized Predictive States for Latent World Models**|Taoyong Cui et.al.|[2608.20065](http://arxiv.org/abs/2608.20065)|null|
+|**2026-08-20**|**ADAPT: Physics-Aware Diffusion-based World Models for Adaptive Predictive Transferable HVAC Control**|Xu Yang et.al.|[2608.19804](http://arxiv.org/abs/2608.19804)|null|
+|**2026-08-20**|**An Irreducible Quantum Advantage in Aligning World Models with Reality**|Josep Lumbreras et.al.|[2608.19779](http://arxiv.org/abs/2608.19779)|null|
+|**2026-08-20**|**RFWM: Physics-Guided World Model for Dynamic Wireless Radiance Field Generation**|Zijiu Yang et.al.|[2608.19709](http://arxiv.org/abs/2608.19709)|null|
+|**2026-08-20**|**World-Model-Grounded LLM Planning for AUV and ASV Navigation Near Offshore Wind Farms**|Markus Buchholz et.al.|[2608.19661](http://arxiv.org/abs/2608.19661)|null|
+|**2026-08-20**|**VGI-BENCH: Probing Visual Intelligence in Video Generation Models**|Xuan He et.al.|[2608.19583](http://arxiv.org/abs/2608.19583)|null|
+|**2026-08-19**|**Beyond Multimodal Alignment: Certifying Physical Language through Response Substitution and Ordered Execution**|Kaizhen Tan et.al.|[2608.19492](http://arxiv.org/abs/2608.19492)|**[link](https://github.com/tantansir/multimodal-physical-language)**|
+|**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Ruiguo Zhong et.al.|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
 |**2026-08-19**|**Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning**|Jiawei Wang et.al.|[2608.18746](http://arxiv.org/abs/2608.18746)|null|
 |**2026-08-19**|**Reinforced Planning with Latent World Models**|Armin Sommer et.al.|[2608.18669](http://arxiv.org/abs/2608.18669)|null|
 |**2026-08-19**|**Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation**|Harry Robertshaw et.al.|[2608.18647](http://arxiv.org/abs/2608.18647)|null|
@@ -505,21 +514,18 @@ layout: default
 |**2026-04-06**|**OpenWorldLib: A Unified Codebase and Definition of Advanced World Models**|DataFlow Team et.al.|[2604.04707](http://arxiv.org/abs/2604.04707)|null|
 |**2026-04-06**|**Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale**|Zhengcen Li et.al.|[2604.04634](http://arxiv.org/abs/2604.04634)|null|
 |**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Zhongru Zhang et.al.|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
-|**2026-04-06**|**UENR-600K: A Large-Scale Physically Grounded Dataset for Nighttime Video Deraining**|Pei Yang et.al.|[2604.04402](http://arxiv.org/abs/2604.04402)|null|
-|**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[2604.04198](http://arxiv.org/abs/2604.04198)|**[link](https://github.com/xiaomi-mlab/DriveVA)**|
-|**2026-04-05**|**ATSS: Detecting AI-Generated Videos via Anomalous Temporal Self-Similarity**|Hang Wang et.al.|[2604.04029](http://arxiv.org/abs/2604.04029)|**[link](https://github.com/hwang-cs-ime/ATSS)**|
-|**2026-04-04**|**Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation**|Binyuan Huang et.al.|[2604.03738](http://arxiv.org/abs/2604.03738)|**[link](https://github.com/byhuang123/PoCo)**|
-|**2026-04-04**|**VidNum-1.4K: A Comprehensive Benchmark for Video-based Numerical Reasoning**|Shaoyang Cui et.al.|[2604.03701](http://arxiv.org/abs/2604.03701)|null|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729](http://arxiv.org/abs/2608.19729)|null|
+|**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Harry Zhang et.al.|[2608.19375](http://arxiv.org/abs/2608.19375)|null|
 |**2026-08-19**|**Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction**|Zijian Xiao et.al.|[2608.18840](http://arxiv.org/abs/2608.18840)|null|
 |**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734](http://arxiv.org/abs/2608.18734)|**[link](https://github.com/4D-Vision-UoM/CL4D)**|
 |**2026-08-19**|**Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI**|Mohammad Zamani et.al.|[2608.18671](http://arxiv.org/abs/2608.18671)|null|
 |**2026-08-18**|**Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks**|Yiru Wang et.al.|[2608.17774](http://arxiv.org/abs/2608.17774)|null|
-|**2026-08-18**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Wang Warren Chen et.al.|[2608.17584](http://arxiv.org/abs/2608.17584)|null|
+|**2026-08-20**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Wang Warren Chen et.al.|[2608.17584](http://arxiv.org/abs/2608.17584)|null|
 |**2026-08-18**|**GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting**|Qijian Tian et.al.|[2608.17535](http://arxiv.org/abs/2608.17535)|null|
 |**2026-08-18**|**If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation**|Seoyoung Lee et.al.|[2608.17318](http://arxiv.org/abs/2608.17318)|null|
 |**2026-08-17**|**Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation**|Jiawei Liu et.al.|[2608.16843](http://arxiv.org/abs/2608.16843)|null|
@@ -822,6 +828,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing**|Haoxiang Cao et.al.|[2608.20161](http://arxiv.org/abs/2608.20161)|null|
+|**2026-08-20**|**Flow Matching-Based PET Image Reconstruction**|Fumio Hashimoto et.al.|[2608.20112](http://arxiv.org/abs/2608.20112)|null|
+|**2026-08-20**|**AvatarDynamizer: From Static to Dynamic Human Avatars via Generative Dynamic Textures**|Guoxing Sun et.al.|[2608.19900](http://arxiv.org/abs/2608.19900)|null|
+|**2026-08-20**|**DIFFCZSL: Compositional Zero-Shot Learning Regularized by Diffusion Representations**|Hangyu Tian et.al.|[2608.19871](http://arxiv.org/abs/2608.19871)|null|
+|**2026-08-20**|**TextRefine: Improving Textual Fidelity, Spatial Placement, and Glyph Rendering for Text Editing in Product Posters**|Honglie Wang et.al.|[2608.19637](http://arxiv.org/abs/2608.19637)|null|
+|**2026-08-20**|**Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models**|Yuanhao Ban et.al.|[2608.19556](http://arxiv.org/abs/2608.19556)|null|
+|**2026-08-19**|**A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models**|Libo Chen et.al.|[2608.19504](http://arxiv.org/abs/2608.19504)|null|
 |**2026-08-19**|**Discretizing Continuous Time Series for Imputation with Masked Diffusion Training**|Dongbin Kim et.al.|[2608.19119](http://arxiv.org/abs/2608.19119)|null|
 |**2026-08-19**|**Diffusion Models for High-Dimensional Clustered Data: Intrinsic-Dimension Adaptivity via Bayesian Classification**|Yuga Iguchi et.al.|[2608.19067](http://arxiv.org/abs/2608.19067)|null|
 |**2026-08-19**|**Mise-en-Scène: Implicit Layout Emergence in Diffusion Transformers for Human-AI Design Co-Creation**|Zipeng Xu et.al.|[2608.19000](http://arxiv.org/abs/2608.19000)|null|
@@ -1315,13 +1328,6 @@ layout: default
 |**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
 |**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|**[link](https://github.com/Zhangyr2022/UniGenDet)**|
 |**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
-|**2026-04-23**|**Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**|Li Chen et.al.|[2604.21843](http://arxiv.org/abs/2604.21843)|null|
-|**2026-04-23**|**Quotient-Space Diffusion Models**|Yixian Xu et.al.|[2604.21809](http://arxiv.org/abs/2604.21809)|null|
-|**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](http://arxiv.org/abs/2604.21627)|**[link](https://github.com/TaharChettaoui/DCMorph)**|
-|**2026-04-23**|**Generative Learning Enhanced Intelligent Resource Management for Cell-Free Delay Deterministic Communications**|Shuangbo Xiong et.al.|[2604.21587](http://arxiv.org/abs/2604.21587)|null|
-|**2026-04-23**|**DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction**|Shiyan Su et.al.|[2604.21518](http://arxiv.org/abs/2604.21518)|**[link](https://github.com/ooonesevennn/DiffNR)**|
-|**2026-04-23**|**VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution**|Yixuan Zhu et.al.|[2604.21450](http://arxiv.org/abs/2604.21450)|**[link](https://github.com/EternalEvan/VARestorer)**|
-|**2026-04-23**|**TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization**|Shuyue Feng et.al.|[2604.21315](http://arxiv.org/abs/2604.21315)|null|
 
 ## LLM training
 
