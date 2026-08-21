@@ -519,6 +519,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Yufei Liu et.al.|[2608.20308](http://arxiv.org/abs/2608.20308)|null|
 |**2026-08-20**|**SafeBranch: Branch-Pair Safety Alignment for Embodied Agents**|Hyunse Lee et.al.|[2608.19729](http://arxiv.org/abs/2608.19729)|null|
 |**2026-08-19**|**Learning the Right Abstraction: Neural Reduced Dynamics for Complex Robot Control**|Harry Zhang et.al.|[2608.19375](http://arxiv.org/abs/2608.19375)|null|
 |**2026-08-19**|**Beyond Placement and Articulation: Usage-Driven Code Scenes for Embodied Interaction**|Zijian Xiao et.al.|[2608.18840](http://arxiv.org/abs/2608.18840)|null|
@@ -828,6 +829,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**|Hengyuan Xu et.al.|[2608.20336](http://arxiv.org/abs/2608.20336)|null|
+|**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|**[link](https://github.com/ant-research/4DAnyone)**|
+|**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
+|**2026-08-20**|**DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery**|Yufei Liu et.al.|[2608.20308](http://arxiv.org/abs/2608.20308)|null|
 |**2026-08-20**|**DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing**|Haoxiang Cao et.al.|[2608.20161](http://arxiv.org/abs/2608.20161)|null|
 |**2026-08-20**|**Flow Matching-Based PET Image Reconstruction**|Fumio Hashimoto et.al.|[2608.20112](http://arxiv.org/abs/2608.20112)|null|
 |**2026-08-20**|**AvatarDynamizer: From Static to Dynamic Human Avatars via Generative Dynamic Textures**|Guoxing Sun et.al.|[2608.19900](http://arxiv.org/abs/2608.19900)|null|
@@ -1324,15 +1329,21 @@ layout: default
 |**2026-04-24**|**Evaluation of image simulation open source solutions for simulation of synthetic images in lunar environment**|Jai G Singla et.al.|[2604.22296](http://arxiv.org/abs/2604.22296)|null|
 |**2026-04-24**|**AI-Driven Performance-to-Design Generation and Optimization of Marine Propellers**|Leah Chen et.al.|[2604.22224](http://arxiv.org/abs/2604.22224)|null|
 |**2026-04-24**|**Breaking Watermarks in the Frequency Domain: A Modulated Diffusion Attack Framework**|Chunpeng Wang et.al.|[2604.22220](http://arxiv.org/abs/2604.22220)|null|
-|**2026-04-24**|**Multimodal Diffusion to Mutually Enhance Polarized Light and Low Resolution EBSD Data**|Harry Dong et.al.|[2604.22212](http://arxiv.org/abs/2604.22212)|null|
-|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
-|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|**[link](https://github.com/Zhangyr2022/UniGenDet)**|
-|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
 
 ## LLM training
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization**|Qian Kou et.al.|[2608.20281](http://arxiv.org/abs/2608.20281)|null|
+|**2026-08-20**|**When Text and Numbers Disagree: Evidence Arbitration in Large Language Models**|Mattia Carletti et.al.|[2608.20116](http://arxiv.org/abs/2608.20116)|null|
+|**2026-08-20**|**Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design**|Poomphob Suwannapichat et.al.|[2608.20099](http://arxiv.org/abs/2608.20099)|null|
+|**2026-08-20**|**Auditing Cross-Lingual Fairness in Language Model Watermarking**|Alexander Nemecek et.al.|[2608.20047](http://arxiv.org/abs/2608.20047)|null|
+|**2026-08-20**|**Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking**|Yansen Han et.al.|[2608.20011](http://arxiv.org/abs/2608.20011)|null|
+|**2026-08-20**|**COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense**|Roshan Sood et.al.|[2608.19982](http://arxiv.org/abs/2608.19982)|null|
+|**2026-08-20**|**From Noise to Signal: Improving Security Log Anomaly Detection Using LLMs with Endpoint-Specific Logs**|Christopher Henshaw et.al.|[2608.19938](http://arxiv.org/abs/2608.19938)|null|
+|**2026-08-20**|**FAR-DPO: Feasibility-Aware and Robust Direct Preference Optimization for Cyclic Peptide Design**|Guofeng Zhang et.al.|[2608.19808](http://arxiv.org/abs/2608.19808)|null|
+|**2026-08-20**|**PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment**|Jiawei Feng et.al.|[2608.19598](http://arxiv.org/abs/2608.19598)|null|
+|**2026-08-20**|**AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning**|Ye Tao et.al.|[2608.19534](http://arxiv.org/abs/2608.19534)|null|
 |**2026-08-19**|**Many Optimizers But Only One Training Path: Repeated Resampling for Adaptive Optimizer Selection**|Ronald Richman et.al.|[2608.18810](http://arxiv.org/abs/2608.18810)|null|
 |**2026-08-19**|**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**|Yinming Huang et.al.|[2608.18607](http://arxiv.org/abs/2608.18607)|**[link](https://github.com/ShareLab-SII/VA-Judger)**|
 |**2026-08-19**|**Compress and Forget: bitsandbytes Quantization Amplifies Proactive Interference in LLMs**|Shayan Shahrabi-Farahani et.al.|[2608.18578](http://arxiv.org/abs/2608.18578)|**[link](https://github.com/ShayanShahrabi/compress-and-forget)**|
@@ -1823,16 +1834,6 @@ layout: default
 |**2026-04-12**|**Calibration Collapse Under Sycophancy Fine-Tuning: How Reward Hacking Breaks Uncertainty Quantification in LLMs**|Subramanyam Sahoo et.al.|[2604.10585](http://arxiv.org/abs/2604.10585)|null|
 |**2026-04-10**|**Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning**|Yi Sui et.al.|[2604.09150](http://arxiv.org/abs/2604.09150)|null|
 |**2026-04-10**|**NyayaMind- A Framework for Transparent Legal Reasoning and Judgment Prediction in the Indian Legal System**|Parjanya Aditya Shukla et.al.|[2604.09069](http://arxiv.org/abs/2604.09069)|null|
-|**2026-04-10**|**TaxPraBen: A Scalable Benchmark for Structured Evaluation of LLMs in Chinese Real-World Tax Practice**|Gang Hu et.al.|[2604.08948](http://arxiv.org/abs/2604.08948)|null|
-|**2026-04-09**|**Cards Against LLMs: Benchmarking Humor Alignment in Large Language Models**|Yousra Fettach et.al.|[2604.08757](http://arxiv.org/abs/2604.08757)|null|
-|**2026-04-09**|**Decomposing the Delta: What Do Models Actually Learn from Preference Pairs?**|Chia-Hsuan Lee et.al.|[2604.08723](http://arxiv.org/abs/2604.08723)|null|
-|**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|**[link](https://github.com/Arxiv-to-code/arxiv-260408477-supernova-eliciting-general-reasoning-in-llms-with-reinforce)**|
-|**2026-04-09**|**ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection**|He Geng et.al.|[2604.08326](http://arxiv.org/abs/2604.08326)|**[link](https://github.com/genghe02/ProMedical)**|
-|**2026-04-09**|**Towards Identification and Intervention of Safety-Critical Parameters in Large Language Models**|Weiwei Qi et.al.|[2604.08297](http://arxiv.org/abs/2604.08297)|**[link](https://github.com/ZJU-LLM-Safety/SafeWeights-ACL)**|
-|**2026-04-09**|**Self-Debias: Self-correcting for Debiasing Large Language Models**|Xuan Feng et.al.|[2604.08243](http://arxiv.org/abs/2604.08243)|null|
-|**2026-04-09**|**EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**|Xiangyuan Wang et.al.|[2604.08213](http://arxiv.org/abs/2604.08213)|null|
-|**2026-04-09**|**Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment**|Blessing Agyei Kyem et.al.|[2604.08212](http://arxiv.org/abs/2604.08212)|null|
-|**2026-04-09**|**Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling**|Jiaxuan Wang et.al.|[2604.08178](http://arxiv.org/abs/2604.08178)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
