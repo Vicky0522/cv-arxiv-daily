@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.21
+## Updated on 2026.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-04-06**|**Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale**|Zhengcen Li et.al.|[2604.04634](http://arxiv.org/abs/2604.04634)|null|
 |**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Zhongru Zhang et.al.|[2604.04502](http://arxiv.org/abs/2604.04502)|null|
 
-<p align=right>(<a href=#Updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260822>back to top</a>)</p>
 
 ## embodied AI
 
@@ -833,7 +833,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260822>back to top</a>)</p>
 
 ## image generation
 
@@ -1340,7 +1340,7 @@
 |**2026-04-24**|**AI-Driven Performance-to-Design Generation and Optimization of Marine Propellers**|Leah Chen et.al.|[2604.22224](http://arxiv.org/abs/2604.22224)|null|
 |**2026-04-24**|**Breaking Watermarks in the Frequency Domain: A Modulated Diffusion Attack Framework**|Chunpeng Wang et.al.|[2604.22220](http://arxiv.org/abs/2604.22220)|null|
 
-<p align=right>(<a href=#Updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260822>back to top</a>)</p>
 
 ## LLM training
 
@@ -1847,7 +1847,7 @@
 |**2026-04-10**|**Think Less, Know More: State-Aware Reasoning Compression with Knowledge Guidance for Efficient Reasoning**|Yi Sui et.al.|[2604.09150](http://arxiv.org/abs/2604.09150)|null|
 |**2026-04-10**|**NyayaMind- A Framework for Transparent Legal Reasoning and Judgment Prediction in the Indian Legal System**|Parjanya Aditya Shukla et.al.|[2604.09069](http://arxiv.org/abs/2604.09069)|null|
 
-<p align=right>(<a href=#Updated-on-20260821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
