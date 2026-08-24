@@ -87,7 +87,7 @@ layout: default
 |**2026-08-10**|**4D-WAM: 4D Consistent World Modeling for Autonomous Driving**|Jiacheng Fu et.al.|[2608.10107](http://arxiv.org/abs/2608.10107)|**[link](https://github.com/Quma233/4D-WAM)**|
 |**2026-08-10**|**Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning**|Haodong Li et.al.|[2608.09926](http://arxiv.org/abs/2608.09926)|**[link](https://github.com/Lat-Dyn-Reason/Lat-Dyn-Reason)**|
 |**2026-08-10**|**Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning**|Yapeng Liu et.al.|[2608.09876](http://arxiv.org/abs/2608.09876)|null|
-|**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|null|
+|**2026-08-10**|**SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation**|Jingkai Wang et.al.|[2608.09771](http://arxiv.org/abs/2608.09771)|**[link](https://github.com/kzz1031/SLIM)**|
 |**2026-08-10**|**World Tokens: Enhancing Embodied Policies with Training-Time World Modeling**|Qu Tang et.al.|[2608.09730](http://arxiv.org/abs/2608.09730)|null|
 |**2026-08-10**|**Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models**|Kevin Murphy et.al.|[2608.09696](http://arxiv.org/abs/2608.09696)|null|
 |**2026-08-10**|**verdi: retrieval is not transfer for continual world model optimization**|Junyu Wu et.al.|[2608.09537](http://arxiv.org/abs/2608.09537)|null|
@@ -240,7 +240,7 @@ layout: default
 |**2026-07-09**|**GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning**|Maureese Williams et.al.|[2607.08894](http://arxiv.org/abs/2607.08894)|null|
 |**2026-07-09**|**OpenCoF: Learning to Reason Through Video Generation**|Xinyan Chen et.al.|[2607.08763](http://arxiv.org/abs/2607.08763)|**[link](https://github.com/xinyan-cxy/OpenCoF)**|
 |**2026-07-09**|**Native Video-Action Pretraining for Generalizable Robot Control**|Qihang Zhang et.al.|[2607.08639](http://arxiv.org/abs/2607.08639)|null|
-|**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
+|**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375](http://arxiv.org/abs/2607.08375)|**[link](https://github.com/FrankRun/WCog-VLA)**|
 |**2026-07-09**|**Write-Protected Discrete Bottlenecks for Language-Grounded World Models: A Structural Limitation and Sufficient Fix**|Jiayi Fang et.al.|[2607.08312](http://arxiv.org/abs/2607.08312)|null|
 |**2026-07-09**|**LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting**|Zixin Guo et.al.|[2607.08016](http://arxiv.org/abs/2607.08016)|null|
 |**2026-07-08**|**Unlocking Temporal Generalization in Hamiltonian Video Dynamics Models**|Eli Laird et.al.|[2607.07763](http://arxiv.org/abs/2607.07763)|null|
@@ -534,7 +534,7 @@ layout: default
 |**2026-08-18**|**Neurosymbolic Embodied Agents**|Mohammad Albinhassan et.al.|[2608.16794](http://arxiv.org/abs/2608.16794)|null|
 |**2026-08-17**|**Zetta $ζ$ : An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**|Xin Ding et.al.|[2608.16590](http://arxiv.org/abs/2608.16590)|null|
 |**2026-08-17**|**Co-design of Neural and Muscle Network based on Embodied Perceptron Representation**|Siyuan Tao et.al.|[2608.16555](http://arxiv.org/abs/2608.16555)|null|
-|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**| GigaBrain Team et.al.|[2608.15875](http://arxiv.org/abs/2608.15875)|null|
+|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team et.al.|[2608.15875](http://arxiv.org/abs/2608.15875)|null|
 |**2026-08-16**|**Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification**|Chunyu Qi et.al.|[2608.15636](http://arxiv.org/abs/2608.15636)|null|
 |**2026-08-16**|**AlloEgo-VLM: Disambiguating Allocentric and Egocentric Reference Frames in Vision-Language Models**|Kuan-Lin Chen et.al.|[2608.15605](http://arxiv.org/abs/2608.15605)|null|
 |**2026-08-16**|**EcoVLA: Energy-Efficient Device-Edge Co-Inference for Vision-Language-Action Models under Real-Time Constraints**|Ao Zhou et.al.|[2608.15502](http://arxiv.org/abs/2608.15502)|null|
@@ -861,11 +861,11 @@ layout: default
 |**2026-08-18**|**Plasma dynamics near the magnetic X-point of the two-wire model: Theory and Simulation**|Bin Ahn et.al.|[2608.18373](http://arxiv.org/abs/2608.18373)|null|
 |**2026-08-18**|**Transferable Tool-Tissue Contact Detection from Stereo Depth in Robot-Assisted Surgery**|Mingyeung Wu et.al.|[2608.18270](http://arxiv.org/abs/2608.18270)|null|
 |**2026-08-18**|**From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**|Xingjian Wang et.al.|[2608.18076](http://arxiv.org/abs/2608.18076)|null|
-|**2026-08-18**|**EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing**|Jiayi Song et.al.|[2608.18063](http://arxiv.org/abs/2608.18063)|null|
+|**2026-08-18**|**EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing**|Jiayi Song et.al.|[2608.18063](http://arxiv.org/abs/2608.18063)|**[link](https://github.com/songyangyifei/EditBridge)**|
 |**2026-08-18**|**Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization**|Travis Zhang et.al.|[2608.18040](http://arxiv.org/abs/2608.18040)|null|
 |**2026-08-18**|**AViTS: Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation**|Haoran Qin et.al.|[2608.17995](http://arxiv.org/abs/2608.17995)|null|
 |**2026-08-18**|**LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching**|Jinshan Liu et.al.|[2608.17973](http://arxiv.org/abs/2608.17973)|null|
-|**2026-08-18**|**Improving Complex Moiré Removal with Generative Supervision**|Xinyang Gu et.al.|[2608.17883](http://arxiv.org/abs/2608.17883)|null|
+|**2026-08-18**|**Improving Complex Moiré Removal with Generative Supervision**|Xinyang Gu et.al.|[2608.17883](http://arxiv.org/abs/2608.17883)|**[link](https://github.com/xinygu-pavo/WildMoire)**|
 |**2026-08-18**|**Diff-DDoS: Realistic Cyber-Physical Attack Synthesis and Robust Detection for 5G-Enabled CPS Using Tabular Diffusion Models**|Bilal Hussain et.al.|[2608.17796](http://arxiv.org/abs/2608.17796)|null|
 |**2026-08-18**|**TINA+: Probing Residual Visual Knowledge in Unlearned Diffusion Models via Diffusion-Consistent Text-Free Inversion**|Qianlong Xiang et.al.|[2608.17747](http://arxiv.org/abs/2608.17747)|null|
 |**2026-08-18**|**Picard Proximal Monte Carlo for Parallel Bayesian Imaging with Score-Based Generative Priors**|Deliang Wei et.al.|[2608.17666](http://arxiv.org/abs/2608.17666)|null|
@@ -896,7 +896,7 @@ layout: default
 |**2026-08-13**|**Wasserstein Filtering: A Sample Selection Method for Robust Distribution Learning**|Yikai Xu et.al.|[2608.13418](http://arxiv.org/abs/2608.13418)|null|
 |**2026-08-13**|**HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models**|Jiazi Bu et.al.|[2608.13205](http://arxiv.org/abs/2608.13205)|**[link](https://github.com/Bujiazi/HPSD)**|
 |**2026-08-13**|**Using Diffusion Models to Estimate Uncertainties in Analytic Continuation**|Sagi Meir et.al.|[2608.13123](http://arxiv.org/abs/2608.13123)|null|
-|**2026-08-13**|**Towards Physics-Faithful Generation of Scientific Diagrams**|Minghui Zhang et.al.|[2608.13112](http://arxiv.org/abs/2608.13112)|null|
+|**2026-08-13**|**Towards Physics-Faithful Generation of Scientific Diagrams**|Minghui Zhang et.al.|[2608.13112](http://arxiv.org/abs/2608.13112)|**[link](https://github.com/SJXer/Princigram.github.io)**|
 |**2026-08-13**|**FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching**|Zhuohan Wang et.al.|[2608.13096](http://arxiv.org/abs/2608.13096)|null|
 |**2026-08-13**|**Learning Discrete Decisions for MIPs with Constraint-Aware Diffusion**|Vincenzo Di Vito et.al.|[2608.13079](http://arxiv.org/abs/2608.13079)|null|
 |**2026-08-13**|**From Local Mismatch to Global Impact: Optimizing Cache Reuse Policy for Efficient Diffusion**|Xichen Ye et.al.|[2608.13043](http://arxiv.org/abs/2608.13043)|null|
@@ -1351,8 +1351,8 @@ layout: default
 |**2026-08-18**|**Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning**|Xingrui Zhuo et.al.|[2608.17443](http://arxiv.org/abs/2608.17443)|null|
 |**2026-08-18**|**Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements**|Zhi Zheng et.al.|[2608.17310](http://arxiv.org/abs/2608.17310)|**[link](https://github.com/zz1358m/Agentic-ESOpt)**|
 |**2026-08-17**|**Task Specialization Fine-Tuning for Contextual Reinforcement Learning**|Jianan Zhou et.al.|[2608.17180](http://arxiv.org/abs/2608.17180)|null|
-|**2026-08-17**|**Polaris: Learning to Generate Table Descriptions from Retrieval Feedback**|Ting Cai et.al.|[2608.17171](http://arxiv.org/abs/2608.17171)|null|
-|**2026-08-17**|**OraclePhys: A Systematic Framework for LLM Fine-Tuning on Structural Mechanics**|Mingyu Li et.al.|[2608.17162](http://arxiv.org/abs/2608.17162)|null|
+|**2026-08-17**|**Polaris: Learning to Generate Table Descriptions from Retrieval Feedback**|Ting Cai et.al.|[2608.17171](http://arxiv.org/abs/2608.17171)|**[link](https://github.com/anhaidgroup/polaris)**|
+|**2026-08-17**|**OraclePhys: A Systematic Framework for LLM Fine-Tuning on Structural Mechanics**|Mingyu Li et.al.|[2608.17162](http://arxiv.org/abs/2608.17162)|**[link](https://github.com/cl1110goo-afk/oraclephys)**|
 |**2026-08-17**|**Structured Driving-State Narratives for Small Language Model-Based GNSS Spoofing Detection**|Abyad Enan et.al.|[2608.17092](http://arxiv.org/abs/2608.17092)|null|
 |**2026-08-17**|**The Ethical Decision Head: Operationalizing Normative Ethics in Autonomous Vehicles via Reinforcement Learning from Human Feedback**|Thomas Mbrice et.al.|[2608.16710](http://arxiv.org/abs/2608.16710)|null|
 |**2026-08-17**|**When Do Explanations Help In-Context Learning? A Comparative Study of Natural Language Explanation Types and Faithfulness**|Mahdi Dhaini et.al.|[2608.16627](http://arxiv.org/abs/2608.16627)|null|
@@ -1507,7 +1507,7 @@ layout: default
 |**2026-07-18**|**Diagnosing Correctness Probes under Self-Judgement Confounding**|Yi-Long Lu et.al.|[2607.16799](http://arxiv.org/abs/2607.16799)|**[link](https://github.com/Yilong-Lu/Diagnosing_Correctness)**|
 |**2026-07-17**|**Understanding Reasoning from Pretraining to Post-Training**|Jingyan Shen et.al.|[2607.16097](http://arxiv.org/abs/2607.16097)|null|
 |**2026-07-17**|**GeoChrono: Benchmarking and Rethinking Long-Term Temporal Understanding in Remote Sensing**|Yujie Li et.al.|[2607.15768](http://arxiv.org/abs/2607.15768)|**[link](https://github.com/IntelliSensing/GeoChrono)**|
-|**2026-07-17**|**Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling**|Bo-An Chang et.al.|[2607.15740](http://arxiv.org/abs/2607.15740)|null|
+|**2026-07-17**|**Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling**|Bo-An Chang et.al.|[2607.15740](http://arxiv.org/abs/2607.15740)|**[link](https://github.com/nycu-m3-lab/Cultural_Reward_Modeling)**|
 |**2026-07-17**|**LLMs Encode Relevance as a Layer-Wise Cross-Lingual Signal**|Pietro Bernardelle et.al.|[2607.15555](http://arxiv.org/abs/2607.15555)|null|
 |**2026-07-16**|**Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya**|Hailay Kidu Teklehaymanot et.al.|[2607.15209](http://arxiv.org/abs/2607.15209)|null|
 |**2026-07-16**|**On-Policy Delta Distillation**|Byeongho Heo et.al.|[2607.15161](http://arxiv.org/abs/2607.15161)|**[link](https://github.com/rehaanahmad2013/on-policy-delta-distillation)**|
@@ -1712,7 +1712,7 @@ layout: default
 |**2026-04-30**|**HAVEN: Hybrid Automated Verification ENgine for UVM Testbench Synthesis with LLMs**|Chang-Chih Meng et.al.|[2604.27643](http://arxiv.org/abs/2604.27643)|null|
 |**2026-04-30**|**SecGoal: A Benchmark for Security Goal Extraction and Formalization from Protocol Documents**|Dawei Huang et.al.|[2604.27601](http://arxiv.org/abs/2604.27601)|null|
 |**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
-|**2026-04-30**|**Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors**|Zi Li et.al.|[2604.27426](http://arxiv.org/abs/2604.27426)|null|
+|**2026-04-30**|**Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors**|Zi Li et.al.|[2604.27426](http://arxiv.org/abs/2604.27426)|**[link](https://github.com/GodricLee/Secret-Stealing-Attacks-on-Local-LLM-Fine-Tuning-through-Supply-Chain-Model-Code-Backdoors)**|
 |**2026-04-29**|**Instruction Complexity Induces Positional Collapse in Adversarial LLM Evaluation**|Jon-Paul Cacioli et.al.|[2604.27249](http://arxiv.org/abs/2604.27249)|null|
 |**2026-04-29**|**Zero-Shot to Full-Resource: Cross-lingual Transfer Strategies for Aspect-Based Sentiment Analysis**|Jakob Fehle et.al.|[2604.26619](http://arxiv.org/abs/2604.26619)|null|
 |**2026-04-29**|**Translating Under Pressure: Domain-Aware LLMs for Crisis Communication**|Antonio Castaldo et.al.|[2604.26597](http://arxiv.org/abs/2604.26597)|null|
