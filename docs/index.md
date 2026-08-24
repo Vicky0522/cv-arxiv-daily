@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -829,6 +829,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Anchoring Instruction Outside Mask: Exact Reference Caching for Efficient In-Context Diffusion Transformers**|Yangshuai Liu et.al.|[2608.21229](http://arxiv.org/abs/2608.21229)|null|
+|**2026-08-21**|**SlimDiffuSE: Towards Efficient Diffusion-Based Speech Enhancement using Slimmable Networks**|Nagashree K. S. Rao et.al.|[2608.21188](http://arxiv.org/abs/2608.21188)|null|
+|**2026-08-21**|**From Propagation to Protection: Risk-Aware Diffusion for Harm Minimization in Signed Social Networks**|Aaqib Zahoor et.al.|[2608.21040](http://arxiv.org/abs/2608.21040)|null|
+|**2026-08-21**|**An Imaging-Informed Reaction-Diffusion Model of Infarct Growth**|Muhammad Hussnain Abbas et.al.|[2608.20935](http://arxiv.org/abs/2608.20935)|null|
+|**2026-08-21**|**OccluRank: Controllable Occlusion-Aware Layout-to-Image Generation by Adding Just an Ordinal Rank**|Wenyang Hong et.al.|[2608.20932](http://arxiv.org/abs/2608.20932)|null|
+|**2026-08-21**|**DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion**|Jiakun Li et.al.|[2608.20759](http://arxiv.org/abs/2608.20759)|**[link](https://github.com/KLMAV-CUC/DiGS-Avatar)**|
+|**2026-08-21**|**Bridging Language and Spherical Space: Object-Centric Control for Text-to-Panorama Generation**|Derui Li et.al.|[2608.20691](http://arxiv.org/abs/2608.20691)|null|
+|**2026-08-21**|**Minimax Optimality of Score-Entropy Discrete Diffusion**|Cholyeon Cho et.al.|[2608.20635](http://arxiv.org/abs/2608.20635)|null|
+|**2026-08-20**|**RECOUNT: Reference-guided Counting with Synthetic Visual Exemplars**|Adriano D'Alessandro et.al.|[2608.20621](http://arxiv.org/abs/2608.20621)|null|
+|**2026-08-20**|**Consistency Models for Fast MRI Reconstruction Using Regularization by Denoising**|Merve Gülle et.al.|[2608.20561](http://arxiv.org/abs/2608.20561)|null|
 |**2026-08-20**|**WithEveryone: Unified Planning and Identity Grounding for Group Image Generation**|Hengyuan Xu et.al.|[2608.20336](http://arxiv.org/abs/2608.20336)|null|
 |**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|**[link](https://github.com/ant-research/4DAnyone)**|
 |**2026-08-20**|**Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models**|Taihang Hu et.al.|[2608.20334](http://arxiv.org/abs/2608.20334)|null|
@@ -1319,16 +1329,6 @@ layout: default
 |**2026-04-27**|**Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion**|Zhongjie Duan et.al.|[2604.24351](http://arxiv.org/abs/2604.24351)|null|
 |**2026-04-27**|**GeoEdit: Local Frames for Fast, Training-Free On-Manifold Editing in Diffusion Models**|Yiming Zhang et.al.|[2604.24238](http://arxiv.org/abs/2604.24238)|null|
 |**2026-04-27**|**Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk**|Shuai Wu et.al.|[2604.24197](http://arxiv.org/abs/2604.24197)|null|
-|**2026-04-27**|**Bridging Restoration and Generation Manifolds in One-Step Diffusion for Real-World Super-Resolution**|Shyang-En Weng et.al.|[2604.24136](http://arxiv.org/abs/2604.24136)|null|
-|**2026-04-24**|**Statistical Analysis of Markovian Generative Modeling**|Eddie Aamari et.al.|[2604.22712](http://arxiv.org/abs/2604.22712)|null|
-|**2026-04-24**|**Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model**|Nivetha Jayakumar et.al.|[2604.22700](http://arxiv.org/abs/2604.22700)|**[link](https://github.com/vfb8zv/Generative-Modeling-of-Neurodegenerative-Brain-Anatomy-with-4D-Longitudinal-Diffusion-Model)**|
-|**2026-04-24**|**Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction**|Yongxiang Lian et.al.|[2604.22649](http://arxiv.org/abs/2604.22649)|null|
-|**2026-04-24**|**Efficient Diffusion Distillation via Embedding Loss**|Jincheng Ying et.al.|[2604.22379](http://arxiv.org/abs/2604.22379)|null|
-|**2026-04-24**|**TabSCM: A practical Framework for Generating Realistic Tabular Data**|Sven Jacob et.al.|[2604.22337](http://arxiv.org/abs/2604.22337)|null|
-|**2026-04-24**|**Knowledge Visualization: A Benchmark and Method for Knowledge-Intensive Text-to-Image Generation**|Ran Zhao et.al.|[2604.22302](http://arxiv.org/abs/2604.22302)|null|
-|**2026-04-24**|**Evaluation of image simulation open source solutions for simulation of synthetic images in lunar environment**|Jai G Singla et.al.|[2604.22296](http://arxiv.org/abs/2604.22296)|null|
-|**2026-04-24**|**AI-Driven Performance-to-Design Generation and Optimization of Marine Propellers**|Leah Chen et.al.|[2604.22224](http://arxiv.org/abs/2604.22224)|null|
-|**2026-04-24**|**Breaking Watermarks in the Frequency Domain: A Modulated Diffusion Attack Framework**|Chunpeng Wang et.al.|[2604.22220](http://arxiv.org/abs/2604.22220)|null|
 
 ## LLM training
 
