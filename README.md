@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-04-09**|**Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation**|Xiaoqian Qi et.al.|[2604.08199](http://arxiv.org/abs/2604.08199)|null|
 |**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168](http://arxiv.org/abs/2604.08168)|**[link](https://github.com/GigaAI-research/ViVa)**|
 
-<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
 
 ## embodied AI
 
@@ -839,12 +839,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Metadata-Aware Adaptation of a Generative Foundation Model for Conditional CMR Synthesis**|Marc Rodríguez et.al.|[2608.24342](http://arxiv.org/abs/2608.24342)|null|
+|**2026-08-25**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
+|**2026-08-25**|**TransPhy: Visual In-Context Learning for Physically Grounded Image Editing**|Siyi Xie et.al.|[2608.24119](http://arxiv.org/abs/2608.24119)|null|
+|**2026-08-25**|**Representation Learning in Diffusion and Flow-based Model: An Application Aspect**|Yanchen Xu et.al.|[2608.24068](http://arxiv.org/abs/2608.24068)|null|
+|**2026-08-25**|**Kernel-Dependent Pattern Formation in a Population Model with Nonlocal Facilitation and Competition**|Olivia Clifton et.al.|[2608.23964](http://arxiv.org/abs/2608.23964)|null|
+|**2026-08-25**|**Generalization, memorization, and overfitting for diffusion models trained in the lazy high-dimensional regime**|Hugo Latourelle-Vigeant et.al.|[2608.23938](http://arxiv.org/abs/2608.23938)|null|
+|**2026-08-24**|**The Loss Floor of Denoising Score Matching: Fisher Geometry from Schrödinger Bridges**|Avinash Raju et.al.|[2608.23916](http://arxiv.org/abs/2608.23916)|null|
+|**2026-08-24**|**AffineTok: Semantic Affine Consistency for Diffusion-Friendly Visual Tokenizer**|Junqiu Yu et.al.|[2608.23864](http://arxiv.org/abs/2608.23864)|null|
+|**2026-08-24**|**A Theory of Speciation in Generative Diffusion Models on Compact Riemannian Manifolds**|Alessio Marta et.al.|[2608.23798](http://arxiv.org/abs/2608.23798)|null|
+|**2026-08-24**|**Smoothing effect and uniqueness for aggregation diffusion models**|Stefano Lisini et.al.|[2608.23734](http://arxiv.org/abs/2608.23734)|null|
 |**2026-08-24**|**Provably adaptive sampling with uniform and remasking discrete diffusion models**|Daniil Dmitriev et.al.|[2608.23554](http://arxiv.org/abs/2608.23554)|null|
 |**2026-08-24**|**ProxyFormer: A Dual-Stream Proxy Architecture for Ultra-Long Context and High-Resolution Generation**|Zhongpan Tang et.al.|[2608.23463](http://arxiv.org/abs/2608.23463)|null|
 |**2026-08-24**|**Image-Conditioned Diffusion Models for Quality Assurance of Organ-at-Risk Segmentations in Radiotherapy**|Clea Dronne et.al.|[2608.23432](http://arxiv.org/abs/2608.23432)|null|
@@ -1335,18 +1345,8 @@
 |**2026-04-29**|**Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models**|Zhirong Shen et.al.|[2604.26365](http://arxiv.org/abs/2604.26365)|null|
 |**2026-04-29**|**ACPO: Anchor-Constrained Perceptual Optimization for Diffusion Models with No-Reference Quality Guidance**|Yang Yang et.al.|[2604.26348](http://arxiv.org/abs/2604.26348)|null|
 |**2026-04-29**|**SpatialFusion: Endowing Unified Image Generation with Intrinsic 3D Geometric Awareness**|Haiyi Qiu et.al.|[2604.26341](http://arxiv.org/abs/2604.26341)|null|
-|**2026-04-28**|**Charge diffusion and modulation transfer function in a Nancy Grace Roman Space Telescope detector**|Emily Macbeth et.al.|[2604.26114](http://arxiv.org/abs/2604.26114)|null|
-|**2026-04-28**|**DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing**|Hanqing Yang et.al.|[2604.25477](http://arxiv.org/abs/2604.25477)|null|
-|**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
-|**2026-04-28**|**Benchmarking Layout-Guided Diffusion Models through Unified Semantic-Spatial Evaluation in Closed and Open Settings**|Luca Parolari et.al.|[2604.25358](http://arxiv.org/abs/2604.25358)|**[link](https://github.com/lparolari/cobench)**|
-|**2026-04-28**|**Edge-Cloud Collaborative Reconstruction via Structure-Aware Latent Diffusion for Downstream Remote Sensing Perception**|Yun Li et.al.|[2604.25319](http://arxiv.org/abs/2604.25319)|null|
-|**2026-04-28**|**Golden RPG: Confidence-Adaptive Region-Aware Noise for Compositional Text-to-Image Generation**|Hao Li et.al.|[2604.25314](http://arxiv.org/abs/2604.25314)|null|
-|**2026-04-28**|**The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents**|Yuwei Sun et.al.|[2604.25299](http://arxiv.org/abs/2604.25299)|null|
-|**2026-04-28**|**Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds**|Liuzhuozheng Li et.al.|[2604.25289](http://arxiv.org/abs/2604.25289)|null|
-|**2026-04-28**|**ResetEdit: Precise Text-guided Editing of Generated Image via Resettable Starting Latent**|Hanyi Wang et.al.|[2604.25128](http://arxiv.org/abs/2604.25128)|null|
-|**2026-04-27**|**Generative diffusion models for spatiotemporal influenza forecasting**|Joseph Lemaitre et.al.|[2604.24913](http://arxiv.org/abs/2604.24913)|null|
 
-<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
 
 ## LLM training
 
@@ -1853,7 +1853,7 @@
 |**2026-04-14**|**AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs**|Manoj Madushanka Perera et.al.|[2604.12179](http://arxiv.org/abs/2604.12179)|null|
 |**2026-04-14**|**Nucleus-Image: Sparse MoE for Image Generation**|Chandan Akiti et.al.|[2604.12163](http://arxiv.org/abs/2604.12163)|null|
 
-<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
