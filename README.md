@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning**|Sixiang Chen et.al.|[2608.24885](http://arxiv.org/abs/2608.24885)|null|
+|**2026-08-25**|**LeFlow: Generative Latent Flow Planning for World Models**|Hsiang-Wei Huang et.al.|[2608.24855](http://arxiv.org/abs/2608.24855)|null|
+|**2026-08-25**|**Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training**|Wenxuan Shen et.al.|[2608.24680](http://arxiv.org/abs/2608.24680)|null|
+|**2026-08-25**|**Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models**|Abdulhady Abas Abdullah et.al.|[2608.24534](http://arxiv.org/abs/2608.24534)|null|
+|**2026-08-25**|**How Do Professional Editors Evaluate the Editing Quality of AI-Generated Cinematic Video Ads?**|Po-Ming Law et.al.|[2608.24329](http://arxiv.org/abs/2608.24329)|null|
+|**2026-08-25**|**NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical Robotics**|Javier Gamazo Tejero et.al.|[2608.24199](http://arxiv.org/abs/2608.24199)|null|
+|**2026-08-25**|**TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks**|Zhi Cao et.al.|[2608.24101](http://arxiv.org/abs/2608.24101)|**[link](https://github.com/LOL-png/tract)**|
+|**2026-08-25**|**XP-JEPA: Cross-Predictive Physics Grounding for Forecastable Latent Dynamics**|Kehan Wen et.al.|[2608.24044](http://arxiv.org/abs/2608.24044)|null|
+|**2026-08-25**|**GlanceWAM: Sparse Test-Time Imagination for World-Action Models**|Linhan Wang et.al.|[2608.23927](http://arxiv.org/abs/2608.23927)|**[link](https://github.com/linhanwang/GlanceWAM)**|
+|**2026-08-24**|**DreamLedger: Execution-Settled Credit Files for World-Model Imagination in Robot Decision Loops**|Xianyao Li et.al.|[2608.23863](http://arxiv.org/abs/2608.23863)|null|
 |**2026-08-24**|**ReWorld: An Interactive World Model with Long-Horizon Memory**|Zhifei Chen et.al.|[2608.23565](http://arxiv.org/abs/2608.23565)|**[link](https://github.com/zhifeichen097/ReWorld)**|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
 |**2026-08-24**|**Correcting a learned physical invariant improves world-model rollouts**|Richard Bao et.al.|[2608.23526](http://arxiv.org/abs/2608.23526)|**[link](https://github.com/Zarand3r/world-model-invariants)**|
@@ -510,16 +520,6 @@
 |**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
 |**2026-04-10**|**PhysInOne: Visual Physics Learning and Reasoning in One Suite**|Siyuan Zhou et.al.|[2604.09415](http://arxiv.org/abs/2604.09415)|**[link](https://github.com/MT-Shark/PhysInOne)**|
 |**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
-|**2026-04-10**|**Learning Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2604.09059](http://arxiv.org/abs/2604.09059)|null|
-|**2026-04-10**|**Advantage-Guided Diffusion for Model-Based Reinforcement Learning**|Daniele Foffano et.al.|[2604.09035](http://arxiv.org/abs/2604.09035)|null|
-|**2026-04-10**|**Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory**|Zile Wang et.al.|[2604.08995](http://arxiv.org/abs/2604.08995)|**[link](https://github.com/SkyworkAI/Matrix-Game)**|
-|**2026-04-10**|**WOMBET: World Model-based Experience Transfer for Robust and Sample-efficient Reinforcement Learning**|Mintae Kim et.al.|[2604.08958](http://arxiv.org/abs/2604.08958)|null|
-|**2026-04-10**|**Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication**|Benjamin Amoh et.al.|[2604.08944](http://arxiv.org/abs/2604.08944)|null|
-|**2026-04-09**|**Toward Hardware-Agnostic Quadrupedal World Models via Morphology Conditioning**|Mohamad H. Danesh et.al.|[2604.08780](http://arxiv.org/abs/2604.08780)|null|
-|**2026-04-09**|**Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics**|Ying Shen et.al.|[2604.08503](http://arxiv.org/abs/2604.08503)|null|
-|**2026-04-09**|**Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**|Seyed Amir Ahmad Safavi-Naini et.al.|[2604.08226](http://arxiv.org/abs/2604.08226)|null|
-|**2026-04-09**|**Beyond Static Forecasting: Unleashing the Power of World Models for Mobile Traffic Extrapolation**|Xiaoqian Qi et.al.|[2604.08199](http://arxiv.org/abs/2604.08199)|null|
-|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168](http://arxiv.org/abs/2604.08168)|**[link](https://github.com/GigaAI-research/ViVa)**|
 
 <p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
 
@@ -527,8 +527,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation**|Yumeng He et.al.|[2608.24212](http://arxiv.org/abs/2608.24212)|null|
+|**2026-08-25**|**SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image**|Zefan Tian et.al.|[2608.23930](http://arxiv.org/abs/2608.23930)|null|
+|**2026-08-24**|**Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization**|Yapeng Liu et.al.|[2608.23839](http://arxiv.org/abs/2608.23839)|null|
 |**2026-08-23**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
-|**2026-08-22**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|**[link](https://github.com/JulianZJN/GenCoord)**|
+|**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|**[link](https://github.com/JulianZJN/GenCoord)**|
 |**2026-08-22**|**GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI**|Zhesheng Zhang et.al.|[2608.21928](http://arxiv.org/abs/2608.21928)|null|
 |**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Shuo Feng et.al.|[2608.21878](http://arxiv.org/abs/2608.21878)|null|
 |**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
@@ -845,6 +848,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**On-Policy Self-Distillation in Diffusion Models**|Wei Zhou et.al.|[2608.24646](http://arxiv.org/abs/2608.24646)|**[link](https://github.com/worldbench/DiffusionOPSD)**|
+|**2026-08-25**|**X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis**|Sonali Godavarthy et.al.|[2608.24563](http://arxiv.org/abs/2608.24563)|null|
 |**2026-08-25**|**Metadata-Aware Adaptation of a Generative Foundation Model for Conditional CMR Synthesis**|Marc Rodríguez et.al.|[2608.24342](http://arxiv.org/abs/2608.24342)|null|
 |**2026-08-25**|**Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation**|Yeonkyeong Lee et.al.|[2608.24293](http://arxiv.org/abs/2608.24293)|null|
 |**2026-08-25**|**TransPhy: Visual In-Context Learning for Physically Grounded Image Editing**|Siyi Xie et.al.|[2608.24119](http://arxiv.org/abs/2608.24119)|null|
@@ -1343,8 +1348,6 @@
 |**2026-04-29**|**Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models**|Haosen Li et.al.|[2604.26503](http://arxiv.org/abs/2604.26503)|null|
 |**2026-04-29**|**Probabilistic data quality assessment for structural monitoring data via outlier-resistant conditional diffusion model**|Qi Li et.al.|[2604.26366](http://arxiv.org/abs/2604.26366)|null|
 |**2026-04-29**|**Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models**|Zhirong Shen et.al.|[2604.26365](http://arxiv.org/abs/2604.26365)|null|
-|**2026-04-29**|**ACPO: Anchor-Constrained Perceptual Optimization for Diffusion Models with No-Reference Quality Guidance**|Yang Yang et.al.|[2604.26348](http://arxiv.org/abs/2604.26348)|null|
-|**2026-04-29**|**SpatialFusion: Endowing Unified Image Generation with Intrinsic 3D Geometric Awareness**|Haiyi Qiu et.al.|[2604.26341](http://arxiv.org/abs/2604.26341)|null|
 
 <p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
 
@@ -1352,6 +1355,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement**|Arthur Corrêa et.al.|[2608.24859](http://arxiv.org/abs/2608.24859)|**[link](https://github.com/AJ-Correa/Routing-POLAR)**|
+|**2026-08-25**|**CAFE: Self-Improving Search Agents Need Co-Evolving Feedback**|Boyang Liu et.al.|[2608.24794](http://arxiv.org/abs/2608.24794)|null|
+|**2026-08-25**|**Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion**|Zilong Huang et.al.|[2608.24730](http://arxiv.org/abs/2608.24730)|**[link](https://github.com/slash1028/EAPO-EmoPrefer)**|
+|**2026-08-25**|**Aging of Prompt Engineering Techniques Across LLM Versions**|Anastasiia Rudyk et.al.|[2608.24641](http://arxiv.org/abs/2608.24641)|null|
+|**2026-08-25**|**Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models**|Abdulhady Abas Abdullah et.al.|[2608.24534](http://arxiv.org/abs/2608.24534)|null|
+|**2026-08-25**|**Preference Data Selection for Mitigating the Alignment Tax in Large Language Models**|Minsu Kim et.al.|[2608.24192](http://arxiv.org/abs/2608.24192)|null|
+|**2026-08-25**|**Preference Optimization for Non-Verbal Vocalization Synthesis**|Haoyang Li et.al.|[2608.24163](http://arxiv.org/abs/2608.24163)|null|
+|**2026-08-25**|**Algorithmic Impact Reveals the Hidden Social Choice Structure of Alignment**|Zachary Wojtowicz et.al.|[2608.24046](http://arxiv.org/abs/2608.24046)|null|
+|**2026-08-25**|**TAGR: Temporally Adaptive Generative Recommendation for Industrial Live-Streaming Advertising**|Wencai Ye et.al.|[2608.24034](http://arxiv.org/abs/2608.24034)|null|
+|**2026-08-25**|**NeurRAFT: Robot Motion Planning via Anchor-Level Flow Matching with Clearance-Aware Preference Tuning**|Sibo Tian et.al.|[2608.24026](http://arxiv.org/abs/2608.24026)|null|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
 |**2026-08-24**|**Adversarial Entropy Inflation Against Gumbel-Based Inference Verification**|Nikita Kezins et.al.|[2608.23375](http://arxiv.org/abs/2608.23375)|null|
 |**2026-08-24**|**The Geometry of Low-Resource Language Representations**|Francois Meyer et.al.|[2608.23358](http://arxiv.org/abs/2608.23358)|null|
@@ -1842,16 +1855,6 @@
 |**2026-04-15**|**SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment**|Fumikazu Konishi et.al.|[2604.13600](http://arxiv.org/abs/2604.13600)|null|
 |**2026-04-15**|**Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate**|Cunda Wang et.al.|[2604.13551](http://arxiv.org/abs/2604.13551)|null|
 |**2026-04-15**|**Synthesizing Instruction-Tuning Datasets with Contrastive Decoding**|Tatsuya Ichinose et.al.|[2604.13538](http://arxiv.org/abs/2604.13538)|**[link](https://github.com/Tatsuya736482/contrastive_decoding_public)**|
-|**2026-04-14**|**Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebysheff Scalarization**|Aadyot Bhatnagar et.al.|[2604.13175](http://arxiv.org/abs/2604.13175)|null|
-|**2026-04-14**|**Visual Preference Optimization with Rubric Rewards**|Ya-Qi Yu et.al.|[2604.13029](http://arxiv.org/abs/2604.13029)|null|
-|**2026-04-14**|**One Token Away from Collapse: The Fragility of Instruction-Tuned Helpfulness**|Erfan Baghaei Potraghloo et.al.|[2604.13006](http://arxiv.org/abs/2604.13006)|null|
-|**2026-04-14**|**Boosting Visual Instruction Tuning with Self-Supervised Guidance**|Sophia Sirko-Galouchenko et.al.|[2604.12966](http://arxiv.org/abs/2604.12966)|null|
-|**2026-04-14**|**From Imitation to Discrimination: Progressive Curriculum Learning for Robust Web Navigation**|Chuang Peng et.al.|[2604.12666](http://arxiv.org/abs/2604.12666)|null|
-|**2026-04-14**|**Safety Training Modulates Harmful Misalignment Under On-Policy RL, But Direction Depends on Environment Design**|Leon Eshuijs et.al.|[2604.12500](http://arxiv.org/abs/2604.12500)|null|
-|**2026-04-14**|**Analyzing the Effect of Noise in LLM Fine-tuning**|Lingfang Li et.al.|[2604.12469](http://arxiv.org/abs/2604.12469)|null|
-|**2026-04-14**|**Three Birds, One Stone: Solving the Communication-Memory-Privacy Trilemma in LLM Fine-tuning Over Wireless Networks with Zeroth-Order Optimization**|Zhijie Cai et.al.|[2604.12401](http://arxiv.org/abs/2604.12401)|null|
-|**2026-04-14**|**AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs**|Manoj Madushanka Perera et.al.|[2604.12179](http://arxiv.org/abs/2604.12179)|null|
-|**2026-04-14**|**Nucleus-Image: Sparse MoE for Image Generation**|Chandan Akiti et.al.|[2604.12163](http://arxiv.org/abs/2604.12163)|null|
 
 <p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
 
