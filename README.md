@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting**|Yueen Ma et.al.|[2608.25956](http://arxiv.org/abs/2608.25956)|null|
+|**2026-08-26**|**Code World Model: Coding Agent as World Brain**|Yiwen Chen et.al.|[2608.25927](http://arxiv.org/abs/2608.25927)|**[link](https://github.com/jaredcroxton/Crew-Agents)**|
+|**2026-08-26**|**A Spatially-Aware Publish-Subscribe Middleware for IoT Applications**|Philipp Ungrund et.al.|[2608.25728](http://arxiv.org/abs/2608.25728)|null|
+|**2026-08-26**|**PRISM: Projection-Integrated Sampling-Based MPC with Bayesian Cost Tuning for Bimanual Manipulation**|Alinjar Dan et.al.|[2608.25666](http://arxiv.org/abs/2608.25666)|null|
+|**2026-08-26**|**GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation**|Yuqing Jiang et.al.|[2608.25659](http://arxiv.org/abs/2608.25659)|null|
+|**2026-08-26**|**ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models**|Xiang Liu et.al.|[2608.25572](http://arxiv.org/abs/2608.25572)|null|
+|**2026-08-26**|**Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models**|Pengfei Zhou et.al.|[2608.25518](http://arxiv.org/abs/2608.25518)|null|
+|**2026-08-26**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Shiqian Li et.al.|[2608.25479](http://arxiv.org/abs/2608.25479)|null|
+|**2026-08-26**|**VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation Quality**|Longteng Jiang et.al.|[2608.25452](http://arxiv.org/abs/2608.25452)|null|
+|**2026-08-25**|**Rollout-Decoded Reconstruction for Long-Horizon Prediction in Latent World Models**|Rishi Shah et.al.|[2608.25017](http://arxiv.org/abs/2608.25017)|null|
 |**2026-08-25**|**Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning**|Sixiang Chen et.al.|[2608.24885](http://arxiv.org/abs/2608.24885)|null|
 |**2026-08-25**|**LeFlow: Generative Latent Flow Planning for World Models**|Hsiang-Wei Huang et.al.|[2608.24855](http://arxiv.org/abs/2608.24855)|null|
 |**2026-08-25**|**Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training**|Wenxuan Shen et.al.|[2608.24680](http://arxiv.org/abs/2608.24680)|null|
@@ -510,28 +520,20 @@
 |**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|**[link](https://github.com/FACEONG/ComSim)**|
 |**2026-04-13**|**WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models**|Anlan Yu et.al.|[2604.11351](http://arxiv.org/abs/2604.11351)|null|
 |**2026-04-13**|**3D-Anchored Lookahead Planning for Persistent Robotic Scene Memory via World-Model-Based MCTS**|Bronislav Sidik et.al.|[2604.11302](http://arxiv.org/abs/2604.11302)|null|
-|**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Liaoyuan Fan et.al.|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
-|**2026-04-13**|**From Topology to Trajectory: LLM-Driven World Models For Supply Chain Resilience**|Jia Luo et.al.|[2604.11041](http://arxiv.org/abs/2604.11041)|null|
-|**2026-04-13**|**OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models**|Xiaomeng Hu et.al.|[2604.10866](http://arxiv.org/abs/2604.10866)|**[link](https://github.com/GregxmHu/OccuBench)**|
-|**2026-04-12**|**Do LLMs Build Spatial World Models? Evidence from Grid-World Maze Tasks**|Weijiang Li et.al.|[2604.10690](http://arxiv.org/abs/2604.10690)|null|
-|**2026-04-11**|**Zero-shot World Models Are Developmentally Efficient Learners**|Khai Loong Aw et.al.|[2604.10333](http://arxiv.org/abs/2604.10333)|**[link](https://github.com/awwkl/ZWM)**|
-|**2026-04-11**|**VGA-Bench: A Unified Benchmark and Multi-Model Framework for Video Aesthetics and Generation Quality Evaluation**|Longteng Jiang et.al.|[2604.10127](http://arxiv.org/abs/2604.10127)|null|
-|**2026-04-10**|**EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks**|Lulin Liu et.al.|[2604.09535](http://arxiv.org/abs/2604.09535)|null|
-|**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
-|**2026-04-10**|**PhysInOne: Visual Physics Learning and Reasoning in One Suite**|Siyuan Zhou et.al.|[2604.09415](http://arxiv.org/abs/2604.09415)|**[link](https://github.com/MT-Shark/PhysInOne)**|
-|**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
 ## embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**ConfAL-WM: Confidence-Guided Active Learning for Action-Conditioned World Models**|Xiang Liu et.al.|[2608.25572](http://arxiv.org/abs/2608.25572)|null|
+|**2026-08-26**|**4DStreamCtrl: Interactive Video Generation with Online 4D Control**|Shiqian Li et.al.|[2608.25479](http://arxiv.org/abs/2608.25479)|null|
 |**2026-08-25**|**NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation**|Yumeng He et.al.|[2608.24212](http://arxiv.org/abs/2608.24212)|null|
 |**2026-08-25**|**SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image**|Zefan Tian et.al.|[2608.23930](http://arxiv.org/abs/2608.23930)|null|
 |**2026-08-24**|**Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization**|Yapeng Liu et.al.|[2608.23839](http://arxiv.org/abs/2608.23839)|null|
-|**2026-08-23**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
-|**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|**[link](https://github.com/JulianZJN/GenCoord)**|
+|**2026-08-25**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
+|**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|null|
 |**2026-08-22**|**GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI**|Zhesheng Zhang et.al.|[2608.21928](http://arxiv.org/abs/2608.21928)|null|
 |**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Shuo Feng et.al.|[2608.21878](http://arxiv.org/abs/2608.21878)|null|
 |**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
@@ -842,12 +844,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing**|Bojia Zi et.al.|[2608.26101](http://arxiv.org/abs/2608.26101)|null|
+|**2026-08-26**|**Uncertainty-Guided Latent Diffusion Models for Faithful Super Resolution**|Ren Wang et.al.|[2608.25998](http://arxiv.org/abs/2608.25998)|null|
+|**2026-08-26**|**When Composition Doesn't Add Up: Humans Identifying Defects in AI-Generated Images**|Ruoqi Hu et.al.|[2608.25933](http://arxiv.org/abs/2608.25933)|null|
+|**2026-08-26**|**Learning Late, Guiding Early: Timestep-Decoupled Semantic Guidance for Fair Face Generation**|Subir Kumar Parida et.al.|[2608.25862](http://arxiv.org/abs/2608.25862)|null|
+|**2026-08-26**|**Precipitation Downscaling Using Foundation Model-Conditioned Diffusion**|Victor Nascimento Ribeiro et.al.|[2608.25858](http://arxiv.org/abs/2608.25858)|null|
+|**2026-08-26**|**DEFUSE: Generalizable Backdoor Defense for Self-Supervised Encoders with Generative Priors**|Tuo Chen et.al.|[2608.25851](http://arxiv.org/abs/2608.25851)|null|
+|**2026-08-26**|**Unsupervised Anatomical Feature Learning via Diffusion Models: Enhanced Medical Image Segmentation with Denoising Diffusion Probabilistic Models**|Akshat G et.al.|[2608.25693](http://arxiv.org/abs/2608.25693)|null|
+|**2026-08-26**|**MAMA-FLUX.2: Image-to-Image Synthesis of Post-Contrast Breast DCE-MRI for the MAMA-SYNTH Challenge**|Kamil Kwarciak et.al.|[2608.25648](http://arxiv.org/abs/2608.25648)|null|
+|**2026-08-26**|**Conditional Total Correlation and the Serial Depth of Adaptive Parallel Sampling**|Chuling Wen et.al.|[2608.25505](http://arxiv.org/abs/2608.25505)|null|
+|**2026-08-26**|**Particle production in $p$ -O collisions at LHC energy**|Chuan Li et.al.|[2608.25501](http://arxiv.org/abs/2608.25501)|null|
 |**2026-08-25**|**On-Policy Self-Distillation in Diffusion Models**|Wei Zhou et.al.|[2608.24646](http://arxiv.org/abs/2608.24646)|**[link](https://github.com/worldbench/DiffusionOPSD)**|
 |**2026-08-25**|**X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis**|Sonali Godavarthy et.al.|[2608.24563](http://arxiv.org/abs/2608.24563)|null|
 |**2026-08-25**|**Metadata-Aware Adaptation of a Generative Foundation Model for Conditional CMR Synthesis**|Marc Rodríguez et.al.|[2608.24342](http://arxiv.org/abs/2608.24342)|null|
@@ -1338,23 +1350,23 @@
 |**2026-04-30**|**Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection**|Ali Shibli et.al.|[2604.27889](http://arxiv.org/abs/2604.27889)|null|
 |**2026-04-30**|**Machine Unlearning for Class Removal through SISA-based Deep Neural Network Architectures**|Ishrak Hamim Mahi et.al.|[2604.27804](http://arxiv.org/abs/2604.27804)|null|
 |**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
-|**2026-04-30**|**Electrothermal Dynamics of Cold Front in Impure Tokamak Plasmas**|S. Oshiro et.al.|[2604.27444](http://arxiv.org/abs/2604.27444)|null|
-|**2026-04-30**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|
-|**2026-04-30**|**Sparse-View 3D Gaussian Splatting in the Wild**|Wongi Park et.al.|[2604.27422](http://arxiv.org/abs/2604.27422)|**[link](https://github.com/MabeNice/SparseGS-W)**|
-|**2026-04-29**|**SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset**|Changhyun Roh et.al.|[2604.26883](http://arxiv.org/abs/2604.26883)|null|
-|**2026-04-29**|**Language Diffusion Models are Associative Memories Capable of Retrieving Unseen Data**|Bao Pham et.al.|[2604.26841](http://arxiv.org/abs/2604.26841)|null|
-|**2026-04-29**|**Conditional diffusion denoising probabilistic model for super-resolution of atmospheric boundary layer large eddy simulation**|Omar Sallam et.al.|[2604.26776](http://arxiv.org/abs/2604.26776)|null|
-|**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|**[link](https://github.com/sharinka0715/X-WAM)**|
-|**2026-04-29**|**Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models**|Haosen Li et.al.|[2604.26503](http://arxiv.org/abs/2604.26503)|null|
-|**2026-04-29**|**Probabilistic data quality assessment for structural monitoring data via outlier-resistant conditional diffusion model**|Qi Li et.al.|[2604.26366](http://arxiv.org/abs/2604.26366)|null|
-|**2026-04-29**|**Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models**|Zhirong Shen et.al.|[2604.26365](http://arxiv.org/abs/2604.26365)|null|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence**|Shengyi Pan et.al.|[2608.25905](http://arxiv.org/abs/2608.25905)|null|
+|**2026-08-26**|**From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**|Lukas Edman et.al.|[2608.25605](http://arxiv.org/abs/2608.25605)|null|
+|**2026-08-26**|**GRIP: Granular Reward-Guided Parameter Interpolation for Efficient Reasoning**|Lam So et.al.|[2608.25583](http://arxiv.org/abs/2608.25583)|null|
+|**2026-08-26**|**Beyond Pairwise Feedback: Listwise Vision-Language Supervision for Preference-Based Reward Learning**|Srivalli Katkuri et.al.|[2608.25350](http://arxiv.org/abs/2608.25350)|null|
+|**2026-08-25**|**Learning Mixtures of Plackett-Luce Models for Multi-Objective Alignment**|Dongyue Li et.al.|[2608.25200](http://arxiv.org/abs/2608.25200)|null|
+|**2026-08-25**|**Tunable Tool-Call Rates in LLM Agents via Representation Steering**|Yuqi Chen et.al.|[2608.25198](http://arxiv.org/abs/2608.25198)|null|
+|**2026-08-25**|**AudioLens: Multi-Perspective Speech Clustering with Reasoning Audio-Language Models**|Wenjun Huang et.al.|[2608.25177](http://arxiv.org/abs/2608.25177)|null|
+|**2026-08-25**|**Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment**|Yan Gao et.al.|[2608.25114](http://arxiv.org/abs/2608.25114)|null|
+|**2026-08-25**|**Hydra: Phase-Aware Workload Characterization of LLM Inference across Edge SoC Generations, Backends, and Quantization Levels**|Amir Taherin et.al.|[2608.25053](http://arxiv.org/abs/2608.25053)|null|
+|**2026-08-25**|**Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal**|Philipp E. Glass et.al.|[2608.24988](http://arxiv.org/abs/2608.24988)|null|
 |**2026-08-25**|**Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement**|Arthur Corrêa et.al.|[2608.24859](http://arxiv.org/abs/2608.24859)|**[link](https://github.com/AJ-Correa/Routing-POLAR)**|
 |**2026-08-25**|**CAFE: Self-Improving Search Agents Need Co-Evolving Feedback**|Boyang Liu et.al.|[2608.24794](http://arxiv.org/abs/2608.24794)|null|
 |**2026-08-25**|**Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion**|Zilong Huang et.al.|[2608.24730](http://arxiv.org/abs/2608.24730)|**[link](https://github.com/slash1028/EAPO-EmoPrefer)**|
@@ -1845,18 +1857,8 @@
 |**2026-04-16**|**SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models**|Binxian Su et.al.|[2604.14672](http://arxiv.org/abs/2604.14672)|**[link](https://github.com/Monster-Scripts/Lucious-Hub)**|
 |**2026-04-15**|**FoodSense: A Multisensory Food Dataset and Benchmark for Predicting Taste, Smell, Texture, and Sound from Images**|Sabab Ishraq et.al.|[2604.14388](http://arxiv.org/abs/2604.14388)|null|
 |**2026-04-15**|**The Cost of Language: Centroid Erasure Exposes and Exploits Modal Competition in Multimodal Language Models**|Akshay Paruchuri et.al.|[2604.14363](http://arxiv.org/abs/2604.14363)|**[link](https://github.com/yahskapar/centroid-erasure)**|
-|**2026-04-15**|**DharmaOCR: Specialized Small Language Models for Structured OCR that outperform Open-Source and Commercial Baselines**|Gabriel Pimenta de Freitas Cardoso et.al.|[2604.14314](http://arxiv.org/abs/2604.14314)|null|
-|**2026-04-15**|**Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-Visual Language Models**|Ami Baid et.al.|[2604.14129](http://arxiv.org/abs/2604.14129)|**[link](https://github.com/amibaid/ACPO)**|
-|**2026-04-15**|**TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration**|Zerun Ma et.al.|[2604.14116](http://arxiv.org/abs/2604.14116)|null|
-|**2026-04-15**|**MAny: Merge Anything for Multimodal Continual Instruction Tuning**|Zijian Gao et.al.|[2604.14016](http://arxiv.org/abs/2604.14016)|null|
-|**2026-04-15**|**Do We Still Need Humans in the Loop? Comparing Human and LLM Annotation in Active Learning for Hostility Detection**|Ahmad Dawar Hakimi et.al.|[2604.13899](http://arxiv.org/abs/2604.13899)|null|
-|**2026-04-15**|**SparseBalance: Load-Balanced Long Context Training with Dynamic Sparse Attention**|Hongtao Xu et.al.|[2604.13847](http://arxiv.org/abs/2604.13847)|null|
-|**2026-04-15**|**Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges**|Xiaohua Wang et.al.|[2604.13602](http://arxiv.org/abs/2604.13602)|null|
-|**2026-04-15**|**SAKURAONE: An Open Ethernet-Based AI HPC System and Its Observed Workload Dynamics in a Single-Tenant LLM Development Environment**|Fumikazu Konishi et.al.|[2604.13600](http://arxiv.org/abs/2604.13600)|null|
-|**2026-04-15**|**Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate**|Cunda Wang et.al.|[2604.13551](http://arxiv.org/abs/2604.13551)|null|
-|**2026-04-15**|**Synthesizing Instruction-Tuning Datasets with Contrastive Decoding**|Tatsuya Ichinose et.al.|[2604.13538](http://arxiv.org/abs/2604.13538)|**[link](https://github.com/Tatsuya736482/contrastive_decoding_public)**|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
