@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Kechen Liu et.al.|[2608.27406](http://arxiv.org/abs/2608.27406)|null|
 |**2026-08-27**|**Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models**|Frederik Berenz et.al.|[2608.27367](http://arxiv.org/abs/2608.27367)|null|
-|**2026-08-27**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Yuandong Pu et.al.|[2608.27345](http://arxiv.org/abs/2608.27345)|null|
+|**2026-08-27**|**PAWBench: How Far Are We from Probabilistically Aligned World Modeling?**|Yuandong Pu et.al.|[2608.27345](http://arxiv.org/abs/2608.27345)|**[link](https://github.com/Andrew0613/PAWBench_webpage)**|
 |**2026-08-27**|**R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models**|Qiwen Gu et.al.|[2608.27328](http://arxiv.org/abs/2608.27328)|null|
 |**2026-08-27**|**SpatialCrafter: Single Image World Modeling with Generative 3D Proxies**|Chuan Fang et.al.|[2608.27073](http://arxiv.org/abs/2608.27073)|**[link](https://github.com/fangchuan/SpatialCrafter)**|
 |**2026-08-27**|**TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models**|Qi Lu et.al.|[2608.26971](http://arxiv.org/abs/2608.26971)|null|
@@ -536,7 +536,7 @@
 |**2026-08-25**|**SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image**|Zefan Tian et.al.|[2608.23930](http://arxiv.org/abs/2608.23930)|null|
 |**2026-08-24**|**Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization**|Yapeng Liu et.al.|[2608.23839](http://arxiv.org/abs/2608.23839)|null|
 |**2026-08-25**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
-|**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|**[link](https://github.com/JulianZJN/GenCoord)**|
+|**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|null|
 |**2026-08-22**|**GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI**|Zhesheng Zhang et.al.|[2608.21928](http://arxiv.org/abs/2608.21928)|null|
 |**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Shuo Feng et.al.|[2608.21878](http://arxiv.org/abs/2608.21878)|null|
 |**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
@@ -1366,7 +1366,7 @@
 |**2026-08-27**|**Disentangling Optimization Scale from Preference Scale in DPO**|Ivan Kruzhilov et.al.|[2608.27032](http://arxiv.org/abs/2608.27032)|null|
 |**2026-08-27**|**LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning**|Muyao Yuan et.al.|[2608.26820](http://arxiv.org/abs/2608.26820)|null|
 |**2026-08-27**|**Decoupling Planning and Control for Instructable Agents**|Zineng Tang et.al.|[2608.26788](http://arxiv.org/abs/2608.26788)|null|
-|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|**[link](https://github.com/01choco/instruction-refinement)**|
+|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|null|
 |**2026-08-26**|**MemToC: Benchmarking Memory-Tool Conflict Resolution in Large Language Models**|Arseniy Varlamov et.al.|[2608.26295](http://arxiv.org/abs/2608.26295)|null|
 |**2026-08-26**|**Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence**|Shengyi Pan et.al.|[2608.25905](http://arxiv.org/abs/2608.25905)|null|
 |**2026-08-26**|**From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**|Lukas Edman et.al.|[2608.25605](http://arxiv.org/abs/2608.25605)|null|
