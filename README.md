@@ -536,7 +536,7 @@
 |**2026-08-25**|**SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image**|Zefan Tian et.al.|[2608.23930](http://arxiv.org/abs/2608.23930)|null|
 |**2026-08-24**|**Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization**|Yapeng Liu et.al.|[2608.23839](http://arxiv.org/abs/2608.23839)|null|
 |**2026-08-25**|**Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints**|Gwen Yidou-Weng et.al.|[2608.22149](http://arxiv.org/abs/2608.22149)|null|
-|**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|null|
+|**2026-08-25**|**GenCoord: Skill-Path Commitments under Private Information**|Peng He et.al.|[2608.22055](http://arxiv.org/abs/2608.22055)|**[link](https://github.com/JulianZJN/GenCoord)**|
 |**2026-08-22**|**GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI**|Zhesheng Zhang et.al.|[2608.21928](http://arxiv.org/abs/2608.21928)|null|
 |**2026-08-22**|**ViSMoE: Visual-Aware Sparse Mixture-of-Experts for Embodied Referring Expression Grounding**|Shuo Feng et.al.|[2608.21878](http://arxiv.org/abs/2608.21878)|null|
 |**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al.|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
