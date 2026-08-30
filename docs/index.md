@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.29
+## Updated on 2026.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1354,7 +1354,7 @@ layout: default
 |**2026-08-27**|**Disentangling Optimization Scale from Preference Scale in DPO**|Ivan Kruzhilov et.al.|[2608.27032](http://arxiv.org/abs/2608.27032)|null|
 |**2026-08-27**|**LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning**|Muyao Yuan et.al.|[2608.26820](http://arxiv.org/abs/2608.26820)|null|
 |**2026-08-27**|**Decoupling Planning and Control for Instructable Agents**|Zineng Tang et.al.|[2608.26788](http://arxiv.org/abs/2608.26788)|null|
-|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|null|
+|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|**[link](https://github.com/01choco/instruction-refinement)**|
 |**2026-08-26**|**MemToC: Benchmarking Memory-Tool Conflict Resolution in Large Language Models**|Arseniy Varlamov et.al.|[2608.26295](http://arxiv.org/abs/2608.26295)|null|
 |**2026-08-26**|**Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence**|Shengyi Pan et.al.|[2608.25905](http://arxiv.org/abs/2608.25905)|null|
 |**2026-08-26**|**From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**|Lukas Edman et.al.|[2608.25605](http://arxiv.org/abs/2608.25605)|null|

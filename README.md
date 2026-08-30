@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.08.29
+## Updated on 2026.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
 |**2026-04-15**|**DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**|Hengye Lyu et.al.|[2604.13509](http://arxiv.org/abs/2604.13509)|null|
 
-<p align=right>(<a href=#Updated-on-20260829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260830>back to top</a>)</p>
 
 ## embodied AI
 
@@ -847,7 +847,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260830>back to top</a>)</p>
 
 ## image generation
 
@@ -1354,7 +1354,7 @@
 |**2026-05-01**|**Faithful Extreme Image Rescaling with Learnable Reversible Transformation and Semantic Priors**|Hao Wei et.al.|[2605.00605](http://arxiv.org/abs/2605.00605)|**[link](https://github.com/cshw2021/FaithEIR)**|
 |**2026-05-01**|**Colorful-Noise: Training-Free Low-Frequency Noise Manipulation for Color-Based Conditional Image Generation**|Nadav Z. Cohen et.al.|[2605.00548](http://arxiv.org/abs/2605.00548)|null|
 
-<p align=right>(<a href=#Updated-on-20260829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260830>back to top</a>)</p>
 
 ## LLM training
 
@@ -1366,7 +1366,7 @@
 |**2026-08-27**|**Disentangling Optimization Scale from Preference Scale in DPO**|Ivan Kruzhilov et.al.|[2608.27032](http://arxiv.org/abs/2608.27032)|null|
 |**2026-08-27**|**LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning**|Muyao Yuan et.al.|[2608.26820](http://arxiv.org/abs/2608.26820)|null|
 |**2026-08-27**|**Decoupling Planning and Control for Instructable Agents**|Zineng Tang et.al.|[2608.26788](http://arxiv.org/abs/2608.26788)|null|
-|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|null|
+|**2026-08-27**|**Instruction Quality Matters: Refining Instructions for Effective Preference Learning**|Seohyeong Lee et.al.|[2608.26779](http://arxiv.org/abs/2608.26779)|**[link](https://github.com/01choco/instruction-refinement)**|
 |**2026-08-26**|**MemToC: Benchmarking Memory-Tool Conflict Resolution in Large Language Models**|Arseniy Varlamov et.al.|[2608.26295](http://arxiv.org/abs/2608.26295)|null|
 |**2026-08-26**|**Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence**|Shengyi Pan et.al.|[2608.25905](http://arxiv.org/abs/2608.25905)|null|
 |**2026-08-26**|**From Specialization to Generalization: Instruction-tuned LLMs for Robust Harmful Content Mitigation**|Lukas Edman et.al.|[2608.25605](http://arxiv.org/abs/2608.25605)|null|
@@ -1861,7 +1861,7 @@
 |**2026-04-16**|**StoSignSGD: Unbiased Structural Stochasticity Fixes SignSGD for Training Large Language Models**|Dingzhi Yu et.al.|[2604.15416](http://arxiv.org/abs/2604.15416)|null|
 |**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)|**[link](https://github.com/raunak-agarwal/made-benchmark)**|
 
-<p align=right>(<a href=#Updated-on-20260829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260830>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
