@@ -527,6 +527,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821](http://arxiv.org/abs/2608.30821)|null|
+|**2026-08-31**|**PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents**|Ziyi Bai et.al.|[2608.30760](http://arxiv.org/abs/2608.30760)|null|
+|**2026-08-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al.|[2608.30451](http://arxiv.org/abs/2608.30451)|null|
+|**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Hongzhe Bi et.al.|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
+|**2026-08-30**|**Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory**|Runjia Qian et.al.|[2608.29910](http://arxiv.org/abs/2608.29910)|**[link](https://github.com/Riemann-Dynamics/Matrix-Game-3.5)**|
+|**2026-08-29**|**AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization**|Cheng Chen et.al.|[2608.29242](http://arxiv.org/abs/2608.29242)|null|
+|**2026-08-28**|**RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction**|Tianyi Wang et.al.|[2608.28718](http://arxiv.org/abs/2608.28718)|null|
 |**2026-08-28**|**When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI**|Sihan Jia et.al.|[2608.28518](http://arxiv.org/abs/2608.28518)|null|
 |**2026-08-28**|**CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning**|Yang Chen et.al.|[2608.28266](http://arxiv.org/abs/2608.28266)|null|
 |**2026-08-28**|**Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents**|Jiahe Ying et.al.|[2608.27866](http://arxiv.org/abs/2608.27866)|null|
@@ -1364,6 +1371,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization**|Camila Blank et.al.|[2608.31079](http://arxiv.org/abs/2608.31079)|null|
+|**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048](http://arxiv.org/abs/2608.31048)|null|
+|**2026-08-31**|**TrainSDC: Characterizing and Mitigating Silent Data Corruption in Large Language Model Training**|Zhipeng Xia et.al.|[2608.30769](http://arxiv.org/abs/2608.30769)|null|
+|**2026-08-31**|**Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models**|Ashwin Nedungadi et.al.|[2608.30751](http://arxiv.org/abs/2608.30751)|null|
+|**2026-08-31**|**Textual Acoustic Grounding for Generalizable LLM-Based Deepfake Voice Detection**|Yassine El Kheir et.al.|[2608.30622](http://arxiv.org/abs/2608.30622)|null|
+|**2026-08-31**|**Hidden Threat in Synthetic Data: Covert Targeted Bias Injection through Benign Text**|Minkyung Cho et.al.|[2608.30619](http://arxiv.org/abs/2608.30619)|null|
+|**2026-08-31**|**PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization**|Boryeong Cho et.al.|[2608.30597](http://arxiv.org/abs/2608.30597)|**[link](https://github.com/VennTum99/PLC-DPO)**|
+|**2026-08-31**|**TuringLLM: Efficiently Scaling Foundation Models Toward Physical AI**|Yuheng Zhang et.al.|[2608.30567](http://arxiv.org/abs/2608.30567)|null|
+|**2026-08-31**|**Do Small Models Use the Law You Give Them? Measuring Context Use on a Bilingual Bangladesh Legal Benchmark**|Moniruzzaman Mahadi et.al.|[2608.30327](http://arxiv.org/abs/2608.30327)|null|
+|**2026-08-31**|**On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability**|Zihan Qiu et.al.|[2608.30320](http://arxiv.org/abs/2608.30320)|null|
 |**2026-08-28**|**Curvature-Conditioned Multiscale Momentum with Sphere Constraints for LLM Pretraining**|Shuchen Zhu et.al.|[2608.28442](http://arxiv.org/abs/2608.28442)|null|
 |**2026-08-28**|**When Linguistic and Internal Confidence Diverge in Large Language Models**|Hefan Zhang et.al.|[2608.28382](http://arxiv.org/abs/2608.28382)|null|
 |**2026-08-28**|**Regime-Aware Portfolio Management via Retrieval-Augmented LLM-Guided Expert Switching**|Ahmad Asadi et.al.|[2608.28252](http://arxiv.org/abs/2608.28252)|null|
@@ -1854,16 +1871,6 @@
 |**2026-04-21**|**Policy Gradient Primal-Dual Method for Safe Reinforcement Learning from Human Feedback**|Qiang Liu et.al.|[2604.19024](http://arxiv.org/abs/2604.19024)|null|
 |**2026-04-21**|**Local Linearity of LLMs Enables Activation Steering via Model-Based Linear Optimal Control**|Julian Skifstad et.al.|[2604.19018](http://arxiv.org/abs/2604.19018)|**[link](https://github.com/trustworthyrobotics/lqr-activation-steering)**|
 |**2026-04-20**|**JudgeMeNot: Personalizing Large Language Models to Emulate Judicial Reasoning in Hebrew**|Itay Razumenko et.al.|[2604.18041](http://arxiv.org/abs/2604.18041)|**[link](https://github.com/Socially-Embedded-Lab/JudgeMeNot)**|
-|**2026-04-20**|**Architecture Matters More Than Scale: A Comparative Study of Retrieval and Memory Augmentation for Financial QA Under SME Compute Constraints**|Jianan Liu et.al.|[2604.17979](http://arxiv.org/abs/2604.17979)|null|
-|**2026-04-20**|**Efficient Federated RLHF via Zeroth-Order Policy Optimization**|Deyi Wang et.al.|[2604.17747](http://arxiv.org/abs/2604.17747)|null|
-|**2026-04-19**|**PBSBench: A Multi-Level Vision-Language Framework and Benchmark for Hematopathology Whole Slide Image Interpretation**|Yuanlong Wang et.al.|[2604.17570](http://arxiv.org/abs/2604.17570)|null|
-|**2026-04-19**|**PoliLegalLM: A Technical Report on a Large Language Model for Political and Legal Affairs**|Yuting Huang et.al.|[2604.17543](http://arxiv.org/abs/2604.17543)|null|
-|**2026-04-19**|**E2E-GMNER: End-to-End Generative Grounded Multimodal Named Entity Recognition**|Meng Zhang et.al.|[2604.17319](http://arxiv.org/abs/2604.17319)|**[link](https://github.com/Finch-coder/E2E-GMNER)**|
-|**2026-04-19**|**Cat-DPO: Category-Adaptive Safety Alignment**|Tiankai Yang et.al.|[2604.17299](http://arxiv.org/abs/2604.17299)|null|
-|**2026-04-19**|**HeadRank: Decoding-Free Passage Reranking via Preference-Aligned Attention Heads**|Juyuan Wang et.al.|[2604.17237](http://arxiv.org/abs/2604.17237)|null|
-|**2026-04-19**|**Guardrails in Logit Space: Safety Token Regularization for LLM Alignment**|Thong Bach et.al.|[2604.17210](http://arxiv.org/abs/2604.17210)|null|
-|**2026-04-18**|**Complementing Self-Consistency with Cross-Model Disagreement for Uncertainty Quantification**|Kimia Hamidieh et.al.|[2604.17112](http://arxiv.org/abs/2604.17112)|null|
-|**2026-04-17**|**Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation**|Yide Ran et.al.|[2604.16197](http://arxiv.org/abs/2604.16197)|null|
 
 <p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
 
