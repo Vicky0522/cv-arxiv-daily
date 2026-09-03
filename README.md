@@ -527,6 +527,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350](http://arxiv.org/abs/2609.02350)|null|
 |**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556](http://arxiv.org/abs/2609.01556)|null|
 |**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950](http://arxiv.org/abs/2609.00950)|null|
 |**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845](http://arxiv.org/abs/2609.00845)|**[link](https://github.com/BITHLP/VGEBench)**|
@@ -869,6 +870,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation**|Yutong Liu et.al.|[2609.02864](http://arxiv.org/abs/2609.02864)|null|
+|**2026-09-02**|**RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation**|Xiaolei Lang et.al.|[2609.02847](http://arxiv.org/abs/2609.02847)|**[link](https://github.com/Jerry-locker/RoGe)**|
+|**2026-09-02**|**GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design**|Adrienne Deganutti et.al.|[2609.02813](http://arxiv.org/abs/2609.02813)|null|
+|**2026-09-02**|**Multi-Tool Image Editing Attribution in Facial Forgery**|Sheng Liu et.al.|[2609.02751](http://arxiv.org/abs/2609.02751)|null|
+|**2026-09-02**|**Generating Medical Image Counterfactuals using Causal Explanations**|David A. Kelly et.al.|[2609.02697](http://arxiv.org/abs/2609.02697)|null|
+|**2026-09-02**|**Genesis: A Generative Engine for Hierarchical Satellite Image Synthesis**|Subash Khanal et.al.|[2609.02683](http://arxiv.org/abs/2609.02683)|**[link](https://github.com/subash-khanal/genesis)**|
+|**2026-09-02**|**AffectDelta: Beyond Emotion Labels for Image Editing**|Xingzu Zhan et.al.|[2609.02616](http://arxiv.org/abs/2609.02616)|null|
+|**2026-09-02**|**RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains**|Thijs A. Eker et.al.|[2609.02556](http://arxiv.org/abs/2609.02556)|null|
+|**2026-09-02**|**LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting**|Hezhi Cao et.al.|[2609.02543](http://arxiv.org/abs/2609.02543)|null|
+|**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531](http://arxiv.org/abs/2609.02531)|null|
 |**2026-09-01**|**SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation**|Ziyun Qian et.al.|[2609.01582](http://arxiv.org/abs/2609.01582)|null|
 |**2026-09-01**|**CameraEditor: Camera-Controlled Image Editing via Video-Prior Sequential Modeling**|Xin Shen et.al.|[2609.01479](http://arxiv.org/abs/2609.01479)|**[link](https://github.com/King-Wood-Shen/CameraEditor-Home)**|
 |**2026-09-01**|**Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning**|Mariia Drozdova et.al.|[2609.01449](http://arxiv.org/abs/2609.01449)|null|
@@ -1359,16 +1370,6 @@
 |**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
 |**2026-05-07**|**DCR: Counterfactual Attractor Guidance for Rare Compositional Generation**|Taewon Kang et.al.|[2605.06512](http://arxiv.org/abs/2605.06512)|null|
 |**2026-05-07**|**FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction**|Fangda Chen et.al.|[2605.06509](http://arxiv.org/abs/2605.06509)|null|
-|**2026-05-07**|**MARBLE: Multi-Aspect Reward Balance for Diffusion RL**|Canyu Zhao et.al.|[2605.06507](http://arxiv.org/abs/2605.06507)|null|
-|**2026-05-07**|**FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation**|Mingfeng Lin et.al.|[2605.06421](http://arxiv.org/abs/2605.06421)|**[link](https://github.com/sleepy1231/FREPix)**|
-|**2026-05-07**|**Photonic-Implemented Efficient Deep Quantum Neural Network via Virtual-Driven Hilbert Space Expansion**|Haoran Ma et.al.|[2605.06397](http://arxiv.org/abs/2605.06397)|null|
-|**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](http://arxiv.org/abs/2605.05206)|null|
-|**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|**[link](https://github.com/vvvvvjdy/D-OPSD)**|
-|**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163](http://arxiv.org/abs/2605.05163)|**[link](https://github.com/HKU-MMLab/PhysForge)**|
-|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|**[link](https://github.com/Picsart-AI-Research/FlowDIS)**|
-|**2026-05-06**|**Computer-Aided Design Generation by Cascaded Discrete Diffusion Model**|Honghu Pan et.al.|[2605.05031](http://arxiv.org/abs/2605.05031)|null|
-|**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|**[link](https://github.com/MonsterAzi/ComfyUI-Intrinsic-Quenching)**|
-|**2026-05-06**|**Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models**|Yifan F. Zhang et.al.|[2605.04830](http://arxiv.org/abs/2605.04830)|**[link](https://github.com/zsxqblz/symmetry_nonlocality_transition)**|
 
 <p align=right>(<a href=#Updated-on-20260903>back to top</a>)</p>
 
@@ -1376,6 +1377,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**DKL: Decoupled Knowledge Learning for Instruction-Tuned Language Models**|Kushagra Bhushan et.al.|[2609.02685](http://arxiv.org/abs/2609.02685)|null|
+|**2026-09-02**|**NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning**|Meixuan Chen et.al.|[2609.02366](http://arxiv.org/abs/2609.02366)|null|
+|**2026-09-02**|**CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging**|Mingjie Zheng et.al.|[2609.02273](http://arxiv.org/abs/2609.02273)|null|
+|**2026-09-02**|**Task-Level Natural Language Priors as Learning Signals for Low-Resource LLM Training**|Jian Gao et.al.|[2609.02244](http://arxiv.org/abs/2609.02244)|null|
+|**2026-09-02**|**Do Cantonese-Adapted Language Models Better Predict Cantonese Reading? A Cross-Model Eye-Tracking Evaluation**|Ziqi Zhang et.al.|[2609.02163](http://arxiv.org/abs/2609.02163)|null|
+|**2026-09-02**|**EmoStance: Response-Side Affective-Orientation Control for Empathetic Response Generation via Emoji Weak Supervision**|Ziyuan Jin et.al.|[2609.02133](http://arxiv.org/abs/2609.02133)|null|
+|**2026-09-02**|**How Output Format Confounds Data Quality and Capability in Instruction Tuning**|Chengguang Gan et.al.|[2609.02015](http://arxiv.org/abs/2609.02015)|null|
+|**2026-09-02**|**Post-Training Ternarization of Qwen3-4B Capability, Effective Bit Budget, Storage Compression, and Deployment**|Anirudh Malik et.al.|[2609.01962](http://arxiv.org/abs/2609.01962)|null|
+|**2026-09-01**|**MERGED: Multimodal Entity Resolution via Generated Expert Reasoning Distillation**|You-Lin Chen et.al.|[2609.01913](http://arxiv.org/abs/2609.01913)|null|
 |**2026-09-01**|**Just Talk Once: Communication-Efficient Split Federated LLM Fine-Tuning on Edge Devices**|Jiaxiang Geng et.al.|[2609.01457](http://arxiv.org/abs/2609.01457)|**[link](https://github.com/BESTTOOLBOX/Just-Talk-Once)**|
 |**2026-09-01**|**Efficiently Estimating Optimal Hyperparameter Scaling Laws through Power-Law Entropy Search**|Zhiliang Chen et.al.|[2609.01431](http://arxiv.org/abs/2609.01431)|null|
 |**2026-09-01**|**Probing Factual Knowledge Transfer with Training Data Interventions**|Romina Oji et.al.|[2609.01341](http://arxiv.org/abs/2609.01341)|**[link](https://github.com/liu-nlp/SIFT)**|
@@ -1867,15 +1877,6 @@
 |**2026-04-22**|**TabSHAP**|Aryan Chaudhary et.al.|[2604.21120](http://arxiv.org/abs/2604.21120)|**[link](https://github.com/solbrigm/TabShapeR)**|
 |**2026-04-22**|**MGDA-Decoupled: Geometry-Aware Multi-Objective Optimisation for DPO-based LLM Alignment**|Andor Vári-Kakas et.al.|[2604.20685](http://arxiv.org/abs/2604.20685)|**[link](https://github.com/Arxiv-to-code/arxiv-260420685-mgda-decoupled-geometry-aware-multi-objective-optimisation-f)**|
 |**2026-04-22**|**The Effect of Idea Elaboration on the Automatic Assessment of Idea Originality**|Umberto Domanti et.al.|[2604.20569](http://arxiv.org/abs/2604.20569)|null|
-|**2026-04-22**|**Where Reasoning Breaks: Logic-Aware Path Selection by Controlling Logical Connectives in LLMs Reasoning Chains**|Seunghyun Park et.al.|[2604.20564](http://arxiv.org/abs/2604.20564)|**[link](https://github.com/lei-nlp-lab/reasoning_fragility_acl_2026)**|
-|**2026-04-22**|**Evian: Towards Explainable Visual Instruction-tuning Data Auditing**|Zimu Jia et.al.|[2604.20544](http://arxiv.org/abs/2604.20544)|null|
-|**2026-04-22**|**Surrogate modeling for interpreting black-box LLMs in medical predictions**|Changho Han et.al.|[2604.20331](http://arxiv.org/abs/2604.20331)|null|
-|**2026-04-22**|**Image Generators are Generalist Vision Learners**|Valentin Gabeur et.al.|[2604.20329](http://arxiv.org/abs/2604.20329)|null|
-|**2026-04-22**|**LLM-guided phase diagram construction through high-throughput experimentation**|Ryo Tamura et.al.|[2604.20304](http://arxiv.org/abs/2604.20304)|null|
-|**2026-04-22**|**HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs**|Darsh Kachroo et.al.|[2604.20140](http://arxiv.org/abs/2604.20140)|null|
-|**2026-04-21**|**Bootstrapping Post-training Signals for Open-ended Tasks via Rubric-based Self-play on Pre-training Text**|Chengyu Huang et.al.|[2604.20051](http://arxiv.org/abs/2604.20051)|null|
-|**2026-04-21**|**Super Apriel: One Checkpoint, Many Speeds**|SLAM Labs et.al.|[2604.19877](http://arxiv.org/abs/2604.19877)|null|
-|**2026-04-21**|**Exploring Language-Agnosticity in Function Vectors: A Case Study in Machine Translation**|Nurkhan Laiyk et.al.|[2604.19678](http://arxiv.org/abs/2604.19678)|null|
 
 <p align=right>(<a href=#Updated-on-20260903>back to top</a>)</p>
 
