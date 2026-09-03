@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models**|Junchao Huang et.al.|[2609.02886](http://arxiv.org/abs/2609.02886)|null|
+|**2026-09-02**|**Discriminative World Models for Web Agents**|Kelvin Li et.al.|[2609.02885](http://arxiv.org/abs/2609.02885)|null|
+|**2026-09-02**|**Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation**|Yutong Liu et.al.|[2609.02864](http://arxiv.org/abs/2609.02864)|null|
+|**2026-09-02**|**Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback**|Dharini Raghavan et.al.|[2609.02811](http://arxiv.org/abs/2609.02811)|null|
+|**2026-09-02**|**Dutch Books for Language Models**|Isaiah Andrews et.al.|[2609.02797](http://arxiv.org/abs/2609.02797)|**[link](https://github.com/Aryia-Behroziuan/Other-sources)**|
+|**2026-09-02**|**From Proxy Learning to Driving Decisions: A Transfer-Based Framework for Evaluating Future-Aware Autonomous Driving Planners**|Yikai Wu et.al.|[2609.02688](http://arxiv.org/abs/2609.02688)|null|
+|**2026-09-02**|**World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain**|Yuxi Liu et.al.|[2609.02542](http://arxiv.org/abs/2609.02542)|**[link](https://github.com/M0PUPPET/wm-loco)**|
+|**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531](http://arxiv.org/abs/2609.02531)|null|
+|**2026-09-02**|**The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation**|Yichen Liu et.al.|[2609.02367](http://arxiv.org/abs/2609.02367)|**[link](https://github.com/DAGroup-PKU/Temporal-Context-Routing)**|
+|**2026-09-02**|**AGI Maze Prediction Datasets: A Compact Benchmark for Learning World Dynamics with Transformers**|Alexey Potapov et.al.|[2609.02339](http://arxiv.org/abs/2609.02339)|null|
 |**2026-09-01**|**H3-World: Turning Language Understanding into World Control**|Danze Chen et.al.|[2609.01560](http://arxiv.org/abs/2609.01560)|**[link](https://github.com/RobinLin2002/paper-project-page)**|
 |**2026-09-01**|**REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs**|Riyaaz Shaik et.al.|[2609.01215](http://arxiv.org/abs/2609.01215)|null|
 |**2026-09-01**|**World Model-Guided Reinforcement Learning via Counterfactual User Engagement Simulation**|Ang Li et.al.|[2609.01067](http://arxiv.org/abs/2609.01067)|null|
@@ -510,18 +520,8 @@
 |**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|**[link](https://github.com/alaya-studio/WorldMark)**|
 |**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154](http://arxiv.org/abs/2604.21154)|null|
 |**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Open-H-Embodiment Consortium et.al.|[2604.21017](http://arxiv.org/abs/2604.21017)|null|
-|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|**[link](https://github.com/snuvclab/devi)**|
-|**2026-04-22**|**Occupancy Reward Shaping: Improving Credit Assignment for Offline Goal-Conditioned Reinforcement Learning**|Aravind Venugopal et.al.|[2604.20627](http://arxiv.org/abs/2604.20627)|**[link](https://github.com/aravindvenu7/occupancy_reward_shaping)**|
-|**2026-04-22**|**CCTVBench: Contrastive Consistency Traffic VideoQA Benchmark for Multimodal LLMs**|Xingcheng Zhou et.al.|[2604.20460](http://arxiv.org/abs/2604.20460)|null|
-|**2026-04-22**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
-|**2026-04-22**|**Cortex 2.0: Grounding World Models in Real-World Industrial Deployment**|Adriana Aida et.al.|[2604.20246](http://arxiv.org/abs/2604.20246)|null|
-|**2026-04-22**|**Toward Safe Autonomous Robotic Endovascular Interventions using World Models**|Harry Robertshaw et.al.|[2604.20151](http://arxiv.org/abs/2604.20151)|null|
-|**2026-04-21**|**ChipCraftBrain: Validation-First RTL Generation via Multi-Agent Orchestration**|Cagri Eryilmaz et.al.|[2604.19856](http://arxiv.org/abs/2604.19856)|null|
-|**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
-|**2026-04-21**|**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**|Boyu Chen et.al.|[2604.19734](http://arxiv.org/abs/2604.19734)|null|
-|**2026-04-22**|**Mask World Model: Predicting What Matters for Robust Robot Policy Learning**|Yunfan Lou et.al.|[2604.19683](http://arxiv.org/abs/2604.19683)|null|
 
-<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260903>back to top</a>)</p>
 
 ## embodied AI
 
@@ -863,7 +863,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260903>back to top</a>)</p>
 
 ## image generation
 
@@ -1370,7 +1370,7 @@
 |**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|**[link](https://github.com/MonsterAzi/ComfyUI-Intrinsic-Quenching)**|
 |**2026-05-06**|**Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models**|Yifan F. Zhang et.al.|[2605.04830](http://arxiv.org/abs/2605.04830)|**[link](https://github.com/zsxqblz/symmetry_nonlocality_transition)**|
 
-<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260903>back to top</a>)</p>
 
 ## LLM training
 
@@ -1877,7 +1877,7 @@
 |**2026-04-21**|**Super Apriel: One Checkpoint, Many Speeds**|SLAM Labs et.al.|[2604.19877](http://arxiv.org/abs/2604.19877)|null|
 |**2026-04-21**|**Exploring Language-Agnosticity in Function Vectors: A Case Study in Machine Translation**|Nurkhan Laiyk et.al.|[2604.19678](http://arxiv.org/abs/2604.19678)|null|
 
-<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
