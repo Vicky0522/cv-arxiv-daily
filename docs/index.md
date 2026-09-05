@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.04
+## Updated on 2026.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -526,7 +526,7 @@ layout: default
 |**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845](http://arxiv.org/abs/2609.00845)|**[link](https://github.com/BITHLP/VGEBench)**|
 |**2026-09-01**|**DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments**|Ming Liao et.al.|[2609.00619](http://arxiv.org/abs/2609.00619)|null|
 |**2026-08-31**|**IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training**|Rongze Tang et.al.|[2609.00161](http://arxiv.org/abs/2609.00161)|null|
-|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821](http://arxiv.org/abs/2608.30821)|null|
+|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821](http://arxiv.org/abs/2608.30821)|**[link](https://github.com/TMAstrider/Lucida)**|
 |**2026-08-31**|**PRACTICE: From Experience to Expertise in Self-Evolving Embodied Agents**|Ziyi Bai et.al.|[2608.30760](http://arxiv.org/abs/2608.30760)|null|
 |**2026-08-31**|**SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**|Yi Zhang et.al.|[2608.30451](http://arxiv.org/abs/2608.30451)|null|
 |**2026-08-31**|**Motus2: A Self-Evolving General World Model for Dexterous Manipulation**|Hongzhe Bi et.al.|[2608.30237](http://arxiv.org/abs/2608.30237)|null|
