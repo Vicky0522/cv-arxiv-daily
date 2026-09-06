@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.05
+## Updated on 2026.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-04-24**|**Video Analysis and Generation via a Semantic Progress Function**|Gal Metzer et.al.|[2604.22554](http://arxiv.org/abs/2604.22554)|**[link](https://github.com/SagiPolaczek/semantic-progress-function)**|
 |**2026-04-24**|**OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space**|Zhuding Liang et.al.|[2604.22240](http://arxiv.org/abs/2604.22240)|null|
 
-<p align=right>(<a href=#Updated-on-20260905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260906>back to top</a>)</p>
 
 ## embodied AI
 
@@ -865,7 +865,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260906>back to top</a>)</p>
 
 ## image generation
 
@@ -1372,7 +1372,7 @@
 |**2026-05-08**|**Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision**|Jiacheng Chen et.al.|[2605.07940](http://arxiv.org/abs/2605.07940)|null|
 |**2026-05-08**|**How to Train Your Latent Diffusion Language Model Jointly With the Latent Space**|Viacheslav Meshchaninov et.al.|[2605.07933](http://arxiv.org/abs/2605.07933)|null|
 
-<p align=right>(<a href=#Updated-on-20260905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260906>back to top</a>)</p>
 
 ## LLM training
 
@@ -1879,7 +1879,7 @@
 |**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
 |**2026-04-23**|**Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs**|Joseba Fernandez de Landa et.al.|[2604.21751](http://arxiv.org/abs/2604.21751)|**[link](https://github.com/BehomaznAkikito/tulu-cultural-audit)**|
 
-<p align=right>(<a href=#Updated-on-20260905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260906>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
