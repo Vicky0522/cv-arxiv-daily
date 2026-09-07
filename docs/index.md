@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image**|Xin Zhang et.al.|[2609.04911](http://arxiv.org/abs/2609.04911)|null|
+|**2026-09-04**|**From Language Models to World-Acting Systems: Progress and Limits of Agentic AI across Digital, Social, Virtual, and Physical Environments**|Linsen Zhu et.al.|[2609.04894](http://arxiv.org/abs/2609.04894)|null|
+|**2026-09-04**|**Coupled Control and Wireless World Models for Resilient Remote Robotic Control**|H. P. Madushanka et.al.|[2609.04851](http://arxiv.org/abs/2609.04851)|null|
+|**2026-09-03**|**Scalable Edge-assisted Fusion and Path Prediction for Connected Autonomous Vehicles**|Tyler Landle et.al.|[2609.04364](http://arxiv.org/abs/2609.04364)|null|
 |**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193](http://arxiv.org/abs/2609.04193)|null|
 |**2026-09-03**|**WorldReward: Reward Modeling for Camera-Conditioned World Models**|Yibin Wang et.al.|[2609.03952](http://arxiv.org/abs/2609.03952)|null|
 |**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Shaunak A. Mehta et.al.|[2609.03927](http://arxiv.org/abs/2609.03927)|null|
@@ -510,17 +514,16 @@ layout: default
 |**2026-04-26**|**Emotion-Conditioned Short-Horizon Human Pose Forecasting with a Lightweight Predictive World Model**|Jingni Huang et.al.|[2604.23532](http://arxiv.org/abs/2604.23532)|null|
 |**2026-04-25**|**Active Inference: A method for Phenotyping Agency in AI systems?**|Philip Wilson et.al.|[2604.23278](http://arxiv.org/abs/2604.23278)|null|
 |**2026-04-24**|**Beyond Single-Agent Alignment: Preventing Context-Fragmented Violations in Multi-Agent Systems**|Jie Wu et.al.|[2604.22879](http://arxiv.org/abs/2604.22879)|null|
-|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|**[link](https://github.com/matrix-agent/awesome-agentic-world-modeling)**|
-|**2026-04-24**|**Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs**|Jose Geraldo Fernandes et.al.|[2604.22618](http://arxiv.org/abs/2604.22618)|null|
-|**2026-04-24**|**Video Analysis and Generation via a Semantic Progress Function**|Gal Metzer et.al.|[2604.22554](http://arxiv.org/abs/2604.22554)|**[link](https://github.com/SagiPolaczek/semantic-progress-function)**|
-|**2026-04-24**|**OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space**|Zhuding Liang et.al.|[2604.22240](http://arxiv.org/abs/2604.22240)|null|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324](http://arxiv.org/abs/2609.05324)|null|
+|**2026-09-04**|**LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models**|Lin Liu et.al.|[2609.05178](http://arxiv.org/abs/2609.05178)|null|
+|**2026-09-04**|**Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**|Tianyidan Xie et.al.|[2609.04802](http://arxiv.org/abs/2609.04802)|null|
 |**2026-09-03**|**Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning**|Muyuan Liu et.al.|[2609.03565](http://arxiv.org/abs/2609.03565)|null|
-|**2026-09-02**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350](http://arxiv.org/abs/2609.02350)|**[link](https://github.com/kunyang-YU/LookStep)**|
+|**2026-09-04**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350](http://arxiv.org/abs/2609.02350)|**[link](https://github.com/kunyang-YU/LookStep)**|
 |**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556](http://arxiv.org/abs/2609.01556)|null|
 |**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950](http://arxiv.org/abs/2609.00950)|null|
 |**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845](http://arxiv.org/abs/2609.00845)|**[link](https://github.com/BITHLP/VGEBench)**|
@@ -861,6 +864,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**|Sihwa Park et.al.|[2609.05404](http://arxiv.org/abs/2609.05404)|null|
+|**2026-09-04**|**Reflection-aware Generative Novel View Synthesis**|GeonU Kim et.al.|[2609.05382](http://arxiv.org/abs/2609.05382)|**[link](https://github.com/kaist-ami/Ref-GeNVS)**|
+|**2026-09-04**|**Contrasting C/O ratios in Uranus and Neptune from disequilibrium chemistry: A clue to distinct evolutionary pathways?**|T. Briand et.al.|[2609.05326](http://arxiv.org/abs/2609.05326)|null|
+|**2026-09-04**|**WeAgent-MMGenEdit: A Full-Stack Recipe for Multimodal Agentic Image Generation and Editing**|Hui Zhang et.al.|[2609.05171](http://arxiv.org/abs/2609.05171)|null|
+|**2026-09-04**|**What Photocurrent Versus Effective Voltage Tells Us About Charge Generation in Organic Solar Cells**|Ardalan Armin et.al.|[2609.05170](http://arxiv.org/abs/2609.05170)|null|
+|**2026-09-04**|**Compositional Reward Models for Conditional Medical Image Generation**|Aayush Kumar Tyagi et.al.|[2609.05028](http://arxiv.org/abs/2609.05028)|null|
+|**2026-09-04**|**RefDiT: Local Attribute Guidance in Reference-Based Image Generation**|Rameshwar Mishra et.al.|[2609.04976](http://arxiv.org/abs/2609.04976)|null|
+|**2026-09-04**|**Learning 3D Editing without Paired Supervision via Generative Prior Distillation**|Hao Wen et.al.|[2609.04942](http://arxiv.org/abs/2609.04942)|null|
+|**2026-09-04**|**LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering**|Yachuan Huang et.al.|[2609.04939](http://arxiv.org/abs/2609.04939)|null|
+|**2026-09-04**|**One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation**|Arka Pal et.al.|[2609.04921](http://arxiv.org/abs/2609.04921)|null|
 |**2026-09-03**|**Conditioning Degenerate Diffusion Models**|Uğur Aydın et.al.|[2609.04090](http://arxiv.org/abs/2609.04090)|null|
 |**2026-09-03**|**Editable Visual Design**|Junyan Ye et.al.|[2609.04034](http://arxiv.org/abs/2609.04034)|**[link](https://github.com/Dujltqzv/Some-Many-Books)**|
 |**2026-09-03**|**DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation**|Shuaiting Li et.al.|[2609.04031](http://arxiv.org/abs/2609.04031)|null|
@@ -1351,16 +1364,6 @@ layout: default
 |**2026-05-11**|**Only Train Once: Uncertainty-Aware One-Class Learning for Face Authenticity Detection**|Qingchao Jiang et.al.|[2605.10040](http://arxiv.org/abs/2605.10040)|**[link](https://github.com/hzx111621/Only-Train-Once)**|
 |**2026-05-11**|**Muninn: Your Trajectory Diffusion Model But Faster**|Gokul Puthumanaillam et.al.|[2605.09999](http://arxiv.org/abs/2605.09999)|**[link](https://github.com/gokulp01/Muninn)**|
 |**2026-05-11**|**HapticLDM: A Diffusion Model for Text-to-Vibrotactile Generation**|Jiahao Xiong et.al.|[2605.09971](http://arxiv.org/abs/2605.09971)|null|
-|**2026-05-11**|**RADAR: Redundancy-Aware Diffusion for Multi-Agent Communication Structure Generation**|Zhen Zhang et.al.|[2605.09907](http://arxiv.org/abs/2605.09907)|**[link](https://github.com/cszhangzhen/RADAR)**|
-|**2026-05-10**|**TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation**|Hanqun Cao et.al.|[2605.09810](http://arxiv.org/abs/2605.09810)|null|
-|**2026-05-10**|**Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning**|Ziquan Wei et.al.|[2605.09771](http://arxiv.org/abs/2605.09771)|null|
-|**2026-05-08**|**Normalizing Trajectory Models**|Jiatao Gu et.al.|[2605.08078](http://arxiv.org/abs/2605.08078)|**[link](https://github.com/Duckyee728/ResAD-released)**|
-|**2026-05-08**|**SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation**|Tianfei Ren et.al.|[2605.08043](http://arxiv.org/abs/2605.08043)|null|
-|**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
-|**2026-05-08**|**HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models**|Arani Roy et.al.|[2605.07973](http://arxiv.org/abs/2605.07973)|null|
-|**2026-05-08**|**When Diffusion Model Can Ignore Dimension: An Entropy-Based Theory**|Ahmad Aghapour et.al.|[2605.07969](http://arxiv.org/abs/2605.07969)|null|
-|**2026-05-08**|**Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision**|Jiacheng Chen et.al.|[2605.07940](http://arxiv.org/abs/2605.07940)|null|
-|**2026-05-08**|**How to Train Your Latent Diffusion Language Model Jointly With the Latent Space**|Viacheslav Meshchaninov et.al.|[2605.07933](http://arxiv.org/abs/2605.07933)|null|
 
 ## LLM training
 
