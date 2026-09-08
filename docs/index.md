@@ -526,7 +526,7 @@ layout: default
 |**2026-09-04**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350](http://arxiv.org/abs/2609.02350)|**[link](https://github.com/kunyang-YU/LookStep)**|
 |**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556](http://arxiv.org/abs/2609.01556)|null|
 |**2026-09-01**|**HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments**|Ruijie Tang et.al.|[2609.00950](http://arxiv.org/abs/2609.00950)|null|
-|**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845](http://arxiv.org/abs/2609.00845)|**[link](https://github.com/BITHLP/VGEBench)**|
+|**2026-09-01**|**Towards Generalizable Visually Grounded Exploration of Household Devices**|Linhao Zheng et.al.|[2609.00845](http://arxiv.org/abs/2609.00845)|null|
 |**2026-09-01**|**DSG: Dynamic 3D Scene Graph Construction for Embodied Agents in Changing Indoor Environments**|Ming Liao et.al.|[2609.00619](http://arxiv.org/abs/2609.00619)|null|
 |**2026-08-31**|**IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training**|Rongze Tang et.al.|[2609.00161](http://arxiv.org/abs/2609.00161)|null|
 |**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821](http://arxiv.org/abs/2608.30821)|**[link](https://github.com/TMAstrider/Lucida)**|
@@ -1369,6 +1369,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference**|Mostafa Elhoushi et.al.|[2609.05275](http://arxiv.org/abs/2609.05275)|null|
+|**2026-09-04**|**EuroAlpaca: Task-Preserving Localisation of Instruction Data for European Languages**|Aleix Sant et.al.|[2609.05043](http://arxiv.org/abs/2609.05043)|null|
+|**2026-09-04**|**SwanWeave:One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing**|Ke Lei et.al.|[2609.04975](http://arxiv.org/abs/2609.04975)|null|
+|**2026-09-04**|**MCPO: Modality-Contrastive Preference Optimization for Multimodal Chain-of-Thought Compression**|Guangheng Yang et.al.|[2609.04947](http://arxiv.org/abs/2609.04947)|null|
+|**2026-09-04**|**When Financial Fine-tuning Fails: A Three-Level Detectability Analysis of Numerical Hallucination in Domain-Adapted Language Models**|Xiaodong Li et.al.|[2609.04806](http://arxiv.org/abs/2609.04806)|null|
+|**2026-09-03**|**LentEx: Generalizable Latent Entity Extraction via Synthetic Data and Instruction-Tuned LLMs**|Umesh Bodhwani et.al.|[2609.04511](http://arxiv.org/abs/2609.04511)|null|
+|**2026-09-03**|**Privacy Failure in Split-LLM Training, The Returned Gradient Nullifies the Decoys**|Georgios Politis et.al.|[2609.04382](http://arxiv.org/abs/2609.04382)|null|
 |**2026-09-03**|**Subspace Inference Enables Efficient Active Reward Learning from Preferences**|Yutai Zhou et.al.|[2609.04066](http://arxiv.org/abs/2609.04066)|null|
 |**2026-09-03**|**Instruction Duplication as an Inference-Time Control Primitive**|Victor Lavrenko et.al.|[2609.04024](http://arxiv.org/abs/2609.04024)|null|
 |**2026-09-03**|**Unlocking Lossless Speedups in LLMs via Discrete Diffusion**|Subham Sekhar Sahoo et.al.|[2609.04010](http://arxiv.org/abs/2609.04010)|**[link](https://github.com/ifm-ai/uno)**|
@@ -1862,13 +1869,6 @@ layout: default
 |**2026-04-27**|**Hindsight Preference Optimization for Financial Time Series Advisory**|Yanwei Cui et.al.|[2604.23988](http://arxiv.org/abs/2604.23988)|null|
 |**2026-04-27**|**Continual Calibration: Coverage Can Collapse Before Accuracy in Lifelong LLM Fine-Tuning**|Ibne Farabi Shihab et.al.|[2604.23987](http://arxiv.org/abs/2604.23987)|null|
 |**2026-04-27**|**MatchRDMA: A Segmented and Rate-Matched Long-Haul RDMA Scheme for Geo-distributed LLM Training over OTN**|Jun Dai et.al.|[2604.23932](http://arxiv.org/abs/2604.23932)|null|
-|**2026-04-24**|**CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation**|Suiyang Guang et.al.|[2604.22274](http://arxiv.org/abs/2604.22274)|null|
-|**2026-04-24**|**TTS-PRISM: A Perceptual Reasoning and Interpretable Speech Model for Fine-Grained Diagnosis**|Xi Wang et.al.|[2604.22225](http://arxiv.org/abs/2604.22225)|null|
-|**2026-04-24**|**Verbal Confidence Saturation in 3-9B Open-Weight Instruction-Tuned LLMs: A Pre-Registered Psychometric Validity Screen**|Jon-Paul Cacioli et.al.|[2604.22215](http://arxiv.org/abs/2604.22215)|null|
-|**2026-04-23**|**PermaFrost-Attack: Stealth Pretraining Seeding(SPS) for planting Logic Landmines During LLM Training**|Harsh Kumar et.al.|[2604.22117](http://arxiv.org/abs/2604.22117)|null|
-|**2026-04-23**|**When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation**|Anamta Khan et.al.|[2604.22002](http://arxiv.org/abs/2604.22002)|null|
-|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
-|**2026-04-23**|**Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs**|Joseba Fernandez de Landa et.al.|[2604.21751](http://arxiv.org/abs/2604.21751)|**[link](https://github.com/BehomaznAkikito/tulu-cultural-audit)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
