@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**|Yuncong Yang et.al.|[2609.09155](http://arxiv.org/abs/2609.09155)|**[link](https://github.com/UMass-Embodied-AGI/SyncWorld)**|
+|**2026-09-08**|**Earth System World Model for What-If Simulations: A Case Study for Terrestrial Ecosystems**|Zhihao Wang et.al.|[2609.08855](http://arxiv.org/abs/2609.08855)|null|
+|**2026-09-08**|**Hi-FLoop: Hierarchical State-Feedback Loops for Multi-Timescale World Modeling**|Rx Fan et.al.|[2609.08796](http://arxiv.org/abs/2609.08796)|null|
+|**2026-09-08**|**Temporal State Transport in Video Generation: Diagnosing and Correcting Spectral Imbalance**|Luyao Tang et.al.|[2609.08505](http://arxiv.org/abs/2609.08505)|null|
+|**2026-09-08**|**SignRefine: Adapting Foundational Video Models for Sign Language Generation**|Anton Pelykh et.al.|[2609.08496](http://arxiv.org/abs/2609.08496)|null|
+|**2026-09-08**|**VeriScene: Reconstructing Crime Scenes from Legal Evidence via World-Model Agent**|Kevin Chuanpu Fu et.al.|[2609.08342](http://arxiv.org/abs/2609.08342)|null|
+|**2026-09-08**|**CALIPER: Clean Scenes Cannot Rank Physical Inference in Pretrained Visual Representations**|Aman Mehta et.al.|[2609.08250](http://arxiv.org/abs/2609.08250)|null|
+|**2026-09-08**|**ActionSplice: In-Flight Action Editing for Interactive World Models**|Pardis Taghavi et.al.|[2609.08230](http://arxiv.org/abs/2609.08230)|**[link](https://github.com/PardisTaghavi/actionsplice-website)**|
+|**2026-09-08**|**PhysFlow: Physics-Aware Optical Flow for Motion Controllable Video Generation**|Cong Wang et.al.|[2609.08215](http://arxiv.org/abs/2609.08215)|null|
+|**2026-09-08**|**WorldAgen: Unified State-Action Prediction with Test-Time World Model Training**|Chi Wan et.al.|[2609.08162](http://arxiv.org/abs/2609.08162)|null|
 |**2026-09-04**|**TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image**|Xin Zhang et.al.|[2609.04911](http://arxiv.org/abs/2609.04911)|null|
 |**2026-09-04**|**From Language Models to World-Acting Systems: Progress and Limits of Agentic AI across Digital, Social, Virtual, and Physical Environments**|Linsen Zhu et.al.|[2609.04894](http://arxiv.org/abs/2609.04894)|null|
 |**2026-09-04**|**Coupled Control and Wireless World Models for Resilient Remote Robotic Control**|H. P. Madushanka et.al.|[2609.04851](http://arxiv.org/abs/2609.04851)|null|
@@ -510,16 +520,6 @@
 |**2026-04-29**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
 |**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|**[link](https://github.com/sharinka0715/X-WAM)**|
 |**2026-04-29**|**AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents**|Mahnoor Shahid et.al.|[2604.26522](http://arxiv.org/abs/2604.26522)|null|
-|**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
-|**2026-04-28**|**Lifting Embodied World Models for Planning and Control**|Alex N. Wang et.al.|[2604.26182](http://arxiv.org/abs/2604.26182)|**[link](https://github.com/alexnwang/lifted-world-model)**|
-|**2026-04-28**|**HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation**|Bingzi Zhang et.al.|[2604.25361](http://arxiv.org/abs/2604.25361)|null|
-|**2026-04-28**|**ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution**|Chuyao Fu et.al.|[2604.25329](http://arxiv.org/abs/2604.25329)|null|
-|**2026-04-27**|**Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales**|Haozhi Han et.al.|[2604.24091](http://arxiv.org/abs/2604.24091)|null|
-|**2026-04-26**|**From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation**|Jiafeng Wu et.al.|[2604.23629](http://arxiv.org/abs/2604.23629)|null|
-|**2026-04-26**|**Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling**|Zhen Ye et.al.|[2604.23586](http://arxiv.org/abs/2604.23586)|**[link](https://github.com/zhenye234/Talker-T2AV)**|
-|**2026-04-26**|**Emotion-Conditioned Short-Horizon Human Pose Forecasting with a Lightweight Predictive World Model**|Jingni Huang et.al.|[2604.23532](http://arxiv.org/abs/2604.23532)|null|
-|**2026-04-25**|**Active Inference: A method for Phenotyping Agency in AI systems?**|Philip Wilson et.al.|[2604.23278](http://arxiv.org/abs/2604.23278)|null|
-|**2026-04-24**|**Beyond Single-Agent Alignment: Preventing Context-Fragmented Violations in Multi-Agent Systems**|Jie Wu et.al.|[2604.22879](http://arxiv.org/abs/2604.22879)|null|
 
 <p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
@@ -883,6 +883,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout**|Zhuoran Zhao et.al.|[2609.09123](http://arxiv.org/abs/2609.09123)|**[link](https://github.com/delaprada/Mask-Forcing)**|
 |**2026-09-08**|**Let It Go or Learn to Self-Correct: Continuous Diffusion for Constrained Discrete Tasks**|Mariia Drozdova et.al.|[2609.09009](http://arxiv.org/abs/2609.09009)|null|
 |**2026-09-08**|**Concept-Level Risk and Calibration for Governance in Diffusion Foundation Models**|Kun Xu et.al.|[2609.08517](http://arxiv.org/abs/2609.08517)|**[link](https://github.com/xukun12138/CLRC)**|
 |**2026-09-08**|**SignRefine: Adapting Foundational Video Models for Sign Language Generation**|Anton Pelykh et.al.|[2609.08496](http://arxiv.org/abs/2609.08496)|null|
@@ -1382,7 +1383,6 @@
 |**2026-05-11**|**Count Anything at Any Granularity**|Chang Liu et.al.|[2605.10887](http://arxiv.org/abs/2605.10887)|**[link](https://github.com/Verg-Avesta/KubriCount)**|
 |**2026-05-11**|**Masked Generative Transformer Is What You Need for Image Editing**|Wei Chow et.al.|[2605.10859](http://arxiv.org/abs/2605.10859)|null|
 |**2026-05-11**|**Predicting 3D structure by latent posterior sampling**|Azmi Haider et.al.|[2605.10830](http://arxiv.org/abs/2605.10830)|null|
-|**2026-05-11**|**Elucidating Representation Degradation Problem in Diffusion Model Training**|Zhipeng Yao et.al.|[2605.10790](http://arxiv.org/abs/2605.10790)|null|
 
 <p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
@@ -1390,6 +1390,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Studying Image Tokenizers as Visual Languages in Unified Multimodal Models**|Siting Li et.al.|[2609.09143](http://arxiv.org/abs/2609.09143)|**[link](https://github.com/lst627/Tokenizer_UMM)**|
 |**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936](http://arxiv.org/abs/2609.08936)|null|
 |**2026-09-08**|**Suan: Rectifying Direct Preference Safety Alignment in Large Language Models**|Oleksandr Cherednichenko et.al.|[2609.08634](http://arxiv.org/abs/2609.08634)|null|
 |**2026-09-08**|**Compositional Multilingual and Behavioral Attribute Steering**|Hyun Gu Kang et.al.|[2609.08410](http://arxiv.org/abs/2609.08410)|**[link](https://github.com/hyun-gu-kang/compositional-steering)**|
@@ -1889,7 +1890,6 @@
 |**2026-04-28**|**FED-FSTQ: Fisher-Guided Token Quantization for Communication-Efficient Federated Fine-Tuning of LLMs on Edge Devices**|Changyu Li et.al.|[2604.25421](http://arxiv.org/abs/2604.25421)|null|
 |**2026-04-28**|**Below-Chance Blindness: Prompted Underperformance in Small LLMs Produces Positional Bias Rather than Answer Avoidance**|Jon-Paul Cacioli et.al.|[2604.25249](http://arxiv.org/abs/2604.25249)|null|
 |**2026-04-28**|**Frictive Policy Optimization for LLMs: Epistemic Intervention, Risk-Sensitive Control, and Reflective Alignment**|James Pustejovsky et.al.|[2604.25136](http://arxiv.org/abs/2604.25136)|null|
-|**2026-04-28**|**What Makes Good Instruction-Tuning Data? An In-Context Learning Perspective**|Guangzeng Han et.al.|[2604.25132](http://arxiv.org/abs/2604.25132)|**[link](https://github.com/trust-nlp/SyntheticData-Curator)**|
 
 <p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
