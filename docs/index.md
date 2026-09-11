@@ -519,6 +519,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI**|Zhengran Ji et.al.|[2609.11737](http://arxiv.org/abs/2609.11737)|null|
+|**2026-09-10**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Jianming Ma et.al.|[2609.11697](http://arxiv.org/abs/2609.11697)|null|
+|**2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Marica Notte et.al.|[2609.11660](http://arxiv.org/abs/2609.11660)|null|
+|**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
+|**2026-09-10**|**A Mathematical Theory of Pragmatic Information**|Kai Niu et.al.|[2609.10986](http://arxiv.org/abs/2609.10986)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|
+|**2026-09-09**|**ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs**|Yizhan Li et.al.|[2609.10895](http://arxiv.org/abs/2609.10895)|null|
+|**2026-09-09**|**When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents**|Qinzhen Ma et.al.|[2609.10873](http://arxiv.org/abs/2609.10873)|null|
 |**2026-09-09**|**FolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects**|Chenhuan Liu et.al.|[2609.10243](http://arxiv.org/abs/2609.10243)|null|
 |**2026-09-08**|**Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration**|Yiran Qiao et.al.|[2609.09418](http://arxiv.org/abs/2609.09418)|null|
 |**2026-09-08**|**VANTAGE-Bench: Evaluating the Infrastructure AI Gap in Vision-Language Models**|Zaid Pervaiz Bhat et.al.|[2609.09396](http://arxiv.org/abs/2609.09396)|null|
@@ -880,7 +887,7 @@ layout: default
 |**2026-09-10**|**Guided Super-Resolution of Digital Elevation Models with Diffusion-Based Image Generators**|Armand Mihai Nicolicioiu et.al.|[2609.11886](http://arxiv.org/abs/2609.11886)|null|
 |**2026-09-10**|**Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling**|Meimingwei Li et.al.|[2609.11804](http://arxiv.org/abs/2609.11804)|null|
 |**2026-09-10**|**Stress-Testing Dynamical and Generative Downscaling Using Subseasonal Extreme Precipitation Forecasts**|Mauricio Lima et.al.|[2609.11696](http://arxiv.org/abs/2609.11696)|null|
-|**2026-09-10**|**RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Ramiro Valdes Jara et.al.|[2609.11648](http://arxiv.org/abs/2609.11648)|null|
+|**2026-09-10**|**RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Ramiro Valdes Jara et.al.|[2609.11648](http://arxiv.org/abs/2609.11648)|**[link](https://github.com/ramirovaldesjara/RDDMPI)**|
 |**2026-09-10**|**Mean Square Error Analysis of Stochastic Runge--Kutta Integrators**|Xuda Ye et.al.|[2609.11528](http://arxiv.org/abs/2609.11528)|null|
 |**2026-09-10**|**Learning Interaction between Image and Layout Priors for Joint Image-Layout Generation in Design Templates**|Shirong Yang et.al.|[2609.11519](http://arxiv.org/abs/2609.11519)|null|
 |**2026-09-10**|**Multi-Modal Controlled Coherent Motion Generation**|Yifei Liu et.al.|[2609.11439](http://arxiv.org/abs/2609.11439)|null|
