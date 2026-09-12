@@ -527,7 +527,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-10**|**ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI**|Zhengran Ji et.al.|[2609.11737](http://arxiv.org/abs/2609.11737)|null|
+|**2026-09-10**|**ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI**|Zhengran Ji et.al.|[2609.11737](http://arxiv.org/abs/2609.11737)|**[link](https://github.com/generalroboticslab/ORCH)**|
 |**2026-09-10**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Jianming Ma et.al.|[2609.11697](http://arxiv.org/abs/2609.11697)|null|
 |**2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Marica Notte et.al.|[2609.11660](http://arxiv.org/abs/2609.11660)|null|
 |**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
