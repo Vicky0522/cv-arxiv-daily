@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.11
+## Updated on 2026.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-05-03**|**SignVerse-2M: A Two-Million-Clip Pose-Native Universe of 25+ Sign Languages**|Sen Fang et.al.|[2605.01720](http://arxiv.org/abs/2605.01720)|null|
 |**2026-05-03**|**Latent State Design for World Models under Sufficiency Constraints**|Keon Woo Kim et.al.|[2605.01694](http://arxiv.org/abs/2605.01694)|null|
 
-<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260912>back to top</a>)</p>
 
 ## embodied AI
 
@@ -887,7 +887,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260912>back to top</a>)</p>
 
 ## image generation
 
@@ -1394,7 +1394,7 @@
 |**2026-05-13**|**Sampling from Flow Language Models via Marginal-Conditioned Bridges**|Iskander Azangulov et.al.|[2605.13681](http://arxiv.org/abs/2605.13681)|null|
 |**2026-05-13**|**HIR-ALIGN: Enhancing Hyperspectral Image Restoration via Diffusion-Based Data Generation**|Li Pang et.al.|[2605.13581](http://arxiv.org/abs/2605.13581)|null|
 
-<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260912>back to top</a>)</p>
 
 ## LLM training
 
@@ -1901,7 +1901,7 @@
 |**2026-04-30**|**SecGoal: A Benchmark for Security Goal Extraction and Formalization from Protocol Documents**|Dawei Huang et.al.|[2604.27601](http://arxiv.org/abs/2604.27601)|null|
 |**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
 
-<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
