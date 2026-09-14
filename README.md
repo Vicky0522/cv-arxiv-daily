@@ -1400,6 +1400,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-11**|**Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model**|Hoeun Lee et.al.|[2609.13053](http://arxiv.org/abs/2609.13053)|null|
+|**2026-09-11**|**AlignDPO: Preference-Gated Alignment for Reducing Hallucination in Decoder-Only TTS**|Xiao Zhou et.al.|[2609.12855](http://arxiv.org/abs/2609.12855)|null|
+|**2026-09-11**|**Scaling Clinical Judgment to Evaluate Medical AI**|Thomas A. Buckley et.al.|[2609.12822](http://arxiv.org/abs/2609.12822)|null|
+|**2026-09-11**|**Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner**|Kazusato Oko et.al.|[2609.12651](http://arxiv.org/abs/2609.12651)|null|
+|**2026-09-11**|**Direct Preference Density Alignment for Conversational Audio Equalization**|Ioannis Stylianou et.al.|[2609.12607](http://arxiv.org/abs/2609.12607)|null|
+|**2026-09-11**|**Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning**|Hyunjin Kim et.al.|[2609.12584](http://arxiv.org/abs/2609.12584)|**[link](https://github.com/kaist-dmlab/CluSTER)**|
+|**2026-09-11**|**SynthSentry: Detecting Synthetic Data Contamination in Language Model Training Data**|Praveen Kumar Myakala et.al.|[2609.12353](http://arxiv.org/abs/2609.12353)|null|
 |**2026-09-10**|**Nuha-Speech: Building General-Purpose Arabic Speech-LLMs**|Yingzhi Wang et.al.|[2609.11892](http://arxiv.org/abs/2609.11892)|null|
 |**2026-09-10**|**Domain-Specific Hallucination Detection in Large Language Models**|Varun Teja Chundru et.al.|[2609.11878](http://arxiv.org/abs/2609.11878)|null|
 |**2026-09-10**|**RetroThinker: Enabling Retrospective Thinking in Speech LLMs**|Yi-Jen Shih et.al.|[2609.11864](http://arxiv.org/abs/2609.11864)|null|
@@ -1893,13 +1900,6 @@
 |**2026-04-30**|**Wasserstein Distributionally Robust Regret Optimization for Reinforcement Learning from Human Feedback**|Yikai Wang et.al.|[2605.00155](http://arxiv.org/abs/2605.00155)|null|
 |**2026-04-30**|**ViLegalNLI: Natural Language Inference for Vietnamese Legal Texts**|Nhung Thi-Hong Duong et.al.|[2605.00116](http://arxiv.org/abs/2605.00116)|null|
 |**2026-04-30**|**FiLMMeD: Feature-wise Linear Modulation for Cross-Problem Multi-Depot Vehicle Routing**|Arthur Corrêa et.al.|[2604.28102](http://arxiv.org/abs/2604.28102)|**[link](https://github.com/AJ-Correa/FiLMMeD)**|
-|**2026-04-30**|**Learning from Disagreement: Clinician Overrides as Implicit Preference Signals for Clinical AI in Value-Based Care**|Prabhjot Singh et.al.|[2604.28010](http://arxiv.org/abs/2604.28010)|null|
-|**2026-04-30**|**ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training**|Wenxiang Lin et.al.|[2604.27844](http://arxiv.org/abs/2604.27844)|null|
-|**2026-04-30**|**Mind the Gap: Structure-Aware Consistency in Preference Learning**|Mehryar Mohri et.al.|[2604.27733](http://arxiv.org/abs/2604.27733)|null|
-|**2026-04-30**|**Language Ideologies in a Multilingual Society: An LLM-based Analysis of Luxembourgish News Comments**|Emilia Milano et.al.|[2604.27661](http://arxiv.org/abs/2604.27661)|null|
-|**2026-04-30**|**HAVEN: Hybrid Automated Verification ENgine for UVM Testbench Synthesis with LLMs**|Chang-Chih Meng et.al.|[2604.27643](http://arxiv.org/abs/2604.27643)|null|
-|**2026-04-30**|**SecGoal: A Benchmark for Security Goal Extraction and Formalization from Protocol Documents**|Dawei Huang et.al.|[2604.27601](http://arxiv.org/abs/2604.27601)|null|
-|**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
 
 <p align=right>(<a href=#Updated-on-20260914>back to top</a>)</p>
 
