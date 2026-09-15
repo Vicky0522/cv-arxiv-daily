@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**When Should a World Model Move? Loss-Conditioned State Execution**|Jintao Xu et.al.|[2609.15801](http://arxiv.org/abs/2609.15801)|null|
+|**2026-09-14**|**When the World Lies: Backdoor Attacks on Latent World Models for Downstream Control**|Roberto Riaño et.al.|[2609.15781](http://arxiv.org/abs/2609.15781)|null|
+|**2026-09-14**|**JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion**|Qihao Yuan et.al.|[2609.15770](http://arxiv.org/abs/2609.15770)|null|
+|**2026-09-14**|**DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models**|Jing Lyu et.al.|[2609.15570](http://arxiv.org/abs/2609.15570)|null|
+|**2026-09-14**|**From Prediction to Decision: World-Model-Guided Action Selection for Continuous Pile Excavation**|Ailing Zhang et.al.|[2609.15382](http://arxiv.org/abs/2609.15382)|null|
+|**2026-09-14**|**Math for AI safety: an invitation for mathematicians**|Lionel Levine et.al.|[2609.15289](http://arxiv.org/abs/2609.15289)|null|
+|**2026-09-14**|**Legislating World-Model-Based Planning with Legal Reasoning**|Dylan Waldner et.al.|[2609.15113](http://arxiv.org/abs/2609.15113)|null|
+|**2026-09-13**|**AutoLab: An Internet-Accessible Experimental Platform for Operational World Models in Wireless Networks**|Jiunn-Tsair Chen et.al.|[2609.14854](http://arxiv.org/abs/2609.14854)|null|
+|**2026-09-13**|**One Model, Two Physical Stories: Auditing Misalignment in Multi-Modal World Modeling**|Geigh Zollicoffer et.al.|[2609.14833](http://arxiv.org/abs/2609.14833)|null|
+|**2026-09-13**|**An immune world model for multiscale forecasting and therapeutic hypothesis generation**|Taoyong Cui et.al.|[2609.14709](http://arxiv.org/abs/2609.14709)|null|
 |**2026-09-10**|**A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons**|Yu-Xuan Fu et.al.|[2609.11922](http://arxiv.org/abs/2609.11922)|null|
 |**2026-09-10**|**MindTopo: Can Foundation Models Reason in Topological Space?**|Yunfei Ge et.al.|[2609.11900](http://arxiv.org/abs/2609.11900)|null|
 |**2026-09-10**|**CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising**|Hongjin Chen et.al.|[2609.11553](http://arxiv.org/abs/2609.11553)|**[link](https://github.com/Hoshi-No-Ai/CAP)**|
@@ -504,23 +514,18 @@ layout: default
 |**2026-05-05**|**RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**|Hao Wu et.al.|[2605.03821](http://arxiv.org/abs/2605.03821)|null|
 |**2026-05-05**|**What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity**|Haoxi Li et.al.|[2605.03782](http://arxiv.org/abs/2605.03782)|null|
 |**2026-05-05**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
-|**2026-05-05**|**Learning to Theorize the World from Observation**|Doojin Baek et.al.|[2605.03413](http://arxiv.org/abs/2605.03413)|null|
-|**2026-05-04**|**Existence, Asymptotic Behavior, and Numerical Analysis of a Generalized Abel Differential Equation with Applications in Financial Modeling**|Dragos-Patru Covei et.al.|[2605.02831](http://arxiv.org/abs/2605.02831)|null|
-|**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](http://arxiv.org/abs/2605.02759)|null|
-|**2026-05-04**|**Shadow-Loom: Causal Reasoning over Graphical World Model of Narratives**|David Wilmot et.al.|[2605.02475](http://arxiv.org/abs/2605.02475)|null|
-|**2026-05-04**|**Video Generation with Predictive Latents**|Yian Zhao et.al.|[2605.02134](http://arxiv.org/abs/2605.02134)|**[link](https://github.com/darknecrocities/FlowCast-AI)**|
-|**2026-05-03**|**TRAP: Tail-aware Ranking Attack for World-Model Planning**|Siyuan Duan et.al.|[2605.01950](http://arxiv.org/abs/2605.01950)|null|
-|**2026-05-03**|**Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models**|Junyuan Xiao et.al.|[2605.01896](http://arxiv.org/abs/2605.01896)|null|
-|**2026-05-03**|**Embody4D: A Generalist 4D World Model for Embodied AI**|Peiyan Tu et.al.|[2605.01799](http://arxiv.org/abs/2605.01799)|**[link](https://github.com/peiyantu/Embody4D)**|
-|**2026-05-03**|**SignVerse-2M: A Two-Million-Clip Pose-Native Universe of 25+ Sign Languages**|Sen Fang et.al.|[2605.01720](http://arxiv.org/abs/2605.01720)|null|
-|**2026-05-03**|**Latent State Design for World Models under Sufficiency Constraints**|Keon Woo Kim et.al.|[2605.01694](http://arxiv.org/abs/2605.01694)|null|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-13**|**Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World**|Guocun Wang et.al.|[2609.14615](http://arxiv.org/abs/2609.14615)|**[link](https://github.com/GuocunWang/Open-UniMo)**|
+|**2026-09-13**|**GLAM: Training a latent world model over global spatiotemporal memory for active exploration and navigation**|I-Tak Ieong et.al.|[2609.14561](http://arxiv.org/abs/2609.14561)|null|
+|**2026-09-12**|**How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026**|Jiaming Wang et.al.|[2609.13679](http://arxiv.org/abs/2609.13679)|null|
+|**2026-09-11**|**STAGE: Diagnosing Semantic Transfer at Grounded Execution in Embodied Agents**|Baosheng Jin et.al.|[2609.13458](http://arxiv.org/abs/2609.13458)|null|
+|**2026-09-11**|**Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction**|Baoyang Jiang et.al.|[2609.13082](http://arxiv.org/abs/2609.13082)|null|
 |**2026-09-10**|**ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI**|Zhengran Ji et.al.|[2609.11737](http://arxiv.org/abs/2609.11737)|**[link](https://github.com/generalroboticslab/ORCH)**|
-|**2026-09-10**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Jianming Ma et.al.|[2609.11697](http://arxiv.org/abs/2609.11697)|null|
+|**2026-09-14**|**ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies**|Jianming Ma et.al.|[2609.11697](http://arxiv.org/abs/2609.11697)|null|
 |**2026-09-10**|**Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents**|Marica Notte et.al.|[2609.11660](http://arxiv.org/abs/2609.11660)|null|
 |**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
 |**2026-09-10**|**A Mathematical Theory of Pragmatic Information**|Kai Niu et.al.|[2609.10986](http://arxiv.org/abs/2609.10986)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|
