@@ -527,6 +527,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**XPACE: Joint World and Action Modeling from Heterogeneous Experience**|Jiacheng Wei et.al.|[2609.17372](http://arxiv.org/abs/2609.17372)|null|
+|**2026-09-15**|**Exploring 2D backbone effects for indoor semantic occupancy prediction**|Shizhang Fanga et.al.|[2609.17257](http://arxiv.org/abs/2609.17257)|null|
+|**2026-09-15**|**The Robot Data Factory**|Sami Haddadin et.al.|[2609.16705](http://arxiv.org/abs/2609.16705)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
+|**2026-09-15**|**World Models for Embodied Intelligence: From Plausible to Controllable to Actionable**|Nanjie Yao et.al.|[2609.16697](http://arxiv.org/abs/2609.16697)|null|
+|**2026-09-13**|**Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents**|Norbert Oswald et.al.|[2609.16056](http://arxiv.org/abs/2609.16056)|null|
 |**2026-09-13**|**Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World**|Guocun Wang et.al.|[2609.14615](http://arxiv.org/abs/2609.14615)|**[link](https://github.com/GuocunWang/Open-UniMo)**|
 |**2026-09-13**|**GLAM: Training a latent world model over global spatiotemporal memory for active exploration and navigation**|I-Tak Ieong et.al.|[2609.14561](http://arxiv.org/abs/2609.14561)|null|
 |**2026-09-12**|**How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026**|Jiaming Wang et.al.|[2609.13679](http://arxiv.org/abs/2609.13679)|null|
@@ -898,6 +903,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**SlotDiT: Object-Centric Representations for Diffusion Transformers**|Gjergj Plepi et.al.|[2609.17414](http://arxiv.org/abs/2609.17414)|**[link](https://github.com/Gjergj121/SlotDiT)**|
+|**2026-09-15**|**FROD: Feature Matching Residual Denoising Oracle Bone Decipher**|Yanbin Hou et.al.|[2609.17227](http://arxiv.org/abs/2609.17227)|null|
+|**2026-09-15**|**MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects**|Chenhao Wu et.al.|[2609.17194](http://arxiv.org/abs/2609.17194)|null|
+|**2026-09-15**|**MUMINS: Metadata-conditioned Uncertainty-aware Medical Image Next-state Synthesis**|Anna Oliveras et.al.|[2609.17169](http://arxiv.org/abs/2609.17169)|null|
+|**2026-09-15**|**Optimal Scaling of Langevin Proposals with Generalized Acceptance Rules**|Ritik Soni et.al.|[2609.16941](http://arxiv.org/abs/2609.16941)|null|
+|**2026-09-15**|**Viscosity solution of systems of integral-partial differential equations with interconnected obstacles without Monotonicity Conditions and infinite L{é}vy measure**|Said Hamadène et.al.|[2609.16812](http://arxiv.org/abs/2609.16812)|null|
+|**2026-09-15**|**Efficient 3D Whole-Body PET Image Denoising via Conditional Rectified Flow With Optimized Sampling Strategy**|Jiale Shen et.al.|[2609.16690](http://arxiv.org/abs/2609.16690)|null|
+|**2026-09-15**|**The Local-to-Global AD-k Conjecture is Resolved**|Wei Chen et.al.|[2609.16663](http://arxiv.org/abs/2609.16663)|null|
+|**2026-09-15**|**FRPSS: Feature Rearrangement in Pre-Shape Space for Single-Image Generation**|Yuexing Han et.al.|[2609.16594](http://arxiv.org/abs/2609.16594)|null|
+|**2026-09-15**|**Environment-Aware Diffusion Model for Massive MIMO-OFDM Channel Estimation**|Wanchen Hu et.al.|[2609.16588](http://arxiv.org/abs/2609.16588)|null|
 |**2026-09-10**|**SenseNova-U1.5: Towards Native Unified Visual Intelligence**|Haiwen Diao et.al.|[2609.11929](http://arxiv.org/abs/2609.11929)|null|
 |**2026-09-10**|**Guided Super-Resolution of Digital Elevation Models with Diffusion-Based Image Generators**|Armand Mihai Nicolicioiu et.al.|[2609.11886](http://arxiv.org/abs/2609.11886)|null|
 |**2026-09-10**|**Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling**|Meimingwei Li et.al.|[2609.11804](http://arxiv.org/abs/2609.11804)|null|
@@ -1388,16 +1403,6 @@
 |**2026-05-14**|**From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing**|Anirudh Sundara Rajan et.al.|[2605.15181](http://arxiv.org/abs/2605.15181)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-05-14**|**Does Synthetic Layered Design Data Benefit Layered Design Decomposition?**|Kam Man Wu et.al.|[2605.15167](http://arxiv.org/abs/2605.15167)|null|
 |**2026-05-14**|**DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models**|Quanhao Li et.al.|[2605.15055](http://arxiv.org/abs/2605.15055)|**[link](https://github.com/ali-vilab/DiffusionOPD)**|
-|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
-|**2026-05-14**|**MicroscopyMatching: Towards a Ready-to-use Framework for Microscopy Image Analysis in Diverse Conditions**|Xiaofei Hui et.al.|[2605.14980](http://arxiv.org/abs/2605.14980)|null|
-|**2026-05-14**|**ACE-LoRA: Adaptive Orthogonal Decoupling for Continual Image Editing**|Yuehao Liu et.al.|[2605.14948](http://arxiv.org/abs/2605.14948)|null|
-|**2026-05-14**|**SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer**|Zheng Hui et.al.|[2605.14894](http://arxiv.org/abs/2605.14894)|null|
-|**2026-05-13**|**Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation**|Deli Cai et.al.|[2605.13729](http://arxiv.org/abs/2605.13729)|**[link](https://github.com/CDLCHOI/cmc_release)**|
-|**2026-05-13**|**AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation**|Yuchao Gu et.al.|[2605.13724](http://arxiv.org/abs/2605.13724)|null|
-|**2026-05-13**|**Learning to Optimize Radiotherapy Plans via Fluence Maps Diffusion Model Generation and LSTM-based Optimization**|Isabella Poles et.al.|[2605.13713](http://arxiv.org/abs/2605.13713)|null|
-|**2026-05-13**|**Cross Modality Image Translation In Medical Imaging Using Generative Frameworks**|Giulia Romoli et.al.|[2605.13686](http://arxiv.org/abs/2605.13686)|null|
-|**2026-05-13**|**Sampling from Flow Language Models via Marginal-Conditioned Bridges**|Iskander Azangulov et.al.|[2605.13681](http://arxiv.org/abs/2605.13681)|null|
-|**2026-05-13**|**HIR-ALIGN: Enhancing Hyperspectral Image Restoration via Diffusion-Based Data Generation**|Li Pang et.al.|[2605.13581](http://arxiv.org/abs/2605.13581)|null|
 
 <p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
 
