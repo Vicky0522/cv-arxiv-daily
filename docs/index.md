@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**XPACE: Joint World and Action Modeling from Heterogeneous Experience**|Jiacheng Wei et.al.|[2609.17372](http://arxiv.org/abs/2609.17372)|null|
+|**2026-09-15**|**Intrinsic Motivation in Reinforcement Learning: A Research Agenda for Adaptive Self-Organisation**|Anatoly Belikov et.al.|[2609.17325](http://arxiv.org/abs/2609.17325)|null|
+|**2026-09-15**|**FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence**|Yinhao Li et.al.|[2609.17210](http://arxiv.org/abs/2609.17210)|null|
+|**2026-09-15**|**VOR-Bench: A Human Perception-Driven Benchmark for Video Object Removal**|Haonan Huang et.al.|[2609.16878](http://arxiv.org/abs/2609.16878)|**[link](https://github.com/Tele-AI/VOR-Bench)**|
+|**2026-09-15**|**Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics**|Simone Teglia et.al.|[2609.16778](http://arxiv.org/abs/2609.16778)|null|
+|**2026-09-15**|**CorrRisk-WM: Corridor-Conditioned Risk World Modeling for Safety-Critical Trajectory Planning**|Tingyu Guo et.al.|[2609.16724](http://arxiv.org/abs/2609.16724)|null|
+|**2026-09-15**|**The Robot Data Factory**|Sami Haddadin et.al.|[2609.16705](http://arxiv.org/abs/2609.16705)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
+|**2026-09-15**|**World Models for Embodied Intelligence: From Plausible to Controllable to Actionable**|Nanjie Yao et.al.|[2609.16697](http://arxiv.org/abs/2609.16697)|null|
+|**2026-09-15**|**AI for Games in the Foundation Model Era**|Meng Luo et.al.|[2609.16679](http://arxiv.org/abs/2609.16679)|null|
+|**2026-09-14**|**The World Model Hardware Accelerator**|Shashank Chaurasia et.al.|[2609.16244](http://arxiv.org/abs/2609.16244)|null|
 |**2026-09-14**|**When Should a World Model Move? Loss-Conditioned State Execution**|Jintao Xu et.al.|[2609.15801](http://arxiv.org/abs/2609.15801)|null|
 |**2026-09-14**|**When the World Lies: Backdoor Attacks on Latent World Models for Downstream Control**|Roberto Riaño et.al.|[2609.15781](http://arxiv.org/abs/2609.15781)|null|
 |**2026-09-14**|**JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion**|Qihao Yuan et.al.|[2609.15770](http://arxiv.org/abs/2609.15770)|null|
@@ -504,16 +514,6 @@ layout: default
 |**2026-05-06**|**Executable World Models for ARC-AGI-3 in the Era of Coding Agents**|Sergey Rodionov et.al.|[2605.05138](http://arxiv.org/abs/2605.05138)|null|
 |**2026-05-06**|**Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior**|Daniel Wurgaft et.al.|[2605.05115](http://arxiv.org/abs/2605.05115)|null|
 |**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
-|**2026-05-06**|**The Predictive-Causal Gap: An Impossibility Theorem and Large-Scale Neural Evidence**|Kejun Liu et.al.|[2605.05029](http://arxiv.org/abs/2605.05029)|null|
-|**2026-05-06**|**A geometric relation of the error introduced by sampling a language model's output distribution to its internal state**|Albert F. Modenbach et.al.|[2605.04899](http://arxiv.org/abs/2605.04899)|null|
-|**2026-05-06**|**Gyan: An Explainable Neuro-Symbolic Language Model**|Venkat Srinivasan et.al.|[2605.04759](http://arxiv.org/abs/2605.04759)|null|
-|**2026-05-06**|**Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination**|Jonathan Spieler et.al.|[2605.04568](http://arxiv.org/abs/2605.04568)|**[link](https://github.com/jspieler/dream-mpc)**|
-|**2026-05-06**|**Counterfactual identifiability beyond global monotonicity: non-monotone triangular structural causal models**|Pengcheng Tan et.al.|[2605.04413](http://arxiv.org/abs/2605.04413)|null|
-|**2026-05-05**|**Implementing True MPI Sessions and Evaluating MPI Initialization Scalability**|Hui Zhou et.al.|[2605.03983](http://arxiv.org/abs/2605.03983)|null|
-|**2026-05-05**|**A Benchmark for Interactive World Models with a Unified Action Generation Framework**|Jianjie Fang et.al.|[2605.03941](http://arxiv.org/abs/2605.03941)|**[link](https://github.com/EmbodiedCity/iWorld-Bench)**|
-|**2026-05-05**|**RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models**|Hao Wu et.al.|[2605.03821](http://arxiv.org/abs/2605.03821)|null|
-|**2026-05-05**|**What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity**|Haoxi Li et.al.|[2605.03782](http://arxiv.org/abs/2605.03782)|null|
-|**2026-05-05**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
 
 ## embodied AI
 
@@ -1393,6 +1393,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Tables Decoded: DELTA for Structure, TARQA for Understanding**|Jahanvi Rajput et.al.|[2609.17458](http://arxiv.org/abs/2609.17458)|null|
+|**2026-09-15**|**Large Language Models Develop Belief State Geometry In-Context**|Daniel Balcells et.al.|[2609.17376](http://arxiv.org/abs/2609.17376)|null|
+|**2026-09-15**|**An Empirical Study of Counterfactual Self-Explanations in LLMs**|Giannis Kalyvas et.al.|[2609.17119](http://arxiv.org/abs/2609.17119)|null|
+|**2026-09-15**|**DiaWhisper-DPO: Role-Attributed Transcription of Clinical Interviews via Failure-Mined Preference Optimization**|Weiming Li et.al.|[2609.16661](http://arxiv.org/abs/2609.16661)|null|
+|**2026-09-15**|**Measuring Decision-Scale Use in Tool-Augmented LLMs: A Contrastive Urban Benchmark**|Ray Chen et.al.|[2609.16607](http://arxiv.org/abs/2609.16607)|null|
+|**2026-09-15**|**Style-Debiased DPO: Updating LLM Knowledge with Factuality-Aware Synthetic Preference Data**|Takayuki Yamamoto et.al.|[2609.16532](http://arxiv.org/abs/2609.16532)|null|
+|**2026-09-15**|**Competence-Preserving Resume Perturbations Expose Presentation Sensitivity in LLM Screening**|Qiangju Chen et.al.|[2609.16517](http://arxiv.org/abs/2609.16517)|null|
+|**2026-09-15**|**Fine-Tuning Fixes Mode Collapse and Over-Dispersion in LLMs**|Kirill Skobelev et.al.|[2609.16454](http://arxiv.org/abs/2609.16454)|null|
+|**2026-09-14**|**StalePO: Anchored Token-Level Preference Optimization using Legacy Post-Edits in Machine Translation**|Rohit Dhaipule et.al.|[2609.16340](http://arxiv.org/abs/2609.16340)|null|
+|**2026-09-14**|**The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It**|Valen Tagliabue et.al.|[2609.16247](http://arxiv.org/abs/2609.16247)|null|
 |**2026-09-11**|**Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model**|Hoeun Lee et.al.|[2609.13053](http://arxiv.org/abs/2609.13053)|null|
 |**2026-09-11**|**AlignDPO: Preference-Gated Alignment for Reducing Hallucination in Decoder-Only TTS**|Xiao Zhou et.al.|[2609.12855](http://arxiv.org/abs/2609.12855)|null|
 |**2026-09-11**|**Scaling Clinical Judgment to Evaluate Medical AI**|Thomas A. Buckley et.al.|[2609.12822](http://arxiv.org/abs/2609.12822)|null|
@@ -1883,16 +1893,6 @@ layout: default
 |**2026-05-02**|**LLM Output Detectability and Task Performance Can be Jointly Optimized**|Koshiro Saito et.al.|[2605.01350](http://arxiv.org/abs/2605.01350)|null|
 |**2026-05-02**|**Addressing Data Scarcity in Bangla Fake News Detection: An LLM-Based Dataset Augmentation Approach**|Ahmed Alfey Sani et.al.|[2605.01292](http://arxiv.org/abs/2605.01292)|null|
 |**2026-05-02**|**GIFT: Guided Fine-Tuning and Transfer for Enhancing Instruction-Tuned Language Models**|Zhiwen Ruan et.al.|[2605.01256](http://arxiv.org/abs/2605.01256)|**[link](https://github.com/zwRuan/gift)**|
-|**2026-05-01**|**Let ViT Speak: Generative Language-Image Pre-training**|Yan Fang et.al.|[2605.00809](http://arxiv.org/abs/2605.00809)|**[link](https://github.com/YanFangCS/GenLIP)**|
-|**2026-05-01**|**AdaMeZO: Adam-style Zeroth-Order Optimizer for LLM Fine-tuning Without Maintaining the Moments**|Zhijie Cai et.al.|[2605.00650](http://arxiv.org/abs/2605.00650)|**[link](https://github.com/shawnnn3di/AdaMeZO)**|
-|**2026-05-01**|**H-RAG at SemEval-2026 Task 8: Hierarchical Parent-Child Retrieval for Multi-Turn RAG Conversations**|Passant Elchafei et.al.|[2605.00631](http://arxiv.org/abs/2605.00631)|null|
-|**2026-05-01**|**DynamicPO: Dynamic Preference Optimization for Recommendation**|Xingyu Hu et.al.|[2605.00327](http://arxiv.org/abs/2605.00327)|**[link](https://github.com/xingyuHuxingyu/DynamicPO)**|
-|**2026-05-01**|**Online Self-Calibration Against Hallucination in Vision-Language Models**|Minghui Chen et.al.|[2605.00323](http://arxiv.org/abs/2605.00323)|null|
-|**2026-04-30**|**Attention Is Where You Attack**|Aviral Srivastava et.al.|[2605.00236](http://arxiv.org/abs/2605.00236)|**[link](https://github.com/danderfer/Comp_Sci_Sem_2)**|
-|**2026-04-30**|**TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization**|Abdulhady Abas Abdullah et.al.|[2605.00224](http://arxiv.org/abs/2605.00224)|null|
-|**2026-04-30**|**Wasserstein Distributionally Robust Regret Optimization for Reinforcement Learning from Human Feedback**|Yikai Wang et.al.|[2605.00155](http://arxiv.org/abs/2605.00155)|null|
-|**2026-04-30**|**ViLegalNLI: Natural Language Inference for Vietnamese Legal Texts**|Nhung Thi-Hong Duong et.al.|[2605.00116](http://arxiv.org/abs/2605.00116)|null|
-|**2026-04-30**|**FiLMMeD: Feature-wise Linear Modulation for Cross-Problem Multi-Depot Vehicle Routing**|Arthur Corrêa et.al.|[2604.28102](http://arxiv.org/abs/2604.28102)|**[link](https://github.com/AJ-Correa/FiLMMeD)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
