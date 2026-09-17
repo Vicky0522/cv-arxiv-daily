@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-05-06**|**Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior**|Daniel Wurgaft et.al.|[2605.05115](http://arxiv.org/abs/2605.05115)|null|
 |**2026-05-06**|**Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout**|Haozhuang Chi et.al.|[2605.05092](http://arxiv.org/abs/2605.05092)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## embodied AI
 
@@ -897,7 +897,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## image generation
 
@@ -1404,12 +1404,20 @@
 |**2026-05-14**|**Does Synthetic Layered Design Data Benefit Layered Design Decomposition?**|Kam Man Wu et.al.|[2605.15167](http://arxiv.org/abs/2605.15167)|null|
 |**2026-05-14**|**DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models**|Quanhao Li et.al.|[2605.15055](http://arxiv.org/abs/2605.15055)|**[link](https://github.com/ali-vilab/DiffusionOPD)**|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**A Zeroth-Order Paradigm for LLM Preference Alignment**|Peter Chen et.al.|[2609.19144](http://arxiv.org/abs/2609.19144)|null|
+|**2026-09-16**|**Designing Grid-Aware Dynamic Specifications for Large Data Center Loads**|Ashutossh Gupta et.al.|[2609.18888](http://arxiv.org/abs/2609.18888)|null|
+|**2026-09-16**|**First Token Matters: Understanding Safety Collapse in Large Reasoning Models**|Yizheng Yang et.al.|[2609.18471](http://arxiv.org/abs/2609.18471)|null|
+|**2026-09-16**|**Cultural Competence in Context: A Large Language Model Passes the Turing Test in Finland**|Otto Segersven et.al.|[2609.18394](http://arxiv.org/abs/2609.18394)|null|
+|**2026-09-16**|**GeoMesh: Workload-Balanced and Sign-Compressed Geo-Distributed LLM Training**|Changyong Shin et.al.|[2609.18388](http://arxiv.org/abs/2609.18388)|null|
+|**2026-09-16**|**SEA-LION-v4.8: A Technical Report**|Ahmed Mohammad Dabeer et.al.|[2609.18310](http://arxiv.org/abs/2609.18310)|null|
+|**2026-09-16**|**Towards Training Private LLMs: Exploring Fine-Tuning Language Models on Apple Silicon with RDMA over Thunderbolt**|En-Ming Huang et.al.|[2609.18066](http://arxiv.org/abs/2609.18066)|null|
+|**2026-09-16**|**Encoder Awakening via Adapters: Effective Domain-Adaptive Fine-tuning of Speech-LLMs**|Mohan Shi et.al.|[2609.17981](http://arxiv.org/abs/2609.17981)|**[link](https://github.com/morganshi/EAVA)**|
 |**2026-09-15**|**Tables Decoded: DELTA for Structure, TARQA for Understanding**|Jahanvi Rajput et.al.|[2609.17458](http://arxiv.org/abs/2609.17458)|null|
 |**2026-09-15**|**Large Language Models Develop Belief State Geometry In-Context**|Daniel Balcells et.al.|[2609.17376](http://arxiv.org/abs/2609.17376)|null|
 |**2026-09-15**|**An Empirical Study of Counterfactual Self-Explanations in LLMs**|Giannis Kalyvas et.al.|[2609.17119](http://arxiv.org/abs/2609.17119)|null|
@@ -1902,16 +1910,8 @@
 |**2026-05-04**|**Geometric Deviation as an Unsupervised Pre-Generation Reliability Signal: Probing LLM Representations for Answerability**|Yucheng Du et.al.|[2605.03196](http://arxiv.org/abs/2605.03196)|null|
 |**2026-05-04**|**Bolek: A Multimodal Language Model for Molecular Reasoning**|Frederic Grabowski et.al.|[2605.02745](http://arxiv.org/abs/2605.02745)|null|
 |**2026-05-04**|**Gradient-Gated DPO: Stabilizing Preference Optimization in Language Models**|Inoussa Mouiche et.al.|[2605.02626](http://arxiv.org/abs/2605.02626)|**[link](https://github.com/imouiche/Stabilizing-Preference-Optimization-in-LLMs)**|
-|**2026-05-04**|**Efficient Preference Poisoning Attack on Offline RLHF**|Chenye Yang et.al.|[2605.02495](http://arxiv.org/abs/2605.02495)|**[link](https://github.com/MachineLearning-Nerd/icml26-preference-poisoning-offline-rlhf)**|
-|**2026-05-04**|**Anomaly-Preference Image Generation**|Fuyun Wang et.al.|[2605.02439](http://arxiv.org/abs/2605.02439)|null|
-|**2026-05-04**|**Reliability-Oriented Multilingual Orthopedic Diagnosis: A Domain-Adaptive Modeling and a Conceptual Validation Framework**|Danish Ali et.al.|[2605.02266](http://arxiv.org/abs/2605.02266)|null|
-|**2026-05-03**|**Maistros: A Greek Large Language Model Adapted Through Knowledge Distillation From Large Reasoning Models**|Nikolaos Giarelis et.al.|[2605.01870](http://arxiv.org/abs/2605.01870)|null|
-|**2026-05-03**|**RMGAP: Benchmarking the Generalization of Reward Models across Diverse Preferences**|Yangyang Zhou et.al.|[2605.01831](http://arxiv.org/abs/2605.01831)|null|
-|**2026-05-02**|**LLM Output Detectability and Task Performance Can be Jointly Optimized**|Koshiro Saito et.al.|[2605.01350](http://arxiv.org/abs/2605.01350)|null|
-|**2026-05-02**|**Addressing Data Scarcity in Bangla Fake News Detection: An LLM-Based Dataset Augmentation Approach**|Ahmed Alfey Sani et.al.|[2605.01292](http://arxiv.org/abs/2605.01292)|null|
-|**2026-05-02**|**GIFT: Guided Fine-Tuning and Transfer for Enhancing Instruction-Tuned Language Models**|Zhiwen Ruan et.al.|[2605.01256](http://arxiv.org/abs/2605.01256)|**[link](https://github.com/zwRuan/gift)**|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
