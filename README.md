@@ -528,7 +528,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-09-17**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388](http://arxiv.org/abs/2609.20388)|null|
-|**2026-09-17**|**DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum**|Haoqiang Kang et.al.|[2609.19801](http://arxiv.org/abs/2609.19801)|null|
+|**2026-09-17**|**DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum**|Haoqiang Kang et.al.|[2609.19801](http://arxiv.org/abs/2609.19801)|**[link](https://github.com/mk322/DeliveryGym)**|
 |**2026-09-17**|**SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership**|Run Peng et.al.|[2609.19610](http://arxiv.org/abs/2609.19610)|null|
 |**2026-09-16**|**FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models**|Yuchen Han et.al.|[2609.19475](http://arxiv.org/abs/2609.19475)|null|
 |**2026-09-16**|**In-Context Robot Learning with VLM Agents**|Dongzhou Cheng et.al.|[2609.19138](http://arxiv.org/abs/2609.19138)|null|
@@ -921,7 +921,7 @@
 |**2026-09-17**|**Safety-Critical Scenanrio Emerges from Initial Scene**|Yin Wu et.al.|[2609.20103](http://arxiv.org/abs/2609.20103)|null|
 |**2026-09-17**|**DART: Distillation-Aware Reparameterization for Training-Free LoRA Reuse in Few-Step Video Diffusion Models**|Shihong Li et.al.|[2609.20051](http://arxiv.org/abs/2609.20051)|null|
 |**2026-09-17**|**Parameter Estimation for the Mixed Fractional Merton Jump Diffusion Model with EM Algorithm**|Chidiogo Joy Agboeke et.al.|[2609.20041](http://arxiv.org/abs/2609.20041)|null|
-|**2026-09-17**|**Beyond the Foreground: FOV-Aware Polyp Image Synthesis via Lesion-Guided Adaptive Mucosal Context Propagation**|Tong Wang et.al.|[2609.19966](http://arxiv.org/abs/2609.19966)|null|
+|**2026-09-17**|**Beyond the Foreground: FOV-Aware Polyp Image Synthesis via Lesion-Guided Adaptive Mucosal Context Propagation**|Tong Wang et.al.|[2609.19966](http://arxiv.org/abs/2609.19966)|**[link](https://github.com/wangtong627/LAMP)**|
 |**2026-09-17**|**Zarya: A Hybrid Autoregressive--Masked Diffusion Language Model with Flexible Training and Dual-Mode Inference**|Leonid Sinev et.al.|[2609.19868](http://arxiv.org/abs/2609.19868)|null|
 |**2026-09-16**|**Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion**|Lining Mao et.al.|[2609.18928](http://arxiv.org/abs/2609.18928)|null|
 |**2026-09-16**|**Learning A Unified Template for Gait Recognition**|Panjian Huang et.al.|[2609.18490](http://arxiv.org/abs/2609.18490)|null|
