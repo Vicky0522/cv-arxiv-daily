@@ -534,7 +534,7 @@
 |**2026-09-16**|**In-Context Robot Learning with VLM Agents**|Dongzhou Cheng et.al.|[2609.19138](http://arxiv.org/abs/2609.19138)|null|
 |**2026-09-16**|**rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference**|Kaijun Zhou et.al.|[2609.19104](http://arxiv.org/abs/2609.19104)|null|
 |**2026-09-16**|**AeroWeaver: An Embodied-Agent Harness for Weaving Aerial Skills into Distributed, Adaptive Swarm Execution**|Jiabin Lou et.al.|[2609.18520](http://arxiv.org/abs/2609.18520)|null|
-|**2026-09-16**|**StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions**|Awomo-WM Team et.al.|[2609.18430](http://arxiv.org/abs/2609.18430)|null|
+|**2026-09-16**|**StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions**|Awomo-WM Team et.al.|[2609.18430](http://arxiv.org/abs/2609.18430)|**[link](https://github.com/westlakedi-awomo/StrucPhysVideo)**|
 |**2026-09-16**|**A Comprehensive Review of Generative Physical Artificial Intelligence**|Satyam Gaba et.al.|[2609.18111](http://arxiv.org/abs/2609.18111)|null|
 |**2026-09-16**|**Finder: Agentic Closed-Loop Object Finding for Embodied Grounding**|Shixiong Xu et.al.|[2609.18058](http://arxiv.org/abs/2609.18058)|null|
 |**2026-09-15**|**XPACE: Joint World and Action Modeling from Heterogeneous Experience**|Jiacheng Wei et.al.|[2609.17372](http://arxiv.org/abs/2609.17372)|null|
