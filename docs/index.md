@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Benchmarking World Models for Continual Learning on Compositional Tasks**|Haoyu Zhou et.al.|[2609.22055](http://arxiv.org/abs/2609.22055)|null|
+|**2026-09-18**|**Intervention Granularity Matters: Coherent Treatment Bundles in Counterfactual Simulation with Clinical World Models**|Fangzhou Wang et.al.|[2609.21906](http://arxiv.org/abs/2609.21906)|null|
+|**2026-09-18**|**Compact but Moving: Intervention-Relevant Geometry in Recurrent World Models**|Yuming Chen et.al.|[2609.21787](http://arxiv.org/abs/2609.21787)|null|
+|**2026-09-18**|**World Modeling in Transformers**|Pierre Beckmann et.al.|[2609.21748](http://arxiv.org/abs/2609.21748)|**[link](https://github.com/lucidrains/improving-transformers-world-model-for-rl)**|
+|**2026-09-18**|**Sandwich-Residuals: Parameter-Efficient Test-time Adaptation of World Models**|Krishnam Soni et.al.|[2609.21740](http://arxiv.org/abs/2609.21740)|null|
+|**2026-09-18**|**ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation**|Boni Hu et.al.|[2609.21712](http://arxiv.org/abs/2609.21712)|null|
+|**2026-09-18**|**Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering**|Tianchen Deng et.al.|[2609.21502](http://arxiv.org/abs/2609.21502)|null|
+|**2026-09-18**|**Adaptive Rollout Truncation Based on Epistemic Uncertainty for Efficient Offline World Model Training**|Nikodem Sebastian Zymla et.al.|[2609.21482](http://arxiv.org/abs/2609.21482)|null|
+|**2026-09-18**|**Robotic Multiphase Interaction: Manipulating Coupled Liquid and Solid Dynamics with a World Model**|Yixuan Feng et.al.|[2609.21448](http://arxiv.org/abs/2609.21448)|null|
+|**2026-09-18**|**JEPA Guided Diffusion: Predictive Vision-Language Conditioning for Generative Traffic Forecasting**|Trinh Tra Giang Nguyen et.al.|[2609.21379](http://arxiv.org/abs/2609.21379)|null|
 |**2026-09-17**|**JEPA-Anything: Learning Predictive Models across Different Worlds**|Taoyong Cui et.al.|[2609.20800](http://arxiv.org/abs/2609.20800)|**[link](https://github.com/Gen-Verse/JEPA-Anything)**|
 |**2026-09-17**|**DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation**|Yan Qin et.al.|[2609.20649](http://arxiv.org/abs/2609.20649)|null|
 |**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Ruben Beumer et.al.|[2609.20604](http://arxiv.org/abs/2609.20604)|null|
@@ -504,29 +514,20 @@ layout: default
 |**2026-05-11**|**How Mobile World Model Guides GUI Agents?**|Weikai Xu et.al.|[2605.10347](http://arxiv.org/abs/2605.10347)|null|
 |**2026-05-11**|**Data-Asymmetric Latent Imagination and Reranking for 3D Robotic Imitation Learning**|Lianghao Luo et.al.|[2605.10166](http://arxiv.org/abs/2605.10166)|null|
 |**2026-05-11**|**SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation**|Liangyang Ouyang et.al.|[2605.10079](http://arxiv.org/abs/2605.10079)|**[link](https://github.com/Ufere/Assingment_1)**|
-|**2026-05-11**|**Network-Efficient World Model Token Streaming**|Shatadal Mishra et.al.|[2605.09886](http://arxiv.org/abs/2605.09886)|null|
-|**2026-05-10**|**Multi-Tier Labeling and Physics-Informed Learning for Orbital Anomaly Detection at Scale**|Yong Fu et.al.|[2605.09790](http://arxiv.org/abs/2605.09790)|null|
-|**2026-05-10**|**DriveFuture: Future-Aware Latent World Models for Autonomous Driving**|Yufeng Hong et.al.|[2605.09701](http://arxiv.org/abs/2605.09701)|null|
-|**2026-05-10**|**Do multimodal models imagine electric sheep?**|Santhosh Kumar Ramakrishnan et.al.|[2605.09693](http://arxiv.org/abs/2605.09693)|null|
-|**2026-05-10**|**Absurd World: A Simple Yet Powerful Method to Absurdify the Real-world for Probing LLM Reasoning Capabilities**|Ryan Albright et.al.|[2605.09678](http://arxiv.org/abs/2605.09678)|null|
-|**2026-05-10**|**Workspace Optimization: How to Train Your Agent**|Elad Sarafian et.al.|[2605.09650](http://arxiv.org/abs/2605.09650)|null|
-|**2026-05-10**|**DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos**|Can Li et.al.|[2605.09586](http://arxiv.org/abs/2605.09586)|**[link](https://github.com/CAN-Lee/DeformMaster)**|
-|**2026-05-10**|**FLAME: Adaptive Mixture-of-Experts for Continual Multimodal Multi-Task Learning**|Xing Han et.al.|[2605.09355](http://arxiv.org/abs/2605.09355)|**[link](https://github.com/aaronhan223/FLAME)**|
-|**2026-05-08**|**One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**|Zuojin Tang et.al.|[2605.07931](http://arxiv.org/abs/2605.07931)|null|
-|**2026-05-08**|**Synchronizing Minds through Collective Predictive Coding: A Computational Model of Parent-Infant Homeostatic Co-Regulation**|Yushi Tsubamoto et.al.|[2605.07524](http://arxiv.org/abs/2605.07524)|null|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-17**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388](http://arxiv.org/abs/2609.20388)|null|
-|**2026-09-17**|**DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum**|Haoqiang Kang et.al.|[2609.19801](http://arxiv.org/abs/2609.19801)|**[link](https://github.com/mk322/DeliveryGym)**|
+|**2026-09-16**|**BirdsongChat: A Hybrid Multi-Agent Framework for Multimodal Embodied Behavior Simulation**|Callie C. Liao et.al.|[2609.20887](http://arxiv.org/abs/2609.20887)|null|
+|**2026-09-18**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388](http://arxiv.org/abs/2609.20388)|null|
+|**2026-09-17**|**DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum**|Haoqiang Kang et.al.|[2609.19801](http://arxiv.org/abs/2609.19801)|null|
 |**2026-09-17**|**SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership**|Run Peng et.al.|[2609.19610](http://arxiv.org/abs/2609.19610)|null|
 |**2026-09-16**|**FASA: Feedback-Aware Sampling Adaptation for Efficient Diffusion-Based VLA Models**|Yuchen Han et.al.|[2609.19475](http://arxiv.org/abs/2609.19475)|null|
 |**2026-09-16**|**In-Context Robot Learning with VLM Agents**|Dongzhou Cheng et.al.|[2609.19138](http://arxiv.org/abs/2609.19138)|null|
 |**2026-09-16**|**rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference**|Kaijun Zhou et.al.|[2609.19104](http://arxiv.org/abs/2609.19104)|null|
 |**2026-09-16**|**AeroWeaver: An Embodied-Agent Harness for Weaving Aerial Skills into Distributed, Adaptive Swarm Execution**|Jiabin Lou et.al.|[2609.18520](http://arxiv.org/abs/2609.18520)|null|
-|**2026-09-16**|**StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions**|Awomo-WM Team et.al.|[2609.18430](http://arxiv.org/abs/2609.18430)|null|
+|**2026-09-16**|**StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions**|Awomo-WM Team et.al.|[2609.18430](http://arxiv.org/abs/2609.18430)|**[link](https://github.com/westlakedi-awomo/StrucPhysVideo)**|
 |**2026-09-16**|**A Comprehensive Review of Generative Physical Artificial Intelligence**|Satyam Gaba et.al.|[2609.18111](http://arxiv.org/abs/2609.18111)|null|
 |**2026-09-16**|**Finder: Agentic Closed-Loop Object Finding for Embodied Grounding**|Shixiong Xu et.al.|[2609.18058](http://arxiv.org/abs/2609.18058)|null|
 |**2026-09-15**|**XPACE: Joint World and Action Modeling from Heterogeneous Experience**|Jiacheng Wei et.al.|[2609.17372](http://arxiv.org/abs/2609.17372)|null|
@@ -905,12 +906,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
 |**2026-09-18**|**Moderator Modeling for High Intensity Slow Positron Sources**|Sophie Crisp et.al.|[2609.22036](http://arxiv.org/abs/2609.22036)|null|
-|**2026-09-18**|**Schedule optimization for tau-leaping in masked discrete diffusion**|Cecilia Secchi et.al.|[2609.21960](http://arxiv.org/abs/2609.21960)|null|
+|**2026-09-18**|**Schedule optimization for tau-leaping in masked discrete diffusion**|Cecilia Secchi et.al.|[2609.21960](http://arxiv.org/abs/2609.21960)|**[link](https://github.com/teddytennant/tauleap-schedule)**|
 |**2026-09-18**|**The Weight Is Over - Interactive Diffusion on Consumer GPUs**|Frieder Ganz et.al.|[2609.21849](http://arxiv.org/abs/2609.21849)|null|
 |**2026-09-18**|**Classification-oriented adaptive sensing via posterior sampling**|Andriy Enttsel et.al.|[2609.21812](http://arxiv.org/abs/2609.21812)|null|
 |**2026-09-18**|**AcousticDiffusion: Semantically Conditioned Audio-Guided Diffusion Policy for Search-and-Rescue Assistance**|Iana Zhura et.al.|[2609.21792](http://arxiv.org/abs/2609.21792)|null|
 |**2026-09-18**|**Diffusion-Based Tumor Inpainting for Renal Segmentation under Clinical Data Scarcity**|Ekaterina Sedykh et.al.|[2609.21698](http://arxiv.org/abs/2609.21698)|null|
-|**2026-09-18**|**Quantization-Aware Kalman Estimation for Diffusion Sampling**|Qitan Shi et.al.|[2609.21407](http://arxiv.org/abs/2609.21407)|null|
+|**2026-09-18**|**Quantization-Aware Kalman Estimation for Diffusion Sampling**|Qitan Shi et.al.|[2609.21407](http://arxiv.org/abs/2609.21407)|**[link](https://github.com/teddytennant/quake)**|
 |**2026-09-18**|**JEPA Guided Diffusion: Predictive Vision-Language Conditioning for Generative Traffic Forecasting**|Trinh Tra Giang Nguyen et.al.|[2609.21379](http://arxiv.org/abs/2609.21379)|null|
 |**2026-09-18**|**Hiding in Plain Sight: A Diffusion-based Mitigation of Geolocation Privacy Leakage in Vision-Language Models**|Yining Wang et.al.|[2609.21363](http://arxiv.org/abs/2609.21363)|null|
 |**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
