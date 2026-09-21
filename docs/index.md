@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -903,6 +903,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
+|**2026-09-18**|**Moderator Modeling for High Intensity Slow Positron Sources**|Sophie Crisp et.al.|[2609.22036](http://arxiv.org/abs/2609.22036)|null|
+|**2026-09-18**|**Schedule optimization for tau-leaping in masked discrete diffusion**|Cecilia Secchi et.al.|[2609.21960](http://arxiv.org/abs/2609.21960)|null|
+|**2026-09-18**|**The Weight Is Over - Interactive Diffusion on Consumer GPUs**|Frieder Ganz et.al.|[2609.21849](http://arxiv.org/abs/2609.21849)|null|
+|**2026-09-18**|**Classification-oriented adaptive sensing via posterior sampling**|Andriy Enttsel et.al.|[2609.21812](http://arxiv.org/abs/2609.21812)|null|
+|**2026-09-18**|**AcousticDiffusion: Semantically Conditioned Audio-Guided Diffusion Policy for Search-and-Rescue Assistance**|Iana Zhura et.al.|[2609.21792](http://arxiv.org/abs/2609.21792)|null|
+|**2026-09-18**|**Diffusion-Based Tumor Inpainting for Renal Segmentation under Clinical Data Scarcity**|Ekaterina Sedykh et.al.|[2609.21698](http://arxiv.org/abs/2609.21698)|null|
+|**2026-09-18**|**Quantization-Aware Kalman Estimation for Diffusion Sampling**|Qitan Shi et.al.|[2609.21407](http://arxiv.org/abs/2609.21407)|null|
+|**2026-09-18**|**JEPA Guided Diffusion: Predictive Vision-Language Conditioning for Generative Traffic Forecasting**|Trinh Tra Giang Nguyen et.al.|[2609.21379](http://arxiv.org/abs/2609.21379)|null|
+|**2026-09-18**|**Hiding in Plain Sight: A Diffusion-based Mitigation of Geolocation Privacy Leakage in Vision-Language Models**|Yining Wang et.al.|[2609.21363](http://arxiv.org/abs/2609.21363)|null|
 |**2026-09-17**|**Paint-Anything: Unified Any-Color Control for Image Generation and Editing**|Ji Xie et.al.|[2609.20816](http://arxiv.org/abs/2609.20816)|null|
 |**2026-09-17**|**Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation**|Haocheng Xi et.al.|[2609.20744](http://arxiv.org/abs/2609.20744)|null|
 |**2026-09-17**|**PixelFlow: Token-Level Workload Management for Efficient Distributed DiT Serving**|Zhexiang Zhang et.al.|[2609.20723](http://arxiv.org/abs/2609.20723)|null|
@@ -1393,21 +1403,15 @@ layout: default
 |**2026-07-02**|**Representation Distribution Matching for One-Step Visual Generation**|Lan Feng et.al.|[2607.02375](http://arxiv.org/abs/2607.02375)|**[link](https://github.com/Alan-LanFeng/rdm)**|
 |**2026-07-02**|**DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing**|Zhaokai Wang et.al.|[2607.02290](http://arxiv.org/abs/2607.02290)|null|
 |**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Yongjie Bai et.al.|[2607.02195](http://arxiv.org/abs/2607.02195)|**[link](https://github.com/HCPLab-SYSU/BRIDGE-WA)**|
-|**2026-07-02**|**ART for Diffusion Sampling: Continuous-Time Control and Actor-Critic Learning**|Yilie Huang et.al.|[2607.02137](http://arxiv.org/abs/2607.02137)|null|
-|**2026-07-02**|**Hierarchical Anti-Aesthetics: Protecting Facial Privacy against Customized Diffusion Models**|Songping Wang et.al.|[2607.02038](http://arxiv.org/abs/2607.02038)|null|
-|**2026-07-02**|**QWERTY: Training-Free Motion Control via Query-Warped Video Diffusion Transformers**|Kyobin Choo et.al.|[2607.01869](http://arxiv.org/abs/2607.01869)|**[link](https://github.com/MICV-yonsei/QWERTY)**|
-|**2026-07-01**|**High-dimensional Embedding Prior for Noisy K-space Domain MRIReconstruction**|Yu Guan et.al.|[2607.01176](http://arxiv.org/abs/2607.01176)|null|
-|**2026-07-01**|**Diffusion-GR2: Diffusion Generative Reasoning Re-ranker**|Zhuoxuan Zhang et.al.|[2607.01170](http://arxiv.org/abs/2607.01170)|null|
-|**2026-07-01**|**EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation**|Tatiana Gaintseva et.al.|[2607.01147](http://arxiv.org/abs/2607.01147)|null|
-|**2026-07-01**|**SAGE: Structured Agentic Graph Editing for Software Diagrams**|Tyler Sivertsen et.al.|[2607.01102](http://arxiv.org/abs/2607.01102)|null|
-|**2026-07-01**|**AVSR-Diff: Scale-Agnostic Diffusion Priors for Temporally Consistent Arbitrary-Scale Video Super-Resolution**|Geunhyuk Youk et.al.|[2607.00987](http://arxiv.org/abs/2607.00987)|null|
-|**2026-07-01**|**TRCGL-Net: A Long-Tailed Multi-Label Chest X-Ray Classification Framework with Generative Data Augmentation and Label Co-Occurrence Modeling**|Tong Shao et.al.|[2607.00975](http://arxiv.org/abs/2607.00975)|null|
-|**2026-07-01**|**Influence of Routing and Speed Limits on Optimal Solutions in Traffic Emission Modeling**|Marc-André Bach et.al.|[2607.00944](http://arxiv.org/abs/2607.00944)|null|
 
 ## LLM training
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**ExpBoN: Exponential-Noise Best-of- $n$ for Efficient Test-Time LLM Alignment**|Yanxiao Liu et.al.|[2609.21899](http://arxiv.org/abs/2609.21899)|null|
+|**2026-09-18**|**GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages**|Li Wang et.al.|[2609.21738](http://arxiv.org/abs/2609.21738)|null|
+|**2026-09-17**|**Geometry of Values: Task Vector Composition for Ethical Preference Alignment in Language Models**|Utkarsh Agarwal et.al.|[2609.21094](http://arxiv.org/abs/2609.21094)|**[link](https://github.com/mbzuai-nlp/geometry-of-values-task-vectors)**|
+|**2026-09-17**|**Aligning with Lived Experience: Heterogeneous Benefits of Fine Tuning in Mental Health Support Generation**|Mohit Chandra et.al.|[2609.21075](http://arxiv.org/abs/2609.21075)|null|
 |**2026-09-17**|**Stress-testing Alignment Midtraining**|Sid Baines et.al.|[2609.20412](http://arxiv.org/abs/2609.20412)|null|
 |**2026-09-17**|**AgriScope: Pixel-Grounded Multimodal Understanding for Agricultural Images**|Abderrahmene Boudiaf et.al.|[2609.20325](http://arxiv.org/abs/2609.20325)|null|
 |**2026-09-17**|**Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis**|Zifan Guan et.al.|[2609.20124](http://arxiv.org/abs/2609.20124)|null|
@@ -1904,10 +1908,6 @@ layout: default
 |**2026-05-06**|**Uncertainty-Aware Exploratory Direct Preference Optimization for Multimodal Large Language Models**|Huatian Zhang et.al.|[2605.04874](http://arxiv.org/abs/2605.04874)|**[link](https://github.com/htzhang-code/UE-DPO)**|
 |**2026-05-06**|**Bridging Perception and Action: A Lightweight Multimodal Meta-Planner Framework for Robust Earth Observation Agents**|Jinghui Xu et.al.|[2605.04777](http://arxiv.org/abs/2605.04777)|null|
 |**2026-05-06**|**Threshold-Guided Optimization for Visual Generative Models**|Jinbin Bai et.al.|[2605.04653](http://arxiv.org/abs/2605.04653)|null|
-|**2026-05-06**|**From Parameter Dynamics to Risk Scoring : Quantifying Sample-Level Safety Degradation in LLM Fine-tuning**|Xiao Wang et.al.|[2605.04572](http://arxiv.org/abs/2605.04572)|null|
-|**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
-|**2026-05-05**|**Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data**|Simret Araya Gebreegziabher et.al.|[2605.04029](http://arxiv.org/abs/2605.04029)|null|
-|**2026-05-05**|**On Adaptivity in Zeroth-Order Optimization**|Hassan Dbouk et.al.|[2605.03869](http://arxiv.org/abs/2605.03869)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
