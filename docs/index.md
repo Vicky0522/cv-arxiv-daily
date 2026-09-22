@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
+|**2026-09-21**|**WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory**|Wangbo Yu et.al.|[2609.24984](http://arxiv.org/abs/2609.24984)|null|
+|**2026-09-21**|**DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation**|Haoran Yuan et.al.|[2609.24976](http://arxiv.org/abs/2609.24976)|null|
+|**2026-09-21**|**D-JEPA: A Decision-Aligned Latent World Model**|Shuaijun Liu et.al.|[2609.24749](http://arxiv.org/abs/2609.24749)|**[link](https://github.com/NEBULIS-Lab/D-JEPA)**|
+|**2026-09-21**|**Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies**|Trung Dao et.al.|[2609.24682](http://arxiv.org/abs/2609.24682)|null|
+|**2026-09-21**|**Relationally Grounded Latent World Models for Autonomous Driving**|Fabian Schmidt et.al.|[2609.24626](http://arxiv.org/abs/2609.24626)|null|
+|**2026-09-21**|**Few-Shot Demonstrations Elicit the Use of In-Context World Representations in LLMs**|Kohsei Matsutani et.al.|[2609.24352](http://arxiv.org/abs/2609.24352)|null|
+|**2026-09-21**|**NeuIDO: Neural Intrinsic Dynamics Operator for Physics-Informed 4D World Models**|Jiajing Lin et.al.|[2609.24313](http://arxiv.org/abs/2609.24313)|**[link](https://github.com/JiajingLin/NeuIDO)**|
+|**2026-09-21**|**HappyWorld-Bench**|Zhiqi Bai et.al.|[2609.24308](http://arxiv.org/abs/2609.24308)|**[link](https://github.com/LivingFutureLab/HappyWorldBench)**|
+|**2026-09-21**|**Monet: Measuring the Ecosystem of Open-Source Text-to-Image Models Tailored for Harmful Services**|Zihao Wang et.al.|[2609.24134](http://arxiv.org/abs/2609.24134)|null|
 |**2026-09-18**|**Benchmarking World Models for Continual Learning on Compositional Tasks**|Haoyu Zhou et.al.|[2609.22055](http://arxiv.org/abs/2609.22055)|null|
 |**2026-09-18**|**Intervention Granularity Matters: Coherent Treatment Bundles in Counterfactual Simulation with Clinical World Models**|Fangzhou Wang et.al.|[2609.21906](http://arxiv.org/abs/2609.21906)|null|
 |**2026-09-18**|**Compact but Moving: Intervention-Relevant Geometry in Recurrent World Models**|Yuming Chen et.al.|[2609.21787](http://arxiv.org/abs/2609.21787)|null|
@@ -504,21 +514,21 @@ layout: default
 |**2026-05-12**|**Closing the Motion Execution Gap: From Semantic Motion Task Constraints to Kinematic Control**|Simon Stelter et.al.|[2605.12053](http://arxiv.org/abs/2605.12053)|null|
 |**2026-05-12**|**HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation**|Conglang Zhang et.al.|[2605.11596](http://arxiv.org/abs/2605.11596)|**[link](https://github.com/zcliangyue/HorizonDrive)**|
 |**2026-05-12**|**Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability**|Chon-Fai Kam et.al.|[2605.11557](http://arxiv.org/abs/2605.11557)|null|
-|**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942](http://arxiv.org/abs/2605.10942)|null|
-|**2026-05-11**|**Is Your Driving World Model an All-Around Player?**|Lingdong Kong et.al.|[2605.10858](http://arxiv.org/abs/2605.10858)|null|
-|**2026-05-11**|**PhyGround: Benchmarking Physical Reasoning in Generative World Models**|Juyi Lin et.al.|[2605.10806](http://arxiv.org/abs/2605.10806)|**[link](https://github.com/NU-World-Model-Embodied-AI/PhyGround)**|
-|**2026-05-11**|**DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving**|Lingjun Zhang et.al.|[2605.10564](http://arxiv.org/abs/2605.10564)|null|
-|**2026-05-11**|**CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving**|Minqing Huang et.al.|[2605.10426](http://arxiv.org/abs/2605.10426)|**[link](https://github.com/aimicm/CoWorld-VLA)**|
-|**2026-05-11**|**Progressive Photorealistic Simplification**|Adi Rosenthal et.al.|[2605.10409](http://arxiv.org/abs/2605.10409)|**[link](https://github.com/Adirosenthal540/Progressive_Photorealistic_Simplification)**|
-|**2026-05-11**|**Position: Life-Logging Video Streams Make the Privacy-Utility Trade-off Inevitable**|Tianyuan Zou et.al.|[2605.10404](http://arxiv.org/abs/2605.10404)|null|
-|**2026-05-11**|**How Mobile World Model Guides GUI Agents?**|Weikai Xu et.al.|[2605.10347](http://arxiv.org/abs/2605.10347)|null|
-|**2026-05-11**|**Data-Asymmetric Latent Imagination and Reranking for 3D Robotic Imitation Learning**|Lianghao Luo et.al.|[2605.10166](http://arxiv.org/abs/2605.10166)|null|
-|**2026-05-11**|**SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation**|Liangyang Ouyang et.al.|[2605.10079](http://arxiv.org/abs/2605.10079)|**[link](https://github.com/Ufere/Assingment_1)**|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI**|Wenkang Qin et.al.|[2609.24815](http://arxiv.org/abs/2609.24815)|null|
+|**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
+|**2026-09-21**|**HappyWorld-Bench**|Zhiqi Bai et.al.|[2609.24308](http://arxiv.org/abs/2609.24308)|**[link](https://github.com/LivingFutureLab/HappyWorldBench)**|
+|**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189](http://arxiv.org/abs/2609.24189)|null|
+|**2026-09-21**|**An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond**|Wenbo Zhang et.al.|[2609.24170](http://arxiv.org/abs/2609.24170)|null|
+|**2026-09-20**|**From Biological Precursors to Artificial Cognition: Consciousness, Embodiment, and the MEM Architecture**|Janusz A. Starzyk et.al.|[2609.23828](http://arxiv.org/abs/2609.23828)|null|
+|**2026-09-20**|**CE $^4$ L: Continual Ego, Exo, and Ego-Exo Learning**|Hongwei Yan et.al.|[2609.23492](http://arxiv.org/abs/2609.23492)|null|
+|**2026-09-20**|**OmniEcho: Spatial Audio Understanding for Embodied Agents**|Ruixun Liu et.al.|[2609.23407](http://arxiv.org/abs/2609.23407)|null|
+|**2026-09-20**|**Identity Continuity in Long-Term Embodied AI Relationships: From Agent-Specific Identity Representation to Identity-Continuity Appraisal**|Zijian Ru et.al.|[2609.23356](http://arxiv.org/abs/2609.23356)|null|
+|**2026-09-19**|**CausalWM: Causal Chain-of-Thought Reasoning for Embodied World Model**|Ziming Xu et.al.|[2609.23184](http://arxiv.org/abs/2609.23184)|null|
 |**2026-09-16**|**BirdsongChat: A Hybrid Multi-Agent Framework for Multimodal Embodied Behavior Simulation**|Callie C. Liao et.al.|[2609.20887](http://arxiv.org/abs/2609.20887)|null|
 |**2026-09-18**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388](http://arxiv.org/abs/2609.20388)|null|
 |**2026-09-17**|**DeliveryGym: An RL Environment for Long-Horizon Embodied Agent Planning with Adaptive Curriculum**|Haoqiang Kang et.al.|[2609.19801](http://arxiv.org/abs/2609.19801)|null|
@@ -904,6 +914,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**PixelDiT2: Representation-Grounded Pixel Diffusion Transformers**|Yongsheng Yu et.al.|[2609.24919](http://arxiv.org/abs/2609.24919)|null|
+|**2026-09-21**|**Generating Chest X-Ray Counterfactuals by Specialising Foundation Image Models**|Xiaodan Xing et.al.|[2609.24879](http://arxiv.org/abs/2609.24879)|null|
+|**2026-09-21**|**PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control**|Lei Ye et.al.|[2609.24840](http://arxiv.org/abs/2609.24840)|null|
+|**2026-09-21**|**ZVeC: A Zero-Shot Framework for Instance-Level Vehicle Extraction and Generative Point Cloud Completion**|Daisy Li et.al.|[2609.24825](http://arxiv.org/abs/2609.24825)|null|
+|**2026-09-21**|**Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI**|Wenkang Qin et.al.|[2609.24815](http://arxiv.org/abs/2609.24815)|null|
+|**2026-09-21**|**Streaming Video Editing with Easy Adaptation**|Yujia Hu et.al.|[2609.24788](http://arxiv.org/abs/2609.24788)|**[link](https://github.com/YujiaHu1109/SVEET)**|
+|**2026-09-21**|**What Makes a Good Medical Image Tokenizer? Rethinking Reconstruction and Generation in Medical Image Tokenization**|Niklas Bubeck et.al.|[2609.24691](http://arxiv.org/abs/2609.24691)|null|
+|**2026-09-21**|**A priori regularity of the reverse heat flow and dimension-dependent complexity of higher-order diffusion samplers**|Xixian Wang et.al.|[2609.24622](http://arxiv.org/abs/2609.24622)|null|
+|**2026-09-21**|**Applications of Neural Cellular Automata: State of the Art, Challenges and Opportunities**|Nick Lemke et.al.|[2609.24595](http://arxiv.org/abs/2609.24595)|null|
+|**2026-09-21**|**Classifier-Free Guidance in Flow Matching: Non-Autonomous Potentials, Overshoot, and Posterior-Mean Control**|Jishen Peng et.al.|[2609.24287](http://arxiv.org/abs/2609.24287)|null|
 |**2026-09-18**|**$λ$ -Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource**|Yufeng Wang et.al.|[2609.22041](http://arxiv.org/abs/2609.22041)|null|
 |**2026-09-18**|**Moderator Modeling for High Intensity Slow Positron Sources**|Sophie Crisp et.al.|[2609.22036](http://arxiv.org/abs/2609.22036)|null|
 |**2026-09-18**|**Schedule optimization for tau-leaping in masked discrete diffusion**|Cecilia Secchi et.al.|[2609.21960](http://arxiv.org/abs/2609.21960)|**[link](https://github.com/teddytennant/tauleap-schedule)**|
@@ -1394,21 +1414,21 @@ layout: default
 |**2026-07-06**|**Geminga and Monogem in the CTAO Era: Probing TeV Halos and Cosmic-Ray Transport**|Youyou Li et.al.|[2607.05245](http://arxiv.org/abs/2607.05245)|null|
 |**2026-07-06**|**Biophysics of the Pyrenoid**|Charley Schaefer et.al.|[2607.05154](http://arxiv.org/abs/2607.05154)|null|
 |**2026-07-06**|**RADIANCE: Relative Adaptive Denoising with IP-Adapter for Novel Concept Enhancement**|Zi-Xiang Ni et.al.|[2607.05088](http://arxiv.org/abs/2607.05088)|null|
-|**2026-07-06**|**Diffusion-Guided Uncertainty-Aware Delayed Policy Optimization**|Junqi Tu et.al.|[2607.05064](http://arxiv.org/abs/2607.05064)|null|
-|**2026-07-06**|**Consistent and Editable: A Balanced Framework for Text-Guided Video Editing**|Tao Jin et.al.|[2607.05056](http://arxiv.org/abs/2607.05056)|null|
-|**2026-07-06**|**UniSpine-GS: An Efficient Physics-Aware Gaussian Framework for Cross-Modality Multi-view Spine Image Synthesis**|Qiuhua Chen et.al.|[2607.04923](http://arxiv.org/abs/2607.04923)|**[link](https://github.com/orangeisland66/UniSpine-GS)**|
-|**2026-07-02**|**Alignment Is All You Need For X-to-4D Generation**|Qiaowei Miao et.al.|[2607.02516](http://arxiv.org/abs/2607.02516)|**[link](https://github.com/MiaoQiaowei/Align4D)**|
-|**2026-07-02**|**PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation**|Haofei Xu et.al.|[2607.02515](http://arxiv.org/abs/2607.02515)|**[link](https://github.com/google-research/pointdit)**|
-|**2026-07-02**|**From SRA to Self-Flow: Data Augmentation or Self-Supervision?**|Dengyang Jiang et.al.|[2607.02508](http://arxiv.org/abs/2607.02508)|null|
-|**2026-07-02**|**Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing**|Anqi Tang et.al.|[2607.02421](http://arxiv.org/abs/2607.02421)|null|
-|**2026-07-02**|**Representation Distribution Matching for One-Step Visual Generation**|Lan Feng et.al.|[2607.02375](http://arxiv.org/abs/2607.02375)|**[link](https://github.com/Alan-LanFeng/rdm)**|
-|**2026-07-02**|**DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing**|Zhaokai Wang et.al.|[2607.02290](http://arxiv.org/abs/2607.02290)|null|
-|**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Yongjie Bai et.al.|[2607.02195](http://arxiv.org/abs/2607.02195)|**[link](https://github.com/HCPLab-SYSU/BRIDGE-WA)**|
 
 ## LLM training
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction**|Lei Yang et.al.|[2609.24983](http://arxiv.org/abs/2609.24983)|null|
+|**2026-09-21**|**Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection**|Sofiane Elguendouze et.al.|[2609.24855](http://arxiv.org/abs/2609.24855)|null|
+|**2026-09-21**|**When Quantization Preserves Accuracy but Not Evidence: Explanation-Aware Post-Training Quantization for Medical LLMs**|Yeji Kim et.al.|[2609.24799](http://arxiv.org/abs/2609.24799)|null|
+|**2026-09-21**|**When and How Should an Agent Clarify? CIGAsk: Teaching LLMs to Clarify via Counterfactual Information Gain**|Yunxiang Li et.al.|[2609.24290](http://arxiv.org/abs/2609.24290)|null|
+|**2026-09-21**|**LIMIT: Less Is More for Instruction Tuning in Text-to-SQL**|Haoyuan Ma et.al.|[2609.24186](http://arxiv.org/abs/2609.24186)|null|
+|**2026-09-20**|**Time-Incremental Continued Pretraining of LLMs: Knowledge Updates Without Catastrophic Forgetting**|Fırat Öncel et.al.|[2609.23916](http://arxiv.org/abs/2609.23916)|null|
+|**2026-09-19**|**UQMIA: An Open, Hands-On Tutorial on Uncertainty Quantification in Medical Imaging Analysis with Large Language Model-Based Assessment of Educational Content**|Benyamin Gheiji et.al.|[2609.23241](http://arxiv.org/abs/2609.23241)|null|
+|**2026-09-19**|**OmniEdu: Open Foundation Models for Learning and Teaching**|Hao Liang et.al.|[2609.23088](http://arxiv.org/abs/2609.23088)|**[link](https://github.com/haolpku/Omni-Edu)**|
+|**2026-09-19**|**Attributable Post-Rationalization in RAG Citations: A Controlled Reproduction and an RLVR Comparison**|Mehedi Khan et.al.|[2609.23053](http://arxiv.org/abs/2609.23053)|null|
+|**2026-09-19**|**Token Utility Is Selection-Conditioned: Coupled Selection of Prompt Context and Response Supervision for Efficient Instruction Tuning**|Can Wu et.al.|[2609.22943](http://arxiv.org/abs/2609.22943)|null|
 |**2026-09-18**|**ExpBoN: Exponential-Noise Best-of- $n$ for Efficient Test-Time LLM Alignment**|Yanxiao Liu et.al.|[2609.21899](http://arxiv.org/abs/2609.21899)|null|
 |**2026-09-18**|**GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages**|Li Wang et.al.|[2609.21738](http://arxiv.org/abs/2609.21738)|null|
 |**2026-09-17**|**Geometry of Values: Task Vector Composition for Ethical Preference Alignment in Language Models**|Utkarsh Agarwal et.al.|[2609.21094](http://arxiv.org/abs/2609.21094)|**[link](https://github.com/mbzuai-nlp/geometry-of-values-task-vectors)**|
@@ -1899,16 +1919,6 @@ layout: default
 |**2026-05-07**|**Teaching LLMs Program Semantics via Symbolic Execution Traces**|Jonas Bayer et.al.|[2605.06184](http://arxiv.org/abs/2605.06184)|null|
 |**2026-05-07**|**One Algorithm, Two Goals: Dual Scoring for Parameter and Data Selection in LLM Fine-Tuning**|Xinrui Chen et.al.|[2605.06166](http://arxiv.org/abs/2605.06166)|null|
 |**2026-05-07**|**Post Reasoning: Improving the Performance of Non-Thinking Models at No Cost**|Richmond Sin Jing Xuan et.al.|[2605.06165](http://arxiv.org/abs/2605.06165)|null|
-|**2026-05-07**|**BoostLLM: Boosting-inspired LLM Fine-tuning for Few-shot Tabular Classification**|Yi-Siang Wang et.al.|[2605.06117](http://arxiv.org/abs/2605.06117)|null|
-|**2026-05-06**|**The First Token Knows: Single-Decode Confidence for Hallucination Detection**|Mina Gabriel et.al.|[2605.05166](http://arxiv.org/abs/2605.05166)|null|
-|**2026-05-06**|**On the Hardness of Junking LLMs**|Marco Rando et.al.|[2605.05116](http://arxiv.org/abs/2605.05116)|null|
-|**2026-05-06**|**Misaligned by Reward: Socially Undesirable Preferences in LLMs**|Gayane Ghazaryan et.al.|[2605.05003](http://arxiv.org/abs/2605.05003)|null|
-|**2026-05-06**|**Conceptors for Semantic Steering**|Ilias Triantafyllopoulos et.al.|[2605.04980](http://arxiv.org/abs/2605.04980)|null|
-|**2026-05-06**|**Delta-Based Neural Architecture Search: LLM Fine-Tuning via Code Diffs**|Santosh Premi Adhikari et.al.|[2605.04903](http://arxiv.org/abs/2605.04903)|null|
-|**2026-05-06**|**A geometric relation of the error introduced by sampling a language model's output distribution to its internal state**|Albert F. Modenbach et.al.|[2605.04899](http://arxiv.org/abs/2605.04899)|null|
-|**2026-05-06**|**Uncertainty-Aware Exploratory Direct Preference Optimization for Multimodal Large Language Models**|Huatian Zhang et.al.|[2605.04874](http://arxiv.org/abs/2605.04874)|**[link](https://github.com/htzhang-code/UE-DPO)**|
-|**2026-05-06**|**Bridging Perception and Action: A Lightweight Multimodal Meta-Planner Framework for Robust Earth Observation Agents**|Jinghui Xu et.al.|[2605.04777](http://arxiv.org/abs/2605.04777)|null|
-|**2026-05-06**|**Threshold-Guided Optimization for Visual Generative Models**|Jinbin Bai et.al.|[2605.04653](http://arxiv.org/abs/2605.04653)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
