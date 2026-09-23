@@ -7,13 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458](http://arxiv.org/abs/2609.26458)|null|
+|**2026-09-22**|**QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation**|Jiaqi Zhao et.al.|[2609.26425](http://arxiv.org/abs/2609.26425)|null|
+|**2026-09-22**|**TriWorldBench: A Tri-View Consistency Perspective on Embodied World Models**|Xuanyi Liu et.al.|[2609.26314](http://arxiv.org/abs/2609.26314)|null|
+|**2026-09-22**|**ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model**|Sinuo Wang et.al.|[2609.26299](http://arxiv.org/abs/2609.26299)|null|
+|**2026-09-22**|**Dual-Frontier: When Can an Agent Trust Its World Model?**|Huatai Zhu et.al.|[2609.26293](http://arxiv.org/abs/2609.26293)|null|
+|**2026-09-22**|**Skytopia: Monocular Drone Navigation with Action-Conditioned Latent World Models**|Yuhang Zhang et.al.|[2609.26007](http://arxiv.org/abs/2609.26007)|null|
+|**2026-09-22**|**TRACE: Trajectory Representation and Consistency Estimation for AI-Generated Video Detection**|Huangsen Cao et.al.|[2609.25775](http://arxiv.org/abs/2609.25775)|null|
+|**2026-09-22**|**GameDirector: Decoupling Gameplay Logic from Rendering for Player-Configurable Game World Models**|Zijun Lin et.al.|[2609.25652](http://arxiv.org/abs/2609.25652)|null|
+|**2026-09-22**|**A JEPA Recipe for Tabular Foundation Models**|Mingyu Jeon et.al.|[2609.25541](http://arxiv.org/abs/2609.25541)|**[link](https://github.com/fbdeme/jepa-pfn)**|
 |**2026-09-21**|**VideoGen-Agent: Reinforcing Video Generation Agents**|Binxu Li et.al.|[2609.24997](http://arxiv.org/abs/2609.24997)|null|
 |**2026-09-21**|**WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory**|Wangbo Yu et.al.|[2609.24984](http://arxiv.org/abs/2609.24984)|null|
 |**2026-09-21**|**DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation**|Haoran Yuan et.al.|[2609.24976](http://arxiv.org/abs/2609.24976)|null|
@@ -505,15 +514,6 @@ layout: default
 |**2026-05-13**|**Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue**|Vardhan Dongre et.al.|[2605.12920](http://arxiv.org/abs/2605.12920)|null|
 |**2026-05-13**|**PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models**|Sridhar Mahadevan et.al.|[2605.12835](http://arxiv.org/abs/2605.12835)|null|
 |**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Haiwen Diao et.al.|[2605.12500](http://arxiv.org/abs/2605.12500)|null|
-|**2026-05-12**|**Reinforcing VLAs in Task-Agnostic World Models**|Yucen Wang et.al.|[2605.12334](http://arxiv.org/abs/2605.12334)|null|
-|**2026-05-12**|**PriorZero: Bridging Language Priors and World Models for Decision Making**|Junyu Xiong et.al.|[2605.12289](http://arxiv.org/abs/2605.12289)|null|
-|**2026-05-12**|**Why Conclusions Diverge from the Same Observations: Formalizing World-Model Non-Identifiability via an Inference**|Toru Takahashi et.al.|[2605.12255](http://arxiv.org/abs/2605.12255)|null|
-|**2026-05-12**|**Do Enterprise Systems Need Learned World Models? The Importance of Context to Infer Dynamics**|Jishnu Sethumadhavan Nair et.al.|[2605.12178](http://arxiv.org/abs/2605.12178)|null|
-|**2026-05-12**|**From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation**|Yajie Li et.al.|[2605.12167](http://arxiv.org/abs/2605.12167)|**[link](https://github.com/LogosRoboticsGroup/MoLA)**|
-|**2026-05-12**|**World Action Models: The Next Frontier in Embodied AI**|Siyin Wang et.al.|[2605.12090](http://arxiv.org/abs/2605.12090)|null|
-|**2026-05-12**|**Closing the Motion Execution Gap: From Semantic Motion Task Constraints to Kinematic Control**|Simon Stelter et.al.|[2605.12053](http://arxiv.org/abs/2605.12053)|null|
-|**2026-05-12**|**HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation**|Conglang Zhang et.al.|[2605.11596](http://arxiv.org/abs/2605.11596)|**[link](https://github.com/zcliangyue/HorizonDrive)**|
-|**2026-05-12**|**Wavelet Variance Equipartition as a Threshold for World-Model Quality and Quantum Kernel TN-Simulability**|Chon-Fai Kam et.al.|[2605.11557](http://arxiv.org/abs/2605.11557)|null|
 
 ## embodied AI
 
@@ -1419,6 +1419,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**KwaiMind Technical Report**|Junlong Wu et.al.|[2609.26375](http://arxiv.org/abs/2609.26375)|null|
+|**2026-09-22**|**Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining**|Mudi Zhai et.al.|[2609.26034](http://arxiv.org/abs/2609.26034)|null|
+|**2026-09-22**|**Flux: Optimal Scheduling of Optical Circuit Switches for LLM Training**|Arno Troch et.al.|[2609.25949](http://arxiv.org/abs/2609.25949)|null|
+|**2026-09-22**|**The Limits of Simulated Societies: How Post-Training and Survey Fine-Tuning Erase Cross-Cultural Variance**|Rojin Ziaei et.al.|[2609.25760](http://arxiv.org/abs/2609.25760)|null|
+|**2026-09-22**|**Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis**|Wenjie Tian et.al.|[2609.25707](http://arxiv.org/abs/2609.25707)|null|
+|**2026-09-22**|**Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs**|Shubham Santosh Pandere et.al.|[2609.25602](http://arxiv.org/abs/2609.25602)|**[link](https://github.com/IvLabs/Rewired-or-Gated)**|
+|**2026-09-21**|**ImIR: Image-Instruction Tuning for All-in-One Image Restoration**|Süleyman Aslan et.al.|[2609.25267](http://arxiv.org/abs/2609.25267)|**[link](https://github.com/suleymanaslan/imir)**|
 |**2026-09-21**|**onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction**|Lei Yang et.al.|[2609.24983](http://arxiv.org/abs/2609.24983)|null|
 |**2026-09-21**|**Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection**|Sofiane Elguendouze et.al.|[2609.24855](http://arxiv.org/abs/2609.24855)|null|
 |**2026-09-21**|**When Quantization Preserves Accuracy but Not Evidence: Explanation-Aware Post-Training Quantization for Medical LLMs**|Yeji Kim et.al.|[2609.24799](http://arxiv.org/abs/2609.24799)|null|
@@ -1912,13 +1919,6 @@ layout: default
 |**2026-05-08**|**Boosting Automatic Java-to-Cangjie Translation with Multi-Stage LLM Training and Error Repair**|Xinyue Liang et.al.|[2605.07403](http://arxiv.org/abs/2605.07403)|null|
 |**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
 |**2026-05-07**|**FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning**|Su Zhang et.al.|[2605.06596](http://arxiv.org/abs/2605.06596)|null|
-|**2026-05-07**|**A Unified Pair-GRPO Family: From Implicit to Explicit Preference Constraints for Stable and General RL Alignment**|Hao Yu et.al.|[2605.06375](http://arxiv.org/abs/2605.06375)|null|
-|**2026-05-07**|**ResiHP: Taming LLM Training Failures with Dynamic Hybrid**|Tenghui Ma et.al.|[2605.06374](http://arxiv.org/abs/2605.06374)|null|
-|**2026-05-07**|**Measuring Evaluation-Context Divergence in Open-Weight LLMs: A Paired-Prompt Protocol with Pilot Evidence of Alignment-Pipeline-Specific Heterogeneity**|Florian A. D. Burnat et.al.|[2605.06327](http://arxiv.org/abs/2605.06327)|null|
-|**2026-05-07**|**Attributions All the Way Down? The Metagame of Interpretability**|Hubert Baniecki et.al.|[2605.06295](http://arxiv.org/abs/2605.06295)|**[link](https://github.com/CredibleAI/metagame)**|
-|**2026-05-07**|**Teaching LLMs Program Semantics via Symbolic Execution Traces**|Jonas Bayer et.al.|[2605.06184](http://arxiv.org/abs/2605.06184)|null|
-|**2026-05-07**|**One Algorithm, Two Goals: Dual Scoring for Parameter and Data Selection in LLM Fine-Tuning**|Xinrui Chen et.al.|[2605.06166](http://arxiv.org/abs/2605.06166)|null|
-|**2026-05-07**|**Post Reasoning: Improving the Performance of Non-Thinking Models at No Cost**|Richmond Sin Jing Xuan et.al.|[2605.06165](http://arxiv.org/abs/2605.06165)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
