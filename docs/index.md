@@ -519,9 +519,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-21**|**Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI**|Wenkang Qin et.al.|[2609.24815](http://arxiv.org/abs/2609.24815)|null|
+|**2026-09-22**|**TriWorldBench: A Tri-View Consistency Perspective on Embodied World Models**|Xuanyi Liu et.al.|[2609.26314](http://arxiv.org/abs/2609.26314)|null|
+|**2026-09-22**|**Metric-Bench: Exploring In-context Spatial Metric Reasoning in VLMs for Indoor Scenes**|Yuling Xi et.al.|[2609.25841](http://arxiv.org/abs/2609.25841)|null|
+|**2026-09-22**|**MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts**|Mohan Liu et.al.|[2609.25689](http://arxiv.org/abs/2609.25689)|null|
+|**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666](http://arxiv.org/abs/2609.25666)|null|
+|**2026-09-22**|**RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents**|Chang Guo et.al.|[2609.25636](http://arxiv.org/abs/2609.25636)|**[link](https://github.com/AutoLab-SAI-SJTU/RoboFollow)**|
+|**2026-09-22**|**Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI**|Wenkang Qin et.al.|[2609.24815](http://arxiv.org/abs/2609.24815)|null|
 |**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
-|**2026-09-21**|**HappyWorld-Bench**|Zhiqi Bai et.al.|[2609.24308](http://arxiv.org/abs/2609.24308)|**[link](https://github.com/LivingFutureLab/HappyWorldBench)**|
+|**2026-09-21**|**HappyWorld-Bench**|Zhiqi Bai et.al.|[2609.24308](http://arxiv.org/abs/2609.24308)|null|
 |**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189](http://arxiv.org/abs/2609.24189)|null|
 |**2026-09-21**|**An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond**|Wenbo Zhang et.al.|[2609.24170](http://arxiv.org/abs/2609.24170)|null|
 |**2026-09-20**|**From Biological Precursors to Artificial Cognition: Consciousness, Embodiment, and the MEM Architecture**|Janusz A. Starzyk et.al.|[2609.23828](http://arxiv.org/abs/2609.23828)|null|
@@ -914,6 +919,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training**|Bao Tang et.al.|[2609.26774](http://arxiv.org/abs/2609.26774)|null|
+|**2026-09-22**|**FleXray: Universal Clinical X-ray Segmentation**|Victor Ion Butoi et.al.|[2609.26756](http://arxiv.org/abs/2609.26756)|**[link](https://github.com/VictorButoi/FleXray)**|
+|**2026-09-22**|**Diffusion Drafts, AR Verifies: Accelerating Document OCR with Self-Speculative Decoding**|Dohyun Kim et.al.|[2609.26638](http://arxiv.org/abs/2609.26638)|null|
+|**2026-09-22**|**A Data-Interventional Framework for Auditing Privacy and Fairness in Generative Medical Imaging**|Mischa Dombrowski et.al.|[2609.26623](http://arxiv.org/abs/2609.26623)|null|
+|**2026-09-22**|**Unlocking Cross-Scenario Physical Layer Security: A Mixture-of-Experts Framework with Generative Diffusion Models**|Xiao Tang et.al.|[2609.26598](http://arxiv.org/abs/2609.26598)|null|
+|**2026-09-22**|**Optimal Fast Charging of All-Solid-State Batteries under Cathode Transport Constraints**|Mustapha Bouchaara et.al.|[2609.26524](http://arxiv.org/abs/2609.26524)|null|
+|**2026-09-22**|**Shallow-to-deep velocity model building via diffusion models-Part II: Realistic scenarios**|Shijun Cheng et.al.|[2609.26482](http://arxiv.org/abs/2609.26482)|null|
+|**2026-09-22**|**Shallow-to-deep velocity model building via diffusion models-Part I: Method and Proof of concept**|Shijun Cheng et.al.|[2609.26454](http://arxiv.org/abs/2609.26454)|null|
+|**2026-09-22**|**OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery**|Thomas Egg et.al.|[2609.26402](http://arxiv.org/abs/2609.26402)|null|
+|**2026-09-22**|**Routes to chaos in a mass-conserving two-species reaction-diffusion model**|Simón Navia Rafide et.al.|[2609.26400](http://arxiv.org/abs/2609.26400)|null|
 |**2026-09-21**|**PixelDiT2: Representation-Grounded Pixel Diffusion Transformers**|Yongsheng Yu et.al.|[2609.24919](http://arxiv.org/abs/2609.24919)|null|
 |**2026-09-21**|**Generating Chest X-Ray Counterfactuals by Specialising Foundation Image Models**|Xiaodan Xing et.al.|[2609.24879](http://arxiv.org/abs/2609.24879)|null|
 |**2026-09-21**|**PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control**|Lei Ye et.al.|[2609.24840](http://arxiv.org/abs/2609.24840)|null|
@@ -1404,16 +1419,6 @@ layout: default
 |**2026-07-07**|**PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation**|Yuhang Wu et.al.|[2607.06440](http://arxiv.org/abs/2607.06440)|**[link](https://github.com/wuyuhang05/PIPBench)**|
 |**2026-07-07**|**TILDE: TILt-based Distributional Erasure for Concept Unlearning**|Naveen George et.al.|[2607.06432](http://arxiv.org/abs/2607.06432)|null|
 |**2026-07-07**|**Gradient-Based Inverse Design of Free-Energy Landscapes with Diffusion Models**|Eli Zick et.al.|[2607.06421](http://arxiv.org/abs/2607.06421)|null|
-|**2026-07-07**|**FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration**|Jin Jiang et.al.|[2607.06389](http://arxiv.org/abs/2607.06389)|**[link](https://github.com/SoloAscender/Facial-Feature-Reconstruction)**|
-|**2026-07-07**|**Bridging Diffusion Pruning and Step Distillation with Teacher-Aligned Repair**|Jincheng Ying et.al.|[2607.06335](http://arxiv.org/abs/2607.06335)|null|
-|**2026-07-07**|**Straight-Path Flow Matching for Incomplete Multi-View Clustering**|Yiteng Yuan et.al.|[2607.06281](http://arxiv.org/abs/2607.06281)|null|
-|**2026-07-06**|**What Does a Discrete Diffusion Model Learn?**|Rodrigo Casado Noguerales et.al.|[2607.05381](http://arxiv.org/abs/2607.05381)|null|
-|**2026-07-06**|**MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing**|Gal Fiebelman et.al.|[2607.05376](http://arxiv.org/abs/2607.05376)|null|
-|**2026-07-06**|**Multiplayer Interactive World Models with Representation Autoencoders**|Anthony Hu et.al.|[2607.05352](http://arxiv.org/abs/2607.05352)|**[link](https://github.com/mira-wm/mira)**|
-|**2026-07-06**|**Erasing Without Collateral Damage: Precise Concept Removal in Diffusion Models**|Parth Upman et.al.|[2607.05274](http://arxiv.org/abs/2607.05274)|null|
-|**2026-07-06**|**Geminga and Monogem in the CTAO Era: Probing TeV Halos and Cosmic-Ray Transport**|Youyou Li et.al.|[2607.05245](http://arxiv.org/abs/2607.05245)|null|
-|**2026-07-06**|**Biophysics of the Pyrenoid**|Charley Schaefer et.al.|[2607.05154](http://arxiv.org/abs/2607.05154)|null|
-|**2026-07-06**|**RADIANCE: Relative Adaptive Denoising with IP-Adapter for Novel Concept Enhancement**|Zi-Xiang Ni et.al.|[2607.05088](http://arxiv.org/abs/2607.05088)|null|
 
 ## LLM training
 
@@ -1424,7 +1429,7 @@ layout: default
 |**2026-09-22**|**Flux: Optimal Scheduling of Optical Circuit Switches for LLM Training**|Arno Troch et.al.|[2609.25949](http://arxiv.org/abs/2609.25949)|null|
 |**2026-09-22**|**The Limits of Simulated Societies: How Post-Training and Survey Fine-Tuning Erase Cross-Cultural Variance**|Rojin Ziaei et.al.|[2609.25760](http://arxiv.org/abs/2609.25760)|null|
 |**2026-09-22**|**Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis**|Wenjie Tian et.al.|[2609.25707](http://arxiv.org/abs/2609.25707)|null|
-|**2026-09-22**|**Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs**|Shubham Santosh Pandere et.al.|[2609.25602](http://arxiv.org/abs/2609.25602)|**[link](https://github.com/IvLabs/Rewired-or-Gated)**|
+|**2026-09-22**|**Rewired or Gated? How Instruction Tuning Shapes Knowledge-Conflict Circuits in LLMs**|Shubham Santosh Pandere et.al.|[2609.25602](http://arxiv.org/abs/2609.25602)|null|
 |**2026-09-21**|**ImIR: Image-Instruction Tuning for All-in-One Image Restoration**|Süleyman Aslan et.al.|[2609.25267](http://arxiv.org/abs/2609.25267)|**[link](https://github.com/suleymanaslan/imir)**|
 |**2026-09-21**|**onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction**|Lei Yang et.al.|[2609.24983](http://arxiv.org/abs/2609.24983)|null|
 |**2026-09-21**|**Extracting Arguments, Not Just Classifying Them: Instruction-Tuned LLMs for Generative Component Detection**|Sofiane Elguendouze et.al.|[2609.24855](http://arxiv.org/abs/2609.24855)|null|
