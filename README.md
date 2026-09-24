@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,8 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**The Past Frames the Future: Memory for Autoregressive Video Generation**|Harold Haodong Chen et.al.|[2609.28466](http://arxiv.org/abs/2609.28466)|**[link](https://github.com/HaroldChen19/Awesome-AR-Video-Memory)**|
+|**2026-09-23**|**Agent-Editing World Model: Rethinking World Modeling for LLM Agents**|Shuang Sun et.al.|[2609.28416](http://arxiv.org/abs/2609.28416)|null|
+|**2026-09-23**|**Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model**|Xiwen Chen et.al.|[2609.28414](http://arxiv.org/abs/2609.28414)|null|
+|**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Hantao Ye et.al.|[2609.28393](http://arxiv.org/abs/2609.28393)|**[link](https://github.com/pointcast-wm/pointcast-wm.github.io)**|
+|**2026-09-23**|**Generalizable Robotic Insertion with World Models**|Nicklas Hansen et.al.|[2609.28258](http://arxiv.org/abs/2609.28258)|null|
+|**2026-09-23**|**Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings**|Sai Varun Kodathala et.al.|[2609.28049](http://arxiv.org/abs/2609.28049)|null|
+|**2026-09-23**|**InternW0: A Foundational Physical World Model for Efficient Real-World Interactions**|Jisong Cai et.al.|[2609.27656](http://arxiv.org/abs/2609.27656)|null|
+|**2026-09-23**|**SHRAV: State-Hypothesis-Reason-Action-Verify Framework for Physical Modeling and Inverse Design**|Ziheng Guo et.al.|[2609.27621](http://arxiv.org/abs/2609.27621)|null|
 |**2026-09-22**|**Code Plans, Diffusion Renders: Open-Ended Generative World Modeling**|Zixun Fang et.al.|[2609.26458](http://arxiv.org/abs/2609.26458)|null|
-|**2026-09-22**|**QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation**|Jiaqi Zhao et.al.|[2609.26425](http://arxiv.org/abs/2609.26425)|null|
+|**2026-09-23**|**QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation**|Jiaqi Zhao et.al.|[2609.26425](http://arxiv.org/abs/2609.26425)|null|
 |**2026-09-22**|**TriWorldBench: A Tri-View Consistency Perspective on Embodied World Models**|Xuanyi Liu et.al.|[2609.26314](http://arxiv.org/abs/2609.26314)|null|
 |**2026-09-22**|**ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model**|Sinuo Wang et.al.|[2609.26299](http://arxiv.org/abs/2609.26299)|null|
 |**2026-09-22**|**Dual-Frontier: When Can an Agent Trust Its World Model?**|Huatai Zhu et.al.|[2609.26293](http://arxiv.org/abs/2609.26293)|null|
@@ -512,29 +520,23 @@
 |**2026-05-14**|**IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification**|Zhigao Huang et.al.|[2605.14851](http://arxiv.org/abs/2605.14851)|null|
 |**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](http://arxiv.org/abs/2605.14843)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](http://arxiv.org/abs/2605.14815)|null|
-|**2026-05-14**|**ChannelAgent-Empowered Electromagnetic Space World Model: A Case Study on Agent-Driven Channel Generation for 6G AI-Native Air Interface**|Mingyue Li et.al.|[2605.14757](http://arxiv.org/abs/2605.14757)|null|
-|**2026-05-14**|**Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**|Minghao Wu et.al.|[2605.14723](http://arxiv.org/abs/2605.14723)|**[link](https://github.com/FreedomIntelligence/SepsisAgent)**|
-|**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Harold Haodong Chen et.al.|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
-|**2026-05-13**|**Learning POMDP World Models from Observations with Language-Model Priors**|Valentin Six et.al.|[2605.13740](http://arxiv.org/abs/2605.13740)|**[link](https://github.com/atomresearch/pinductor)**|
-|**2026-05-13**|**JEDI: Joint Embedding Diffusion World Model for Online Model-Based Reinforcement Learning**|Jing Yu Lim et.al.|[2605.13013](http://arxiv.org/abs/2605.13013)|null|
-|**2026-05-13**|**Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue**|Vardhan Dongre et.al.|[2605.12920](http://arxiv.org/abs/2605.12920)|null|
-|**2026-05-13**|**PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models**|Sridhar Mahadevan et.al.|[2605.12835](http://arxiv.org/abs/2605.12835)|null|
-|**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Haiwen Diao et.al.|[2605.12500](http://arxiv.org/abs/2605.12500)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios**|Zhipeng Bao et.al.|[2609.28366](http://arxiv.org/abs/2609.28366)|null|
+|**2026-09-23**|**Listening and Mirroring: The Effects of Verbal Attunement and Behavioral Mimicry on Social and Empathic Perceptions of Embodied AI Agents in VR**|Nathalia Gomez et.al.|[2609.27246](http://arxiv.org/abs/2609.27246)|null|
 |**2026-09-22**|**TriWorldBench: A Tri-View Consistency Perspective on Embodied World Models**|Xuanyi Liu et.al.|[2609.26314](http://arxiv.org/abs/2609.26314)|null|
 |**2026-09-22**|**Metric-Bench: Exploring In-context Spatial Metric Reasoning in VLMs for Indoor Scenes**|Yuling Xi et.al.|[2609.25841](http://arxiv.org/abs/2609.25841)|null|
 |**2026-09-22**|**MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts**|Mohan Liu et.al.|[2609.25689](http://arxiv.org/abs/2609.25689)|null|
 |**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666](http://arxiv.org/abs/2609.25666)|null|
 |**2026-09-22**|**RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents**|Chang Guo et.al.|[2609.25636](http://arxiv.org/abs/2609.25636)|**[link](https://github.com/AutoLab-SAI-SJTU/RoboFollow)**|
-|**2026-09-22**|**Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI**|Wenkang Qin et.al.|[2609.24815](http://arxiv.org/abs/2609.24815)|null|
+|**2026-09-23**|**Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI**|Wenkang Qin et.al.|[2609.24815](http://arxiv.org/abs/2609.24815)|null|
 |**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
-|**2026-09-21**|**HappyWorld-Bench**|Zhiqi Bai et.al.|[2609.24308](http://arxiv.org/abs/2609.24308)|null|
+|**2026-09-21**|**HappyWorld-Bench**|Zhiqi Bai et.al.|[2609.24308](http://arxiv.org/abs/2609.24308)|**[link](https://github.com/LivingFutureLab/HappyWorldBench)**|
 |**2026-09-21**|**A Topological Representation with Object-Path Graphs for Open-Vocabulary Instance Navigation**|Linwei Zheng et.al.|[2609.24189](http://arxiv.org/abs/2609.24189)|null|
 |**2026-09-21**|**An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond**|Wenbo Zhang et.al.|[2609.24170](http://arxiv.org/abs/2609.24170)|null|
 |**2026-09-20**|**From Biological Precursors to Artificial Cognition: Consciousness, Embodiment, and the MEM Architecture**|Janusz A. Starzyk et.al.|[2609.23828](http://arxiv.org/abs/2609.23828)|null|
@@ -923,12 +925,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Chao Feng et.al.|[2609.28473](http://arxiv.org/abs/2609.28473)|null|
+|**2026-09-23**|**Label-Efficient Generative Inverse Design and Design-Rule Discovery in Freeform Topological Photonics**|Yuhan Zhang et.al.|[2609.28401](http://arxiv.org/abs/2609.28401)|null|
+|**2026-09-23**|**Memory-Conditioned Diffusion Model for Generalized Langevin Dynamics**|Minglei Yang et.al.|[2609.28371](http://arxiv.org/abs/2609.28371)|null|
+|**2026-09-23**|**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**|Arman Taghizadeh et.al.|[2609.28342](http://arxiv.org/abs/2609.28342)|null|
+|**2026-09-23**|**Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control**|Zanyi Wang et.al.|[2609.28339](http://arxiv.org/abs/2609.28339)|null|
+|**2026-09-23**|**Field-of-View Extension in Dental Cone-Beam CT via Implicit Neural Representations and Diffusion Model-Based Refinement**|Susanne Schaub et.al.|[2609.28110](http://arxiv.org/abs/2609.28110)|null|
+|**2026-09-23**|**ZoomDiff: A High-Fidelity Diffusion Model for Dual-Camera Smooth Zooming**|Jiayi Zhang et.al.|[2609.28083](http://arxiv.org/abs/2609.28083)|null|
+|**2026-09-23**|**Amplitude equations for wave bifurcations in reaction-diffusion systems**|Edgardo Villar-Sepúlveda et.al.|[2609.28037](http://arxiv.org/abs/2609.28037)|null|
+|**2026-09-23**|**Gender Bias in Vision-Language In-Context Learning**|Tong Xiang et.al.|[2609.27682](http://arxiv.org/abs/2609.27682)|null|
+|**2026-09-23**|**InGuard: Towards Generalized Inner Guardrail for Safe Text-to-Image Generation**|Zeyu Wang et.al.|[2609.27620](http://arxiv.org/abs/2609.27620)|**[link](https://github.com/Alibaba-AAIG/InGuard)**|
 |**2026-09-22**|**StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training**|Bao Tang et.al.|[2609.26774](http://arxiv.org/abs/2609.26774)|null|
 |**2026-09-22**|**FleXray: Universal Clinical X-ray Segmentation**|Victor Ion Butoi et.al.|[2609.26756](http://arxiv.org/abs/2609.26756)|**[link](https://github.com/VictorButoi/FleXray)**|
 |**2026-09-22**|**Diffusion Drafts, AR Verifies: Accelerating Document OCR with Self-Speculative Decoding**|Dohyun Kim et.al.|[2609.26638](http://arxiv.org/abs/2609.26638)|null|
@@ -1419,23 +1431,18 @@
 |**2026-07-08**|**Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning**|Stepanida Alekseeva et.al.|[2607.07117](http://arxiv.org/abs/2607.07117)|**[link](https://github.com/Pandastep/ToT-T2I-ICL)**|
 |**2026-07-08**|**An Hybrid Quantum-Classical Diffusion Model for Image Generation**|Qipeng Qian et.al.|[2607.07072](http://arxiv.org/abs/2607.07072)|null|
 |**2026-07-08**|**Making Implicit Preservation Intent Explicit in Conversational Image Editing**|Soomin Han et.al.|[2607.07051](http://arxiv.org/abs/2607.07051)|**[link](https://github.com/anonymous745961852-cloud/implicit-preservation-editing)**|
-|**2026-07-08**|**Latent graph encoding of multimodal neuroimaging features with generative AI architectures**|Ishaan Batta et.al.|[2607.07027](http://arxiv.org/abs/2607.07027)|null|
-|**2026-07-08**|**EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments**|Ziyu Luo et.al.|[2607.07015](http://arxiv.org/abs/2607.07015)|null|
-|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856](http://arxiv.org/abs/2607.06856)|null|
-|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560](http://arxiv.org/abs/2607.06560)|**[link](https://github.com/gsavla6-hue/multimodal-ai-assistant)**|
-|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555](http://arxiv.org/abs/2607.06555)|**[link](https://github.com/ruihangzhang97/proxypose)**|
-|**2026-07-07**|**Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion**|Shervin Khalafi et.al.|[2607.06546](http://arxiv.org/abs/2607.06546)|null|
-|**2026-07-07**|**Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders**|Yoav Baron et.al.|[2607.06445](http://arxiv.org/abs/2607.06445)|null|
-|**2026-07-07**|**PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation**|Yuhang Wu et.al.|[2607.06440](http://arxiv.org/abs/2607.06440)|**[link](https://github.com/wuyuhang05/PIPBench)**|
-|**2026-07-07**|**TILDE: TILt-based Distributional Erasure for Concept Unlearning**|Naveen George et.al.|[2607.06432](http://arxiv.org/abs/2607.06432)|null|
-|**2026-07-07**|**Gradient-Based Inverse Design of Free-Energy Landscapes with Diffusion Models**|Eli Zick et.al.|[2607.06421](http://arxiv.org/abs/2607.06421)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Counterfactual Constraint-Conditioned On-Policy Distillation for Multi-Constraint Instruction Following**|Yanzhao Zheng et.al.|[2609.27421](http://arxiv.org/abs/2609.27421)|**[link](https://github.com/zhengyanzhao1997/cc-opd)**|
+|**2026-09-23**|**LayerCheck: Adaptive Layer-wise Checkpointing for Large Language Model Post-training**|Minqiu Sun et.al.|[2609.27193](http://arxiv.org/abs/2609.27193)|null|
+|**2026-09-23**|**ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning**|Minqiu Sun et.al.|[2609.27189](http://arxiv.org/abs/2609.27189)|null|
+|**2026-09-22**|**LexLattice: Multilingual Extractive Summarization via Neural Cellular Automata on Document Hierarchies**|Sujay Uday Rittikar et.al.|[2609.27032](http://arxiv.org/abs/2609.27032)|null|
+|**2026-09-22**|**Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment**|David Tsoi et.al.|[2609.26929](http://arxiv.org/abs/2609.26929)|null|
 |**2026-09-22**|**KwaiMind Technical Report**|Junlong Wu et.al.|[2609.26375](http://arxiv.org/abs/2609.26375)|null|
 |**2026-09-22**|**Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining**|Mudi Zhai et.al.|[2609.26034](http://arxiv.org/abs/2609.26034)|null|
 |**2026-09-22**|**Flux: Optimal Scheduling of Optical Circuit Switches for LLM Training**|Arno Troch et.al.|[2609.25949](http://arxiv.org/abs/2609.25949)|null|
@@ -1931,13 +1938,8 @@
 |**2026-05-08**|**PolarVLM: Bridging the Semantic-Physical Gap in Vision-Language Models**|Yuliang Li et.al.|[2605.07574](http://arxiv.org/abs/2605.07574)|null|
 |**2026-05-08**|**HexiSeq: Accommodating Long Context Training of LLMs over Heterogeneous Hardware**|Yan Liang et.al.|[2605.07569](http://arxiv.org/abs/2605.07569)|null|
 |**2026-05-08**|**Implicit Preference Alignment for Human Image Animation**|Yuanzhi Wang et.al.|[2605.07545](http://arxiv.org/abs/2605.07545)|**[link](https://github.com/mdswyz/IPA)**|
-|**2026-05-08**|**WeatherSyn: An Instruction Tuning MLLM For Weather Forecasting Report Generation**|Zinan Zheng et.al.|[2605.07522](http://arxiv.org/abs/2605.07522)|**[link](https://github.com/compasszzn/WeatherSyn)**|
-|**2026-05-08**|**Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers**|Jingyuan Zhu et.al.|[2605.07503](http://arxiv.org/abs/2605.07503)|null|
-|**2026-05-08**|**Boosting Automatic Java-to-Cangjie Translation with Multi-Stage LLM Training and Error Repair**|Xinyue Liang et.al.|[2605.07403](http://arxiv.org/abs/2605.07403)|null|
-|**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|
-|**2026-05-07**|**FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning**|Su Zhang et.al.|[2605.06596](http://arxiv.org/abs/2605.06596)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
