@@ -533,7 +533,7 @@
 |**2026-09-22**|**Metric-Bench: Exploring In-context Spatial Metric Reasoning in VLMs for Indoor Scenes**|Yuling Xi et.al.|[2609.25841](http://arxiv.org/abs/2609.25841)|null|
 |**2026-09-22**|**MotionForge: A Data Generation Pipeline and Large-Scale Benchmark for Long-Horizon Manipulation of Dynamic Objects with Domain Shifts**|Mohan Liu et.al.|[2609.25689](http://arxiv.org/abs/2609.25689)|null|
 |**2026-09-22**|**Deploying Foundation Models for Embodied Navigation**|Vishnu Sashank Dorbala et.al.|[2609.25666](http://arxiv.org/abs/2609.25666)|null|
-|**2026-09-22**|**RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents**|Chang Guo et.al.|[2609.25636](http://arxiv.org/abs/2609.25636)|**[link](https://github.com/AutoLab-SAI-SJTU/RoboFollow)**|
+|**2026-09-22**|**RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents**|Chang Guo et.al.|[2609.25636](http://arxiv.org/abs/2609.25636)|null|
 |**2026-09-23**|**Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI**|Wenkang Qin et.al.|[2609.24815](http://arxiv.org/abs/2609.24815)|null|
 |**2026-09-21**|**Smoothness as a Constraint for Stable Humanoid Locomotion**|Utsav Panchal et.al.|[2609.24552](http://arxiv.org/abs/2609.24552)|null|
 |**2026-09-21**|**HappyWorld-Bench**|Zhiqi Bai et.al.|[2609.24308](http://arxiv.org/abs/2609.24308)|**[link](https://github.com/LivingFutureLab/HappyWorldBench)**|
@@ -940,7 +940,7 @@
 |**2026-09-23**|**ZoomDiff: A High-Fidelity Diffusion Model for Dual-Camera Smooth Zooming**|Jiayi Zhang et.al.|[2609.28083](http://arxiv.org/abs/2609.28083)|null|
 |**2026-09-23**|**Amplitude equations for wave bifurcations in reaction-diffusion systems**|Edgardo Villar-Sepúlveda et.al.|[2609.28037](http://arxiv.org/abs/2609.28037)|null|
 |**2026-09-23**|**Gender Bias in Vision-Language In-Context Learning**|Tong Xiang et.al.|[2609.27682](http://arxiv.org/abs/2609.27682)|null|
-|**2026-09-23**|**InGuard: Towards Generalized Inner Guardrail for Safe Text-to-Image Generation**|Zeyu Wang et.al.|[2609.27620](http://arxiv.org/abs/2609.27620)|**[link](https://github.com/Alibaba-AAIG/InGuard)**|
+|**2026-09-23**|**InGuard: Towards Generalized Inner Guardrail for Safe Text-to-Image Generation**|Zeyu Wang et.al.|[2609.27620](http://arxiv.org/abs/2609.27620)|null|
 |**2026-09-22**|**StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training**|Bao Tang et.al.|[2609.26774](http://arxiv.org/abs/2609.26774)|null|
 |**2026-09-22**|**FleXray: Universal Clinical X-ray Segmentation**|Victor Ion Butoi et.al.|[2609.26756](http://arxiv.org/abs/2609.26756)|**[link](https://github.com/VictorButoi/FleXray)**|
 |**2026-09-22**|**Diffusion Drafts, AR Verifies: Accelerating Document OCR with Self-Speculative Decoding**|Dohyun Kim et.al.|[2609.26638](http://arxiv.org/abs/2609.26638)|null|
