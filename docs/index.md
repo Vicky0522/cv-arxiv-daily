@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control**|Jiabin Qiu et.al.|[2609.30264](http://arxiv.org/abs/2609.30264)|null|
+|**2026-09-24**|**Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage**|Yuncong Yang et.al.|[2609.30214](http://arxiv.org/abs/2609.30214)|null|
+|**2026-09-24**|**Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think**|Xvyuan Liu et.al.|[2609.30036](http://arxiv.org/abs/2609.30036)|null|
+|**2026-09-24**|**Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving**|Sheng Liu et.al.|[2609.29178](http://arxiv.org/abs/2609.29178)|null|
+|**2026-09-24**|**Representation World Model: Learning States, Transition and Executable Plans in Representation**|Yijun Yuan et.al.|[2609.29171](http://arxiv.org/abs/2609.29171)|null|
+|**2026-09-24**|**DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models**|Yohan Choi et.al.|[2609.29092](http://arxiv.org/abs/2609.29092)|null|
+|**2026-09-24**|**Sim-to-Real Aware End-to-End Learning Environment for Micromobility**|Shouma Amano et.al.|[2609.28969](http://arxiv.org/abs/2609.28969)|null|
+|**2026-09-24**|**HelloWorld: Towards Practical Applications of Generative Driving World Models**|Fan Lu et.al.|[2609.28931](http://arxiv.org/abs/2609.28931)|null|
+|**2026-09-24**|**Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation**|Xuyao Huang et.al.|[2609.28927](http://arxiv.org/abs/2609.28927)|null|
+|**2026-09-23**|**Beyond Static Graph World Models: Learning Stochastic Latent Dynamics over Evolving Topologies**|Alex Schutz et.al.|[2609.28670](http://arxiv.org/abs/2609.28670)|null|
 |**2026-09-23**|**The Past Frames the Future: Memory for Autoregressive Video Generation**|Harold Haodong Chen et.al.|[2609.28466](http://arxiv.org/abs/2609.28466)|**[link](https://github.com/HaroldChen19/Awesome-AR-Video-Memory)**|
 |**2026-09-23**|**Agent-Editing World Model: Rethinking World Modeling for LLM Agents**|Shuang Sun et.al.|[2609.28416](http://arxiv.org/abs/2609.28416)|null|
 |**2026-09-23**|**Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model**|Xiwen Chen et.al.|[2609.28414](http://arxiv.org/abs/2609.28414)|null|
@@ -504,16 +514,6 @@ layout: default
 |**2026-06-30**|**Ask the World Before Acting: Budgeted Environment Probing for World-Model Calibration**|Xinyuan Song et.al.|[2606.31422](http://arxiv.org/abs/2606.31422)|null|
 |**2026-06-30**|**World-Model Collapse as a Phase Transition**|Xinyuan Song et.al.|[2606.31399](http://arxiv.org/abs/2606.31399)|null|
 |**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|**[link](https://github.com/yisuanwang/OVOW)**|
-|**2026-06-30**|**Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding**|Zhenghao Zhang et.al.|[2606.31232](http://arxiv.org/abs/2606.31232)|null|
-|**2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Xuchang Zhong et.al.|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
-|**2026-05-14**|**Quantitative Video World Model Evaluation for Geometric-Consistency**|Jiaxin Wu et.al.|[2605.15185](http://arxiv.org/abs/2605.15185)|null|
-|**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182](http://arxiv.org/abs/2605.15182)|**[link](https://github.com/yyfz/Warp-as-History)**|
-|**2026-05-14**|**SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer**|Haoyi Zhu et.al.|[2605.15178](http://arxiv.org/abs/2605.15178)|**[link](https://github.com/smthemex/ComfyUI_Sana_WM)**|
-|**2026-05-14**|**Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation**|Min Zhao et.al.|[2605.15141](http://arxiv.org/abs/2605.15141)|null|
-|**2026-05-14**|**Slot-MPC: Goal-Conditioned Model Predictive Control with Object-Centric Representations**|Jonathan Spieler et.al.|[2605.14937](http://arxiv.org/abs/2605.14937)|null|
-|**2026-05-14**|**IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification**|Zhigao Huang et.al.|[2605.14851](http://arxiv.org/abs/2605.14851)|null|
-|**2026-05-14**|**MechVerse: Evaluating Physical Motion Consistency in Video Generation Models**|Rahul Jain et.al.|[2605.14843](http://arxiv.org/abs/2605.14843)|**[link](https://github.com/Ufere/Assingment_1)**|
-|**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](http://arxiv.org/abs/2605.14815)|null|
 
 ## embodied AI
 
@@ -925,6 +925,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](http://arxiv.org/abs/2609.30130)|null|
+|**2026-09-24**|**EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation**|Panagiota Gatoula et.al.|[2609.29930](http://arxiv.org/abs/2609.29930)|null|
+|**2026-09-24**|**Accurate Sampling from Diffusion Models**|Dénes Sexty et.al.|[2609.29902](http://arxiv.org/abs/2609.29902)|**[link](https://github.com/blt2114/twisted_diffusion_sampler)**|
+|**2026-09-24**|**From Graphs to Feeders: Constraint-Guided Diffusion for Rule-Compliant Feeder Generation**|Yu Qin et.al.|[2609.29879](http://arxiv.org/abs/2609.29879)|null|
+|**2026-09-24**|**ComplexSync: High-Fidelity and Real-Time Lip Sync in Complex Scenarios**|Jiaran Cai et.al.|[2609.29225](http://arxiv.org/abs/2609.29225)|null|
+|**2026-09-24**|**FB-GDM: Fully-Bayesian Guided Diffusion Models for High-Dimensional Linear Inverse Problems via Unsupervised Variational Inference**|Gatien Séguy et.al.|[2609.29216](http://arxiv.org/abs/2609.29216)|null|
+|**2026-09-24**|**LC3EM: Long-Range Context Extrapolation Enhanced Entropy Model for Coordinate-based Overfitting Image Codecs**|Hao Wang et.al.|[2609.29192](http://arxiv.org/abs/2609.29192)|null|
+|**2026-09-24**|**EIB-Net: Entropy-Guided Information Bottleneck for Generalizable AI-Generated Image Detection**|Zhida Zhang et.al.|[2609.29064](http://arxiv.org/abs/2609.29064)|null|
+|**2026-09-24**|**Predator self limitation controls pattern formation in a predator prey system with additional food: a Turing Hopf analysis**|Anushree Hazra et.al.|[2609.29052](http://arxiv.org/abs/2609.29052)|null|
+|**2026-09-24**|**Generative Atmospheric Super-Resolution from Heterogeneous In Situ Observations through Composable Interfaces**|Yang Xu et.al.|[2609.29027](http://arxiv.org/abs/2609.29027)|null|
 |**2026-09-23**|**On the Diffusibility of High-Dimensional Latents**|Chao Feng et.al.|[2609.28473](http://arxiv.org/abs/2609.28473)|null|
 |**2026-09-23**|**Label-Efficient Generative Inverse Design and Design-Rule Discovery in Freeform Topological Photonics**|Yuhan Zhang et.al.|[2609.28401](http://arxiv.org/abs/2609.28401)|null|
 |**2026-09-23**|**Memory-Conditioned Diffusion Model for Generalized Langevin Dynamics**|Minglei Yang et.al.|[2609.28371](http://arxiv.org/abs/2609.28371)|null|
@@ -1415,16 +1425,6 @@ layout: default
 |**2026-07-09**|**Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing**|Feng Wang et.al.|[2607.08497](http://arxiv.org/abs/2607.08497)|**[link](https://github.com/caseclose/cma-harness)**|
 |**2026-07-09**|**DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models**|Pengjie Wang et.al.|[2607.08434](http://arxiv.org/abs/2607.08434)|null|
 |**2026-07-09**|**Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models**|Matteo Santelmo et.al.|[2607.08317](http://arxiv.org/abs/2607.08317)|null|
-|**2026-07-09**|**Closing the Null Space: Guidance-Aware Quantization for Classifier-Free Diffusion**|Abdullah Al Shafi et.al.|[2607.08241](http://arxiv.org/abs/2607.08241)|null|
-|**2026-07-09**|**Reinforcing the Generation Order of Multimodal Masked Diffusion Models**|Yidong Ouyang et.al.|[2607.08056](http://arxiv.org/abs/2607.08056)|null|
-|**2026-07-09**|**An exact information theory of generalization phase transitions in Bayesian diffusion models**|Henry Hunt et.al.|[2607.08041](http://arxiv.org/abs/2607.08041)|null|
-|**2026-07-08**|**Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF**|Eric Zhu et.al.|[2607.07693](http://arxiv.org/abs/2607.07693)|**[link](https://github.com/eeshsaxena/diffusion-rlhf-python)**|
-|**2026-07-08**|**DiPhon: Diffusion on Graphons for Scalable Graph Generation**|Sergio Rozada et.al.|[2607.07232](http://arxiv.org/abs/2607.07232)|null|
-|**2026-07-08**|**DiffCVE: Diffusion-based Compressed Video Enhancement**|Wenqiang Xiao et.al.|[2607.07195](http://arxiv.org/abs/2607.07195)|null|
-|**2026-07-08**|**Stage-Aware Adaptation and Distribution Calibration for Subject-Driven Personalized Text-to-Image Generation**|Wenyan Xu et.al.|[2607.07173](http://arxiv.org/abs/2607.07173)|null|
-|**2026-07-08**|**Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning**|Stepanida Alekseeva et.al.|[2607.07117](http://arxiv.org/abs/2607.07117)|**[link](https://github.com/Pandastep/ToT-T2I-ICL)**|
-|**2026-07-08**|**An Hybrid Quantum-Classical Diffusion Model for Image Generation**|Qipeng Qian et.al.|[2607.07072](http://arxiv.org/abs/2607.07072)|null|
-|**2026-07-08**|**Making Implicit Preservation Intent Explicit in Conversational Image Editing**|Soomin Han et.al.|[2607.07051](http://arxiv.org/abs/2607.07051)|**[link](https://github.com/anonymous745961852-cloud/implicit-preservation-editing)**|
 
 ## LLM training
 
@@ -1433,7 +1433,7 @@ layout: default
 |**2026-09-24**|**Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility**|Yanran Wu et.al.|[2609.29988](http://arxiv.org/abs/2609.29988)|null|
 |**2026-09-24**|**Beyond Average Safety: Chance-Constrained LLM Fine-tuning**|Taha Entesari et.al.|[2609.29960](http://arxiv.org/abs/2609.29960)|null|
 |**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
-|**2026-09-24**|**Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax**|Zhenyan Lu et.al.|[2609.29848](http://arxiv.org/abs/2609.29848)|**[link](https://github.com/camel-luv/encoded-but-not-decoded)**|
+|**2026-09-24**|**Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax**|Zhenyan Lu et.al.|[2609.29848](http://arxiv.org/abs/2609.29848)|null|
 |**2026-09-24**|**TimeBraid: Unifying Time Series and Language for Understanding and Forecasting**|Xinyue Wang et.al.|[2609.29792](http://arxiv.org/abs/2609.29792)|null|
 |**2026-09-24**|**Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure**|Fardeen Sadab et.al.|[2609.29445](http://arxiv.org/abs/2609.29445)|null|
 |**2026-09-24**|**Likelihood Ranking doesn't Scale Like Prompting in LLMs**|Alessandro Bondielli et.al.|[2609.29390](http://arxiv.org/abs/2609.29390)|null|
