@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -519,6 +519,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Abhiram Maddukuri et.al.|[2609.30187](http://arxiv.org/abs/2609.30187)|null|
+|**2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Beomsoo Kim et.al.|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
+|**2026-09-24**|**HarnessPAI: An Evolving Harness for Physical AI**|Xin Wang et.al.|[2609.29166](http://arxiv.org/abs/2609.29166)|null|
+|**2026-09-24**|**AquaMend: Minimal Re-probing and Conditional Rollback for Latent-Belief Failures in Embodied Agents**|Yufan Liu et.al.|[2609.28973](http://arxiv.org/abs/2609.28973)|null|
 |**2026-09-23**|**AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios**|Zhipeng Bao et.al.|[2609.28366](http://arxiv.org/abs/2609.28366)|null|
 |**2026-09-23**|**Listening and Mirroring: The Effects of Verbal Attunement and Behavioral Mimicry on Social and Empathic Perceptions of Embodied AI Agents in VR**|Nathalia Gomez et.al.|[2609.27246](http://arxiv.org/abs/2609.27246)|null|
 |**2026-09-22**|**TriWorldBench: A Tri-View Consistency Perspective on Embodied World Models**|Xuanyi Liu et.al.|[2609.26314](http://arxiv.org/abs/2609.26314)|null|
@@ -1426,6 +1430,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility**|Yanran Wu et.al.|[2609.29988](http://arxiv.org/abs/2609.29988)|null|
+|**2026-09-24**|**Beyond Average Safety: Chance-Constrained LLM Fine-tuning**|Taha Entesari et.al.|[2609.29960](http://arxiv.org/abs/2609.29960)|null|
+|**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
+|**2026-09-24**|**Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax**|Zhenyan Lu et.al.|[2609.29848](http://arxiv.org/abs/2609.29848)|**[link](https://github.com/camel-luv/encoded-but-not-decoded)**|
+|**2026-09-24**|**TimeBraid: Unifying Time Series and Language for Understanding and Forecasting**|Xinyue Wang et.al.|[2609.29792](http://arxiv.org/abs/2609.29792)|null|
+|**2026-09-24**|**Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure**|Fardeen Sadab et.al.|[2609.29445](http://arxiv.org/abs/2609.29445)|null|
+|**2026-09-24**|**Likelihood Ranking doesn't Scale Like Prompting in LLMs**|Alessandro Bondielli et.al.|[2609.29390](http://arxiv.org/abs/2609.29390)|null|
 |**2026-09-23**|**Counterfactual Constraint-Conditioned On-Policy Distillation for Multi-Constraint Instruction Following**|Yanzhao Zheng et.al.|[2609.27421](http://arxiv.org/abs/2609.27421)|**[link](https://github.com/zhengyanzhao1997/cc-opd)**|
 |**2026-09-23**|**LayerCheck: Adaptive Layer-wise Checkpointing for Large Language Model Post-training**|Minqiu Sun et.al.|[2609.27193](http://arxiv.org/abs/2609.27193)|null|
 |**2026-09-23**|**ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning**|Minqiu Sun et.al.|[2609.27189](http://arxiv.org/abs/2609.27189)|null|
@@ -1919,13 +1930,6 @@ layout: default
 |**2026-05-10**|**Let the Target Select for Itself: Data Selection via Target-Aligned Paths**|Huitao Yang et.al.|[2605.09404](http://arxiv.org/abs/2605.09404)|null|
 |**2026-05-10**|**Dimension-Free Saddle-Point Escape in Muon**|Yanlin Long et.al.|[2605.09331](http://arxiv.org/abs/2605.09331)|null|
 |**2026-05-09**|**The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring**|Ismail Hossain et.al.|[2605.09225](http://arxiv.org/abs/2605.09225)|null|
-|**2026-05-08**|**Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph**|Ning Liu et.al.|[2605.08037](http://arxiv.org/abs/2605.08037)|null|
-|**2026-05-08**|**Tool Calling is Linearly Readable and Steerable in Language Models**|Zekun Wu et.al.|[2605.07990](http://arxiv.org/abs/2605.07990)|null|
-|**2026-05-08**|**Self-Play Enhancement via Advantage-Weighted Refinement in Online Federated LLM Fine-Tuning with Real-Time Feedback**|Seohyun Lee et.al.|[2605.07977](http://arxiv.org/abs/2605.07977)|**[link](https://github.com/lee3296/SPEAR)**|
-|**2026-05-08**|**MatryoshkaLoRA: Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning**|Ionut-Vlad Modoranu et.al.|[2605.07850](http://arxiv.org/abs/2605.07850)|null|
-|**2026-05-08**|**PolarVLM: Bridging the Semantic-Physical Gap in Vision-Language Models**|Yuliang Li et.al.|[2605.07574](http://arxiv.org/abs/2605.07574)|null|
-|**2026-05-08**|**HexiSeq: Accommodating Long Context Training of LLMs over Heterogeneous Hardware**|Yan Liang et.al.|[2605.07569](http://arxiv.org/abs/2605.07569)|null|
-|**2026-05-08**|**Implicit Preference Alignment for Human Image Animation**|Yuanzhi Wang et.al.|[2605.07545](http://arxiv.org/abs/2605.07545)|**[link](https://github.com/mdswyz/IPA)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
