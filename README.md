@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-06-30**|**World-Model Collapse as a Phase Transition**|Xinyuan Song et.al.|[2606.31399](http://arxiv.org/abs/2606.31399)|null|
 |**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|**[link](https://github.com/yisuanwang/OVOW)**|
 
-<p align=right>(<a href=#Updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260926>back to top</a>)</p>
 
 ## embodied AI
 
@@ -929,7 +929,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260926>back to top</a>)</p>
 
 ## image generation
 
@@ -1436,7 +1436,7 @@
 |**2026-07-09**|**DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models**|Pengjie Wang et.al.|[2607.08434](http://arxiv.org/abs/2607.08434)|null|
 |**2026-07-09**|**Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models**|Matteo Santelmo et.al.|[2607.08317](http://arxiv.org/abs/2607.08317)|null|
 
-<p align=right>(<a href=#Updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260926>back to top</a>)</p>
 
 ## LLM training
 
@@ -1445,7 +1445,7 @@
 |**2026-09-24**|**Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility**|Yanran Wu et.al.|[2609.29988](http://arxiv.org/abs/2609.29988)|null|
 |**2026-09-24**|**Beyond Average Safety: Chance-Constrained LLM Fine-tuning**|Taha Entesari et.al.|[2609.29960](http://arxiv.org/abs/2609.29960)|null|
 |**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
-|**2026-09-24**|**Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax**|Zhenyan Lu et.al.|[2609.29848](http://arxiv.org/abs/2609.29848)|null|
+|**2026-09-24**|**Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax**|Zhenyan Lu et.al.|[2609.29848](http://arxiv.org/abs/2609.29848)|**[link](https://github.com/camel-luv/encoded-but-not-decoded)**|
 |**2026-09-24**|**TimeBraid: Unifying Time Series and Language for Understanding and Forecasting**|Xinyue Wang et.al.|[2609.29792](http://arxiv.org/abs/2609.29792)|null|
 |**2026-09-24**|**Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure**|Fardeen Sadab et.al.|[2609.29445](http://arxiv.org/abs/2609.29445)|null|
 |**2026-09-24**|**Likelihood Ranking doesn't Scale Like Prompting in LLMs**|Alessandro Bondielli et.al.|[2609.29390](http://arxiv.org/abs/2609.29390)|null|
@@ -1943,7 +1943,7 @@
 |**2026-05-10**|**Dimension-Free Saddle-Point Escape in Muon**|Yanlin Long et.al.|[2605.09331](http://arxiv.org/abs/2605.09331)|null|
 |**2026-05-09**|**The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring**|Ismail Hossain et.al.|[2605.09225](http://arxiv.org/abs/2605.09225)|null|
 
-<p align=right>(<a href=#Updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

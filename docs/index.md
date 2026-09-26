@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1433,7 +1433,7 @@ layout: default
 |**2026-09-24**|**Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility**|Yanran Wu et.al.|[2609.29988](http://arxiv.org/abs/2609.29988)|null|
 |**2026-09-24**|**Beyond Average Safety: Chance-Constrained LLM Fine-tuning**|Taha Entesari et.al.|[2609.29960](http://arxiv.org/abs/2609.29960)|null|
 |**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
-|**2026-09-24**|**Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax**|Zhenyan Lu et.al.|[2609.29848](http://arxiv.org/abs/2609.29848)|null|
+|**2026-09-24**|**Encoded but Not Decoded: Layer-Localized Evidence for a Three-Level Gap in LLM Syntax**|Zhenyan Lu et.al.|[2609.29848](http://arxiv.org/abs/2609.29848)|**[link](https://github.com/camel-luv/encoded-but-not-decoded)**|
 |**2026-09-24**|**TimeBraid: Unifying Time Series and Language for Understanding and Forecasting**|Xinyue Wang et.al.|[2609.29792](http://arxiv.org/abs/2609.29792)|null|
 |**2026-09-24**|**Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure**|Fardeen Sadab et.al.|[2609.29445](http://arxiv.org/abs/2609.29445)|null|
 |**2026-09-24**|**Likelihood Ranking doesn't Scale Like Prompting in LLMs**|Alessandro Bondielli et.al.|[2609.29390](http://arxiv.org/abs/2609.29390)|null|
