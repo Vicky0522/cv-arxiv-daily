@@ -25,7 +25,7 @@
 |**2026-09-24**|**Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think**|Xvyuan Liu et.al.|[2609.30036](http://arxiv.org/abs/2609.30036)|null|
 |**2026-09-24**|**Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving**|Sheng Liu et.al.|[2609.29178](http://arxiv.org/abs/2609.29178)|null|
 |**2026-09-24**|**Representation World Model: Learning States, Transition and Executable Plans in Representation**|Yijun Yuan et.al.|[2609.29171](http://arxiv.org/abs/2609.29171)|null|
-|**2026-09-24**|**DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models**|Yohan Choi et.al.|[2609.29092](http://arxiv.org/abs/2609.29092)|null|
+|**2026-09-24**|**DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models**|Yohan Choi et.al.|[2609.29092](http://arxiv.org/abs/2609.29092)|**[link](https://github.com/DocyNoah/dawn-parkour)**|
 |**2026-09-24**|**Sim-to-Real Aware End-to-End Learning Environment for Micromobility**|Shouma Amano et.al.|[2609.28969](http://arxiv.org/abs/2609.28969)|null|
 |**2026-09-24**|**HelloWorld: Towards Practical Applications of Generative Driving World Models**|Fan Lu et.al.|[2609.28931](http://arxiv.org/abs/2609.28931)|null|
 |**2026-09-24**|**Streaming-WAM: Action-Conditioned World-Action Model for Asynchronous Robot Manipulation**|Xuyao Huang et.al.|[2609.28927](http://arxiv.org/abs/2609.28927)|null|
