@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.26
+## Updated on 2026.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -1437,7 +1437,7 @@ layout: default
 |**2026-09-24**|**TimeBraid: Unifying Time Series and Language for Understanding and Forecasting**|Xinyue Wang et.al.|[2609.29792](http://arxiv.org/abs/2609.29792)|null|
 |**2026-09-24**|**Two Emojis of Difference: What Multilingual Affective Generation Benchmarks Actually Measure**|Fardeen Sadab et.al.|[2609.29445](http://arxiv.org/abs/2609.29445)|null|
 |**2026-09-24**|**Likelihood Ranking doesn't Scale Like Prompting in LLMs**|Alessandro Bondielli et.al.|[2609.29390](http://arxiv.org/abs/2609.29390)|null|
-|**2026-09-23**|**Counterfactual Constraint-Conditioned On-Policy Distillation for Multi-Constraint Instruction Following**|Yanzhao Zheng et.al.|[2609.27421](http://arxiv.org/abs/2609.27421)|**[link](https://github.com/zhengyanzhao1997/cc-opd)**|
+|**2026-09-23**|**Counterfactual Constraint-Conditioned On-Policy Distillation for Multi-Constraint Instruction Following**|Yanzhao Zheng et.al.|[2609.27421](http://arxiv.org/abs/2609.27421)|null|
 |**2026-09-23**|**LayerCheck: Adaptive Layer-wise Checkpointing for Large Language Model Post-training**|Minqiu Sun et.al.|[2609.27193](http://arxiv.org/abs/2609.27193)|null|
 |**2026-09-23**|**ZOCheck: CPU-Shadow Checkpointing for Zeroth-Order LLM Fine-Tuning**|Minqiu Sun et.al.|[2609.27189](http://arxiv.org/abs/2609.27189)|null|
 |**2026-09-22**|**LexLattice: Multilingual Extractive Summarization via Neural Cellular Automata on Document Hierarchies**|Sujay Uday Rittikar et.al.|[2609.27032](http://arxiv.org/abs/2609.27032)|null|
