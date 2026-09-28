@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-06-30**|**World-Model Collapse as a Phase Transition**|Xinyuan Song et.al.|[2606.31399](http://arxiv.org/abs/2606.31399)|null|
 |**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|**[link](https://github.com/yisuanwang/OVOW)**|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 
 ## embodied AI
 
@@ -929,12 +929,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders**|Hongyang Du et.al.|[2609.31620](http://arxiv.org/abs/2609.31620)|null|
+|**2026-09-25**|**First-Order Stationarity of Reverse Diffusions**|Zhifeng Chen et.al.|[2609.31612](http://arxiv.org/abs/2609.31612)|null|
+|**2026-09-25**|**Statistical attribute alignment for black-box generative AI via output post-processing**|Kevin Jiang et.al.|[2609.31607](http://arxiv.org/abs/2609.31607)|null|
+|**2026-09-25**|**Forensic Twins: Self-Supervised Residual Learning for AI-Generated Image Forensics**|Javier Muñoz-Haro et.al.|[2609.31514](http://arxiv.org/abs/2609.31514)|null|
+|**2026-09-25**|**ContraFM-S2O: Flow Matching-Based One-step SAR-to-Optical Image Translation Model with Contrastive Learning**|Mingqian Yu et.al.|[2609.31378](http://arxiv.org/abs/2609.31378)|null|
+|**2026-09-25**|**DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models**|Haojun Xu et.al.|[2609.31349](http://arxiv.org/abs/2609.31349)|null|
+|**2026-09-25**|**Structure-dependent failure modes of neural priors in acoustic full-waveform inversion**|Ziye Yu et.al.|[2609.31251](http://arxiv.org/abs/2609.31251)|null|
+|**2026-09-25**|**Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning**|Antoine Lorentz et.al.|[2609.31199](http://arxiv.org/abs/2609.31199)|null|
+|**2026-09-25**|**CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks**|Yuxuan Qiu et.al.|[2609.31149](http://arxiv.org/abs/2609.31149)|null|
+|**2026-09-25**|**Quantum Diffusion Models for Medical Image Analysis**|Francesco Aldo Venturelli et.al.|[2609.31070](http://arxiv.org/abs/2609.31070)|null|
 |**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](http://arxiv.org/abs/2609.30130)|null|
 |**2026-09-24**|**EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation**|Panagiota Gatoula et.al.|[2609.29930](http://arxiv.org/abs/2609.29930)|null|
 |**2026-09-24**|**Accurate Sampling from Diffusion Models**|Dénes Sexty et.al.|[2609.29902](http://arxiv.org/abs/2609.29902)|**[link](https://github.com/blt2114/twisted_diffusion_sampler)**|
@@ -1425,23 +1435,23 @@
 |**2026-07-10**|**IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation**|Yiting Wang et.al.|[2607.09133](http://arxiv.org/abs/2607.09133)|null|
 |**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|**[link](https://github.com/sisyphm/StudioRecon)**|
 |**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|**[link](https://github.com/freak-jaeuk/quantum-diffusion-fair-comparison)**|
-|**2026-07-10**|**Probing Diffusion Denoising Dynamics for Contrastive Representation Learning**|Yasong Dai et.al.|[2607.09067](http://arxiv.org/abs/2607.09067)|null|
-|**2026-07-10**|**Central Tendency Bias in Human Selection of AI-Generated Design Variations**|Huiyang Chen et.al.|[2607.09018](http://arxiv.org/abs/2607.09018)|null|
-|**2026-07-09**|**Vision Transformers Learn Gestalt-Like Figure-Ground Cues from Natural Images**|Matthias Tangemann et.al.|[2607.08932](http://arxiv.org/abs/2607.08932)|**[link](https://github.com/mtangemann/mlvbench)**|
-|**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770](http://arxiv.org/abs/2607.08770)|**[link](https://github.com/cdfan0627/LongE2V)**|
-|**2026-07-09**|**OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators**|Hongyu Liu et.al.|[2607.08766](http://arxiv.org/abs/2607.08766)|null|
-|**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705](http://arxiv.org/abs/2607.08705)|null|
-|**2026-07-09**|**Diffusion Models for Sampling Near Criticality in Lattice Field Theories**|Yang-yang Tan et.al.|[2607.08505](http://arxiv.org/abs/2607.08505)|null|
-|**2026-07-09**|**Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing**|Feng Wang et.al.|[2607.08497](http://arxiv.org/abs/2607.08497)|**[link](https://github.com/caseclose/cma-harness)**|
-|**2026-07-09**|**DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models**|Pengjie Wang et.al.|[2607.08434](http://arxiv.org/abs/2607.08434)|null|
-|**2026-07-09**|**Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models**|Matteo Santelmo et.al.|[2607.08317](http://arxiv.org/abs/2607.08317)|null|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Strategically Diverse Sampling for Self-Training**|Alexander Gurung et.al.|[2609.31571](http://arxiv.org/abs/2609.31571)|null|
+|**2026-09-25**|**Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment**|Qing Xu et.al.|[2609.31524](http://arxiv.org/abs/2609.31524)|null|
+|**2026-09-25**|**DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models**|Jiangning Wei et.al.|[2609.31103](http://arxiv.org/abs/2609.31103)|null|
+|**2026-09-25**|**The Power of Indirection: Scaling Switches Beyond Silicon Boundaries**|Lukas Röllin et.al.|[2609.31092](http://arxiv.org/abs/2609.31092)|null|
+|**2026-09-25**|**Modeling Student Sensemaking with LLMs and Knowledge-Graph-Guided Inference**|Özge Alacam et.al.|[2609.31046](http://arxiv.org/abs/2609.31046)|null|
+|**2026-09-25**|**FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models**|Arjun Pillai et.al.|[2609.30954](http://arxiv.org/abs/2609.30954)|null|
+|**2026-09-25**|**MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory**|De Jiang et.al.|[2609.30939](http://arxiv.org/abs/2609.30939)|null|
+|**2026-09-25**|**Estimating and Orthogonalizing Unknown Pre-training Gradients for Continual Fine-tuning of Large Language Models**|Bing Wang et.al.|[2609.30935](http://arxiv.org/abs/2609.30935)|null|
+|**2026-09-25**|**Understanding the Role of Prompt Template in Knowledge Distillation for Safety Alignment**|Anjila Budathoki et.al.|[2609.30802](http://arxiv.org/abs/2609.30802)|null|
+|**2026-09-24**|**Adaptive Multi-Value Control in LLMs via Causal Activation Steering**|Payel Bhattacharjee et.al.|[2609.30405](http://arxiv.org/abs/2609.30405)|null|
 |**2026-09-24**|**Let Training Guide Selection: Online Synthetic Data Filtering via Real-Anchored Utility**|Yanran Wu et.al.|[2609.29988](http://arxiv.org/abs/2609.29988)|null|
 |**2026-09-24**|**Beyond Average Safety: Chance-Constrained LLM Fine-tuning**|Taha Entesari et.al.|[2609.29960](http://arxiv.org/abs/2609.29960)|null|
 |**2026-09-24**|**ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation**|Qingyu Wu et.al.|[2609.29948](http://arxiv.org/abs/2609.29948)|null|
@@ -1932,18 +1942,8 @@
 |**2026-05-11**|**Accelerating Compound LLM Training Workloads with Maestro**|Xiulong Yuan et.al.|[2605.10501](http://arxiv.org/abs/2605.10501)|null|
 |**2026-05-11**|**Phoenix-VL 1.5 Medium Technical Report**|Team Phoenix et.al.|[2605.10391](http://arxiv.org/abs/2605.10391)|null|
 |**2026-05-11**|**EvoStreaming: Your Offline Video Model Is a Natively Streaming Assistant**|Zichen Wen et.al.|[2605.10343](http://arxiv.org/abs/2605.10343)|null|
-|**2026-05-11**|**Extending Confidence-Based Text2Cypher with Grammar and Schema Aware Filtering**|Makbule Gulcin Ozsoy et.al.|[2605.10318](http://arxiv.org/abs/2605.10318)|null|
-|**2026-05-11**|**Cross-Family Universality of Behavioral Axes via Anchor-Projected Representations**|Su-Hyeon Kim et.al.|[2605.09875](http://arxiv.org/abs/2605.09875)|null|
-|**2026-05-11**|**Exploration-Driven Optimization for Test-Time Large Language Model Reasoning**|Changhao Li et.al.|[2605.09853](http://arxiv.org/abs/2605.09853)|null|
-|**2026-05-10**|**EvoPref: Multi-Objective Evolutionary Optimization Discovers Diverse LLM Alignments Beyond Gradient Descent**|Dongxin Guo et.al.|[2605.09777](http://arxiv.org/abs/2605.09777)|null|
-|**2026-05-10**|**Learning Multi-Indicator Weights for Data Selection: A Joint Task-Model Adaptation Framework with Efficient Proxies**|Jingze Song et.al.|[2605.09665](http://arxiv.org/abs/2605.09665)|null|
-|**2026-05-10**|**K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs**|Hao Liang et.al.|[2605.09635](http://arxiv.org/abs/2605.09635)|null|
-|**2026-05-10**|**Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs**|Yunhong Lu et.al.|[2605.09433](http://arxiv.org/abs/2605.09433)|null|
-|**2026-05-10**|**Let the Target Select for Itself: Data Selection via Target-Aligned Paths**|Huitao Yang et.al.|[2605.09404](http://arxiv.org/abs/2605.09404)|null|
-|**2026-05-10**|**Dimension-Free Saddle-Point Escape in Muon**|Yanlin Long et.al.|[2605.09331](http://arxiv.org/abs/2605.09331)|null|
-|**2026-05-09**|**The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring**|Ismail Hossain et.al.|[2605.09225](http://arxiv.org/abs/2605.09225)|null|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
