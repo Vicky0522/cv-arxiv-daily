@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models**|Haojun Xu et.al.|[2609.31349](http://arxiv.org/abs/2609.31349)|null|
+|**2026-09-25**|**Towards VLA-Dreamer: Refining VLA Behavior Using World Models**|Parsa Mastouri Kashani et.al.|[2609.31313](http://arxiv.org/abs/2609.31313)|null|
+|**2026-09-25**|**MA-WAM: Multi-Agent World-Action Model for Test-Time Planning**|Guowei Zou et.al.|[2609.31281](http://arxiv.org/abs/2609.31281)|null|
+|**2026-09-25**|**WorldTS: World Modeling for Multimodal Covariate-aware Time Series Forecasting**|Yuhan Zhu et.al.|[2609.31162](http://arxiv.org/abs/2609.31162)|null|
+|**2026-09-25**|**I Act Therefore I Am: When Is JEPA's Action-Conditioning Enough to Learn Causal Mechanisms?**|Yuhang Liu et.al.|[2609.31161](http://arxiv.org/abs/2609.31161)|null|
+|**2026-09-25**|**AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution**|Tian Luo et.al.|[2609.31133](http://arxiv.org/abs/2609.31133)|null|
+|**2026-09-25**|**OneWorld: Learning Consistent Physics Across Actions in World Models**|Ke He et.al.|[2609.30946](http://arxiv.org/abs/2609.30946)|null|
+|**2026-09-25**|**From S3Q Theory to Implementation: Towards an Architecture for Machine Qualia**|Tetiana Grinberg et.al.|[2609.30743](http://arxiv.org/abs/2609.30743)|null|
+|**2026-09-25**|**Recommendation World Models for Future-State Control**|Jinfeng Xu et.al.|[2609.30711](http://arxiv.org/abs/2609.30711)|null|
+|**2026-09-25**|**Design-Ignoring versus Design-Respecting World Models for Epidemiology**|Xiangyu Yu et.al.|[2609.30679](http://arxiv.org/abs/2609.30679)|null|
 |**2026-09-24**|**AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control**|Jiabin Qiu et.al.|[2609.30264](http://arxiv.org/abs/2609.30264)|null|
 |**2026-09-24**|**Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage**|Yuncong Yang et.al.|[2609.30214](http://arxiv.org/abs/2609.30214)|null|
 |**2026-09-24**|**Aim Short to Reach Far: Your Frozen World Model Can Plan Better Than You Think**|Xvyuan Liu et.al.|[2609.30036](http://arxiv.org/abs/2609.30036)|null|
@@ -504,23 +514,15 @@ layout: default
 |**2026-07-01**|**Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences**|Zhenjia Li et.al.|[2607.00832](http://arxiv.org/abs/2607.00832)|null|
 |**2026-07-01**|**ABot-M0.5: Unified Mobility-and-Manipulation World Action Model**|Ronghan Chen et.al.|[2607.00678](http://arxiv.org/abs/2607.00678)|null|
 |**2026-07-01**|**Path Planning in Physically Viable World Models**|Su Ann Low et.al.|[2607.00673](http://arxiv.org/abs/2607.00673)|null|
-|**2026-07-01**|**AGI Maze as a Benchmark Framework for World-Modeling Agents**|Alexey Potapov et.al.|[2607.00627](http://arxiv.org/abs/2607.00627)|null|
-|**2026-07-01**|**Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments**|Jinwoo Jang et.al.|[2607.00457](http://arxiv.org/abs/2607.00457)|null|
-|**2026-06-30**|**DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation**|Ziyu Shan et.al.|[2606.32028](http://arxiv.org/abs/2606.32028)|**[link](https://github.com/zyshan0929/DVG-WM)**|
-|**2026-06-30**|**AdaJEPA: An Adaptive Latent World Model**|Ying Wang et.al.|[2606.32026](http://arxiv.org/abs/2606.32026)|**[link](https://github.com/agentic-learning-ai-lab/adajepa)**|
-|**2026-06-30**|**MemLearner: Learning to Query Context memory for Video World Models**|Jiwen Yu et.al.|[2606.31734](http://arxiv.org/abs/2606.31734)|null|
-|**2026-06-30**|**ScratchWorld: Evaluating If World Models Compute Executable Consequences**|Yufeng Lin et.al.|[2606.31689](http://arxiv.org/abs/2606.31689)|null|
-|**2026-06-30**|**WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models**|Ting-Bing Xu et.al.|[2606.31672](http://arxiv.org/abs/2606.31672)|null|
-|**2026-06-30**|**Ask the World Before Acting: Budgeted Environment Probing for World-Model Calibration**|Xinyuan Song et.al.|[2606.31422](http://arxiv.org/abs/2606.31422)|null|
-|**2026-06-30**|**World-Model Collapse as a Phase Transition**|Xinyuan Song et.al.|[2606.31399](http://arxiv.org/abs/2606.31399)|null|
-|**2026-06-30**|**One Video, One World: Turning Monocular Video into Physical 4D Scenes**|Junhao Chen et.al.|[2606.31388](http://arxiv.org/abs/2606.31388)|**[link](https://github.com/yisuanwang/OVOW)**|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents**|Maokai Qin et.al.|[2609.30971](http://arxiv.org/abs/2609.30971)|null|
+|**2026-09-25**|**Skip the Talk, Re-Focus on Vision: Latent Reasoning for Reasoning Segmentation in Multimodal Large Language Models**|Tianhang Guo et.al.|[2609.30783](http://arxiv.org/abs/2609.30783)|null|
 |**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Abhiram Maddukuri et.al.|[2609.30187](http://arxiv.org/abs/2609.30187)|null|
-|**2026-09-24**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**|Beomsoo Kim et.al.|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
+|**2026-09-25**|**PUBG Ally: A Conversational Embodied Agent as an AI Teammate**| PUBG Ally Team et.al.|[2609.29837](http://arxiv.org/abs/2609.29837)|null|
 |**2026-09-24**|**HarnessPAI: An Evolving Harness for Physical AI**|Xin Wang et.al.|[2609.29166](http://arxiv.org/abs/2609.29166)|null|
 |**2026-09-24**|**AquaMend: Minimal Re-probing and Conditional Rollback for Latent-Belief Failures in Embodied Agents**|Yufan Liu et.al.|[2609.28973](http://arxiv.org/abs/2609.28973)|null|
 |**2026-09-23**|**AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios**|Zhipeng Bao et.al.|[2609.28366](http://arxiv.org/abs/2609.28366)|null|
@@ -934,7 +936,7 @@ layout: default
 |**2026-09-25**|**Structure-dependent failure modes of neural priors in acoustic full-waveform inversion**|Ziye Yu et.al.|[2609.31251](http://arxiv.org/abs/2609.31251)|null|
 |**2026-09-25**|**Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning**|Antoine Lorentz et.al.|[2609.31199](http://arxiv.org/abs/2609.31199)|null|
 |**2026-09-25**|**CRNDiff: Count-Native Diffusion Framework via Chemical Reaction Networks**|Yuxuan Qiu et.al.|[2609.31149](http://arxiv.org/abs/2609.31149)|null|
-|**2026-09-25**|**Quantum Diffusion Models for Medical Image Analysis**|Francesco Aldo Venturelli et.al.|[2609.31070](http://arxiv.org/abs/2609.31070)|null|
+|**2026-09-25**|**Quantum Diffusion Models for Medical Image Analysis**|Francesco Aldo Venturelli et.al.|[2609.31070](http://arxiv.org/abs/2609.31070)|**[link](https://github.com/teddytennant/qd-dtqw)**|
 |**2026-09-24**|**Multimodal Thinking with Renderable Programs**|Sunli Chen et.al.|[2609.30130](http://arxiv.org/abs/2609.30130)|null|
 |**2026-09-24**|**EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation**|Panagiota Gatoula et.al.|[2609.29930](http://arxiv.org/abs/2609.29930)|null|
 |**2026-09-24**|**Accurate Sampling from Diffusion Models**|Dénes Sexty et.al.|[2609.29902](http://arxiv.org/abs/2609.29902)|**[link](https://github.com/blt2114/twisted_diffusion_sampler)**|
