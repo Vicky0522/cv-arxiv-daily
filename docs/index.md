@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -927,6 +927,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**PDMD: Projected Distribution Matching Distillation for Video Diffusion Models**|Zimo Wang et.al.|[2609.35768](http://arxiv.org/abs/2609.35768)|null|
+|**2026-09-28**|**Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning**|Yijia Fan et.al.|[2609.35767](http://arxiv.org/abs/2609.35767)|null|
+|**2026-09-28**|**Unifying Distributional Training for One-Step Visual Generation**|Chi Zhang et.al.|[2609.35763](http://arxiv.org/abs/2609.35763)|**[link](https://github.com/shihaoyang0423/MGFlow-website)**|
+|**2026-09-28**|**GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space**|Kerui Ren et.al.|[2609.35734](http://arxiv.org/abs/2609.35734)|null|
+|**2026-09-28**|**Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective**|Jiawei Hu et.al.|[2609.35710](http://arxiv.org/abs/2609.35710)|null|
+|**2026-09-28**|**FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching**|Thanh-Long V. Le et.al.|[2609.35673](http://arxiv.org/abs/2609.35673)|null|
+|**2026-09-28**|**Denoising Multi-Robot Trajectories**|Yuhao Zhang et.al.|[2609.35651](http://arxiv.org/abs/2609.35651)|**[link](https://github.com/proroklab/d4orm)**|
+|**2026-09-28**|**Verifiable Visual Rewards Transfer from Synthetic Scenes to Natural Prompts**|Shuyue Stella Li et.al.|[2609.35641](http://arxiv.org/abs/2609.35641)|null|
+|**2026-09-28**|**On-Policy Self-Distillation for Multi-Turn Image Editing**|Liangbing Zhao et.al.|[2609.35611](http://arxiv.org/abs/2609.35611)|null|
+|**2026-09-28**|**Twist, Don't Tilt: Trajectory-Exact Constrained Decoding for Masked Diffusion Models**|Aditya Thimmaiah et.al.|[2609.35609](http://arxiv.org/abs/2609.35609)|null|
 |**2026-09-25**|**FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders**|Hongyang Du et.al.|[2609.31620](http://arxiv.org/abs/2609.31620)|null|
 |**2026-09-25**|**First-Order Stationarity of Reverse Diffusions**|Zhifeng Chen et.al.|[2609.31612](http://arxiv.org/abs/2609.31612)|null|
 |**2026-09-25**|**Statistical attribute alignment for black-box generative AI via output post-processing**|Kevin Jiang et.al.|[2609.31607](http://arxiv.org/abs/2609.31607)|null|
@@ -1417,21 +1427,21 @@ layout: default
 |**2026-07-13**|**Feature-Space Guided Diffusion for Realistic Ultrasound Image Synthesis**|Marina Domínguez et.al.|[2607.11655](http://arxiv.org/abs/2607.11655)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 |**2026-07-13**|**DiffEEG: A Self-Supervised Denoising Diffusion Model for Learning EEG Generic Representations**|Abdulkader Helwan et.al.|[2607.11578](http://arxiv.org/abs/2607.11578)|null|
-|**2026-07-13**|**BackgroundMellow: A Multi-Modal Cohesive Framework for Narrative-Driven Rich Cinematic Soundscape Generation**|Ajitesh Jamulkar et.al.|[2607.11364](http://arxiv.org/abs/2607.11364)|null|
-|**2026-07-13**|**Structure-Detail Decoupled Autoregressive Generation for Fast and High-Fidelity Virtual Try-On**|Lu Yang et.al.|[2607.11233](http://arxiv.org/abs/2607.11233)|null|
-|**2026-07-13**|**Slot-RAE: Streamlining Object-Centric Learning via Direct Representation Auto-Encoders**|Alexandre Chapin et.al.|[2607.11196](http://arxiv.org/abs/2607.11196)|null|
-|**2026-07-10**|**Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation**|Mingyang Huang et.al.|[2607.09581](http://arxiv.org/abs/2607.09581)|null|
-|**2026-07-10**|**CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation**|Seungyong Lee et.al.|[2607.09362](http://arxiv.org/abs/2607.09362)|**[link](https://github.com/nxnai/CtrlVTON)**|
-|**2026-07-10**|**Autoregressive latent diffusion for 3D molecule generation**|Federico Ottomano et.al.|[2607.09277](http://arxiv.org/abs/2607.09277)|null|
-|**2026-07-10**|**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**|Sang-Hoon Lee et.al.|[2607.09134](http://arxiv.org/abs/2607.09134)|null|
-|**2026-07-10**|**IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation**|Yiting Wang et.al.|[2607.09133](http://arxiv.org/abs/2607.09133)|null|
-|**2026-07-10**|**4D Human-Scene Reconstruction from Low-Overlap Captures**|Minhyuk Hwang et.al.|[2607.09125](http://arxiv.org/abs/2607.09125)|**[link](https://github.com/sisyphm/StudioRecon)**|
-|**2026-07-10**|**Quantum Circuits in Diffusion Models: A Fair-Comparison Study and a Mechanistic Analysis of Angle-Embedding Failures**|Jaeuk Kim et.al.|[2607.09108](http://arxiv.org/abs/2607.09108)|**[link](https://github.com/freak-jaeuk/quantum-diffusion-fair-comparison)**|
 
 ## LLM training
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Output-aware Residual Stream Pruning for Large Language Models**|Chayne Thrash et.al.|[2609.35579](http://arxiv.org/abs/2609.35579)|null|
+|**2026-09-28**|**INTCC: A Framework for Interactive Confidential Computing**|Qingzhe Bing et.al.|[2609.35552](http://arxiv.org/abs/2609.35552)|null|
+|**2026-09-28**|**d-OPD: Future-Aware On-Policy Distillation for Block Diffusion Language Models**|Ruitao Liu et.al.|[2609.35362](http://arxiv.org/abs/2609.35362)|null|
+|**2026-09-28**|**Beyond Saying Less: Fine-Grained Alignment for Informative and Faithful Vision-Language Models**|Xingming Long et.al.|[2609.35294](http://arxiv.org/abs/2609.35294)|null|
+|**2026-09-28**|**Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment**|Shunchang Liu et.al.|[2609.35291](http://arxiv.org/abs/2609.35291)|null|
+|**2026-09-28**|**AIM-ZO: Activation-Informed Subspace Maintenance for Zeroth-Order LLM Fine-Tuning**|Yue Xie et.al.|[2609.35257](http://arxiv.org/abs/2609.35257)|null|
+|**2026-09-28**|**Using Context Is Not Enough: Test-Time Training for Personalized Reward Modeling**|Bohao Wang et.al.|[2609.35109](http://arxiv.org/abs/2609.35109)|null|
+|**2026-09-28**|**BA-DPO: Bias-Adjusted Direct Preference Optimization for Language Model Alignment**|Antonio Ferrara et.al.|[2609.35044](http://arxiv.org/abs/2609.35044)|null|
+|**2026-09-28**|**Sample What You Say: Aligning Language Models to Sample the Distributions They State**|Kasra Arabi et.al.|[2609.34929](http://arxiv.org/abs/2609.34929)|null|
+|**2026-09-28**|**InfiMed2: A Generalist Medical Multimodal Foundation Model from Contextual Evidence and Stability-Aware Supervision**|Guanghao Zhu et.al.|[2609.34798](http://arxiv.org/abs/2609.34798)|null|
 |**2026-09-25**|**Strategically Diverse Sampling for Self-Training**|Alexander Gurung et.al.|[2609.31571](http://arxiv.org/abs/2609.31571)|null|
 |**2026-09-25**|**Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment**|Qing Xu et.al.|[2609.31524](http://arxiv.org/abs/2609.31524)|null|
 |**2026-09-25**|**DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models**|Jiangning Wei et.al.|[2609.31103](http://arxiv.org/abs/2609.31103)|null|
@@ -1922,16 +1932,6 @@ layout: default
 |**2026-05-12**|**Targeted Neuron Modulation via Contrastive Pair Search**|Sam Herring et.al.|[2605.12290](http://arxiv.org/abs/2605.12290)|null|
 |**2026-05-12**|**PriorZero: Bridging Language Priors and World Models for Decision Making**|Junyu Xiong et.al.|[2605.12289](http://arxiv.org/abs/2605.12289)|null|
 |**2026-05-12**|**TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching**|Truong Nguyen et.al.|[2605.12288](http://arxiv.org/abs/2605.12288)|**[link](https://github.com/tienphat140205/TBPO)**|
-|**2026-05-12**|**Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs**|Deepak Kumar et.al.|[2605.12242](http://arxiv.org/abs/2605.12242)|null|
-|**2026-05-11**|**DGPO: Beyond Pairwise Preferences with Directional Consistent Groupwise Optimization**|Mengyi Deng et.al.|[2605.10863](http://arxiv.org/abs/2605.10863)|null|
-|**2026-05-11**|**Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding**|Jianzhu Bao et.al.|[2605.10855](http://arxiv.org/abs/2605.10855)|null|
-|**2026-05-11**|**MASS-DPO: Multi-negative Active Sample Selection for Direct Policy Optimization**|Rohan Surana et.al.|[2605.10784](http://arxiv.org/abs/2605.10784)|null|
-|**2026-05-11**|**Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR**|Jeonghye Kim et.al.|[2605.10781](http://arxiv.org/abs/2605.10781)|null|
-|**2026-05-11**|**Dynamic Cross-Modal Prompt Generation for Multimodal Continual Instruction Tuning**|Tao Hu et.al.|[2605.10765](http://arxiv.org/abs/2605.10765)|null|
-|**2026-05-11**|**Intrinsic Guardrails: How Semantic Geometry of Personality Interacts with Emergent Misalignment in LLMs**|Krishak Aneja et.al.|[2605.10633](http://arxiv.org/abs/2605.10633)|null|
-|**2026-05-11**|**Accelerating Compound LLM Training Workloads with Maestro**|Xiulong Yuan et.al.|[2605.10501](http://arxiv.org/abs/2605.10501)|null|
-|**2026-05-11**|**Phoenix-VL 1.5 Medium Technical Report**|Team Phoenix et.al.|[2605.10391](http://arxiv.org/abs/2605.10391)|null|
-|**2026-05-11**|**EvoStreaming: Your Offline Video Model Is a Natively Streaming Assistant**|Zichen Wen et.al.|[2605.10343](http://arxiv.org/abs/2605.10343)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
