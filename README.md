@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space**|Kerui Ren et.al.|[2609.35734](http://arxiv.org/abs/2609.35734)|null|
+|**2026-09-28**|**DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time**|Ziqi Ma et.al.|[2609.35704](http://arxiv.org/abs/2609.35704)|null|
+|**2026-09-28**|**MM-ABC: Towards Generalist Mobile Manipulation via Seeing, Coordinating and Imagining**|Qiwei Liang et.al.|[2609.35652](http://arxiv.org/abs/2609.35652)|null|
+|**2026-09-28**|**Control-Geometry Straightening for Sampling-Based Latent Planning**|Ziang Fu et.al.|[2609.35603](http://arxiv.org/abs/2609.35603)|null|
+|**2026-09-28**|**WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon**|Haiyu Zhang et.al.|[2609.35560](http://arxiv.org/abs/2609.35560)|**[link](https://github.com/WorldPlay2/WorldPlay2)**|
+|**2026-09-28**|**Graph World Models for Constrained Epidemic Policy Planning**|Yiqi Su et.al.|[2609.35545](http://arxiv.org/abs/2609.35545)|null|
+|**2026-09-28**|**A.D.A.M.O. (Agent for language-Driven Actions with Multimodal Observations): A Visual-Symbolic Framework for Virtual Humans**|Alessandro Emmanuel Pecora et.al.|[2609.35463](http://arxiv.org/abs/2609.35463)|null|
+|**2026-09-28**|**From Pixel to Poses: Object-centric Tool Manipulation Learning from Human Demonstrations**|Bangjun Wang et.al.|[2609.35375](http://arxiv.org/abs/2609.35375)|null|
+|**2026-09-28**|**RoGSW4RLD: Feed-Forward 4D Gaussian Lifting for Robot World Model Rollouts**|Jin Hyun Kim et.al.|[2609.35311](http://arxiv.org/abs/2609.35311)|null|
+|**2026-09-28**|**FlexiWorld: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales**|Shidu Ren et.al.|[2609.35138](http://arxiv.org/abs/2609.35138)|**[link](https://github.com/Shidu-Ren/FlexiWorld)**|
 |**2026-09-25**|**DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video World Models**|Haojun Xu et.al.|[2609.31349](http://arxiv.org/abs/2609.31349)|null|
 |**2026-09-25**|**Towards VLA-Dreamer: Refining VLA Behavior Using World Models**|Parsa Mastouri Kashani et.al.|[2609.31313](http://arxiv.org/abs/2609.31313)|null|
 |**2026-09-25**|**MA-WAM: Multi-Agent World-Action Model for Test-Time Planning**|Guowei Zou et.al.|[2609.31281](http://arxiv.org/abs/2609.31281)|null|
@@ -510,16 +520,6 @@
 |**2026-07-02**|**Bridge-WA: Predicting Where and How the World Changes for Robotic Action**|Yongjie Bai et.al.|[2607.02195](http://arxiv.org/abs/2607.02195)|**[link](https://github.com/HCPLab-SYSU/BRIDGE-WA)**|
 |**2026-07-02**|**Path-Measure Dynamics of Attention-Driven World Models: A Nonlocal Onsager--Machlup Approach**|Gunn Kim et.al.|[2607.02154](http://arxiv.org/abs/2607.02154)|null|
 |**2026-07-02**|**PWM-ArtGen: Part World Model for Articulated Object Generation**|Wentao Zheng et.al.|[2607.02045](http://arxiv.org/abs/2607.02045)|**[link](https://github.com/Wentap123/PWM-ArtGen)**|
-|**2026-07-02**|**Liquid Latent State Dynamics for Interpretable Turbofan Degradation Modeling**|Weizhi Nie et.al.|[2607.01986](http://arxiv.org/abs/2607.01986)|null|
-|**2026-07-02**|**PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation**|Peng Yun et.al.|[2607.01938](http://arxiv.org/abs/2607.01938)|null|
-|**2026-07-01**|**Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models**|Yue Han et.al.|[2607.01222](http://arxiv.org/abs/2607.01222)|**[link](https://github.com/YueHan99/Ink3D.TextureGen)**|
-|**2026-07-01**|**RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation**|Byeongguk Jeon et.al.|[2607.01060](http://arxiv.org/abs/2607.01060)|null|
-|**2026-07-01**|**Valdi: Value Diffusion World Models**|Christopher Lindenberg et.al.|[2607.00917](http://arxiv.org/abs/2607.00917)|null|
-|**2026-07-01**|**DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors**|Seok-Young Kim et.al.|[2607.00889](http://arxiv.org/abs/2607.00889)|null|
-|**2026-07-01**|**From World Models to World Action Models: A Concise Tutorial for Robotics**|Xiaoxiong Zhang et.al.|[2607.00836](http://arxiv.org/abs/2607.00836)|null|
-|**2026-07-01**|**Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences**|Zhenjia Li et.al.|[2607.00832](http://arxiv.org/abs/2607.00832)|null|
-|**2026-07-01**|**ABot-M0.5: Unified Mobility-and-Manipulation World Action Model**|Ronghan Chen et.al.|[2607.00678](http://arxiv.org/abs/2607.00678)|null|
-|**2026-07-01**|**Path Planning in Physically Viable World Models**|Su Ann Low et.al.|[2607.00673](http://arxiv.org/abs/2607.00673)|null|
 
 <p align=right>(<a href=#Updated-on-20260929>back to top</a>)</p>
 
@@ -527,6 +527,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**LLMs are General Asynchronous Agents**|George Yakushev et.al.|[2609.35427](http://arxiv.org/abs/2609.35427)|null|
+|**2026-09-28**|**JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments**|Zhixi Cai et.al.|[2609.35032](http://arxiv.org/abs/2609.35032)|null|
+|**2026-09-28**|**NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory**|Kai Sheng et.al.|[2609.34969](http://arxiv.org/abs/2609.34969)|null|
+|**2026-09-28**|**Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning**|Yuan Lin et.al.|[2609.34794](http://arxiv.org/abs/2609.34794)|**[link](https://github.com/ocean-luna/openvla-decide-then-explain)**|
+|**2026-09-28**|**SOR-Nav: Search or Relocate? Context-Gated Exploration and Cross-Region Relocation for Object Navigation**|Yuan Ji et.al.|[2609.34707](http://arxiv.org/abs/2609.34707)|null|
+|**2026-09-28**|**VCN-Bench: A Video-Contextualized Navigation Benchmark for Spatial Reasoning over Prior Visual Experience**|Siqi Zhang et.al.|[2609.34687](http://arxiv.org/abs/2609.34687)|null|
+|**2026-09-28**|**WorldAttention: An Efficient Attention Architecture for Interactive Video World Models**|Zeyu Zhang et.al.|[2609.34606](http://arxiv.org/abs/2609.34606)|**[link](https://github.com/alibaba-damo-academy/WorldAttention)**|
+|**2026-09-28**|**SAIL: Spatial Audio Intelligence with Large Language Models via Disentangled Acoustic-Spatial Encoding and Dual-Stream Q-Former**|Zhengding Luo et.al.|[2609.34347](http://arxiv.org/abs/2609.34347)|null|
+|**2026-09-27**|**SphMind: Towards Robust, Training-Free VLM-based Spatial Reasoning with a 360 Camera**|Shriram Damodaran et.al.|[2609.33462](http://arxiv.org/abs/2609.33462)|null|
+|**2026-09-27**|**AquaWAM: A Dynamics-aware World Action Model for Underwater Embodied Agents**|Cunhao Zhu et.al.|[2609.33299](http://arxiv.org/abs/2609.33299)|**[link](https://github.com/cunhaozhu/AquaWAM)**|
 |**2026-09-25**|**SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents**|Maokai Qin et.al.|[2609.30971](http://arxiv.org/abs/2609.30971)|null|
 |**2026-09-25**|**Skip the Talk, Re-Focus on Vision: Latent Reasoning for Reasoning Segmentation in Multimodal Large Language Models**|Tianhang Guo et.al.|[2609.30783](http://arxiv.org/abs/2609.30783)|null|
 |**2026-09-24**|**Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures**|Abhiram Maddukuri et.al.|[2609.30187](http://arxiv.org/abs/2609.30187)|null|
