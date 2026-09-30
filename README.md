@@ -527,6 +527,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**WorldLine: Action-Driven Visual Simulation for Robotic Manipulation**|Shenghe Zheng et.al.|[2609.38059](http://arxiv.org/abs/2609.38059)|null|
+|**2026-09-29**|**Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents**|Sicheng Xie et.al.|[2609.37810](http://arxiv.org/abs/2609.37810)|null|
+|**2026-09-29**|**Generative Interactions: Weaving Multiparty Human Motion with Bilevel Latent Dynamics**|Ojas Shirekar et.al.|[2609.37708](http://arxiv.org/abs/2609.37708)|null|
+|**2026-09-29**|**Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding**|Jiayu Ying et.al.|[2609.37655](http://arxiv.org/abs/2609.37655)|null|
+|**2026-09-29**|**Scene Retargeting: Learning Object Placement with Analogical Transfer**|Minkwan Kim et.al.|[2609.36801](http://arxiv.org/abs/2609.36801)|null|
+|**2026-09-29**|**Video2Skill: From Streaming Experience to Reusable Embodied Skills**|Jianshu Zhang et.al.|[2609.36691](http://arxiv.org/abs/2609.36691)|null|
+|**2026-09-29**|**ProgressCompass: Embodied Progress Reward Models Are Lost Without the Right Context**|Jianshu Zhang et.al.|[2609.36684](http://arxiv.org/abs/2609.36684)|null|
+|**2026-09-29**|**RobotEQ 3.0: Towards Personalized Social Proactive Intelligence in Embodied Agents**|Shufan Zhang et.al.|[2609.36618](http://arxiv.org/abs/2609.36618)|null|
+|**2026-09-28**|**HEIR: Learning Human-Entity Interactions with Functional Roles**|Di Wen et.al.|[2609.35955](http://arxiv.org/abs/2609.35955)|null|
 |**2026-09-28**|**LLMs are General Asynchronous Agents**|George Yakushev et.al.|[2609.35427](http://arxiv.org/abs/2609.35427)|null|
 |**2026-09-28**|**JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments**|Zhixi Cai et.al.|[2609.35032](http://arxiv.org/abs/2609.35032)|null|
 |**2026-09-28**|**NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory**|Kai Sheng et.al.|[2609.34969](http://arxiv.org/abs/2609.34969)|null|
