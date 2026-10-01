@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-07-06**|**Video Generation Models Are Inherent Lighting Estimators**|Ziqi Cai et.al.|[2607.04674](http://arxiv.org/abs/2607.04674)|null|
 |**2026-07-06**|**KAM-WM: Kinematic Affordance Maps from Latent World Models for Robot Manipulation**|Xinyu Shao et.al.|[2607.04652](http://arxiv.org/abs/2607.04652)|null|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 ## embodied AI
 
@@ -950,7 +950,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 ## image generation
 
@@ -1457,7 +1457,7 @@
 |**2026-07-14**|**Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models**|Qianpiao Ma et.al.|[2607.12583](http://arxiv.org/abs/2607.12583)|null|
 |**2026-07-14**|**UD-ASD: A Unified Diffusion Model for Anomalous Sound Detection**|Pengxiang Gao et.al.|[2607.12576](http://arxiv.org/abs/2607.12576)|null|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 ## LLM training
 
@@ -1964,7 +1964,7 @@
 |**2026-05-12**|**Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators**|Heejin Do et.al.|[2605.12748](http://arxiv.org/abs/2605.12748)|null|
 |**2026-05-12**|**Before the Last Token: Diagnosing Final-Token Safety Probe Failures**|Shravan Doda et.al.|[2605.12726](http://arxiv.org/abs/2605.12726)|null|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
