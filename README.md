@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-07-07**|**MoWorld: A Flash World Model**|Team Moxin et.al.|[2607.06216](http://arxiv.org/abs/2607.06216)|null|
 |**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018](http://arxiv.org/abs/2607.06018)|**[link](https://github.com/hananshafi/RoboTALES)**|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 
 ## embodied AI
 
@@ -959,12 +959,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|**[link](https://github.com/sophied111/moore-escher-penrose)**|
+|**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|**[link](https://github.com/MohammadHossinzehi/2026-07-09-am-raytracer)**|
+|**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
+|**2026-10-01**|**DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation**|Zhengming Yu et.al.|[2610.02188](http://arxiv.org/abs/2610.02188)|null|
+|**2026-10-01**|**SoftServe: A Scalable Quasi-Newton Method for Deep Learning**|Joohwan Ko et.al.|[2610.02182](http://arxiv.org/abs/2610.02182)|null|
+|**2026-10-01**|**MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI**|Negin Kafee Hernashki et.al.|[2610.02136](http://arxiv.org/abs/2610.02136)|null|
+|**2026-10-01**|**Form and Void: Entangled Composition through an Autonomous AI Agent**|Shiwen Wang et.al.|[2610.02045](http://arxiv.org/abs/2610.02045)|null|
+|**2026-10-01**|**Exploring Weaknesses of Generative Image Watermarks against Latent Frequency Masking**|Kirill Aistov et.al.|[2610.02010](http://arxiv.org/abs/2610.02010)|null|
+|**2026-10-01**|**Continual Concept Erasure in Diffusion Models by Suppressing Cross-Edit Interference**|Yongliang Wu et.al.|[2610.01989](http://arxiv.org/abs/2610.01989)|**[link](https://github.com/yongliang-wu/CEASE)**|
+|**2026-10-01**|**RASteer: Retain-Aware Activation Steering for Concept Erasure in Diffusion Models**|Yongliang Wu et.al.|[2610.01969](http://arxiv.org/abs/2610.01969)|null|
 |**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Hongyuan Tao et.al.|[2609.40362](http://arxiv.org/abs/2609.40362)|null|
 |**2026-09-30**|**Looped Diffusion Transformer**|Yong Xien Chng et.al.|[2609.40305](http://arxiv.org/abs/2609.40305)|**[link](https://github.com/OpenSenseNova/Looped-DiT)**|
 |**2026-09-30**|**MAGiDiff: Sampling the Photospheric Vector Field from UV/EUV Filtergrams**|Ruoyu Wang et.al.|[2609.40043](http://arxiv.org/abs/2609.40043)|null|
@@ -1455,23 +1465,23 @@
 |**2026-07-16**|**CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation**|Yuanpeng Zhang et.al.|[2607.14908](http://arxiv.org/abs/2607.14908)|null|
 |**2026-07-16**|**FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers**|Minguk Kang et.al.|[2607.14898](http://arxiv.org/abs/2607.14898)|null|
 |**2026-07-16**|**Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation**|Emanuele Colonna et.al.|[2607.14836](http://arxiv.org/abs/2607.14836)|null|
-|**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
-|**2026-07-16**|**Conditional Generative Learning Enabled Wireless UAV Sensing and Tracking via Point Cloud Imaging**|Xinhong Dai et.al.|[2607.14778](http://arxiv.org/abs/2607.14778)|null|
-|**2026-07-16**|**Rare Concept Generation via Counterfactual Inference in Diffusion Models**|Zhengyuan Jiang et.al.|[2607.14765](http://arxiv.org/abs/2607.14765)|**[link](https://github.com/200204jzy/CI-Diff)**|
-|**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|**[link](https://github.com/ntaquan0125/weather-cyclone)**|
-|**2026-07-15**|**Rearranged Stochastic Heat Equations with an Entropy Gradient Structure**|Francois Delarue et.al.|[2607.13849](http://arxiv.org/abs/2607.13849)|null|
-|**2026-07-15**|**TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model**|Zhenkai Zhang et.al.|[2607.13812](http://arxiv.org/abs/2607.13812)|**[link](https://github.com/Fredy-Zhang/TCAM-Diff)**|
-|**2026-07-15**|**DNA: Dual-stage Native Attribution for Generated Image Source Tracing**|Chao Wang et.al.|[2607.13685](http://arxiv.org/abs/2607.13685)|null|
-|**2026-07-15**|**Nexus: Native Mesh Generation with Diffusion**|Hanxiao Wang et.al.|[2607.13563](http://arxiv.org/abs/2607.13563)|null|
-|**2026-07-15**|**Exploring the Alignment of Generation and Understanding in Protein Structure Modeling**|Junde Xu et.al.|[2607.13503](http://arxiv.org/abs/2607.13503)|null|
-|**2026-07-15**|**Discrete Diffusion Models: A Unified Framework from Tokenization to Generation**|Ye Yuan et.al.|[2607.13431](http://arxiv.org/abs/2607.13431)|**[link](https://github.com/AAAAA-Academia-Attractions/Discrete-Diffusion)**|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
+|**2026-10-01**|**Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning**|Cristian McGee et.al.|[2610.02190](http://arxiv.org/abs/2610.02190)|null|
+|**2026-10-01**|**Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)**|Zilin Du et.al.|[2610.02092](http://arxiv.org/abs/2610.02092)|null|
+|**2026-10-01**|**FastCI: Efficient GPU-Intensive CI for LLM Training Frameworks**|Tianshuo Qiao et.al.|[2610.01967](http://arxiv.org/abs/2610.01967)|null|
+|**2026-10-01**|**GAW-PO: Preference Optimization with Gradient-Aligned Token Weights**|Andreea Dutulescu et.al.|[2610.01511](http://arxiv.org/abs/2610.01511)|null|
+|**2026-10-01**|**Learning to structure data from user-generated thematic corpora**|Elishay Avram et.al.|[2610.01463](http://arxiv.org/abs/2610.01463)|null|
+|**2026-10-01**|**Federated Learning for LLMs over Mobile Networks: Issues and Solutions in the RAN Transport**|Emilio Paolini et.al.|[2610.01304](http://arxiv.org/abs/2610.01304)|null|
+|**2026-10-01**|**Grounding Large Language Models in DSGE Simulators for Policy Generation and Forecasting**|Aditya Dubey et.al.|[2610.01128](http://arxiv.org/abs/2610.01128)|null|
+|**2026-09-30**|**AnyJev Technical Report**|Jiamu Zhang et.al.|[2610.00831](http://arxiv.org/abs/2610.00831)|null|
+|**2026-09-30**|**Training-Aware Target Coverage for Synthetic Data Selection**|Yang Ba et.al.|[2610.00814](http://arxiv.org/abs/2610.00814)|null|
 |**2026-09-30**|**Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces**|Hongyuan Tao et.al.|[2609.40362](http://arxiv.org/abs/2609.40362)|null|
 |**2026-09-30**|**Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports**|Aawez Mansuri et.al.|[2609.40236](http://arxiv.org/abs/2609.40236)|null|
 |**2026-09-30**|**Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions**|Chahat Raj et.al.|[2609.40124](http://arxiv.org/abs/2609.40124)|null|
@@ -1962,18 +1972,8 @@
 |**2026-06-30**|**On the Convergence of Self-Improving Online LLM Alignment**|Xudong Wu et.al.|[2606.31524](http://arxiv.org/abs/2606.31524)|null|
 |**2026-06-30**|**Probing Stylistic Appropriation using Large Language Models: An Evaluation Framework for Copyright Infringement under EU Law**|Noah Scharrenberg et.al.|[2606.31250](http://arxiv.org/abs/2606.31250)|null|
 |**2026-06-30**|**Agentic-Ideation: Sample Efficient Agentic Trajectories Synthesis for Scientific Ideation Agents**|Keyu Zhao et.al.|[2606.31229](http://arxiv.org/abs/2606.31229)|null|
-|**2026-06-30**|**Incentivizing Data Trading via Profit Reallocation**|Yunxuan Ma et.al.|[2606.31202](http://arxiv.org/abs/2606.31202)|null|
-|**2026-06-30**|**GenPage: Towards End-to-End Generative Homepage Construction at Netflix**|Lequn Wang et.al.|[2606.31031](http://arxiv.org/abs/2606.31031)|null|
-|**2026-06-29**|**Beyond Clean Text: Evaluating Encoder and Decoder Robustness for Bangla Event Detection in Noisy Text**|Tanvir Ahmed Sijan et.al.|[2606.30914](http://arxiv.org/abs/2606.30914)|null|
-|**2026-06-29**|**Online Data Selection for Instruction Tuning via Gaussian Processes**|Jun Wang et.al.|[2606.30077](http://arxiv.org/abs/2606.30077)|null|
-|**2026-06-30**|**Clearer Sight, Fewer Lies: Oriented Pickup Preference Optimization for Multimodal Hallucination Mitigation**|Xin Zou et.al.|[2606.29805](http://arxiv.org/abs/2606.29805)|null|
-|**2026-05-14**|**Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment**|Sayantan Kumar et.al.|[2605.15168](http://arxiv.org/abs/2605.15168)|**[link](https://github.com/SayantanKumar/MLHC_TTA)**|
-|**2026-05-14**|**Hierarchical Image Tokenization for Multi-Scale Image Super Resolution**|Isma Hadji et.al.|[2605.14891](http://arxiv.org/abs/2605.14891)|null|
-|**2026-05-14**|**Beyond What to Select: A Plug-and-play Oscillatory Data-Volume Scheduling for Efficient Model Training**|Suorong Yang et.al.|[2605.14773](http://arxiv.org/abs/2605.14773)|null|
-|**2026-05-14**|**Knowledge Beyond Language: Bridging the Gap in Multilingual Machine Unlearning Evaluation**|Kyomin Hwang et.al.|[2605.14404](http://arxiv.org/abs/2605.14404)|null|
-|**2026-05-14**|**Exemplar Partitioning for Mechanistic Interpretability**|Jessica Rumbelow et.al.|[2605.14347](http://arxiv.org/abs/2605.14347)|null|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
