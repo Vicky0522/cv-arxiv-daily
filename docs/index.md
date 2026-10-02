@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**ROWBench: Do Video Models Render What the Program Specifies?**|Zheng-Hui Huang et.al.|[2610.02205](http://arxiv.org/abs/2610.02205)|null|
+|**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
+|**2026-10-01**|**World Observer: Joint Actor-Observer Generation for Persistent World Modeling**|Hyunwook Choi et.al.|[2610.02162](http://arxiv.org/abs/2610.02162)|null|
+|**2026-10-01**|**4Director: Controlling Video World Models with Rigid 3D Geometry**|Wei Cao et.al.|[2610.02160](http://arxiv.org/abs/2610.02160)|null|
+|**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|**[link](https://github.com/UniWAM/UniWAM)**|
+|**2026-10-01**|**Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models**|Efstathios Karypidis et.al.|[2610.01942](http://arxiv.org/abs/2610.01942)|**[link](https://github.com/Sta8is/Latent-Foresight)**|
+|**2026-10-01**|**On the Divergence of Accuracy and Mechanism Consistency in Time Series World Models**|Haochen Zhang et.al.|[2610.01842](http://arxiv.org/abs/2610.01842)|null|
+|**2026-10-01**|**DiVid: Diagnosing Dimension-Specific Diversity Collapse in Video Generation Models**|Huanran Hu et.al.|[2610.01661](http://arxiv.org/abs/2610.01661)|null|
+|**2026-10-01**|**Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models**|Xindi Yang et.al.|[2610.01614](http://arxiv.org/abs/2610.01614)|null|
+|**2026-10-01**|**Completion Aware Guidance for World Action Models**|Seungyeon Kim et.al.|[2610.01559](http://arxiv.org/abs/2610.01559)|null|
 |**2026-09-30**|**Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model**|Liming Lu et.al.|[2609.40358](http://arxiv.org/abs/2609.40358)|null|
 |**2026-09-30**|**LOCI: Spatial Linear Memory for Streaming World Models**|Ji Xia et.al.|[2609.40222](http://arxiv.org/abs/2609.40222)|**[link](https://github.com/xiaji2021/LOCI)**|
 |**2026-09-30**|**Social-WM: Safety-Aware Latent World Models for Robot Social Navigation**|Zhihao Zheng et.al.|[2609.40177](http://arxiv.org/abs/2609.40177)|null|
@@ -504,27 +514,21 @@ layout: default
 |**2026-07-08**|**Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence**|Shuailei Ma et.al.|[2607.07675](http://arxiv.org/abs/2607.07675)|**[link](https://github.com/Robbyant/lingbot-video)**|
 |**2026-07-08**|**Infinite Worlds with Versatile Interactions**|Zelin Gao et.al.|[2607.07534](http://arxiv.org/abs/2607.07534)|**[link](https://github.com/Robbyant/lingbot-world-v2)**|
 |**2026-07-09**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
-|**2026-07-08**|**Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators**|Christian Oefinger et.al.|[2607.07196](http://arxiv.org/abs/2607.07196)|null|
-|**2026-07-08**|**Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix**|Yufeng Wang et.al.|[2607.06925](http://arxiv.org/abs/2607.06925)|null|
-|**2026-07-07**|**Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review**|Inkyu Sa et.al.|[2607.06706](http://arxiv.org/abs/2607.06706)|null|
-|**2026-07-07**|**RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**|Haoyu Zhao et.al.|[2607.06559](http://arxiv.org/abs/2607.06559)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-4D)**|
-|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://github.com/alibaba-damo-academy/RynnWorld-Teleop)**|
-|**2026-07-07**|**Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning**|Anxing Xiao et.al.|[2607.06501](http://arxiv.org/abs/2607.06501)|**[link](https://github.com/open-world-planning/open-world-planning.github.io)**|
-|**2026-07-07**|**A Definition and Roadmap for World Models**|Xinyuan Chen et.al.|[2607.06401](http://arxiv.org/abs/2607.06401)|null|
-|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**|AlayaWorld Team et.al.|[2607.06291](http://arxiv.org/abs/2607.06291)|null|
-|**2026-07-07**|**MoWorld: A Flash World Model**|Team Moxin et.al.|[2607.06216](http://arxiv.org/abs/2607.06216)|null|
-|**2026-07-07**|**RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures**|Hanan Gani et.al.|[2607.06018](http://arxiv.org/abs/2607.06018)|**[link](https://github.com/hananshafi/RoboTALES)**|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204](http://arxiv.org/abs/2610.02204)|null|
+|**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863](http://arxiv.org/abs/2610.01863)|null|
+|**2026-10-01**|**Token Communication-Assisted Collaborative Embodied Artificial Intelligence: Concepts, Framework, and Opportunities**|Peng Yi et.al.|[2610.01826](http://arxiv.org/abs/2610.01826)|null|
+|**2026-10-01**|**Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena**|Haojian Huang et.al.|[2610.00854](http://arxiv.org/abs/2610.00854)|null|
 |**2026-09-30**|**Game-Guided Skill Discovery through Self-Play for Playable Agent Control**|Seungeun Rho et.al.|[2609.40137](http://arxiv.org/abs/2609.40137)|null|
 |**2026-09-30**|**NavHarness: Adaptive Goals for Agentic Vision-Language Navigation**|Haoxiang Shi et.al.|[2609.39915](http://arxiv.org/abs/2609.39915)|null|
 |**2026-09-30**|**ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning**|Chenyangguang Zhang et.al.|[2609.39665](http://arxiv.org/abs/2609.39665)|null|
 |**2026-09-30**|**ASENA: Self-evolving Agents for Embodied Navigation**|An-Chieh Cheng et.al.|[2609.39207](http://arxiv.org/abs/2609.39207)|null|
 |**2026-09-30**|**Uruqi: Learning Spatial Cognition from Visual Experience**|Shichao Li et.al.|[2609.39195](http://arxiv.org/abs/2609.39195)|null|
-|**2026-09-30**|**Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds**|Mingjian Gao et.al.|[2609.39166](http://arxiv.org/abs/2609.39166)|null|
+|**2026-10-01**|**Beyond the Remembered World: Predictive 4D Belief for Persistent Navigation in Evolving Worlds**|Mingjian Gao et.al.|[2609.39166](http://arxiv.org/abs/2609.39166)|null|
 |**2026-09-30**|**Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos**|Hangong Chen et.al.|[2609.38966](http://arxiv.org/abs/2609.38966)|null|
 |**2026-09-29**|**Does This Action Still Explain the Task? Reverse Scoring for Diffusion Language Model Agents**|Jiacheng Qiu et.al.|[2609.38536](http://arxiv.org/abs/2609.38536)|null|
 |**2026-09-29**|**WorldLine: Action-Driven Visual Simulation for Robotic Manipulation**|Shenghe Zheng et.al.|[2609.38059](http://arxiv.org/abs/2609.38059)|null|
@@ -959,7 +963,7 @@ layout: default
 |**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|**[link](https://github.com/MohammadHossinzehi/2026-07-09-am-raytracer)**|
 |**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
 |**2026-10-01**|**DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation**|Zhengming Yu et.al.|[2610.02188](http://arxiv.org/abs/2610.02188)|null|
-|**2026-10-01**|**SoftServe: A Scalable Quasi-Newton Method for Deep Learning**|Joohwan Ko et.al.|[2610.02182](http://arxiv.org/abs/2610.02182)|null|
+|**2026-10-01**|**SoftServe: A Scalable Quasi-Newton Method for Deep Learning**|Joohwan Ko et.al.|[2610.02182](http://arxiv.org/abs/2610.02182)|**[link](https://github.com/joohwanko/SoftServe)**|
 |**2026-10-01**|**MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI**|Negin Kafee Hernashki et.al.|[2610.02136](http://arxiv.org/abs/2610.02136)|null|
 |**2026-10-01**|**Form and Void: Entangled Composition through an Autonomous AI Agent**|Shiwen Wang et.al.|[2610.02045](http://arxiv.org/abs/2610.02045)|null|
 |**2026-10-01**|**Exploring Weaknesses of Generative Image Watermarks against Latent Frequency Masking**|Kirill Aistov et.al.|[2610.02010](http://arxiv.org/abs/2610.02010)|null|
