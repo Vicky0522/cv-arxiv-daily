@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-07-08**|**Infinite Worlds with Versatile Interactions**|Zelin Gao et.al.|[2607.07534](http://arxiv.org/abs/2607.07534)|**[link](https://github.com/Robbyant/lingbot-world-v2)**|
 |**2026-07-09**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
 
-<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261003>back to top</a>)</p>
 
 ## embodied AI
 
@@ -963,7 +963,7 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261003>back to top</a>)</p>
 
 ## image generation
 
@@ -972,7 +972,7 @@
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|**[link](https://github.com/sophied111/moore-escher-penrose)**|
 |**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|**[link](https://github.com/MohammadHossinzehi/2026-07-09-am-raytracer)**|
 |**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
-|**2026-10-01**|**DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation**|Zhengming Yu et.al.|[2610.02188](http://arxiv.org/abs/2610.02188)|null|
+|**2026-10-01**|**DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation**|Zhengming Yu et.al.|[2610.02188](http://arxiv.org/abs/2610.02188)|**[link](https://github.com/Yzmblog/DMAD)**|
 |**2026-10-01**|**SoftServe: A Scalable Quasi-Newton Method for Deep Learning**|Joohwan Ko et.al.|[2610.02182](http://arxiv.org/abs/2610.02182)|**[link](https://github.com/joohwanko/SoftServe)**|
 |**2026-10-01**|**MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI**|Negin Kafee Hernashki et.al.|[2610.02136](http://arxiv.org/abs/2610.02136)|null|
 |**2026-10-01**|**Form and Void: Entangled Composition through an Autonomous AI Agent**|Shiwen Wang et.al.|[2610.02045](http://arxiv.org/abs/2610.02045)|null|
@@ -1470,7 +1470,7 @@
 |**2026-07-16**|**FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers**|Minguk Kang et.al.|[2607.14898](http://arxiv.org/abs/2607.14898)|null|
 |**2026-07-16**|**Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation**|Emanuele Colonna et.al.|[2607.14836](http://arxiv.org/abs/2607.14836)|null|
 
-<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261003>back to top</a>)</p>
 
 ## LLM training
 
@@ -1977,7 +1977,7 @@
 |**2026-06-30**|**Probing Stylistic Appropriation using Large Language Models: An Evaluation Framework for Copyright Infringement under EU Law**|Noah Scharrenberg et.al.|[2606.31250](http://arxiv.org/abs/2606.31250)|null|
 |**2026-06-30**|**Agentic-Ideation: Sample Efficient Agentic Trajectories Synthesis for Scientific Ideation Agents**|Keyu Zhao et.al.|[2606.31229](http://arxiv.org/abs/2606.31229)|null|
 
-<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

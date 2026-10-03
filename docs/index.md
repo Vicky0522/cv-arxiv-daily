@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -962,7 +962,7 @@ layout: default
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|**[link](https://github.com/sophied111/moore-escher-penrose)**|
 |**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|**[link](https://github.com/MohammadHossinzehi/2026-07-09-am-raytracer)**|
 |**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
-|**2026-10-01**|**DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation**|Zhengming Yu et.al.|[2610.02188](http://arxiv.org/abs/2610.02188)|null|
+|**2026-10-01**|**DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation**|Zhengming Yu et.al.|[2610.02188](http://arxiv.org/abs/2610.02188)|**[link](https://github.com/Yzmblog/DMAD)**|
 |**2026-10-01**|**SoftServe: A Scalable Quasi-Newton Method for Deep Learning**|Joohwan Ko et.al.|[2610.02182](http://arxiv.org/abs/2610.02182)|**[link](https://github.com/joohwanko/SoftServe)**|
 |**2026-10-01**|**MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI**|Negin Kafee Hernashki et.al.|[2610.02136](http://arxiv.org/abs/2610.02136)|null|
 |**2026-10-01**|**Form and Void: Entangled Composition through an Autonomous AI Agent**|Shiwen Wang et.al.|[2610.02045](http://arxiv.org/abs/2610.02045)|null|
