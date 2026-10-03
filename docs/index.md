@@ -17,7 +17,7 @@ layout: default
 |**2026-10-01**|**ROWBench: Do Video Models Render What the Program Specifies?**|Zheng-Hui Huang et.al.|[2610.02205](http://arxiv.org/abs/2610.02205)|null|
 |**2026-10-01**|**HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation**|Tahira Kazimi et.al.|[2610.02197](http://arxiv.org/abs/2610.02197)|null|
 |**2026-10-01**|**World Observer: Joint Actor-Observer Generation for Persistent World Modeling**|Hyunwook Choi et.al.|[2610.02162](http://arxiv.org/abs/2610.02162)|null|
-|**2026-10-01**|**4Director: Controlling Video World Models with Rigid 3D Geometry**|Wei Cao et.al.|[2610.02160](http://arxiv.org/abs/2610.02160)|null|
+|**2026-10-01**|**4Director: Controlling Video World Models with Rigid 3D Geometry**|Wei Cao et.al.|[2610.02160](http://arxiv.org/abs/2610.02160)|**[link](https://github.com/VVeiCao/4Director)**|
 |**2026-10-01**|**UniWAM: Unified World-Action Model**|Jiayi Chen et.al.|[2610.02054](http://arxiv.org/abs/2610.02054)|**[link](https://github.com/UniWAM/UniWAM)**|
 |**2026-10-01**|**Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models**|Efstathios Karypidis et.al.|[2610.01942](http://arxiv.org/abs/2610.01942)|**[link](https://github.com/Sta8is/Latent-Foresight)**|
 |**2026-10-01**|**On the Divergence of Accuracy and Mechanism Consistency in Time Series World Models**|Haochen Zhang et.al.|[2610.01842](http://arxiv.org/abs/2610.01842)|null|
