@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## world model
@@ -519,6 +519,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**EVEWorld: Physical Evolution Supervision for Embodied World Models**|Kaiqi Wang et.al.|[2610.03374](http://arxiv.org/abs/2610.03374)|**[link](https://github.com/EVE-World/EVEWorld)**|
+|**2026-10-02**|**OmniAct3D: Leveraging Foundation Geometry and Evidence-Grounded Reasoning for Panoramic 3D Detection**|Runtong Wu et.al.|[2610.03015](http://arxiv.org/abs/2610.03015)|null|
+|**2026-10-02**|**On Representational Alignment among Embodied Agents**|Fulvio Mastrogiovanni et.al.|[2610.02985](http://arxiv.org/abs/2610.02985)|null|
+|**2026-10-02**|**RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer**|Chenxi Li et.al.|[2610.02717](http://arxiv.org/abs/2610.02717)|null|
+|**2026-10-02**|**RoboChemGym: A Protocol-Driven Generative Simulation Framework for Long-Horizon Chemical Manipulation**|Chenxi Li et.al.|[2610.02708](http://arxiv.org/abs/2610.02708)|null|
+|**2026-10-02**|**A Token Service Interface for AI-Native RANs**|Jianan Zhang et.al.|[2610.02618](http://arxiv.org/abs/2610.02618)|null|
+|**2026-10-01**|**Joint Movement and Compression Ratio Design for Mobile Embodied AI Networks (MEAN)**|Yahao Ding et.al.|[2610.02334](http://arxiv.org/abs/2610.02334)|null|
 |**2026-10-01**|**Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents**|Yen-Jen Wang et.al.|[2610.02204](http://arxiv.org/abs/2610.02204)|null|
 |**2026-10-01**|**LiteReality-Agent: An Agentic System for Interactable 3D Indoor Scene Reconstruction**|Zhening Huang et.al.|[2610.01863](http://arxiv.org/abs/2610.01863)|null|
 |**2026-10-01**|**Token Communication-Assisted Collaborative Embodied Artificial Intelligence: Concepts, Framework, and Opportunities**|Peng Yi et.al.|[2610.01826](http://arxiv.org/abs/2610.01826)|null|
@@ -959,6 +966,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**IDRF: Inverse-Distilled Reward Fine-tuning of Masked Discrete Diffusion Models**|Vladislav Gromadskii et.al.|[2610.03641](http://arxiv.org/abs/2610.03641)|null|
+|**2026-10-02**|**DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation**|Jiahao Zhan et.al.|[2610.03543](http://arxiv.org/abs/2610.03543)|null|
+|**2026-10-02**|**ProgressNet: Sketching and Prompting with a Frozen Text-to-Image Model**|Arkaprabha Basu et.al.|[2610.03512](http://arxiv.org/abs/2610.03512)|null|
+|**2026-10-02**|**Getting Your Guidance Weights Right in diffusion and flow-matching posterior sampling**|Liam Moroy et.al.|[2610.03503](http://arxiv.org/abs/2610.03503)|null|
+|**2026-10-02**|**AREX: Affine-Residual Exponential Integrator for Few-Step Sampling in Flow Matching**|Shizheng Lin et.al.|[2610.03483](http://arxiv.org/abs/2610.03483)|null|
+|**2026-10-02**|**A Unified Framework for Bayesian Data Assimilation with Generative Models and Observation Interpolants**|Nikolaj T. Mücke et.al.|[2610.03396](http://arxiv.org/abs/2610.03396)|null|
+|**2026-10-02**|**Fully mixed finite element methods for the coupling of viscoelasticity and reaction-diffusion models**|Alonso J. Bustos et.al.|[2610.03317](http://arxiv.org/abs/2610.03317)|null|
+|**2026-10-02**|**Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures**|Elena Morotti et.al.|[2610.03261](http://arxiv.org/abs/2610.03261)|null|
+|**2026-10-02**|**Uncertainty as a Proxy for Semantic Correctness in Diffusion-Based Medical Image Synthesis**|Yuxuan Ou et.al.|[2610.03224](http://arxiv.org/abs/2610.03224)|null|
+|**2026-10-02**|**VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation**|Yutong Wang et.al.|[2610.03221](http://arxiv.org/abs/2610.03221)|**[link](https://github.com/hhhh1138/VDOT)**|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|**[link](https://github.com/sophied111/moore-escher-penrose)**|
 |**2026-10-01**|**Sphere Encoder 2**|Kaiyu Yue et.al.|[2610.02208](http://arxiv.org/abs/2610.02208)|**[link](https://github.com/MohammadHossinzehi/2026-07-09-am-raytracer)**|
 |**2026-10-01**|**Embedding Prediction Helps Image Generation**|Sihan Xu et.al.|[2610.02203](http://arxiv.org/abs/2610.02203)|null|
@@ -1449,21 +1466,21 @@ layout: default
 |**2026-07-17**|**Constructing far-from-equilibrium patterns in a cross-diffusion vegetation-autotoxicity model**|Annalisa Iuorio et.al.|[2607.15692](http://arxiv.org/abs/2607.15692)|null|
 |**2026-07-17**|**S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation**|Jiahao Zhao et.al.|[2607.15686](http://arxiv.org/abs/2607.15686)|null|
 |**2026-07-17**|**PE-Field 4D: Video Generation Models as Canvas**|Yunpeng Bai et.al.|[2607.15667](http://arxiv.org/abs/2607.15667)|**[link](https://github.com/cppan-packages/a3b15667afb6900358554d343c5b488181dd080231880d7e1e779a83a260733c)**|
-|**2026-07-17**|**DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse**|Yuyang Chen et.al.|[2607.15650](http://arxiv.org/abs/2607.15650)|null|
-|**2026-07-17**|**StructGen: Disambiguating Multi-Reference Image Generation via Structured Context Modeling**|Jianing Peng et.al.|[2607.15619](http://arxiv.org/abs/2607.15619)|**[link](https://github.com/jianingPeng0382/StructGenCode)**|
-|**2026-07-17**|**SPEED: One-Step Pixel Diffusion for High-quality Video Frame Interpolation**|Zihao Zhang et.al.|[2607.15585](http://arxiv.org/abs/2607.15585)|**[link](https://github.com/bbldCVer/SPEED)**|
-|**2026-07-16**|**Hierarchical Denoising For Multi-Step Visual Reasoning**|Zezhong Qian et.al.|[2607.15278](http://arxiv.org/abs/2607.15278)|null|
-|**2026-07-16**|**Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion**|Wenqi Si et.al.|[2607.15041](http://arxiv.org/abs/2607.15041)|null|
-|**2026-07-16**|**Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation**|Ku Onoda et.al.|[2607.14962](http://arxiv.org/abs/2607.14962)|null|
-|**2026-07-16**|**Introspective Attention Modulation for Safe Text-to-Image Generation**|Basim Azam et.al.|[2607.14945](http://arxiv.org/abs/2607.14945)|**[link](https://github.com/basim-azam/iam)**|
-|**2026-07-16**|**CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation**|Yuanpeng Zhang et.al.|[2607.14908](http://arxiv.org/abs/2607.14908)|null|
-|**2026-07-16**|**FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers**|Minguk Kang et.al.|[2607.14898](http://arxiv.org/abs/2607.14898)|null|
-|**2026-07-16**|**Physics-Informed Diffusion for Biomechanically Plausible 3D Sign Language Generation**|Emanuele Colonna et.al.|[2607.14836](http://arxiv.org/abs/2607.14836)|null|
 
 ## LLM training
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Language Models that Play Chess and Explain Their Moves**|Adithya Bhaskar et.al.|[2610.03695](http://arxiv.org/abs/2610.03695)|**[link](https://github.com/queen-project/queen)**|
+|**2026-10-02**|**StanceEval 2026: The Second Stance Detection Shared Task**|Rasha Albalawi et.al.|[2610.03215](http://arxiv.org/abs/2610.03215)|null|
+|**2026-10-02**|**Predicting and Repairing Merge Collapse in Large Language Models**|Jungseob Lee et.al.|[2610.03199](http://arxiv.org/abs/2610.03199)|**[link](https://github.com/js-lee-AI/PRISM)**|
+|**2026-10-02**|**OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models**|Tao Shi et.al.|[2610.02986](http://arxiv.org/abs/2610.02986)|null|
+|**2026-10-02**|**Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards**|Yuanhao Ban et.al.|[2610.02967](http://arxiv.org/abs/2610.02967)|**[link](https://github.com/banyuanhao/Post-Training-Frontier-Text-to-Image-Models-by-Composing-Preference-and-Rubric-Rewards)**|
+|**2026-10-02**|**Enhancing Biomedical Named Entity Recognition via Multiple Programming Languages Instruction Tuning and Ensemble Method**|Songtao Li et.al.|[2610.02949](http://arxiv.org/abs/2610.02949)|null|
+|**2026-10-02**|**Output Language Confusion under Multilingual Prompt Contamination**|Riju Marwah et.al.|[2610.02926](http://arxiv.org/abs/2610.02926)|null|
+|**2026-10-02**|**PsyEvo: A Personalized Counseling Agent That Self-Evolves at Test Time**|Yuting Yan et.al.|[2610.02885](http://arxiv.org/abs/2610.02885)|null|
+|**2026-10-02**|**DNAlign: Dynamic Null-Space Safe Alignment for LLMs**|Jisheng Dang et.al.|[2610.02844](http://arxiv.org/abs/2610.02844)|null|
+|**2026-10-01**|**Mitigating Social Sycophancy via Pluralistic Preference Optimization**|Stephane Hatgis-Kessell et.al.|[2610.02568](http://arxiv.org/abs/2610.02568)|null|
 |**2026-10-01**|**TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning**|Jichao Jiang et.al.|[2610.02199](http://arxiv.org/abs/2610.02199)|null|
 |**2026-10-01**|**Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning**|Cristian McGee et.al.|[2610.02190](http://arxiv.org/abs/2610.02190)|null|
 |**2026-10-01**|**Scalable, Transferable Meta-network for Data Selection Requires a Different Loss (and Why the Obvious Choice is Problematic)**|Zilin Du et.al.|[2610.02092](http://arxiv.org/abs/2610.02092)|null|
@@ -1954,16 +1971,6 @@ layout: default
 |**2026-07-01**|**GenAU: Language-Grounded Industrial Anomaly Understanding with Vision-Language Models**|Hongkuan Zhou et.al.|[2607.01049](http://arxiv.org/abs/2607.01049)|null|
 |**2026-07-01**|**Understanding Large Language Models**|Yannik Keller et.al.|[2607.01006](http://arxiv.org/abs/2607.01006)|**[link](https://github.com/X-PLUG/mPLUG-DocOwl)**|
 |**2026-07-01**|**MultiSynt/MT: Trillion-Token Multi-Parallel Pre-Training Data Translated Across 36 Languages**|Maximilian Idahl et.al.|[2607.00890](http://arxiv.org/abs/2607.00890)|null|
-|**2026-07-01**|**CAT: Confidence-Adaptive Thinking for Efficient Reasoning of Large Reasoning Models**|Qizhi Jiang et.al.|[2607.00862](http://arxiv.org/abs/2607.00862)|null|
-|**2026-07-01**|**Learning to Watch: Active Video Anomaly Understanding via Interleaved Policy Optimization**|Mengjingcheng Mo et.al.|[2607.00622](http://arxiv.org/abs/2607.00622)|null|
-|**2026-07-01**|**Multi-Turn Agentic Scientific Literature Search via Workflow Induction**|Jisen Li et.al.|[2607.00597](http://arxiv.org/abs/2607.00597)|null|
-|**2026-07-01**|**StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning**|Yuan Qing et.al.|[2607.00465](http://arxiv.org/abs/2607.00465)|**[link](https://github.com/yuanqing-ai/StochasT)**|
-|**2026-07-01**|**Information-Regularized Attention for Visual-Centric Reasoning**|Guohao Sun et.al.|[2607.00434](http://arxiv.org/abs/2607.00434)|null|
-|**2026-06-30**|**Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2606.32032](http://arxiv.org/abs/2606.32032)|**[link](https://github.com/yale-nlp/RLMF)**|
-|**2026-06-30**|**Do Machines Struggle Where Humans Do? LLM and Human Comprehension of Obfuscated Code**|Jack Le et.al.|[2606.31725](http://arxiv.org/abs/2606.31725)|null|
-|**2026-06-30**|**On the Convergence of Self-Improving Online LLM Alignment**|Xudong Wu et.al.|[2606.31524](http://arxiv.org/abs/2606.31524)|null|
-|**2026-06-30**|**Probing Stylistic Appropriation using Large Language Models: An Evaluation Framework for Copyright Infringement under EU Law**|Noah Scharrenberg et.al.|[2606.31250](http://arxiv.org/abs/2606.31250)|null|
-|**2026-06-30**|**Agentic-Ideation: Sample Efficient Agentic Trajectories Synthesis for Scientific Ideation Agents**|Keyu Zhao et.al.|[2606.31229](http://arxiv.org/abs/2606.31229)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
