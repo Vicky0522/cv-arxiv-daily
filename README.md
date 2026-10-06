@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-07-08**|**Infinite Worlds with Versatile Interactions**|Zelin Gao et.al.|[2607.07534](http://arxiv.org/abs/2607.07534)|**[link](https://github.com/Robbyant/lingbot-world-v2)**|
 |**2026-07-09**|**TouchWorld: A Predictive and Reactive Tactile Foundation Model for Dexterous Manipulation**|Jianyi Zhou et.al.|[2607.07287](http://arxiv.org/abs/2607.07287)|null|
 
-<p align=right>(<a href=#Updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
 
 ## embodied AI
 
@@ -970,12 +970,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation**|Jeffrey Hu et.al.|[2610.06847](http://arxiv.org/abs/2610.06847)|null|
+|**2026-10-05**|**UniSlider: Perceptually Uniform Sliders for Continuous Image Editing**|David Serrano-Lozano et.al.|[2610.06831](http://arxiv.org/abs/2610.06831)|null|
+|**2026-10-05**|**AffordCraft: Scalable Construction of Task-Ready Simulation Assets from Single Images**|Haoyun Yang et.al.|[2610.06643](http://arxiv.org/abs/2610.06643)|**[link](https://github.com/AffordCraft/AffordCraft)**|
+|**2026-10-05**|**Harmful Content Generation in Text-to-Image Models: Capabilities and Moderation Limitations**|Paschalis Giakoumoglou et.al.|[2610.06503](http://arxiv.org/abs/2610.06503)|null|
+|**2026-10-05**|**Smorph: Playable Sound Morphing with Diffusion Models**|Annie Chu et.al.|[2610.06478](http://arxiv.org/abs/2610.06478)|null|
+|**2026-10-05**|**From Sparse AFM Observations to Probabilistic Macroscale Mechanics: A Generative-Physics Framework for Plant Cell Walls**|Samundra Karki et.al.|[2610.06436](http://arxiv.org/abs/2610.06436)|null|
+|**2026-10-05**|**SPIN: Image Immunization Against Diffusion Editing via Single-Step Projection in Stochastic Neighborhoods**|Fengming Gu et.al.|[2610.06334](http://arxiv.org/abs/2610.06334)|null|
+|**2026-10-05**|**CentriQ: Calibration-Free Quantization of Diffusion Transformers via Exact Mean Centering**|Nataša Jovanović et.al.|[2610.06260](http://arxiv.org/abs/2610.06260)|null|
+|**2026-10-05**|**Frequency-Decoupled Diffusion Guidance for Non-Blind Image Deblurring**|Sihan Wang et.al.|[2610.06221](http://arxiv.org/abs/2610.06221)|**[link](https://github.com/Sea-serpents/frequency-decoupled-diffusion-guidance)**|
+|**2026-10-05**|**Diffusion Meets Unrolling: Compressive SAR Image Reconstruction with Interleaved Learned Corrections**|Odysseas Pappas et.al.|[2610.06107](http://arxiv.org/abs/2610.06107)|null|
 |**2026-10-02**|**IDRF: Inverse-Distilled Reward Fine-tuning of Masked Discrete Diffusion Models**|Vladislav Gromadskii et.al.|[2610.03641](http://arxiv.org/abs/2610.03641)|null|
 |**2026-10-02**|**DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation**|Jiahao Zhan et.al.|[2610.03543](http://arxiv.org/abs/2610.03543)|null|
 |**2026-10-02**|**ProgressNet: Sketching and Prompting with a Frozen Text-to-Image Model**|Arkaprabha Basu et.al.|[2610.03512](http://arxiv.org/abs/2610.03512)|null|
@@ -1466,23 +1476,23 @@
 |**2026-07-20**|**Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation**|Zhenjie Liu et.al.|[2607.17985](http://arxiv.org/abs/2607.17985)|null|
 |**2026-07-20**|**DiFA: Inference-Time Forward-Process Alignment for Diffusion Models**|Shigui Li et.al.|[2607.17972](http://arxiv.org/abs/2607.17972)|null|
 |**2026-07-20**|**Chemical filters for ultra-high-throughput materials screening and generation**|Kinga O. Mastej et.al.|[2607.17910](http://arxiv.org/abs/2607.17910)|null|
-|**2026-07-20**|**Consistent Feature Transport for Image Relighting**|Bohan Zhang et.al.|[2607.17833](http://arxiv.org/abs/2607.17833)|**[link](https://github.com/Dixin-Lab/CFT)**|
-|**2026-07-20**|**To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations**|Wenzhuang Wang et.al.|[2607.17768](http://arxiv.org/abs/2607.17768)|**[link](https://github.com/fayewong666999/CamoDreamer)**|
-|**2026-07-20**|**Reviving Ancient Paintings via Poem: A Colorization Framework for Aligning Cultural Semantics**|Junming Gao et.al.|[2607.17638](http://arxiv.org/abs/2607.17638)|null|
-|**2026-07-17**|**ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering**|Meijia Huang et.al.|[2607.16060](http://arxiv.org/abs/2607.16060)|null|
-|**2026-07-17**|**Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation**|Dimitrios Karageorgiou et.al.|[2607.15849](http://arxiv.org/abs/2607.15849)|**[link](https://github.com/mever-team/tango)**|
-|**2026-07-17**|**DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction**|Chi Zhang et.al.|[2607.15846](http://arxiv.org/abs/2607.15846)|null|
-|**2026-07-17**|**Toward a mechanistic understanding of inference in visual cortex and diffusion models**|Zeyu Yun et.al.|[2607.15693](http://arxiv.org/abs/2607.15693)|null|
-|**2026-07-17**|**Constructing far-from-equilibrium patterns in a cross-diffusion vegetation-autotoxicity model**|Annalisa Iuorio et.al.|[2607.15692](http://arxiv.org/abs/2607.15692)|null|
-|**2026-07-17**|**S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation**|Jiahao Zhao et.al.|[2607.15686](http://arxiv.org/abs/2607.15686)|null|
-|**2026-07-17**|**PE-Field 4D: Video Generation Models as Canvas**|Yunpeng Bai et.al.|[2607.15667](http://arxiv.org/abs/2607.15667)|**[link](https://github.com/cppan-packages/a3b15667afb6900358554d343c5b488181dd080231880d7e1e779a83a260733c)**|
 
-<p align=right>(<a href=#Updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
+|**2026-10-05**|**Domain adaptation of Russian ModernBERT for long legal documents**|I. Litvak et.al.|[2610.06715](http://arxiv.org/abs/2610.06715)|null|
+|**2026-10-05**|**Reward Stealing Attack on Large Language Models**|Jiaming Qian et.al.|[2610.06670](http://arxiv.org/abs/2610.06670)|null|
+|**2026-10-05**|**AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**|Yingda Shen et.al.|[2610.06632](http://arxiv.org/abs/2610.06632)|null|
+|**2026-10-05**|**Synthetic Cultural Agents from Aggregate Anchors**|Augusto Gonzalez-Bonorino et.al.|[2610.06562](http://arxiv.org/abs/2610.06562)|null|
+|**2026-10-05**|**The Assistance Dilemma: Learning to Teach via Multi-Turn Reinforcement Learning**|Jakub Macina et.al.|[2610.06446](http://arxiv.org/abs/2610.06446)|null|
+|**2026-10-05**|**Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models**|Joe Dwyer et.al.|[2610.06387](http://arxiv.org/abs/2610.06387)|null|
+|**2026-10-05**|**Dynamic Minimax Regret Optimization for Robust LLM Post-Training**|Chengbo Zang et.al.|[2610.06329](http://arxiv.org/abs/2610.06329)|null|
+|**2026-10-05**|**Fine-Tuning a 3B-Parameter LLM on a Smartphone: Characterizing Sustained Training**|Andrew Geyko et.al.|[2610.06325](http://arxiv.org/abs/2610.06325)|null|
+|**2026-10-05**|**ORCA: The Annealed Spectral Conditioning Optimizer for Faster, Better LLM Training**|Yuanshi Liu et.al.|[2610.06116](http://arxiv.org/abs/2610.06116)|null|
 |**2026-10-02**|**Language Models that Play Chess and Explain Their Moves**|Adithya Bhaskar et.al.|[2610.03695](http://arxiv.org/abs/2610.03695)|**[link](https://github.com/queen-project/queen)**|
 |**2026-10-02**|**StanceEval 2026: The Second Stance Detection Shared Task**|Rasha Albalawi et.al.|[2610.03215](http://arxiv.org/abs/2610.03215)|null|
 |**2026-10-02**|**Predicting and Repairing Merge Collapse in Large Language Models**|Jungseob Lee et.al.|[2610.03199](http://arxiv.org/abs/2610.03199)|**[link](https://github.com/js-lee-AI/PRISM)**|
@@ -1973,18 +1983,8 @@
 |**2026-07-02**|**Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning**|Congrui Du et.al.|[2607.02214](http://arxiv.org/abs/2607.02214)|null|
 |**2026-07-02**|**InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories**|Qianyu Chen et.al.|[2607.02010](http://arxiv.org/abs/2607.02010)|null|
 |**2026-07-02**|**Robust for the Wrong Reasons: The Representational Geometry of LLM Robustness to Science Skepticism**|Minjong Cheon et.al.|[2607.01951](http://arxiv.org/abs/2607.01951)|null|
-|**2026-07-02**|**Has This Checkpoint Been Abliterated? A Two-Signal Audit and Its Failure Map**|Gabriel Hurtado et.al.|[2607.01854](http://arxiv.org/abs/2607.01854)|**[link](https://github.com/ai-inventor-papers/ai-invention-dfd706-depth-weighted-weight-recovery-energy)**|
-|**2026-07-02**|**Distributionally Robust Listwise Preference Optimization**|Xudong Wu et.al.|[2607.01715](http://arxiv.org/abs/2607.01715)|null|
-|**2026-07-02**|**SCAPE: Accurate and Efficient LLM Training with Extreme Sparse Communication**|Mingkai Zheng et.al.|[2607.01678](http://arxiv.org/abs/2607.01678)|null|
-|**2026-07-02**|**DeadPool: Resilient LLM Training with Hot-Swapping via Zero-Overhead Checkpoint**|Haotian Xie et.al.|[2607.01646](http://arxiv.org/abs/2607.01646)|null|
-|**2026-07-01**|**Multi-Objective Exploration and Preference Optimization via Mutual Information**|Hongyan Xie et.al.|[2607.01392](http://arxiv.org/abs/2607.01392)|null|
-|**2026-07-01**|**ZO-Act: Efficient Zeroth-Order Fine-Tuning via One-Shot Activation-Informed Low-Rank Subspaces**|Xun Dong et.al.|[2607.01125](http://arxiv.org/abs/2607.01125)|null|
-|**2026-07-01**|**CausalMix: Data Mixture as Causal Inference for Language Model Training**|Zinan Tang et.al.|[2607.01104](http://arxiv.org/abs/2607.01104)|null|
-|**2026-07-01**|**GenAU: Language-Grounded Industrial Anomaly Understanding with Vision-Language Models**|Hongkuan Zhou et.al.|[2607.01049](http://arxiv.org/abs/2607.01049)|null|
-|**2026-07-01**|**Understanding Large Language Models**|Yannik Keller et.al.|[2607.01006](http://arxiv.org/abs/2607.01006)|**[link](https://github.com/X-PLUG/mPLUG-DocOwl)**|
-|**2026-07-01**|**MultiSynt/MT: Trillion-Token Multi-Parallel Pre-Training Data Translated Across 36 Languages**|Maximilian Idahl et.al.|[2607.00890](http://arxiv.org/abs/2607.00890)|null|
 
-<p align=right>(<a href=#Updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
