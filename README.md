@@ -20,6 +20,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
+|**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Jai Bardhan et.al.|[2610.08780](http://arxiv.org/abs/2610.08780)|**[link](https://github.com/Jai2500/depthworld)**|
+|**2026-10-06**|**CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching**|Shangye Song et.al.|[2610.08777](http://arxiv.org/abs/2610.08777)|null|
+|**2026-10-06**|**AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model**|Sarim Hashmi et.al.|[2610.08773](http://arxiv.org/abs/2610.08773)|null|
+|**2026-10-06**|**WorldSonus: Bringing Sound to Worlds**|Pengjun Fang et.al.|[2610.08760](http://arxiv.org/abs/2610.08760)|**[link](https://github.com/NoizAI/WorldSonus-demo)**|
+|**2026-10-06**|**RIWANav: Recursive World-Action Models with Self-Improvement for Urban Navigation**|Jing Xie et.al.|[2610.08640](http://arxiv.org/abs/2610.08640)|null|
+|**2026-10-06**|**Parallel Predictive World Models for Accurate and Efficient Long-Horizon Planning**|Wanjin Feng et.al.|[2610.08627](http://arxiv.org/abs/2610.08627)|null|
+|**2026-10-06**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|Thinh D. Le et.al.|[2610.08526](http://arxiv.org/abs/2610.08526)|null|
+|**2026-10-06**|**A Belief-State World Model for Catheter Navigation under Sparse Fluoroscopy: A Planar Proof of Concept**|Damini Rijhwani et.al.|[2610.08469](http://arxiv.org/abs/2610.08469)|null|
+|**2026-10-06**|**Federated Bayesian Surveillance of Mechanical Thrombectomy Adverse Events: A Population Risk Layer for Surgical Digital Twins**|Damini Rijhwani et.al.|[2610.08464](http://arxiv.org/abs/2610.08464)|null|
 |**2026-10-05**|**TAPDreamer: Transferable Adversarial Patches for World Action Models**|Xuanyu Lu et.al.|[2610.06814](http://arxiv.org/abs/2610.06814)|null|
 |**2026-10-05**|**H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning**|Wancong Zhang et.al.|[2610.06805](http://arxiv.org/abs/2610.06805)|null|
 |**2026-10-05**|**ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections**|Xiaoyu Zhou et.al.|[2610.06687](http://arxiv.org/abs/2610.06687)|null|
@@ -510,16 +520,6 @@
 |**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
 |**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
-|**2026-07-13**|**WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos**|Jiahao Liu et.al.|[2607.11397](http://arxiv.org/abs/2607.11397)|**[link](https://github.com/liujiahao2077/WALA)**|
-|**2026-07-13**|**Towards Predictive, Aligned, and Scalable Robot Learning**|Peijun Tang et.al.|[2607.11270](http://arxiv.org/abs/2607.11270)|null|
-|**2026-07-12**|**Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models**|Xiyan Su et.al.|[2607.10781](http://arxiv.org/abs/2607.10781)|null|
-|**2026-07-12**|**World Models as Adversaries: Multi-Agent Self-Play Fine-Tuning for Robust Motion Planning**|Tong Nie et.al.|[2607.10630](http://arxiv.org/abs/2607.10630)|null|
-|**2026-07-11**|**Stateful Worlds, Stateless Elasticity: Exact-State Serving for Interactive World Models**|Jin Li et.al.|[2607.10389](http://arxiv.org/abs/2607.10389)|null|
-|**2026-07-11**|**A Control Theory of Predictability in Latent World Models**|Hanzhe You et.al.|[2607.10362](http://arxiv.org/abs/2607.10362)|null|
-|**2026-07-10**|**PanoWorld: Real-World Panoramic Generation**|Haoyuan Li et.al.|[2607.09661](http://arxiv.org/abs/2607.09661)|**[link](https://github.com/Insta360-Research-Team/PanoWorld)**|
-|**2026-07-10**|**Causally Debiased Latent Action Model for Embodied Action Conditioned World Models**|Yufan Wei et.al.|[2607.09185](http://arxiv.org/abs/2607.09185)|null|
-|**2026-07-10**|**Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method**|Tianpeng Liu et.al.|[2607.09078](http://arxiv.org/abs/2607.09078)|null|
-|**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
 
 <p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
 
@@ -531,7 +531,7 @@
 |**2026-10-06**|**WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?**|Siru Jiang et.al.|[2610.08720](http://arxiv.org/abs/2610.08720)|null|
 |**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al.|[2610.08713](http://arxiv.org/abs/2610.08713)|null|
 |**2026-10-06**|**EMHO: EMbodied Agent Harness Optimization via Experience Traces**|Hyun Jung Lee et.al.|[2610.08432](http://arxiv.org/abs/2610.08432)|**[link](https://github.com/hyunjung00/emho)**|
-|**2026-10-06**|**Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents**|Gyusik Seo et.al.|[2610.07785](http://arxiv.org/abs/2610.07785)|null|
+|**2026-10-06**|**Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents**|Gyusik Seo et.al.|[2610.07785](http://arxiv.org/abs/2610.07785)|**[link](https://github.com/hyeonscho/attacca-paper)**|
 |**2026-10-05**|**Is this machine playing?**|Nathan Cloos et.al.|[2610.07130](http://arxiv.org/abs/2610.07130)|**[link](https://github.com/molyswu/hand_detection)**|
 |**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Ziying Song et.al.|[2610.06349](http://arxiv.org/abs/2610.06349)|**[link](https://github.com/modaxiansheng/KineWorld)**|
 |**2026-10-05**|**Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI**|Christopher Leet et.al.|[2610.06306](http://arxiv.org/abs/2610.06306)|null|
@@ -994,7 +994,7 @@
 |**2026-10-06**|**Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval**|Hicham Randrianarivo et.al.|[2610.08716](http://arxiv.org/abs/2610.08716)|null|
 |**2026-10-06**|**Local Content-Style Control for Diffusion-based Image Stylization**|Amir Semmo et.al.|[2610.08704](http://arxiv.org/abs/2610.08704)|null|
 |**2026-10-06**|**Steering Diffusion Models to Rare Events with Sequential Monte Carlo**|Aavash Subedi et.al.|[2610.08652](http://arxiv.org/abs/2610.08652)|**[link](https://github.com/aavashsubedi/DireSMC)**|
-|**2026-10-06**|**Feature Information Dynamics in Diffusion**|Jia-Shu Pan et.al.|[2610.08626](http://arxiv.org/abs/2610.08626)|null|
+|**2026-10-06**|**Feature Information Dynamics in Diffusion**|Jia-Shu Pan et.al.|[2610.08626](http://arxiv.org/abs/2610.08626)|**[link](https://github.com/AI4Science-WestlakeU/feature-information-dynamics)**|
 |**2026-10-06**|**LiDAR Resolution Recovery via Foundation-Model-Guided Diffusion**|Samed Doğan et.al.|[2610.08620](http://arxiv.org/abs/2610.08620)|null|
 |**2026-10-06**|**One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control**|Riccardo Barbano et.al.|[2610.08595](http://arxiv.org/abs/2610.08595)|null|
 |**2026-10-06**|**Multi-model ocean oxygen fields predicted by conditional diffusion models**|Linus Vogt et.al.|[2610.08523](http://arxiv.org/abs/2610.08523)|**[link](https://github.com/linusvogt/o2-diffusion-code)**|
