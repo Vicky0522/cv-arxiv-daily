@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,12 +521,18 @@
 |**2026-07-10**|**Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method**|Tianpeng Liu et.al.|[2607.09078](http://arxiv.org/abs/2607.09078)|null|
 |**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024](http://arxiv.org/abs/2607.09024)|null|
 
-<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
 
 ## embodied AI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
+|**2026-10-06**|**WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?**|Siru Jiang et.al.|[2610.08720](http://arxiv.org/abs/2610.08720)|null|
+|**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al.|[2610.08713](http://arxiv.org/abs/2610.08713)|null|
+|**2026-10-06**|**EMHO: EMbodied Agent Harness Optimization via Experience Traces**|Hyun Jung Lee et.al.|[2610.08432](http://arxiv.org/abs/2610.08432)|**[link](https://github.com/hyunjung00/emho)**|
+|**2026-10-06**|**Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents**|Gyusik Seo et.al.|[2610.07785](http://arxiv.org/abs/2610.07785)|null|
+|**2026-10-05**|**Is this machine playing?**|Nathan Cloos et.al.|[2610.07130](http://arxiv.org/abs/2610.07130)|**[link](https://github.com/molyswu/hand_detection)**|
 |**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Ziying Song et.al.|[2610.06349](http://arxiv.org/abs/2610.06349)|**[link](https://github.com/modaxiansheng/KineWorld)**|
 |**2026-10-05**|**Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI**|Christopher Leet et.al.|[2610.06306](http://arxiv.org/abs/2610.06306)|null|
 |**2026-10-05**|**Benchmarking Jailbreak Guardrails for Embodied Agents**|Xunguang Wang et.al.|[2610.06122](http://arxiv.org/abs/2610.06122)|null|
@@ -979,12 +985,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval**|Hicham Randrianarivo et.al.|[2610.08716](http://arxiv.org/abs/2610.08716)|null|
+|**2026-10-06**|**Local Content-Style Control for Diffusion-based Image Stylization**|Amir Semmo et.al.|[2610.08704](http://arxiv.org/abs/2610.08704)|null|
+|**2026-10-06**|**Steering Diffusion Models to Rare Events with Sequential Monte Carlo**|Aavash Subedi et.al.|[2610.08652](http://arxiv.org/abs/2610.08652)|**[link](https://github.com/aavashsubedi/DireSMC)**|
+|**2026-10-06**|**Feature Information Dynamics in Diffusion**|Jia-Shu Pan et.al.|[2610.08626](http://arxiv.org/abs/2610.08626)|null|
+|**2026-10-06**|**LiDAR Resolution Recovery via Foundation-Model-Guided Diffusion**|Samed Doğan et.al.|[2610.08620](http://arxiv.org/abs/2610.08620)|null|
+|**2026-10-06**|**One for All, All for One: Coordinated Multi-Agent Diffusion Steering via Stochastic Optimal Control**|Riccardo Barbano et.al.|[2610.08595](http://arxiv.org/abs/2610.08595)|null|
+|**2026-10-06**|**Multi-model ocean oxygen fields predicted by conditional diffusion models**|Linus Vogt et.al.|[2610.08523](http://arxiv.org/abs/2610.08523)|**[link](https://github.com/linusvogt/o2-diffusion-code)**|
+|**2026-10-06**|**Spatially Explicit Optimal Harvesting and Adjoint-Based Diagnostics for Nonlinear Biomass Dynamics**|Tin Nwe Aye et.al.|[2610.08374](http://arxiv.org/abs/2610.08374)|null|
+|**2026-10-06**|**Digital Twin-Driven Real2Sim2Real: Simulator-Conditioned Generation via Paired Driving-Scene Reconstruction**|Hojun Lim et.al.|[2610.08339](http://arxiv.org/abs/2610.08339)|null|
+|**2026-10-06**|**OxiGen: Oxidation-State-Aware Crystal Generation**|Dylan John et.al.|[2610.08296](http://arxiv.org/abs/2610.08296)|null|
 |**2026-10-05**|**S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation**|Jeffrey Hu et.al.|[2610.06847](http://arxiv.org/abs/2610.06847)|null|
 |**2026-10-05**|**UniSlider: Perceptually Uniform Sliders for Continuous Image Editing**|David Serrano-Lozano et.al.|[2610.06831](http://arxiv.org/abs/2610.06831)|null|
 |**2026-10-05**|**AffordCraft: Scalable Construction of Task-Ready Simulation Assets from Single Images**|Haoyun Yang et.al.|[2610.06643](http://arxiv.org/abs/2610.06643)|**[link](https://github.com/AffordCraft/AffordCraft)**|
@@ -1475,23 +1491,23 @@
 |**2026-07-21**|**Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing**|Xinjie Zhang et.al.|[2607.19064](http://arxiv.org/abs/2607.19064)|null|
 |**2026-07-21**|**Pricing options on illiquid assets using liquid market benchmarks: an application to energy markets**|Federico Aluigi et.al.|[2607.19030](http://arxiv.org/abs/2607.19030)|null|
 |**2026-07-21**|**Learning Explicit Physical Parameter Control and Benchmarking for Video Generation**|Yanxun Li et.al.|[2607.18924](http://arxiv.org/abs/2607.18924)|null|
-|**2026-07-21**|**Image Editing Models are Numerical Solvers**|Ulysse Mizrahi et.al.|[2607.18787](http://arxiv.org/abs/2607.18787)|null|
-|**2026-07-20**|**AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation**|Yen-Chi Cheng et.al.|[2607.18539](http://arxiv.org/abs/2607.18539)|null|
-|**2026-07-20**|**D $e^+e^-$ffusion: Capturing the Beam-Beam Physics of $e^+e^-$ Collisions with Diffusion Models**|Antonio Chahine et.al.|[2607.18512](http://arxiv.org/abs/2607.18512)|null|
-|**2026-07-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al.|[2607.18230](http://arxiv.org/abs/2607.18230)|**[link](https://github.com/VILA-Lab/PIXAR-DG)**|
-|**2026-07-20**|**FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry**|Dingyun Zhang et.al.|[2607.18227](http://arxiv.org/abs/2607.18227)|null|
-|**2026-07-20**|**Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints**|Thomas MacDougall et.al.|[2607.18144](http://arxiv.org/abs/2607.18144)|**[link](https://github.com/insilicomedicine/bench-3d-fit)**|
-|**2026-07-20**|**Importance Sampling and PCA for Finding Failures in Commercial Autonomous Vehicles**|Hailey Warner et.al.|[2607.18106](http://arxiv.org/abs/2607.18106)|null|
-|**2026-07-20**|**Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation**|Zhenjie Liu et.al.|[2607.17985](http://arxiv.org/abs/2607.17985)|null|
-|**2026-07-20**|**DiFA: Inference-Time Forward-Process Alignment for Diffusion Models**|Shigui Li et.al.|[2607.17972](http://arxiv.org/abs/2607.17972)|null|
-|**2026-07-20**|**Chemical filters for ultra-high-throughput materials screening and generation**|Kinga O. Mastej et.al.|[2607.17910](http://arxiv.org/abs/2607.17910)|null|
 
-<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Sherpa: Teaching LLMs to Teach Adaptively**|Weixian Xu et.al.|[2610.08778](http://arxiv.org/abs/2610.08778)|null|
+|**2026-10-06**|**RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation**|Rongcun Wang et.al.|[2610.08429](http://arxiv.org/abs/2610.08429)|null|
+|**2026-10-06**|**zkLLMPoT: Efficient Zero Knowledge Proof of Training for Large Language Models**|Junkai Liang et.al.|[2610.08258](http://arxiv.org/abs/2610.08258)|null|
+|**2026-10-06**|**DirectSpeech2LLM: A Simple End-to-End Framework to Mitigate Prompt Overfitting in Speech-LLMs**|Hemant Yadav et.al.|[2610.08085](http://arxiv.org/abs/2610.08085)|null|
+|**2026-10-06**|**Pseudowords as probes: Large Language Models show little of the sublexical sensitivity that governs human pseudoword processing**|Jing Chen et.al.|[2610.07936](http://arxiv.org/abs/2610.07936)|null|
+|**2026-10-06**|**DHCG: Dynamic Construction of Hierarchical Collaboration Graphs for LLM-Based Multi-Agent Reasoning**|Jie Ren et.al.|[2610.07835](http://arxiv.org/abs/2610.07835)|null|
+|**2026-10-06**|**OTel: Open Telco AI Datasets, Benchmarks, and Models**|Farbod Tavakkoli et.al.|[2610.07766](http://arxiv.org/abs/2610.07766)|null|
+|**2026-10-06**|**TRANSIT: Transparent Scale-in for Multi-Node LLM Training**|Hyungyo Kim et.al.|[2610.07593](http://arxiv.org/abs/2610.07593)|null|
+|**2026-10-06**|**LSC-DPO: Learning-Signal-Controlled Direct Preference Optimization**|Yang Qu et.al.|[2610.07592](http://arxiv.org/abs/2610.07592)|**[link](https://github.com/handan-liu-lab/lsc-dpo)**|
+|**2026-10-05**|**Does Muon Need Fine-Grained Spectral Shaping?**|Meher Chaitanya et.al.|[2610.07497](http://arxiv.org/abs/2610.07497)|null|
 |**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
 |**2026-10-05**|**Domain adaptation of Russian ModernBERT for long legal documents**|I. Litvak et.al.|[2610.06715](http://arxiv.org/abs/2610.06715)|null|
 |**2026-10-05**|**Reward Stealing Attack on Large Language Models**|Jiaming Qian et.al.|[2610.06670](http://arxiv.org/abs/2610.06670)|null|
@@ -1982,18 +1998,8 @@
 |**2026-07-06**|**Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training**|Jingwei Zuo et.al.|[2607.04969](http://arxiv.org/abs/2607.04969)|null|
 |**2026-07-06**|**Direct Model State Migration for Elastic Training of Large Language Models**|Weijian Liu et.al.|[2607.04749](http://arxiv.org/abs/2607.04749)|null|
 |**2026-07-06**|**Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment**|Yu Li et.al.|[2607.04728](http://arxiv.org/abs/2607.04728)|null|
-|**2026-07-05**|**Covert Trait Propagation Is Representation Alignment: Mechanistic Evidence from Hidden-Channel Distillation**|Kargi Chauhan et.al.|[2607.04432](http://arxiv.org/abs/2607.04432)|null|
-|**2026-07-05**|**IRIS: An Intelligent Vision-Language System for Ocular Surface Diseases via Topic Tree and Scene-Driven VQA Generation**|Hao Wei et.al.|[2607.04344](http://arxiv.org/abs/2607.04344)|**[link](https://github.com/hwei-hw/IRIS)**|
-|**2026-07-05**|**Detecting Hallucinations in Retrieval-Augmented Generation through Grounding-Aware Sensitivity by Perturbation (GASP)**|Mohamed Aly Bouke et.al.|[2607.04223](http://arxiv.org/abs/2607.04223)|null|
-|**2026-07-04**|**Self-Improving Diffusion Classifiers with Minority Preference Optimization**|Hyunsoo Kim et.al.|[2607.03770](http://arxiv.org/abs/2607.03770)|**[link](https://github.com/gustn9609/MiPO)**|
-|**2026-07-04**|**FedACT: Federated Adaptive Coordinate Trust Modulation for Robust Transformer Training under Data Heterogeneity**|Shuai Li et.al.|[2607.03763](http://arxiv.org/abs/2607.03763)|null|
-|**2026-07-02**|**LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning**|Matteo Boglioni et.al.|[2607.02513](http://arxiv.org/abs/2607.02513)|null|
-|**2026-07-02**|**Personality Without Persons? A Psychometric Critique of Big Five Testing in Large Language Models**|Kim Zierahn et.al.|[2607.02325](http://arxiv.org/abs/2607.02325)|null|
-|**2026-07-02**|**Unlocking Speech-Text Compositional Powers: Instruction-Following Speech Language Models without Instruction Tuning**|Congrui Du et.al.|[2607.02214](http://arxiv.org/abs/2607.02214)|null|
-|**2026-07-02**|**InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories**|Qianyu Chen et.al.|[2607.02010](http://arxiv.org/abs/2607.02010)|null|
-|**2026-07-02**|**Robust for the Wrong Reasons: The Representational Geometry of LLM Robustness to Science Skepticism**|Minjong Cheon et.al.|[2607.01951](http://arxiv.org/abs/2607.01951)|null|
 
-<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
