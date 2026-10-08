@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -521,7 +521,7 @@
 |**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
 |**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 ## embodied AI
 
@@ -985,12 +985,22 @@
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720](http://arxiv.org/abs/2604.01720)|null|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265](http://arxiv.org/abs/2604.00265)|**[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)**|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 ## image generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**GRACE: Generation-aware latent compression for efficient video generation**|Jiyoung Kim et.al.|[2610.10524](http://arxiv.org/abs/2610.10524)|**[link](https://github.com/cvlab-kaist/GRACE)**|
+|**2026-10-07**|**QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation**|Yucheng Mao et.al.|[2610.10497](http://arxiv.org/abs/2610.10497)|null|
+|**2026-10-07**|**Koopman Observers for Diffusion Acceleration: Correcting Feature Forecasts with Shallow Measurements**|Hanru Bai et.al.|[2610.10366](http://arxiv.org/abs/2610.10366)|null|
+|**2026-10-07**|**OrthoGen: A Generative Orthogonal Learner for Time-Varying Treatments**|Tomàs Garriga et.al.|[2610.10210](http://arxiv.org/abs/2610.10210)|null|
+|**2026-10-07**|**VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation**|Zhuo Chen et.al.|[2610.10197](http://arxiv.org/abs/2610.10197)|**[link](https://github.com/chzh9311/volco)**|
+|**2026-10-07**|**Diagnosing Diversity Collapse and Validating Mask-Conditioned Diffusion for Labeled Microtubule Microscopy**|Mario Koddenbrock et.al.|[2610.09957](http://arxiv.org/abs/2610.09957)|null|
+|**2026-10-07**|**Inverting Multi-Vector Visual Document Indices**|Zhuchenyang Liu et.al.|[2610.09920](http://arxiv.org/abs/2610.09920)|null|
+|**2026-10-07**|**Layerwise Error Attribution for Fast and Robust Mixed-Precision Post-Training Quantization**|Samy Houache et.al.|[2610.09877](http://arxiv.org/abs/2610.09877)|null|
+|**2026-10-07**|**Think Before You Paint: Recursive Latent Reasoning for Diffusion Models**|Paweł Skierś et.al.|[2610.09876](http://arxiv.org/abs/2610.09876)|null|
+|**2026-10-07**|**Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature**|Matthieu Meignin et.al.|[2610.09859](http://arxiv.org/abs/2610.09859)|null|
 |**2026-10-06**|**Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval**|Hicham Randrianarivo et.al.|[2610.08716](http://arxiv.org/abs/2610.08716)|null|
 |**2026-10-06**|**Local Content-Style Control for Diffusion-based Image Stylization**|Amir Semmo et.al.|[2610.08704](http://arxiv.org/abs/2610.08704)|null|
 |**2026-10-06**|**Steering Diffusion Models to Rare Events with Sequential Monte Carlo**|Aavash Subedi et.al.|[2610.08652](http://arxiv.org/abs/2610.08652)|**[link](https://github.com/aavashsubedi/DireSMC)**|
@@ -1481,23 +1491,23 @@
 |**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|**[link](https://github.com/ChengyiLIU-cs/DLMRec)**|
 |**2026-07-23**|**Texture++: Elevating 3D Asset Texture Resolution with a Region-Aware Diffusion Model**|Shuaiwei Wang et.al.|[2607.21504](http://arxiv.org/abs/2607.21504)|null|
 |**2026-07-23**|**Bridging the Gap Between Plausibility and Admissibility: Constraint-Aware Flow Maps for Dynamic Graph Systems**|Michael Romei de Socio et.al.|[2607.21421](http://arxiv.org/abs/2607.21421)|null|
-|**2026-07-23**|**A Diffusion-Model Subpopulation Digital Twin for Mobile Health Deployment: A Case Study on the HeartSteps Intervention**|Ziping Xu et.al.|[2607.21403](http://arxiv.org/abs/2607.21403)|null|
-|**2026-07-23**|**Grasp, Handover, Rotate: Bimanual Object Reorientation via Compositional Diffusion and Energy-Based Optimization**|Wun Lam Yeung et.al.|[2607.21341](http://arxiv.org/abs/2607.21341)|null|
-|**2026-07-23**|**SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion**|Wenbin Duan et.al.|[2607.21326](http://arxiv.org/abs/2607.21326)|null|
-|**2026-07-21**|**Appearance Pointers -- Multimodal Region Control of Diffusion Transformers**|Rahul Sajnani et.al.|[2607.19344](http://arxiv.org/abs/2607.19344)|null|
-|**2026-07-21**|**ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis**|Yuan Wang et.al.|[2607.19341](http://arxiv.org/abs/2607.19341)|null|
-|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
-|**2026-07-21**|**Denoising Subordinated Probabilistic Models: Diffusion with a Tempered-Stable Volatility Clock, and What the Noise Mechanism Actually Controls**|Junchi Shen et.al.|[2607.19218](http://arxiv.org/abs/2607.19218)|null|
-|**2026-07-21**|**Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing**|Xinjie Zhang et.al.|[2607.19064](http://arxiv.org/abs/2607.19064)|null|
-|**2026-07-21**|**Pricing options on illiquid assets using liquid market benchmarks: an application to energy markets**|Federico Aluigi et.al.|[2607.19030](http://arxiv.org/abs/2607.19030)|null|
-|**2026-07-21**|**Learning Explicit Physical Parameter Control and Benchmarking for Video Generation**|Yanxun Li et.al.|[2607.18924](http://arxiv.org/abs/2607.18924)|null|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 ## LLM training
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**AutoAdapt: Automatic Domain Discovery Enables Low-Cost Extensibility**|Josh McGiff et.al.|[2610.10349](http://arxiv.org/abs/2610.10349)|null|
+|**2026-10-07**|**From Digital Human Interactions to Physics-Based Humanoid Skills: Physics-Grounded Post-Training of Interaction Generators**|Kerui Chen et.al.|[2610.10322](http://arxiv.org/abs/2610.10322)|null|
+|**2026-10-07**|**PatchBench: Measuring Collateral Damage in Activation Patching**|Alexi Canesse et.al.|[2610.10276](http://arxiv.org/abs/2610.10276)|null|
+|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270](http://arxiv.org/abs/2610.10270)|**[link](https://github.com/Haodong-Yan/VPP2-project)**|
+|**2026-10-07**|**Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position**|Xiaoran Liu et.al.|[2610.10114](http://arxiv.org/abs/2610.10114)|null|
+|**2026-10-07**|**Successive Training Stages and Large Language Model Persuasion: Effects of Misalignment, Supervised Fine-Tuning, and Preference Optimization**|Antony Dalmiere et.al.|[2610.09964](http://arxiv.org/abs/2610.09964)|null|
+|**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Alexandra Coroiu et.al.|[2610.09891](http://arxiv.org/abs/2610.09891)|null|
+|**2026-10-07**|**SafeEvo: Deciphering the Safety Alignment Mechanism and Evolution in Language Models**|Miao Yu et.al.|[2610.09600](http://arxiv.org/abs/2610.09600)|null|
+|**2026-10-07**|**RobotAPO: Adversarial Physics Preference Optimization for Robotic Manipulation Video Generation**|Kerui Li et.al.|[2610.09454](http://arxiv.org/abs/2610.09454)|null|
+|**2026-10-06**|**CM-DPO: Constraint-Margin Direct Preference Optimization for LLM Planning**|Rabimba Karanjai et.al.|[2610.09219](http://arxiv.org/abs/2610.09219)|null|
 |**2026-10-06**|**Sherpa: Teaching LLMs to Teach Adaptively**|Weixian Xu et.al.|[2610.08778](http://arxiv.org/abs/2610.08778)|null|
 |**2026-10-06**|**RAPO-Sol: Retrieval-Augmented Preference Optimization for Repository-Level Solidity Code Generation**|Rongcun Wang et.al.|[2610.08429](http://arxiv.org/abs/2610.08429)|null|
 |**2026-10-06**|**zkLLMPoT: Efficient Zero Knowledge Proof of Training for Large Language Models**|Junkai Liang et.al.|[2610.08258](http://arxiv.org/abs/2610.08258)|null|
@@ -1988,18 +1998,8 @@
 |**2026-07-07**|**MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation**|Jiaju Han et.al.|[2607.06552](http://arxiv.org/abs/2607.06552)|null|
 |**2026-07-07**|**DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail**|He Liu et.al.|[2607.06326](http://arxiv.org/abs/2607.06326)|null|
 |**2026-07-07**|**Prompting Complexity: Shortest Prompts for Texts and Behaviors in LLMs**|Adrian Cosma et.al.|[2607.06145](http://arxiv.org/abs/2607.06145)|null|
-|**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|**[link](https://github.com/Kilroy-pain/beyond-refusal-a-same-lineage-study-of-aligned-and-abliterated-llms-for-vulnerability-analysis)**|
-|**2026-07-07**|**When Should LLMs Search? Counterfactual Supervision for Search Routing**|Minho Kim et.al.|[2607.05752](http://arxiv.org/abs/2607.05752)|null|
-|**2026-07-06**|**Foundation Models for Automatic CAD Generation**|J de Curtò et.al.|[2607.05573](http://arxiv.org/abs/2607.05573)|**[link](https://github.com/drdecurto/LLMforge)**|
-|**2026-07-06**|**CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming**|H. Chad Lane et.al.|[2607.05571](http://arxiv.org/abs/2607.05571)|null|
-|**2026-07-06**|**Prompt Robustness Is Task-Dependent: Comparing Objective and Belief-Style Questions in LLM Evaluation**|Sadia Kamal et.al.|[2607.05554](http://arxiv.org/abs/2607.05554)|null|
-|**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
-|**2026-07-06**|**Rethinking On-Policy Self-Distillation for Thinking Models**|Simran Kaur et.al.|[2607.05184](http://arxiv.org/abs/2607.05184)|**[link](https://github.com/princeton-pli/rethinking-opsd-for-thinking-models)**|
-|**2026-07-06**|**Train Smarter, Not Longer: Memorization-Guided Data Reuse for Efficient LLM Training**|Jingwei Zuo et.al.|[2607.04969](http://arxiv.org/abs/2607.04969)|null|
-|**2026-07-06**|**Direct Model State Migration for Elastic Training of Large Language Models**|Weijian Liu et.al.|[2607.04749](http://arxiv.org/abs/2607.04749)|null|
-|**2026-07-06**|**Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment**|Yu Li et.al.|[2607.04728](http://arxiv.org/abs/2607.04728)|null|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
