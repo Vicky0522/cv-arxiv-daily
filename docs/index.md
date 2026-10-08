@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**RoboJEPA: Scaling Robotic Latent World Models**|Artem Zholus et.al.|[2610.10515](http://arxiv.org/abs/2610.10515)|null|
+|**2026-10-07**|**MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration**|Yuxiang Xiong et.al.|[2610.10457](http://arxiv.org/abs/2610.10457)|**[link](https://github.com/x10ngyx/MORCA)**|
+|**2026-10-07**|**Sparse Planning in Visual World Models via Cost Gradients**|Yingchen Xu et.al.|[2610.10274](http://arxiv.org/abs/2610.10274)|null|
+|**2026-10-07**|**Juno: Taming Predictive Latents for Vision-Language-Action Models**|Yuchen Zhu et.al.|[2610.09940](http://arxiv.org/abs/2610.09940)|**[link](https://github.com/ZhuYuChenNO1/Juno)**|
+|**2026-10-07**|**UltraWorld: Learning Interactive Ultrasound World Models from Untracked Clinical Videos with Acoustic Sampling Map**|Keke Yang et.al.|[2610.09785](http://arxiv.org/abs/2610.09785)|null|
+|**2026-10-07**|**Beyond Policy Support: Interaction Constrained Offline Reinforcement Learning for Autonomous Driving**|Mahmoud Selim et.al.|[2610.09763](http://arxiv.org/abs/2610.09763)|null|
+|**2026-10-07**|**ΔWAM: Distilling Action Tangent Fields into World Action Models**|Ke Wu et.al.|[2610.09734](http://arxiv.org/abs/2610.09734)|null|
+|**2026-10-07**|**PCDT: A Predictive Cognitive Digital Twin Framework for Intelligent and Autonomous 6G Network Ecosystems**|John Sengendo et.al.|[2610.09546](http://arxiv.org/abs/2610.09546)|null|
+|**2026-10-07**|**STRIKE: Learning Visual State Transitions for Physical World Modeling**|Wenbin Teng et.al.|[2610.09514](http://arxiv.org/abs/2610.09514)|null|
+|**2026-10-07**|**DSReg: Provably Recovering Individual World Latents without Reconstruction**|Yujia Zheng et.al.|[2610.09457](http://arxiv.org/abs/2610.09457)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**DepthWorld: 3D World Model for Robot Manipulation**|Jai Bardhan et.al.|[2610.08780](http://arxiv.org/abs/2610.08780)|**[link](https://github.com/Jai2500/depthworld)**|
 |**2026-10-06**|**CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching**|Shangye Song et.al.|[2610.08777](http://arxiv.org/abs/2610.08777)|null|
@@ -504,25 +514,20 @@ layout: default
 |**2026-07-15**|**Equilibrium Information Aggregation under Machine Learning**|Andrew Ellis et.al.|[2607.13670](http://arxiv.org/abs/2607.13670)|null|
 |**2026-07-15**|**From Surface Forecasting to Observability Forecasting: A Latent World Model for Cloud-Aware EO Monitoring**|Mohanad Albughdadi et.al.|[2607.13651](http://arxiv.org/abs/2607.13651)|null|
 |**2026-07-15**|**The SIGReg Objective as Variational Free Energy: A Theoretical Active-Inference Account of JEPA World Models**|Fabio Arnez et.al.|[2607.13612](http://arxiv.org/abs/2607.13612)|null|
-|**2026-07-15**|**Grounded world models in biological organisms and future embodied AI**|Giovanni Pezzulo et.al.|[2607.13560](http://arxiv.org/abs/2607.13560)|null|
-|**2026-07-15**|**VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation**|Songyu Xu et.al.|[2607.13527](http://arxiv.org/abs/2607.13527)|null|
-|**2026-07-14**|**FlowWAM: Optical Flow as a Unified Action Representation for World Action Models**|Yixiang Chen et.al.|[2607.13017](http://arxiv.org/abs/2607.13017)|**[link](https://github.com/YixiangChen515/FlowWAM)**|
-|**2026-07-14**|**TRACE: An Operational Reasoning Schema for Auditable Agentic Commitments**|Edward Y. Chang et.al.|[2607.12480](http://arxiv.org/abs/2607.12480)|null|
-|**2026-07-14**|**From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery**|Ingmar Posner et.al.|[2607.12474](http://arxiv.org/abs/2607.12474)|null|
-|**2026-07-14**|**The GEST-Engine: From Event Graphs to Synthetic Video. A Full Technical Report**|Nicolae Cudlenco et.al.|[2607.12231](http://arxiv.org/abs/2607.12231)|null|
-|**2026-07-13**|**Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency**|Zihan Su et.al.|[2607.11836](http://arxiv.org/abs/2607.11836)|null|
-|**2026-07-13**|**From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence**|Yuanzhi Liang et.al.|[2607.11689](http://arxiv.org/abs/2607.11689)|null|
-|**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
-|**2026-07-13**|**Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**|Xinghang Li et.al.|[2607.11643](http://arxiv.org/abs/2607.11643)|null|
 
 ## embodied AI
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**OpenViTac: Learning and Benchmarking Visuo-Tactile Policies in a Unified Sim-and-Real Framework**|Yifan Wu et.al.|[2610.10384](http://arxiv.org/abs/2610.10384)|null|
+|**2026-10-07**|**RobotAPO: Adversarial Physics Preference Optimization for Robotic Manipulation Video Generation**|Kerui Li et.al.|[2610.09454](http://arxiv.org/abs/2610.09454)|null|
+|**2026-10-07**|**RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment**|Tianruo Rose Xu et.al.|[2610.09294](http://arxiv.org/abs/2610.09294)|**[link](https://github.com/XTRose29/RT-SAFE)**|
+|**2026-10-06**|**SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation**|Yunheng Liu et.al.|[2610.08941](http://arxiv.org/abs/2610.08941)|null|
+|**2026-10-06**|**Toward Evidence-Driven Human-Agent-Robot Teaming for Earth-Independent Anomaly Triage**|Ignacio G Lopez-Francos et.al.|[2610.08933](http://arxiv.org/abs/2610.08933)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao et.al.|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?**|Siru Jiang et.al.|[2610.08720](http://arxiv.org/abs/2610.08720)|null|
 |**2026-10-06**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al.|[2610.08713](http://arxiv.org/abs/2610.08713)|null|
-|**2026-10-06**|**EMHO: EMbodied Agent Harness Optimization via Experience Traces**|Hyun Jung Lee et.al.|[2610.08432](http://arxiv.org/abs/2610.08432)|**[link](https://github.com/hyunjung00/emho)**|
+|**2026-10-06**|**EMHO: EMbodied Agent Harness Optimization via Experience Traces**|Hyun Jung Lee et.al.|[2610.08432](http://arxiv.org/abs/2610.08432)|null|
 |**2026-10-06**|**Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents**|Gyusik Seo et.al.|[2610.07785](http://arxiv.org/abs/2610.07785)|**[link](https://github.com/hyeonscho/attacca-paper)**|
 |**2026-10-05**|**Is this machine playing?**|Nathan Cloos et.al.|[2610.07130](http://arxiv.org/abs/2610.07130)|**[link](https://github.com/molyswu/hand_detection)**|
 |**2026-10-05**|**KineWorld: Action-Induced Transport Fields for Embodied World Modeling**|Ziying Song et.al.|[2610.06349](http://arxiv.org/abs/2610.06349)|**[link](https://github.com/modaxiansheng/KineWorld)**|
@@ -988,7 +993,7 @@ layout: default
 |**2026-10-07**|**VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation**|Zhuo Chen et.al.|[2610.10197](http://arxiv.org/abs/2610.10197)|**[link](https://github.com/chzh9311/volco)**|
 |**2026-10-07**|**Diagnosing Diversity Collapse and Validating Mask-Conditioned Diffusion for Labeled Microtubule Microscopy**|Mario Koddenbrock et.al.|[2610.09957](http://arxiv.org/abs/2610.09957)|null|
 |**2026-10-07**|**Inverting Multi-Vector Visual Document Indices**|Zhuchenyang Liu et.al.|[2610.09920](http://arxiv.org/abs/2610.09920)|null|
-|**2026-10-07**|**Layerwise Error Attribution for Fast and Robust Mixed-Precision Post-Training Quantization**|Samy Houache et.al.|[2610.09877](http://arxiv.org/abs/2610.09877)|null|
+|**2026-10-07**|**Layerwise Error Attribution for Fast and Robust Mixed-Precision Post-Training Quantization**|Samy Houache et.al.|[2610.09877](http://arxiv.org/abs/2610.09877)|**[link](https://github.com/teddytennant/lea-ptq)**|
 |**2026-10-07**|**Think Before You Paint: Recursive Latent Reasoning for Diffusion Models**|Paweł Skierś et.al.|[2610.09876](http://arxiv.org/abs/2610.09876)|null|
 |**2026-10-07**|**Generative and deterministic deep learning models comparison for fine-scale precipitation retrievals from infrared brightness temperature**|Matthieu Meignin et.al.|[2610.09859](http://arxiv.org/abs/2610.09859)|null|
 |**2026-10-06**|**Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval**|Hicham Randrianarivo et.al.|[2610.08716](http://arxiv.org/abs/2610.08716)|null|
@@ -1489,7 +1494,7 @@ layout: default
 |**2026-10-07**|**AutoAdapt: Automatic Domain Discovery Enables Low-Cost Extensibility**|Josh McGiff et.al.|[2610.10349](http://arxiv.org/abs/2610.10349)|null|
 |**2026-10-07**|**From Digital Human Interactions to Physics-Based Humanoid Skills: Physics-Grounded Post-Training of Interaction Generators**|Kerui Chen et.al.|[2610.10322](http://arxiv.org/abs/2610.10322)|null|
 |**2026-10-07**|**PatchBench: Measuring Collateral Damage in Activation Patching**|Alexi Canesse et.al.|[2610.10276](http://arxiv.org/abs/2610.10276)|null|
-|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270](http://arxiv.org/abs/2610.10270)|**[link](https://github.com/Haodong-Yan/VPP2-project)**|
+|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270](http://arxiv.org/abs/2610.10270)|**[link](https://github.com/roboterax/video-prediction-policy-2)**|
 |**2026-10-07**|**Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position**|Xiaoran Liu et.al.|[2610.10114](http://arxiv.org/abs/2610.10114)|null|
 |**2026-10-07**|**Successive Training Stages and Large Language Model Persuasion: Effects of Misalignment, Supervised Fine-Tuning, and Preference Optimization**|Antony Dalmiere et.al.|[2610.09964](http://arxiv.org/abs/2610.09964)|null|
 |**2026-10-07**|**A Scoping Review and Experimental Study on Reinforcement Learning from Human Feedback for Human-Robot Collaboration**|Alexandra Coroiu et.al.|[2610.09891](http://arxiv.org/abs/2610.09891)|null|
